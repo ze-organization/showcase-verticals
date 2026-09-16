@@ -1,0 +1,48 @@
+---
+ID: "41d5c68e-02a7-459a-b82d-6fd0814a419e"
+Parent: "4aa13a11-31d0-43cc-a0fb-4f2dfe0a4b14"
+Template: "a676167b-b6d6-4990-8c7c-b09a1984d0e5"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/joint/Data/ApplySteps"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking-joint@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9002a944-99ca-427d-a6d8-c74a7ca3cb58"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "901370aa-bec4-4593-9c2c-8fd989749f72"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: ApplySteps
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193307Z
+    - ID: 2d182f9c-2a4e-4794-adba-26fe2612d478
+      Hint: Title
+      Value: "Ready to apply?"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ed63cbaf-f338-4c95-b935-2402e987b0f8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bb44601c-f18f-4b5a-bbc4-4fc85d420f47
+      Hint: Lead
+      Value: <p>Good with money, together and apart. Three steps. You both need to live in the U.S. and be 18 or over in this demonstration.</p>
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193323Z
+DB: master

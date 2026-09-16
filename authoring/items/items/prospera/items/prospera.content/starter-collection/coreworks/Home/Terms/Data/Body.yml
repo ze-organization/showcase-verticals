@@ -1,0 +1,52 @@
+---
+ID: "ff09597b-58c1-417b-9ac6-7578b7b94b6f"
+Parent: "07f48d08-9e02-4d37-991f-c9f2d1b376d4"
+Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Terms/Data/Body"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: terms@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5b06e591-7525-4af7-8cdb-6705ce3ce1a2"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "670cd5de-1d14-4c47-9bc2-4444a0f19cea"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Body
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193325Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Terms
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6186f407-f402-47ca-809a-dd12ef13e961"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: |
+        <p>This site is a demonstration catalog. Sample products, destinations, people, jobs, and offers are fictional. Do not treat prices, availability, or roles as a live offer.</p><p>You may browse, search, and submit the sample forms. Do not attempt to use the site to store production customer data. Recipes and components are provided as a starter; your own tenant terms apply when you copy them.</p><p>See <a href="/Privacy">Privacy</a> for cookies and form data. See <a href="/Accessibility">Accessibility</a> for how we intend pages to be used with assistive technology.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Terms of use
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193326Z
+DB: master

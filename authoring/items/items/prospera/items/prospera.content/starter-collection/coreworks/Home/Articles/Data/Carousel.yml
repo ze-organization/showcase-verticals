@@ -1,0 +1,48 @@
+---
+ID: "761fd1c6-2b4c-40cf-b87c-4393460b1e73"
+Parent: "3d98345e-d460-4438-9360-4446c7fd70e9"
+Template: "242c4a1e-2444-4a8c-95a2-49c579aac1b3"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Articles/Data/Carousel"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: articles@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "56eb5529-3939-45ba-9580-78c977f61e5f"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "22f80e7c-0c17-4b49-8e98-deab0ba98eba"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Carousel
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192952Z
+    - ID: 3895a586-2364-4f1d-b319-774f16812016
+      Hint: Lead
+      Value: <p>Composable pages, authoring, and personalization.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fddedc87-6eb5-4a5e-a08a-61d31d5baf2c"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192958Z
+    - ID: f2335200-b480-4c42-8128-4a7a04c83ee7
+      Hint: Title
+      Value: Three to start with
+DB: master

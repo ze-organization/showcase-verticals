@@ -1,0 +1,55 @@
+---
+ID: "329ed1f3-230c-4aa0-a415-69534a246935"
+Parent: "221d2ee9-4931-49c6-8da2-4573f208dc12"
+Template: "221d2ee9-4931-49c6-8da2-4573f208dc12"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/logo-wall Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "logo-wall@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "d421b631-ecd8-4722-be42-c4f44161572d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015236Z
+    - ID: 432f1d3d-4b55-4247-9406-88165ca6e56a
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7d9e1668-e23a-4512-9335-3e037a2bd45c
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"
+    - ID: 7fc5c0e0-28ff-4333-b920-a9562f1c7b63
+      Hint: Monochrome
+      Value: 1
+    - ID: 8b321783-9edc-4616-9e73-61a6d1e6b372
+      Hint: Size
+      Value: "{0DC58C8B-A193-49D7-87CA-88676D2D6133}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "454dfcfe-7bdb-446a-979b-66b875cdef25"
+    - ID: a70658bf-0a5d-4611-980d-b5c61fb71cdf
+      Hint: Columns
+      Value: "{1188CFD9-C8C9-4685-B7D0-D063D37EF9EA}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015236Z
+DB: master

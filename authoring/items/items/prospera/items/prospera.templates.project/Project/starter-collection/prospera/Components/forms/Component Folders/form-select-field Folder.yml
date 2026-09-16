@@ -1,0 +1,53 @@
+---
+ID: "4f47350a-a52c-4a64-a09d-024dac6761ca"
+Parent: "76a3eb72-7cdf-4116-923d-83566df4b575"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/Component Folders/form-select-field Folder"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/2a1c004c786447d59cd33ed9879eb020.ashx?thn=1&db=master&v=2"
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b238d04b-f549-45bf-90aa-2c9308f3aff9"
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  Hint: __Standard values
+  Value: "{551CC972-5653-4750-9AE8-8AF4E7A0FF63}"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "b555660d-3039-4f80-a590-3de766e490bc"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Form Select Field Folder
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014704Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "acad0af7-6379-40f4-99aa-1fbcd274c819"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014705Z
+DB: master

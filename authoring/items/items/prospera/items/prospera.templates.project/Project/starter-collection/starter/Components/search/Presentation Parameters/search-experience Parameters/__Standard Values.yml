@@ -1,0 +1,73 @@
+---
+ID: "1fb00cc2-7913-4ade-9013-308cc355ddab"
+Parent: "d5182015-3e5c-496b-8edf-d2296ee8b1cb"
+Template: "d5182015-3e5c-496b-8edf-d2296ee8b1cb"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/Presentation Parameters/search-experience Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-experience@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0df8136b-01a4-425b-97a4-fb14de4814b6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0a5bb171-27fb-484e-ae10-c410357b4799
+      Hint: ResultsPerPage
+      Value: 12
+    - ID: 0f6ad178-e9bc-4f51-99a9-b20bcdfa146e
+      Hint: InitialSort
+      Value: featured
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152009Z
+    - ID: 2b488925-ac9a-437e-9f5f-caf0c573feff
+      Hint: HeadingLayout
+      Value: "{C0A0424D-04F3-458F-B709-3E3200CB325F}"
+    - ID: 337e42a1-c051-438d-98e8-595269a64534
+      Hint: DefaultView
+      Value: "{EA838328-B5EE-4136-86F6-A5D928048676}"
+    - ID: 363312c9-0ac2-4db7-9b12-9e83178d87cb
+      Hint: HeadingSize
+      Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
+    - ID: 3b2fbc93-5d05-4cad-af9a-f217c3e73497
+      Hint: OverlapTop
+      Value: "{1E496A19-90A5-4308-8064-BB707683C7BC}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7718b7b3-2ac9-4d11-ba1f-7e3a78a73eb2
+      Hint: MaxWidth
+      Value: "{1D56C84F-0F79-4EEB-8796-37D00CFA6462}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6a203b19-3a03-4769-a96e-daf0cf0aec4c"
+    - ID: 92d6eec4-6d2d-40ea-9b36-a0a41d4381f7
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: 9b686e5f-d742-435b-b204-3ba256d998fd
+      Hint: FacetPlacement
+      Value: "{7FADD865-CEB2-4131-B03E-5CBBCE9253C8}"
+    - ID: a55dbc25-e9af-4975-9985-c5875388e2a2
+      Hint: PaddingY
+      Value: "{9C4BA83F-F8C1-4280-983C-92B215E0FA79}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152009Z
+    - ID: e2f4f78e-9141-4c23-b606-8ca4732e3ae7
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+DB: master

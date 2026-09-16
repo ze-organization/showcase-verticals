@@ -1,0 +1,57 @@
+---
+ID: "56396a57-d7ea-4ea8-8d95-8e4cfc2edae4"
+Parent: "baf3b885-9f21-409b-94ad-5d2961d988b7"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/search-bar"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/bfeeae315d9141088d75d252f0d78f3c.ashx?thn=1&db=master&v=2"
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {D0F6BE14-2A2D-4C56-ACB5-80CAA573B8E2}
+    {8BA7DAC6-32ED-4378-BD9E-5DA5B0F9848D}
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0b219471-2d41-4206-876e-1994634adde5"
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  Hint: __Standard values
+  Value: "{1260FED2-E1ED-4D94-B167-0B5E8294EC63}"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "8ff138bf-f602-4db5-accb-bf4bdedd9d4f"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Search Bar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020454Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c7670919-8d73-4832-aaf2-10e36659754e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020457Z
+DB: master

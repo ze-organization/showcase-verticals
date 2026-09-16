@@ -1,0 +1,43 @@
+---
+ID: "50aeb1ca-d3d4-4b0e-b068-85ec248549ce"
+Parent: "978bf33b-d655-445f-a65d-8ffd045ce4ae"
+Template: "978bf33b-d655-445f-a65d-8ffd045ce4ae"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/matrix-row/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "matrix-row@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "98e7b2a2-a203-4b84-8044-d451970713a0"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015238Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5b4f8a7c-cb4f-4fc1-8614-b65a1e96c528"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cf2d3976-b741-480d-b6ef-b5095f4da7eb
+      Hint: Label
+      Value: Row label
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015238Z
+DB: master

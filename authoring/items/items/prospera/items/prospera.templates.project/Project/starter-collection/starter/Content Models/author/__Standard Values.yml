@@ -1,0 +1,56 @@
+---
+ID: "9805e22e-36a7-4a7d-8286-fb5f4350deda"
+Parent: "f7ebb3f8-50cd-4197-b638-490bde71cebd"
+Template: "f7ebb3f8-50cd-4197-b638-490bde71cebd"
+Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/author/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: author@1
+- ID: 60699371-f7c4-4bb9-8623-2e06c0ec33de
+  Hint: Avatar
+  Value: |
+    <image mediaid="{FE2AB5B6-D6B0-496E-8E75-B5EEC67115FC}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "758388ce-3b6f-46d9-8ca3-b5291def7a62"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 17056070-036b-413d-94f8-475e97d91a1f
+      Hint: Bio
+      Value: <p>Replace with the full biography. Rendered on dedicated author profile pages.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214820Z
+    - ID: 25d50279-7637-46bd-9b9f-73829c43c687
+      Hint: JobTitle
+      Value: Senior Editor
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6474b35d-685f-4ea7-a61b-b44959752892
+      Hint: AuthorName
+      Value: Jordan Lee
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "007b27b4-2850-4676-8a31-0dbeb22b95a1"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: caa39465-53ad-431e-b5f5-1a6b6d98c64d
+      Hint: About
+      Value: Senior editor covering design and travel.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214820Z
+DB: master

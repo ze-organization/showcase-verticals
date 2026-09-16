@@ -1,0 +1,59 @@
+---
+ID: "e19eae9e-3f6d-4148-9fd3-bb68e2b7b558"
+Parent: "63427661-13ca-4c61-bf29-799b41a61ed7"
+Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
+Path: "/sitecore/content/starter-collection/prospera/Home/Apply-Now/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "get-started@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8a8c0328-df8a-4a2b-ae1e-e9bb66b927a7"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "ca681b0b-561c-4537-a9d9-ed548782fbc8"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021637Z
+    - ID: 34d46807-cf7b-4581-a8e2-5241f8b1a19d
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="#form" text="Start application" />
+    - ID: 5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Products" text="Browse Personal" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9ba1a395-66f0-4d66-ba61-e52532f3fa1e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021639Z
+    - ID: dd89508e-129e-43cc-9186-307f91173cb6
+      Hint: Subtitle
+      Value: Personal checking, a card, a mortgage, a HELOC, or a business conversation. This page is a demonstration form — it does not open a live account or lock a rate.
+    - ID: e804b2fe-aeec-46fd-9146-631c15c72ca1
+      Hint: Eyebrow
+      Value: Apply Now
+    - ID: fb31d0c7-b1ab-4a2a-a53d-e06e7cce2b58
+      Hint: Title
+      Value: Start here. We will ask for the rest in order.
+DB: master

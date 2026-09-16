@@ -1,0 +1,88 @@
+---
+ID: "41d67e9e-8c51-4e6e-beb2-affc2b9222fe"
+Parent: "a190146c-a296-4bcd-9e6b-ea53ec180105"
+Template: "a190146c-a296-4bcd-9e6b-ea53ec180105"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/Presentation Parameters/news-details Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "news-details@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c18029f0-cfda-4436-b760-f2da6718b206"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 01608b47-1c8c-41f3-a6e5-d307c2015781
+      Hint: HeadingAnimation
+      Value: "{8D2A5B10-7A18-41B0-B9E5-412DC0C92675}"
+    - ID: 08e366e1-7f12-45ac-8a29-d1ad2488b1bc
+      Hint: MediaAspect
+      Value: "{D900F7C2-110A-4737-B748-11CCE664FB2D}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015543Z
+    - ID: 420e0c79-3550-4b0c-8091-87295176a3ca
+      Hint: HeadingSize
+      Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
+    - ID: 4e731fb0-63b1-4b41-b794-e9b08d0af50d
+      Hint: ProseSize
+      Value: "{5237306B-FA3F-4F2F-A422-C59863E1A1CA}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5b95aa71-473e-41ce-a7e4-ae01fde12fdb
+      Hint: BackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6384ca46-32a8-453f-a29b-9d407ff6e77a
+      Hint: Layout
+      Value: "{8AE85B6B-83ED-4C05-9C49-0ACC26134C97}"
+    - ID: 68f96276-abea-4223-80c2-5e51f4891092
+      Hint: HeadingColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: 6c439dc2-3b0d-419b-9b00-6b748b3e652e
+      Hint: MediaShape
+      Value: "{0D4EA55D-5C88-444A-B372-DEFAABFE4AB5}"
+    - ID: 7f9b8b86-f66c-4aa6-94e5-c56d58f64ba1
+      Hint: Alignment
+      Value: "{62814925-1CA1-4AAE-A149-AE5BCB76F7F9}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d49d6310-7ded-40c4-80aa-39d21cbbc566"
+    - ID: 8f93eb8b-5995-44dc-96fb-abbc59eb2a7f
+      Hint: TitleWeight
+      Value: "{AB56CEAF-C370-487E-B7E1-66273D651476}"
+    - ID: 9c97b4da-b69a-4ac1-8457-e4e3f4910444
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"
+    - ID: a980b2a3-c559-4eb1-baac-104f88ba74fb
+      Hint: MaxWidth
+      Value: "{ED0822A4-A70F-406C-837C-B16E740BFBFC}"
+    - ID: aad92b13-004a-4af7-9bdc-baf713f9c239
+      Hint: ImagePosition
+      Value: "{2281F139-FD84-42C0-B822-F8B4D4348F32}"
+    - ID: abf9f9f5-91cf-460d-a1ef-e664d05f67f9
+      Hint: MediaFit
+      Value: "{5ECEBAE7-A1A5-42C9-8FAB-1E2BD13CD157}"
+    - ID: ad239082-9e21-42f8-8155-2689d0da4cbf
+      Hint: ProseLeading
+      Value: "{0EAF5B21-4A6C-4586-BFDF-7DF7EED29687}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d133e4bb-8932-444d-94f3-ebecc1389036
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015543Z
+DB: master

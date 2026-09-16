@@ -1,0 +1,49 @@
+---
+ID: "34c8288b-dcbb-434b-ac35-66d4fb18b808"
+Parent: "051b4992-d823-447c-8e53-759d779c8b53"
+Template: "051b4992-d823-447c-8e53-759d779c8b53"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/filter-panel/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "filter-panel@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "02412967-8d88-42f6-9456-e3925c2fb766"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014544Z
+    - ID: 3144e5f8-c5ce-43d1-88e8-0602af82f0d3
+      Hint: Title
+      Value: Filters
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8b723af2-88a8-4ed6-8ecf-e8fcce621e38
+      Hint: TriggerLabel
+      Value: Filters
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "60f037bf-23c4-4d21-b7ad-24feb58aa0b2"
+    - ID: b5e3334f-0bfa-417d-8803-59251d41e787
+      Hint: ClearLabel
+      Value: Clear all
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014545Z
+DB: master

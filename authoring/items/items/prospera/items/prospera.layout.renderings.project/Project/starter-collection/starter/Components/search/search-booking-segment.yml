@@ -1,0 +1,56 @@
+---
+ID: "8ce6454b-f1df-436a-a289-5869bb2401ba"
+Parent: "0110e919-9a89-43c8-94f5-3400ed273ed2"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/search/search-booking-segment"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+  Hint: componentName
+  Value: "search-booking-segment"
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/aa90e71889944ca3878130026d6c72ff.ashx?thn=1&db=master&v=2"
+- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+  Hint: Datasource Template
+  Value: "{EE0DC065-E7DF-4D80-8AA8-B00F675CD8F8}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-booking-segment@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "efe41b3b-c0b4-4e83-9290-4ce1a18912ad"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "3b4c62b9-00f9-493f-87cc-b3ec11f66d91"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Search Booking Segment
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222242Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4168a71b-4e76-4a93-99f7-cf707d866f5d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T232154Z
+DB: master

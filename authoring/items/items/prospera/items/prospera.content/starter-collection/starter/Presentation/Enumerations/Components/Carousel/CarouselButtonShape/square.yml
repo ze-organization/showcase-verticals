@@ -1,0 +1,50 @@
+---
+ID: "0a737568-2534-4b2f-a3d6-8542657ce61d"
+Parent: "90acb48c-89b4-4823-98cb-26716aca68b8"
+Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Components/Carousel/CarouselButtonShape/square"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "carousel-button-shape@1"
+- ID: 85ade29a-4684-4471-8a2d-a0937f1e85fd
+  Hint: Value
+  Value: square
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e1cbcb75-cbaf-4ca5-82eb-78664c87d6a0"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "cc720f68-500c-4a92-bdd3-947785139cba"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Square
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215140Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "665edfe8-9948-4c69-b3ed-7a8f9c984a9f"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215140Z
+DB: master

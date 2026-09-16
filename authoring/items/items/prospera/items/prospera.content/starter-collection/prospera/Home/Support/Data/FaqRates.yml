@@ -1,0 +1,48 @@
+---
+ID: "9360a783-3342-4c02-8dde-e1e8b45c3f21"
+Parent: "0547937b-c256-4e17-a8ae-e3860c84df2c"
+Template: "788427f8-da26-49da-8333-aa6204677d18"
+Path: "/sitecore/content/starter-collection/prospera/Home/Support/Data/FaqRates"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: support@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "08df3970-9277-4de0-9710-51bfb455ffc8"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "fb216f65-1e0a-4415-9b5c-61d9c87217be"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: FaqRates
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 023b7912-f958-46e0-9c7e-4bbd673161ac
+      Hint: Title
+      Value: "Are the APY and APR figures live?"
+    - ID: 1af33e00-38b7-4a87-ae1f-c75a70cae96a
+      Hint: Content
+      Value: "<p>No. Yields, loan rates, and fees are labeled illustrative for this demo. See Rates &amp; fees and the product page before you apply. Nothing here is a live lock or a limited-time sale unless an Offers page says so — and those are still demonstration terms.</p>"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180355Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "802e7f0a-d003-4180-a951-e4b9b41b9cf2"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180356Z
+DB: master

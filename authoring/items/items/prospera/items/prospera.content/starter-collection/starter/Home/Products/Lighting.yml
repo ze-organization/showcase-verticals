@@ -1,0 +1,160 @@
+---
+ID: "115e253f-8a7d-4bec-ba58-1bebbcf32bc1"
+Parent: "3678706c-a506-41d7-9adc-c41647cfc77d"
+Template: "da6c7443-70ad-4d4b-abd4-07e7c99cd0f2"
+Path: "/sitecore/content/starter-collection/starter/Home/Products/Lighting"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{C788312B-B145-4CF9-BC09-645FD52F7EC0}"
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{E3C873F7-E58D-4854-8C33-301E6A7661EF}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-category-lighting@1"
+- ID: 977856be-18c8-4db3-a2db-cccf885b8f6e
+  Hint: Image
+  Value: |
+    <image mediaid="{A6254CD6-890E-438C-8750-41DD12A0F274}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6442DFE7-852C-4F0E-BA3A-57791292162E}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8a3e052f-91bd-44c4-ab4e-3c898f8d0ede"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "1617dac2-35ff-401d-a6b5-05ef2b5bead4"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Lighting
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{07C8436B-7B9A-5494-99BE-F1D7EE191906}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B954B3315-0EC6-4584-87F6-3AACD497E39A%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7BAA3A10D0-ADF3-47D5-99DC-AE4A49A28B9D%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7BAE3209CC-0FCE-40D9-8341-01F7C5170391%7D" />
+            <r
+              uid="{D0D1A5E8-F205-5947-8BC8-8D93F0D462CA}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B1D56C84F-0F79-4EEB-8796-37D00CFA6462%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7B9C4BA83F-F8C1-4280-983C-92B215E0FA79%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B38AA7D4A-DCAE-4236-B09C-A46F60F667BC%7D" />
+            <r
+              uid="{EBF2EE73-F236-59C4-980A-4903191B19A8}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B2A0F18B5-8AA1-4DB3-ABC9-FC87F5AAEB61%7D&amp;Layout=%7B627DAA88-DDC9-492F-9CF7-B2AEDADF7FAA%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BE2C016D4-50B4-43C8-BB57-9887F8BD62E3%7D" />
+            <r
+              uid="{5CB00EB4-1782-545C-8F0C-446A536F98E8}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Products"
+              s:id="{E1B23FD8-B7ED-4269-960E-9AC832187ED5}"
+              s:par="HeadingLayout=%7B6324F678-CF82-4211-BC19-6DAC927C7665%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B2D4FDAB1-AF0D-42FA-AA59-E760F2159818%7D" />
+            <r
+              uid="{72C56569-8F03-5CEE-99F6-32E6AEAE2E52}"
+              p:after="r[@uid='{5CB00EB4-1782-545C-8F0C-446A536F98E8}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Stats"
+              s:id="{574A7161-51ED-4398-8AF5-D0297732A77A}"
+              s:par="HeadingLayout=%7B6324F678-CF82-4211-BC19-6DAC927C7665%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BBD27B976-95D0-4B3B-99FB-93D7007CE820%7D" />
+            <r
+              uid="{2608ED3C-3BB8-5F43-B4A7-6C045A896D01}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B20F5A48C-658B-498D-AF78-EDE1885F090F%7D&amp;SurfaceTone=%7B28E70AA4-D820-43A8-9E0B-B35E39EB1076%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B992BEB60-A17B-4A6D-BD94-BE0FFAA8EA82%7D" />
+            <r
+              uid="{114B98B1-9335-5BE7-9368-6A2EC3E9518B}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-products-4"
+              s:ds="local:/Data/CardNorthLamp"
+              s:id="{22935D73-C921-469D-A924-5C8600FDDF38}"
+              s:par="CtaKind=%7B20567DCD-96E6-4E42-9574-FF7A5E155AFB%7D&amp;DynamicPlaceholderId=7&amp;FieldNames=%7B48428BEA-96FB-4D20-8ACC-1A22B4C18DC7%7D" />
+            <r
+              uid="{C43A1966-FD4C-5387-9BB5-97DBEDEB218F}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-stats-5"
+              s:ds="local:/Data/StatSkus"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BF4C26F5A-2BA0-4AAB-8A82-04EEB648A0B8%7D" />
+            <r
+              uid="{D2590BD2-4DBC-50CD-8902-9F27A659791E}"
+              p:after="r[@uid='{C43A1966-FD4C-5387-9BB5-97DBEDEB218F}']"
+              s:ph="/headless-main/container-2/cards-stats-5"
+              s:ds="local:/Data/StatFinish"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=9&amp;FieldNames=%7BF4C26F5A-2BA0-4AAB-8A82-04EEB648A0B8%7D" />
+            <r
+              uid="{A74F62E4-FC1F-5F85-AFAC-730F1C18B6C7}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-stats-5"
+              s:ds="local:/Data/StatUse"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=10&amp;FieldNames=%7BF4C26F5A-2BA0-4AAB-8A82-04EEB648A0B8%7D" />
+          </d>
+        </r>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190327Z
+    - ID: 2d1592c5-ab7a-40f1-a28b-1b9d729555ab
+      Hint: MetaDescription
+      Value: "Lighting category: weighted arm lamps and related SKUs. Insert Product under this hub."
+    - ID: 3db1ecd4-8367-46f0-94f2-a04b2b6ee645
+      Hint: ChangeFrequency
+      Value: weekly
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Lighting
+    - ID: 4f2229fd-8d38-4064-9076-9e01cd64657e
+      Hint: MetaTitle
+      Value: Lighting — Showcase
+    - ID: 570f7142-a939-44cd-8c24-15851cfb5cc2
+      Hint: Eyebrow
+      Value: Products
+    - ID: 6a60cf2d-36b3-44b5-81be-fa984d8ee093
+      Hint: Title
+      Value: Lighting
+    - ID: 6bf9cea3-b4b5-427f-929a-c76b00095256
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e7e558af-cd63-4bd3-a993-6cefe5995d15"
+    - ID: b785fe09-1a66-4d48-953c-26614fe3651f
+      Hint: SitemapPriority
+      Value: 0.7
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d5deb2fd-3e93-4d06-982e-9f6f62d0a425
+      Hint: ShortDescription
+      Value: Directional lamps for desks that stay occupied after hours.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T161012Z
+DB: master

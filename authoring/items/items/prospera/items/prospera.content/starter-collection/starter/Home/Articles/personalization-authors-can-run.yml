@@ -1,0 +1,81 @@
+---
+ID: "c746c08e-537a-4c22-9f42-484e8ec5da91"
+Parent: "4ab60dbf-ccc8-4a28-b837-c703031405ed"
+Template: "a53efb46-fcb0-4a10-8b76-625fb560bc09"
+Path: "/sitecore/content/starter-collection/starter/Home/Articles/personalization-authors-can-run"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{D6899706-6A5C-4B61-8517-A38C9210664E}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "article-personalization@1"
+- ID: 4ad215e8-ffbf-48e9-934a-17b03bb8192a
+  Hint: Image
+  Value: |
+    <image mediaid="{F53E2CD3-1F59-4BAC-A16D-5D71DD547BC2}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E8E60F83-CD77-429E-A488-607ADA2706D4}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f909af53-cadc-4a09-8ffd-5e8b941c4a0c"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "7f66c95b-6e71-4b75-9ef6-8573996717c3"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Personalization authors can actually run
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 06c5790b-82ae-4089-8d02-9c72fe0bcb81
+      Hint: Eyebrow
+      Value: Personalization
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T211633Z
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "personalization-authors-can-run"
+    - ID: 5b9cdef2-e069-49ea-996e-40b9504bc3f2
+      Hint: JsonLd
+      Value: |
+        {"@context":"https://schema.org","@type":"Article","headline":"Personalization authors can actually run","author":{"@type":"Person","name":"Maya Chen"}}
+    - ID: 6a728377-a363-455b-9de0-4fb6d0c19eb5
+      Hint: Content
+      Value: "<p>Teams often reach for a second article template the first time a campaign needs a different hero. That path ends in <em>Article — Campaign</em>, <em>Article — Partner</em>, and insert options nobody trusts.</p><p>Keep <code>article@1</code> as the type. Personalize the lead image, dek, or a block in <code>article-details-*</code> in Pages. The listing still points at one kind of child; search and sitemap still see articles.</p><h2>What stays on the type</h2><p>SEO fields, the Article Details partial, and insert options. What changes per visitor is a version of a rendering, not a new template.</p>"
+    - ID: 7a25cf96-c57d-4bb4-8a02-ba62d976f2ad
+      Hint: Title
+      Value: Personalization authors can actually run
+    - ID: 7e2d6134-34a2-41c3-9a02-dda297781043
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4dc3f308-c3c8-42e6-9b18-cb4a18e168ce"
+    - ID: 978cd65a-cd85-4517-9130-711919b1a1e1
+      Hint: MetaTitle
+      Value: Personalization authors can actually run — Showcase
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260903T211634Z
+    - ID: f3f3b0bd-7ff8-48cb-bf15-470c0b282d5c
+      Hint: MetaDescription
+      Value: Do not fork Article into more page templates for each audience. Keep the type; vary the experience in Pages.
+    - ID: f6e27307-1b87-4a77-83ae-8cea0a72c6e5
+      Hint: ShortDescription
+      Value: Audience variants are an experience concern. They are not a reason to clone the Article template.
+DB: master

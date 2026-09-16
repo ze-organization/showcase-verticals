@@ -1,0 +1,55 @@
+---
+ID: "9be72350-4309-42b5-b27e-a83e5e0d5bbc"
+Parent: "f9bc6f7d-768d-4e5a-a981-40d9af2811c1"
+Template: "f9bc6f7d-768d-4e5a-a981-40d9af2811c1"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Presentation Parameters/matrix Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: matrix@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f8a9acd0-2cab-48e3-a9e0-febc0b960ab8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 020d764b-5b83-4f2d-b601-35e3c0ca7d00
+      Hint: Size
+      Value: "{C7D1E960-32D5-45DB-BE8D-92295F613B04}"
+    - ID: 0be75748-4ced-49bd-b72e-485d9c8a8774
+      Hint: ColumnLayout
+      Value: "{B214F518-CF8D-495C-AEE3-FC45EDAA20D8}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015312Z
+    - ID: 45de44a9-34c0-4739-8b00-f2d3e6468243
+      Hint: ColorScheme
+      Value: "{722C6F93-1336-48B3-9FFE-C763021CC53C}"
+    - ID: 51c17d83-1c9a-4276-866b-6f2a4b9079f0
+      Hint: Density
+      Value: "{4A13369C-02A6-4947-8932-0D2C5E3B5282}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b663c95a-b8b8-4cfe-b3d7-8d46a7b33bf6"
+    - ID: a8ce4f66-17e2-45ec-b235-3e002e49dd30
+      Hint: ZebraRows
+      Value: 1
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015312Z
+DB: master

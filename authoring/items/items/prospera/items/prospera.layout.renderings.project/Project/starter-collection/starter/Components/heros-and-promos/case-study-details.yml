@@ -1,0 +1,78 @@
+---
+ID: "a408d021-2cb6-4529-8330-f0474dc0cfb0"
+Parent: "af9803c5-f29d-4cc0-8270-436ecbfdd93e"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/heros-and-promos/case-study-details"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+  Hint: componentName
+  Value: "case-study-details"
+- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+  Hint: Placeholders
+  Value: |
+    {883D2656-74C4-4F6A-9D18-D05B60F1F8C6}
+    {9478396F-80C0-43BD-855D-3DBA5E461237}
+    {8C12BEE3-4540-44B4-AF7B-AAC2EEC906F7}
+    {69C3AEC9-85F4-4639-AD94-B412C31AA11B}
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/0bb7131af18a4b378a6f0c065bfe74cb.ashx?thn=1&db=master&v=2"
+- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+  Hint: Datasource Template
+  Value: "{9223240B-8BB5-435C-A2B5-870FD76B60BD}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "case-study-details@1"
+- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+  Hint: Open Properties after Add
+  Value: 0
+- ID: a3411ff6-c978-40aa-b059-a49b9ca2209b
+  Hint: Can select Page as a data source
+  Value: 1
+- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+  Hint: Parameters Template
+  Value: "{F54C77B1-F1DE-4C5D-A78B-D9317A569D94}"
+- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+  Hint: Datasource Location
+  Value: "./Data/Case Study Details|/sitecore/content/starter-collection/starter/Data/Case Study Details"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4f39f3a9-dbcf-4777-ad71-f006ac21eb48"
+- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+  Hint: OtherProperties
+  Value: IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "5e9974c8-28b4-4aa8-9b26-8c977e16ba2a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Case Study Details
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154248Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "58b90379-ef02-4794-b7b2-d20bb3a16acb"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T231939Z
+DB: master

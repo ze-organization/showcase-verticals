@@ -1,0 +1,53 @@
+---
+ID: "394c3274-884d-4123-a31b-1c8c6436a0af"
+Parent: "b300ec76-b29b-4259-92be-4e16c0d99c5b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/location-details/Content/Content"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  Hint: Type
+  Value: Rich Text
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 300
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "1ee86d7d-9a65-49b0-88fb-784e1fda47d7"
+Languages:
+- Language: en
+  Fields:
+  - ID: 19a69332-a23e-4e70-8d16-b2640cb24cc8
+    Hint: Title
+    Value: Content
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "bec34829-27bd-4405-9444-48acbaf40d29"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Content
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T161540Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1baf716d-2c11-48e0-80ae-dbf3e7fc18a7"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T161540Z
+DB: master

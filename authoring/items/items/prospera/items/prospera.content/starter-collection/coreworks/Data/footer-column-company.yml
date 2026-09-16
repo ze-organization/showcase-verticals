@@ -1,0 +1,56 @@
+---
+ID: "f4d81fd3-efea-43e7-bd10-39b2b54eb1de"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
+Path: "/sitecore/content/starter-collection/coreworks/Data/footer-column-company"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-column-company@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "90f9d350-5303-47b3-b935-4acd35bea44b"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "9278d7f8-01eb-467c-ac4e-65d3e0fa3a09"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Footer Column — Company
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223453Z
+    - ID: 7d07c454-b927-452a-860f-85a087e8b176
+      Hint: Items
+      Value: |
+        {85954FC4-A667-4EF9-A471-842A23076C83}
+        {21327B44-206C-4A10-8CE7-295E82A78558}
+        {E202D0CF-10DF-433F-BE1D-128ADD157A37}
+        {6FA8A83B-692F-43D3-A88E-E989CC7CA8F2}
+        {16CBFE83-3FE3-42A9-BB29-EBA14411825E}
+        {06D87611-FD45-4ADE-89C8-F34B5F6C2F9A}
+        {1EDBFD8C-6BFA-46D7-86A5-FB7A57CEB293}
+        {B09CCD68-36EF-4356-9946-08C557992D9C}
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ba4d1a76-863b-4e5f-b68b-66328e724ea2"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T214823Z
+    - ID: de709d94-2f09-4fa0-b6d8-07c91fd864a8
+      Hint: Title
+      Value: Company
+DB: master

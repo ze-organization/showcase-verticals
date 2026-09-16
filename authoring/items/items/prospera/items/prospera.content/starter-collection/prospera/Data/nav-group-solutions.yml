@@ -1,0 +1,52 @@
+---
+ID: "a218fb78-264f-4d00-9b89-01d603712cc4"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
+Path: "/sitecore/content/starter-collection/prospera/Data/nav-group-solutions"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "nav-group-solutions@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "22060805-5f52-4370-bc18-b5c2312755d1"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "dc325b8d-62fe-4652-8c16-a9e10eab0a2b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Nav Group — Solutions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223541Z
+    - ID: 7d07c454-b927-452a-860f-85a087e8b176
+      Hint: Items
+      Value: |
+        {53C0B64E-D1DD-4BC6-B6FB-A416D5B53EEC}
+        {138E6198-3921-47D7-ABA8-ED1F4A8B3346}
+        {B214B48A-91BE-49C3-A721-63C6D4F0D1B7}
+        {13B7C01C-0420-4858-9211-8AFC96D2CA39}
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "99b7068f-075e-41fd-b395-e0c28d7091e3"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T012923Z
+    - ID: de709d94-2f09-4fa0-b6d8-07c91fd864a8
+      Hint: Title
+      Value: Personal
+DB: master

@@ -1,0 +1,39 @@
+---
+ID: "a994c7b8-79cb-4e44-85b3-536aba29d8a7"
+Parent: "28d589ee-70a0-42a7-ad56-2f8176ddae6a"
+Template: "2a5e2329-e22d-4a66-bb08-a668f690e957"
+Path: "/sitecore/content/starter-collection/prospera/Data/Site Shared UI/Tabs/Visual Tabs"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3974bb07-2683-4739-a1ee-c6a3ad9f21e7"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "464fa6d2-840a-4187-9b79-b00cf86969fd"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Visual Tabs
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223259Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "36d17407-9cfa-4ff9-b791-a9b623fdd526"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223259Z
+DB: master

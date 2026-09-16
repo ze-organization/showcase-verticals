@@ -1,0 +1,51 @@
+---
+ID: "4f286167-9e4d-4831-b2f2-bdb5c28474a4"
+Parent: "3d2762db-8c18-406d-b6a4-2a7ef4b4c340"
+Template: "6068e692-98d7-4fbf-8a2c-ff1589fcb2b8"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Get-Started/Data/Form"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "get-started@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9b04cf9c-e3c2-4f7c-92d2-816f50e9deda"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "63836e0b-5905-41e0-a449-ac7021e49e4c"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193251Z
+    - ID: 52b40200-bb26-44a5-b6c2-e03ca39f6ad6
+      Hint: Description
+      Value: <p>Two fields. We will send a next step — not a newsletter dump.</p>
+    - ID: 81975c4b-6e83-472a-afe3-02b9102d1e10
+      Hint: Title
+      Value: Start a conversation
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bd93592b-57ee-4cbb-9c47-ad61c8150ffb"
+    - ID: b5b59a13-d819-44fb-8c9a-fbb016995644
+      Hint: SubmitMethod
+      Value: "{3D84940C-8AB3-44C9-8D31-E0274D7E06BB}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T214742Z
+DB: master

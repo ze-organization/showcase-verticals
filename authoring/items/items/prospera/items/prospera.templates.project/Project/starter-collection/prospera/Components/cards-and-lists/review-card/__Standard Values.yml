@@ -1,0 +1,46 @@
+---
+ID: "bd3cf015-5dda-42a2-9322-1b0f1850ea73"
+Parent: "92567043-5ef3-4184-b65e-f03f3b51628c"
+Template: "92567043-5ef3-4184-b65e-f03f3b51628c"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/review-card/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "review-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "469b5ccb-f105-4a90-a36c-5b65fbb75439"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 23de0f51-a494-45d5-afce-f0e26241e3d6
+      Hint: AuthorName
+      Value: Jordan Lee
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020333Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d46786e5-843b-4bfb-bff5-cfb1895eec6e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cdfe10a7-d42b-4729-bf6d-5d67b8d74ace
+      Hint: Quote
+      Value: This product changed how we work — the team adopted it overnight.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020334Z
+DB: master

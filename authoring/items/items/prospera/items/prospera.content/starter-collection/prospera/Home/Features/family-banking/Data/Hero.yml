@@ -1,0 +1,63 @@
+---
+ID: "169e4117-dd7c-46c6-ba88-e7868df19026"
+Parent: "0481d051-2988-4531-b47a-712b82cd287a"
+Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
+Path: "/sitecore/content/starter-collection/prospera/Home/Features/family-banking/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "features-family-banking@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "bb4342e2-f0e2-4491-afe0-6f413d843fa1"
+- ID: e19f6e46-d51b-47b3-bda8-f99b0246d84d
+  Hint: Image
+  Value: |
+    <image mediaid="5568ddd7-1f41-473f-b352-d0440c2fedd5" alt="Parent and teen reviewing a household checklist at a kitchen island" />
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "81a0eb0e-cd0e-47b9-a4b3-ca70e3a99991"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180851Z
+    - ID: 34d46807-cf7b-4581-a8e2-5241f8b1a19d
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/Current-Account" text="Everyday checking" />
+    - ID: 5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Get-Started" text="Apply Now" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3ffa42de-7869-455a-a237-493e3c0696cb"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T191209Z
+    - ID: dd89508e-129e-43cc-9186-307f91173cb6
+      Hint: Subtitle
+      Value: Two adults on joint checking. A teen on youth debit. Labeled savings goals for rent or a trip. One relationship — not a separate family product in the header.
+    - ID: e804b2fe-aeec-46fd-9146-631c15c72ca1
+      Hint: Eyebrow
+      Value: Family banking
+    - ID: fb31d0c7-b1ab-4a2a-a53d-e06e7cce2b58
+      Hint: Title
+      Value: Household money, still on everyday checking.
+DB: master

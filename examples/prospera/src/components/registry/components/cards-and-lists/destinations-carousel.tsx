@@ -1,0 +1,486 @@
+"use client";
+
+import { type ReactNode, useCallback, useMemo } from "react";
+import {
+  FeatureSpotlightLayout,
+  ItemCarousel,
+  type ItemCarouselButtonShape,
+  type ItemCarouselButtonStyle,
+  type ItemCarouselLayoutOptions,
+  type ItemCarouselNavigationLayoutParam,
+  type ItemCarouselSlideState,
+  ListingFallback,
+  ListingSection,
+  type ResultControlsProps,
+  resolveNavigationLayoutParam,
+  resolveSlideEmphasisParam,
+} from "@/components/registry/blocks";
+import {
+  CarouselPreviewStrip,
+  flatItemThumb,
+  useCarouselPreviewStrip,
+} from "@/components/registry/blocks/carousel-preview-strip";
+import {
+  Compact as DestinationCardCompact,
+  Essential as DestinationCardEssential,
+  Full as DestinationCardFull,
+  Hero as DestinationCardHero,
+  Highlight as DestinationCardHighlight,
+  ListingHorizontalComprehensive as DestinationCardListingComprehensive,
+  ListingHorizontal as DestinationCardListingHorizontal,
+  type DestinationCardProps,
+  Tile as DestinationCardTile,
+  type DestinationCardVariant,
+  type DestinationPriceTreatment,
+} from "@/components/registry/components/cards-and-lists/destination-card";
+import type { LinkSource } from "@/components/registry/primitives/editables/link";
+import type { TextSource } from "@/components/registry/primitives/editables/text";
+import { cn } from "@/lib/registry/cn";
+import type { SearchConfig } from "@/lib/registry/search/types";
+import { useResolvedListItems } from "@/lib/registry/search/use-resolved-list-items";
+import type { SectionSurfaceProps } from "@/lib/registry/section-surface";
+import {
+  parseHeadingLayout,
+  parseHeadingSize,
+} from "../layout/section-wrapper";
+import {
+  type CuratedCardChromeProps,
+  leafChromeProps,
+} from "./_card-chrome-adapter";
+import type { DestinationFlatItem } from "./destinations-list-grid";
+
+/**
+ * `DestinationsCarousel` — carousel sibling of `DestinationsListGrid`
+ * for the destinations family. Same composed/curated/search dispatch
+ * model and datasource template — marked compatible so authors can swap
+ * layout without re-binding.
+ *
+ * Variants change carousel geometry (slides per view, edge bleed) but
+ * the inner card variant is a datasource field (`cardVariant`) and the
+ * "with-price" treatment is a `priceTreatment` choice, not a separate
+ * carousel variant.
+ */
+export interface DestinationsCarouselProps
+  extends SectionSurfaceProps,
+    CuratedCardChromeProps {
+  title?: TextSource;
+  lead?: TextSource;
+  /** Optional kicker above the title (small-caps eyebrow). */
+  eyebrow?: TextSource;
+  headingLayout?: string;
+  headingSize?: string;
+  /** `band-heading-placement@1`: `above` (default) or `inline` (heading in the leading column, slides beside it). */
+  headingPlacement?: string;
+
+  items?: DestinationFlatItem[];
+  /**
+   * `SearchConfig` datasource field — when populated and this
+   * rendering is NOT inside a search experience, it fetches its own
+   * results and they replace the curated `items`.
+   */
+  searchConfig?: SearchConfig;
+  children?: ReactNode;
+  rendering?: unknown;
+
+  cardVariant?: DestinationCardVariant;
+  /**
+   * Spotlight mode only — card shape for the non-active compact edge
+   * slides. Unset keeps `cardVariant` on every slide.
+   */
+  compactSlideVariant?: DestinationCardVariant;
+  /** `carousel-slide-emphasis@1`: `uniform` (default) or `spotlight`. */
+  slideEmphasis?: string;
+  priceTreatment?: DestinationPriceTreatment;
+
+  slidesPerViewLg?: number;
+  slidesPerViewMd?: number;
+  slidesPerViewSm?: number;
+  spaceBetween?: number;
+  autoplay?: boolean;
+  autoplayDelayMs?: number;
+  loop?: boolean;
+  navigation?: boolean;
+  navigationLayout?: ItemCarouselNavigationLayoutParam;
+  /** Navigation-button chrome preset (outline / solid / ghost). */
+  navigationButtonStyle?: ItemCarouselButtonStyle;
+  /** Navigation-button corner shape (pill default / square). */
+  navigationButtonShape?: ItemCarouselButtonShape;
+  pagination?: "none" | "dots" | "numbers" | "progress";
+
+  resultControls?: ResultControlsProps;
+  emptyStateMessage?: TextSource;
+
+  /** FeatureSpotlight CTA — shown under the editorial lead in the spotlight panel. */
+  ctaLink?: LinkSource;
+  /** FeatureSpotlight only — flip the text panel to the end side. */
+  reversed?: boolean;
+  /** FeatureSpotlight only — hide the accent rule under the title. */
+  hideAccentLine?: boolean;
+
+  className?: string;
+  id?: string;
+}
+
+function DestinationsCarouselInner({
+  title,
+  lead,
+  eyebrow,
+  headingLayout,
+  headingSize,
+  headingPlacement,
+  items: directItems,
+  searchConfig,
+  children,
+  rendering,
+  cardVariant = "tile",
+  compactSlideVariant,
+  slideEmphasis,
+  priceTreatment = "standard",
+  elevation,
+  padding,
+  cardStyle,
+  cardColorScheme,
+  colorBand,
+  titleLinkIcon,
+  mediaBleed,
+  mediaAspect,
+  slidesPerViewLg = 3,
+  slidesPerViewMd = 2,
+  slidesPerViewSm = 1,
+  spaceBetween = 16,
+  autoplay,
+  autoplayDelayMs = 6000,
+  loop,
+  navigation,
+  navigationLayout = "inline",
+  navigationButtonStyle,
+  navigationButtonShape,
+  pagination: paginationStyle = "none",
+  resultControls,
+  emptyStateMessage,
+  ctaLink,
+  reversed,
+  hideAccentLine,
+  colorScheme,
+  backgroundIntensity,
+  paddingY,
+  maxWidth,
+  overlapTop,
+  className,
+  id,
+  layoutVariant,
+}: DestinationsCarouselProps & {
+  layoutVariant:
+    | "default"
+    | "full-bleed"
+    | "with-preview"
+    | "hero"
+    | "feature-spotlight";
+}) {
+  const items: DestinationFlatItem[] = useResolvedListItems(
+    directItems,
+    searchConfig,
+    { rendering, allowCurated: true },
+  );
+
+  // Curated-mode chrome forwarded to every leaf card. `cardStyle`
+  // maps back to the leaf's `style` prop name in `leafChromeProps`.
+  const chrome = useMemo<CuratedCardChromeProps>(
+    () => ({
+      elevation,
+      padding,
+      cardStyle,
+      cardColorScheme,
+      colorBand,
+      titleLinkIcon,
+      mediaBleed,
+      mediaAspect,
+    }),
+    [
+      elevation,
+      padding,
+      cardStyle,
+      cardColorScheme,
+      colorBand,
+      titleLinkIcon,
+      mediaBleed,
+      mediaAspect,
+    ],
+  );
+
+  const effectiveVariant = useMemo<DestinationCardVariant>(() => {
+    if (layoutVariant === "hero") {
+      return cardVariant === "hero" ? cardVariant : "hero";
+    }
+    return cardVariant;
+  }, [layoutVariant, cardVariant]);
+
+  const renderDestination = useCallback(
+    (
+      destination: DestinationFlatItem,
+      _index?: number,
+      slideState?: ItemCarouselSlideState,
+    ) => {
+      // Spotlight compacts swap to the lighter CompactSlideVariant shape.
+      const variantName =
+        slideState?.emphasis === "spotlight" &&
+        !slideState.isSpotlightActive &&
+        compactSlideVariant
+          ? compactSlideVariant
+          : effectiveVariant;
+      const cardProps: DestinationCardProps = {
+        ...destinationToCardProps(destination),
+        priceTreatment,
+        ...leafChromeProps(chrome),
+      };
+      switch (variantName) {
+        case "compact":
+          return <DestinationCardCompact {...cardProps} />;
+        case "essential":
+          return <DestinationCardEssential {...cardProps} />;
+        case "hero":
+          return <DestinationCardHero {...cardProps} />;
+        case "highlight":
+          return <DestinationCardHighlight {...cardProps} />;
+        case "tile":
+          return <DestinationCardTile {...cardProps} />;
+        case "listing-horizontal":
+          return <DestinationCardListingHorizontal {...cardProps} />;
+        case "listing-horizontal-comprehensive":
+          return <DestinationCardListingComprehensive {...cardProps} />;
+        default:
+          return <DestinationCardFull {...cardProps} />;
+      }
+    },
+    [effectiveVariant, compactSlideVariant, priceTreatment, chrome],
+  );
+
+  const carouselHeading = useMemo(
+    () => ({
+      title,
+      lead,
+      eyebrow,
+      layout: parseHeadingLayout(headingLayout, "start-with-section-divider"),
+      headingOptions: { size: parseHeadingSize(headingSize, "default") },
+    }),
+    [title, lead, eyebrow, headingLayout, headingSize],
+  );
+
+  const slidesByBreakpoint = useMemo((): ItemCarouselLayoutOptions => {
+    if (layoutVariant === "full-bleed") {
+      return {
+        slidesPerView: 1.1,
+        spaceBetween,
+        breakpoints: {
+          768: { slidesPerView: 1.2, spaceBetween },
+          1024: { slidesPerView: 1.4, spaceBetween },
+        },
+      };
+    }
+    if (layoutVariant === "hero") {
+      return {
+        slidesPerView: 1,
+        spaceBetween,
+        breakpoints: {
+          1024: { slidesPerView: 1.05, spaceBetween },
+        },
+      };
+    }
+    if (layoutVariant === "with-preview") {
+      return {
+        slidesPerView: slidesPerViewSm,
+        spaceBetween,
+        breakpoints: {
+          768: { slidesPerView: slidesPerViewMd, spaceBetween },
+          1024: {
+            slidesPerView: Math.max(slidesPerViewLg, 2.25),
+            spaceBetween,
+          },
+        },
+      };
+    }
+    return {
+      slidesPerView: slidesPerViewSm,
+      spaceBetween,
+      breakpoints: {
+        768: { slidesPerView: slidesPerViewMd, spaceBetween },
+        1024: { slidesPerView: slidesPerViewLg, spaceBetween },
+      },
+    };
+  }, [
+    layoutVariant,
+    slidesPerViewLg,
+    slidesPerViewMd,
+    slidesPerViewSm,
+    spaceBetween,
+  ]);
+
+  // WithPreviewBelow: the thumbnail strip needs the Embla API, and hooks
+  // cannot run conditionally, so the bookkeeping is always mounted and
+  // only the strip's rendering is gated.
+  const previewStrip = useCarouselPreviewStrip();
+  const showPreviewStrip = layoutVariant === "with-preview";
+
+  const hasItems = items.length > 0;
+  const placeholderKey = "cards-destinations-{*}";
+
+  if (layoutVariant === "feature-spotlight" && items.length > 0) {
+    return (
+      <FeatureSpotlightLayout
+        colorScheme={colorScheme}
+        backgroundIntensity={backgroundIntensity}
+        paddingY={paddingY}
+        maxWidth={maxWidth}
+        items={items}
+        getKey={(destination) => destination.id}
+        renderItem={renderDestination}
+        title={title}
+        lead={lead}
+        eyebrow={eyebrow}
+        cta={ctaLink}
+        reversed={reversed}
+        hideAccentLine={hideAccentLine}
+        ariaLabel="Destinations"
+        emptyStateMessage={
+          typeof emptyStateMessage === "string"
+            ? emptyStateMessage
+            : "Destinations"
+        }
+        className={cn(
+          "component destinations destinations-carousel",
+          className?.trimEnd(),
+        )}
+        id={id}
+        dataSlot="destinations-carousel"
+      />
+    );
+  }
+
+  return (
+    <ListingSection
+      colorScheme={colorScheme}
+      backgroundIntensity={backgroundIntensity}
+      paddingY={paddingY}
+      maxWidth={maxWidth}
+      overlapTop={overlapTop}
+      slot="destinations-carousel"
+      entityName="destinations"
+      id={id}
+      className={className}
+    >
+      {hasItems ? (
+        <>
+          <ItemCarousel
+            setApi={showPreviewStrip ? previewStrip.setApi : undefined}
+            items={items}
+            getKey={(destination) => destination.id}
+            resultControls={resultControls}
+            heading={carouselHeading}
+            headingPlacement={headingPlacement}
+            renderItem={renderDestination}
+            ariaLabel="Destinations"
+            opts={{ align: "start" }}
+            layoutOptions={slidesByBreakpoint}
+            controlOptions={{
+              navigation:
+                navigation === undefined
+                  ? items.length > 1
+                  : navigation && items.length > 1,
+              buttonPlacement: "outer",
+              navigationLayout: resolveNavigationLayoutParam(navigationLayout),
+              buttonStyle: navigationButtonStyle,
+              buttonShape: navigationButtonShape,
+              slideEmphasis: resolveSlideEmphasisParam(slideEmphasis),
+              pagination: paginationStyle !== "none",
+              autoplay: {
+                enabled: autoplay,
+                delay: Math.max(1000, autoplayDelayMs),
+                loop,
+              },
+            }}
+            itemInnerClassName="h-full"
+          />
+          {showPreviewStrip ? (
+            <CarouselPreviewStrip<DestinationFlatItem>
+              items={items}
+              getKey={(destination) => destination.id}
+              getThumb={flatItemThumb}
+              activeIndex={previewStrip.activeIndex}
+              onSelect={previewStrip.scrollTo}
+              ariaLabel="Destinations"
+            />
+          ) : null}
+        </>
+      ) : (
+        <ListingFallback
+          heading={carouselHeading}
+          placeholderKey={placeholderKey}
+          rendering={rendering}
+          fallback={children}
+          composedClassName="space-y-4"
+          emptyStateMessage={emptyStateMessage}
+        >
+          Destinations
+        </ListingFallback>
+      )}
+    </ListingSection>
+  );
+}
+
+export function Default(props: DestinationsCarouselProps) {
+  return <DestinationsCarouselInner {...props} layoutVariant="default" />;
+}
+
+export function FullBleed(props: DestinationsCarouselProps) {
+  return <DestinationsCarouselInner {...props} layoutVariant="full-bleed" />;
+}
+
+export function WithPreviewBelow(props: DestinationsCarouselProps) {
+  return <DestinationsCarouselInner {...props} layoutVariant="with-preview" />;
+}
+
+export function Hero(props: DestinationsCarouselProps) {
+  return <DestinationsCarouselInner {...props} layoutVariant="hero" />;
+}
+
+export function FeatureSpotlight(props: DestinationsCarouselProps) {
+  return (
+    <DestinationsCarouselInner {...props} layoutVariant="feature-spotlight" />
+  );
+}
+
+export default Default;
+
+function destinationToCardProps(
+  destination: DestinationFlatItem,
+): DestinationCardProps {
+  const extras = destination.extras ?? {};
+  return {
+    title: destination.title,
+    eyebrow: extras.eyebrow,
+    description: extras.description,
+    image:
+      extras.image ??
+      (destination.image
+        ? {
+            src: destination.image.src,
+            alt: destination.image.alt ?? destination.title ?? "Destination",
+          }
+        : undefined),
+    link:
+      extras.link ??
+      (destination.href ? { href: destination.href } : undefined),
+    startingPrice: extras.startingPrice,
+    activities: extras.activities,
+    highlights: extras.highlights,
+    country: extras.country,
+    tripDuration: extras.tripDuration,
+    tripPeriods: extras.tripPeriods,
+    temperatures: extras.temperatures,
+    continent: extras.continent,
+    rating: extras.rating,
+    reviewCount: extras.reviewCount,
+  };
+}
+
+export const componentType = "universal";

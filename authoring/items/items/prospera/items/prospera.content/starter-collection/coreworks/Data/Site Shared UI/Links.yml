@@ -1,0 +1,39 @@
+---
+ID: "5320ea39-eb5c-4e14-8080-c48c41530128"
+Parent: "6dec56e4-30b3-4d88-aa77-2f2d194b6e6d"
+Template: "43799d51-6fd4-4287-af03-ea28e3ea6219"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Site Shared UI/Links"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "bd862e7a-30a6-48fb-b2ed-40e3e1e23417"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "eb24c69f-348c-4d27-85e9-a1d1b6c8e111"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221916Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "216b30dc-3c0d-4c67-89ad-3bc96676a8a2"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T221916Z
+DB: master

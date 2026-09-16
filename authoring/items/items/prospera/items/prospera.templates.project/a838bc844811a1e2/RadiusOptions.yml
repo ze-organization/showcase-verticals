@@ -1,0 +1,53 @@
+---
+ID: "8f8cf8f0-94ac-43e7-a051-566bcdc79eeb"
+Parent: "a1b6a8e4-b0d4-4e4b-aed0-c593e2ae9ee2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/Presentation Parameters/location-search-bar Parameters/Parameters/RadiusOptions"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 1100
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0b14955c-0ebb-4e57-ad10-b152e528d6ab"
+Languages:
+- Language: en
+  Fields:
+  - ID: 19a69332-a23e-4e70-8d16-b2640cb24cc8
+    Hint: Title
+    Value: RadiusOptions
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "d20d68db-a291-4559-97cc-fef47dfd01b9"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: RadiusOptions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220611Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2f24ce80-4067-4d4c-8bd5-63e373a01c45"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220611Z
+DB: master

@@ -1,0 +1,55 @@
+---
+ID: "e3d5038f-b372-4314-b27e-1b11c3475cf4"
+Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
+Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/TrustFdic"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0776497f-9999-40e5-80fc-2b75e672c252"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "b09dd6ae-4201-490a-8b18-47904dc042c9"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: TrustFdic
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193232Z
+    - ID: 3749bc4d-27b2-4f03-a4b2-3fa6caf890d1
+      Hint: Description
+      Value: "<p>Eligible deposits are FDIC-insured to applicable limits. Member FDIC.</p>"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f0930292-31f8-4508-aa2a-86197ff40fa5"
+    - ID: b376f791-9d7c-43e4-8b36-51a958eb4c7a
+      Hint: Title
+      Value: Your deposits are described as insured
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193249Z
+    - ID: eeafe96f-4d61-4e1d-a55f-2a28005cdeb8
+      Hint: IconName
+      Value: shield
+    - ID: f5712a6f-019b-408a-9f92-1445842c3d8e
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/About" text="About Prospera" />
+DB: master

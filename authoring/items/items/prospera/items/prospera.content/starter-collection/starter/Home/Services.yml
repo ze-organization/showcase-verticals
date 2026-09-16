@@ -1,0 +1,140 @@
+---
+ID: "8edc4448-95a2-4287-871e-a6d89ec143eb"
+Parent: "0458a1bb-f29f-4f07-86af-df88b5c6c2ad"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/starter/Home/Services"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{CD7C3C4C-A03A-46E8-91ED-9F13EDB16EB0}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: services@1
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{24C474F7-4C38-4E91-B550-55111C801354}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e1bc08e4-4725-4173-8e7d-7aee0d081df1"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "7e199687-39cc-46ab-acc4-3c84fe452552"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Services
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BD557B7C-2958-516B-8B3C-C41B4826EEBB}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B954B3315-0EC6-4584-87F6-3AACD497E39A%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7BAA3A10D0-ADF3-47D5-99DC-AE4A49A28B9D%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7BAE3209CC-0FCE-40D9-8341-01F7C5170391%7D" />
+            <r
+              uid="{C0C55079-773E-5D9E-BA39-63BCF91C7202}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B1D56C84F-0F79-4EEB-8796-37D00CFA6462%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7B9C4BA83F-F8C1-4280-983C-92B215E0FA79%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B38AA7D4A-DCAE-4236-B09C-A46F60F667BC%7D" />
+            <r
+              uid="{59BF568D-2E97-5DAB-A803-EE6B17B0FFC7}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B2A0F18B5-8AA1-4DB3-ABC9-FC87F5AAEB61%7D&amp;Layout=%7B627DAA88-DDC9-492F-9CF7-B2AEDADF7FAA%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BE2C016D4-50B4-43C8-BB57-9887F8BD62E3%7D" />
+            <r
+              uid="{0547D104-BFA7-5D92-A7A1-3390A4D130B3}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Services"
+              s:id="{D03497CA-FD13-4D47-A6E3-38DF6510EDB8}"
+              s:par="HeadingLayout=%7B6324F678-CF82-4211-BC19-6DAC927C7665%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B25A2752D-35CA-46BF-88A6-11EEC4A1355D%7D" />
+            <r
+              uid="{FDBA2EF4-5DD4-5178-8A62-51FC571307C0}"
+              p:after="r[@uid='{0547D104-BFA7-5D92-A7A1-3390A4D130B3}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/FeaturedChild"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B68D16CD3-E0F2-4646-AB3C-2E5AF26D4593%7D&amp;SurfaceTone=%7B28E70AA4-D820-43A8-9E0B-B35E39EB1076%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B992BEB60-A17B-4A6D-BD94-BE0FFAA8EA82%7D" />
+            <r
+              uid="{6E400F19-B3B4-52E0-9B9B-C04A4D289FEE}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B20F5A48C-658B-498D-AF78-EDE1885F090F%7D&amp;SurfaceTone=%7B28E70AA4-D820-43A8-9E0B-B35E39EB1076%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B992BEB60-A17B-4A6D-BD94-BE0FFAA8EA82%7D" />
+            <r
+              uid="{C72AE339-FAD8-5C35-8491-748627C151BB}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardAssessment"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=7&amp;FieldNames=%7B567C0EF4-D805-42BB-B12A-7607B39899A4%7D" />
+            <r
+              uid="{27D4B19D-DA55-55B8-9B92-1F0B46BF5FD4}"
+              p:after="r[@uid='{C72AE339-FAD8-5C35-8491-748627C151BB}']"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardMonitoring"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7B567C0EF4-D805-42BB-B12A-7607B39899A4%7D" />
+            <r
+              uid="{8E99A4BE-3DB0-59C3-B9C0-93B375AF8DA7}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardEnablement"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=9&amp;FieldNames=%7B567C0EF4-D805-42BB-B12A-7607B39899A4%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Services
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T224622Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.8
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: Sample service pages for the starter site — assessment, monitoring, and enablement as insertable types.
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Services
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f354c69e-03e5-45e7-9ebc-656c3a82c8e9"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Services — Showcase
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: Offerings
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T161022Z
+DB: master

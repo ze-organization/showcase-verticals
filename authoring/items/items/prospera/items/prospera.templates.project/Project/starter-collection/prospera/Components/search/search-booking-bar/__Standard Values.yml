@@ -1,0 +1,46 @@
+---
+ID: "bf04d341-6571-414f-9580-62e972df1ebd"
+Parent: "847d3685-638d-49aa-8a59-de32a09e7a15"
+Template: "847d3685-638d-49aa-8a59-de32a09e7a15"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/search-booking-bar/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-booking-bar@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4b9c4a0e-b71f-4bd0-ad85-55093025b766"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020513Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8aa21abb-c048-411b-8121-c37462275a96
+      Hint: Title
+      Value: "Where to next?"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "da8a71d4-a5f9-40e5-a0f4-78c6e3f73a95"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020513Z
+    - ID: e0e2c301-9bd8-43c3-ac57-d245f2036b1c
+      Hint: ActionLabel
+      Value: Search
+DB: master

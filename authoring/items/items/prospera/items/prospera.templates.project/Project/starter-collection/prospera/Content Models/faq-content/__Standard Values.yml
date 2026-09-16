@@ -1,0 +1,46 @@
+---
+ID: "b64dad2c-cafb-41a8-b642-6d4ab1e9e29a"
+Parent: "59a56763-271c-4d2b-9495-52faebe00985"
+Template: "59a56763-271c-4d2b-9495-52faebe00985"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/faq-content/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "faq-content@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "20a25cca-3802-4174-acb9-c8f82be1f399"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014426Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d50a525f-42da-4fdd-9499-cf24a63a235b"
+    - ID: b6966f66-2b98-4e16-8798-df43ea673fc4
+      Hint: Answer
+      Value: <p>Replace this with the answer copy authors want to surface in the panel.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d47eb0c8-3cd6-40ca-bab9-b160fe3cee28
+      Hint: Question
+      Value: "How does this work?"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014426Z
+DB: master

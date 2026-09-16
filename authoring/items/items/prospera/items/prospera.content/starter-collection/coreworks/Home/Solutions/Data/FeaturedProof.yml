@@ -1,0 +1,59 @@
+---
+ID: "d89b9ce7-731b-4dad-bdd8-805193c545a3"
+Parent: "ade348dc-62a9-40b1-ab96-f0bbb30b2a7e"
+Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Solutions/Data/FeaturedProof"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: solutions@1
+- ID: cef030a5-43cb-4f99-9a0a-e8d98b750e3e
+  Hint: Image
+  Value: |
+    <image mediaid="{14C0EFFE-5F85-4693-BCB8-7DCBFEC42806}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a707ff47-f917-4267-9678-4ce73c635c5a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "c65b7cba-822f-4b5f-950f-7296be37509b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: FeaturedProof
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193030Z
+    - ID: 2cde99a6-c15a-4cf6-8013-01ef56c2e5c0
+      Hint: Description
+      Value: <p>One shared Page for marketing URLs. Insertable types only where insert options and layout actually change.</p>
+    - ID: 33f19f4d-9b3b-4726-9039-760657e7a6c5
+      Hint: Eyebrow
+      Value: Proof
+    - ID: 5476fe86-73c2-45a2-a9c8-40c681ddf8cf
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Case-Studies/northwind-rollout" text="Read the case study" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "93cda9fa-db63-4d61-ab25-878989600f79"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215059Z
+    - ID: ffbdfe03-f223-4437-a867-986da7f40122
+      Hint: Title
+      Value: Northwind did this in a quarter
+DB: master

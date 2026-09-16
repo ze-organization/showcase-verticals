@@ -1,0 +1,53 @@
+---
+ID: "68e4a91b-6d86-4e4e-b842-c9fa07a608a5"
+Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
+Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
+Path: "/sitecore/content/starter-collection/starter/Data/nav-group-products"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "nav-group-products@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3a19f97e-1530-4f94-ae73-f33768010fd5"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0235173c-3427-4fd2-86b3-7f8f42aeb2d5"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Nav Group — Products
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223534Z
+    - ID: 7d07c454-b927-452a-860f-85a087e8b176
+      Hint: Items
+      Value: |
+        {FF38C645-3102-409F-AFC9-43A6BF1114B6}
+        {CD952B7D-A273-4E99-927E-1D3AF7D98378}
+        {6D9B1642-78B5-4F53-80C3-633728003AAA}
+        {D5F00B93-8F87-41E8-9E90-64AAD6780D43}
+        {6DD40F6A-9165-42B4-90E7-C6DD64858F09}
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8afcc770-f58c-4886-9f11-f3c37f1f21d8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T194539Z
+    - ID: de709d94-2f09-4fa0-b6d8-07c91fd864a8
+      Hint: Title
+      Value: Explore
+DB: master

@@ -1,0 +1,83 @@
+---
+ID: "f934ae8a-2fe8-468a-a48d-d77a50608e3a"
+Parent: "6d319c5a-e3b0-4fec-922a-abf354feb555"
+Template: "ba3a6fc8-f669-46e9-8a24-0789dac704b7"
+Path: "/sitecore/content/starter-collection/starter/Home/News/catalog-ships-insertable-types"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{F0DF0297-115E-5A5B-AA25-FB1795464A6C}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "news-catalog-ships@1"
+- ID: 9d42e06e-fa7f-4074-a710-967a3ec57909
+  Hint: Image
+  Value: |
+    <image mediaid="{7AAE2245-E4CD-4374-980A-153DE7985039}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E2F40F38-5942-44D0-8FD4-18119E4D156C}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "11aedfed-355c-4916-bb43-4f297ea1453f"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "db8fe559-7d76-4d67-b7ce-b4ef244df8cb"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: The catalog ships insertable types
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1c221bd0-3962-4f24-92f2-7e46d101ae47
+      Hint: MetaDescription
+      Value: Page stays marketing. Dedicated types land only when insert options and layout actually change.
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192210Z
+    - ID: 350ff754-c7fe-4895-9473-8626896c003c
+      Hint: Source
+      Value: Showcase Desk
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "catalog-ships-insertable-types"
+    - ID: 50e9fd68-9c64-49a1-88ff-5f6eeab9fc7b
+      Hint: Eyebrow
+      Value: Product
+    - ID: 7ea4c2a3-57ab-460c-9e5f-520b9f80ccd4
+      Hint: Title
+      Value: The catalog ships insertable types, not a fork per URL
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b0fdf8f0-440f-4518-8f5d-8cc15b6ad01c"
+    - ID: afd87627-5fe4-4fbf-915d-2ca8a2d6e525
+      Hint: DisplayDate
+      Value: "2026-08-12"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192212Z
+    - ID: e115b488-f184-4503-8450-473985f8679f
+      Hint: MetaTitle
+      Value: The catalog ships insertable types — News
+    - ID: e63e1c16-6ece-420c-815e-18bca7c07f2f
+      Hint: Content
+      Value: "<p>Home can offer Page. News offers News. That list is the product — not a blank canvas under every folder.</p><p>We keep the listing on Page so the hub grammar can sit in container-1. The leaf is News so Insert is already a real page.</p>"
+    - ID: f255492f-abdf-457f-8d05-3890a7a92506
+      Hint: ShortDescription
+      Value: Page stays marketing. Dedicated types land only when insert options and the default layout actually change.
+    - ID: fabc61b3-0ca1-4f7d-8af7-a74a7a1c52f2
+      Hint: IncludeInSitemap
+      Value: true
+DB: master

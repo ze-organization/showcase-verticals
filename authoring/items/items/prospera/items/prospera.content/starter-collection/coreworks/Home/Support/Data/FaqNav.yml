@@ -1,0 +1,52 @@
+---
+ID: "e519c217-a014-424a-bdfc-e2e261264580"
+Parent: "12d30382-b116-4aa9-921b-c61917dc90d5"
+Template: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Support/Data/FaqNav"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: support@1
+- ID: 9d229aa4-1943-4b81-9e6c-db6d4aa49006
+  Hint: Image
+  Value: |
+    <image mediaid="{282F80C6-0174-4242-AE67-83EBE6EC87A6}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "108351c9-1a72-4371-a853-eb89790bb8fe"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "ec48dede-86fa-4cad-ba0c-ab9510242137"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: FaqNav
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154630Z
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: The nav still 404s after I add a page recipe.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9adc8d73-c2c2-4fba-b10d-6a595b774d11"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215100Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: "<p>Recipes reach Sitecore via recipe_push, not npm run build. Primary nav Treelist is CreateOnly — patch it live; do not re-push primary-nav-content.</p>"
+DB: master

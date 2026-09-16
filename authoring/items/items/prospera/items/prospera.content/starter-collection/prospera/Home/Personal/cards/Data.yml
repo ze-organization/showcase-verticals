@@ -1,0 +1,54 @@
+---
+ID: "75351041-749a-499a-bbe6-ebdce3e02ebe"
+Parent: "e1d962ce-ab8c-4561-b90d-d538491263c6"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {A9FB99C4-6E31-5714-9293-8F6B2CCC03C7}
+    {5C0D5F4C-B7E7-428D-B156-016964AB8C41}
+    {4B104D00-F5B4-474E-A869-5D2114CB9DB0}
+    {FF29E164-E5F5-4156-AA86-FA02D3F5971B}
+    {A676167B-B6D6-4990-8C7C-B09A1984D0E5}
+    {5B847AA9-A675-4774-B7EF-818A69F8C5EE}
+    {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
+    {0513F0BE-18F8-46E2-8DF2-4EF7D35B088D}
+    {590320C0-1570-423B-A9BD-7F7B414DECFC}
+    {A3B2B7CF-5E78-493F-AE57-583246702B7C}
+    {788427F8-DA26-49DA-8333-AA6204677D18}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-cards@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e7fe5076-fd35-44e7-95f8-edd070d3ae00"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193147Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5da57141-1a92-4456-a464-8ee233c3b2e0"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193147Z
+DB: master

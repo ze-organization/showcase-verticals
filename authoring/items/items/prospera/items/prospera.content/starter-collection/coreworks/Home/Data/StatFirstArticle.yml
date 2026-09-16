@@ -1,0 +1,48 @@
+---
+ID: "e5dea865-cf1e-4326-bb8a-2e07c2207cd4"
+Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
+Template: "16986568-7609-4150-be32-a56d42215bec"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Data/StatFirstArticle"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9ff75a32-74d7-464f-9963-40aecba14a8d"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "1b3d1610-9113-4f8d-9b41-b0aad6c378b2"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StatFirstArticle
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T232644Z
+    - ID: 635964a3-5c19-42e7-8265-de1172d72e27
+      Hint: Value
+      Value: 12
+    - ID: 76ad2d9c-a29b-4a53-b22e-93210d6ee1e4
+      Hint: Label
+      Value: "First-article days"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "55c0b26c-9137-4630-8b96-cd6610fa37df"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T232729Z
+DB: master

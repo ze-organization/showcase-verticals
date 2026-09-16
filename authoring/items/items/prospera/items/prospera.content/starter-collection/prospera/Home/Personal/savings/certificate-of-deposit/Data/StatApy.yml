@@ -1,0 +1,51 @@
+---
+ID: "d696c8a4-8aab-4e96-9803-791438003111"
+Parent: "8cfdc9c3-e00f-4aac-9ee5-3bc40406a628"
+Template: "b0f18424-5404-472e-989e-902a437a5135"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/certificate-of-deposit/Data/StatApy"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-savings-cd@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e9551f1b-a123-4b74-857d-7edad28c574d"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0b8152e6-219c-431d-854b-ee0d78e51238"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StatApy
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193401Z
+    - ID: 5fba09e0-ad1c-44a2-81c4-29c885d18277
+      Hint: Value
+      Value: 3.85%
+    - ID: 7824277a-0fc1-4ee9-9185-614718676562
+      Hint: Label
+      Value: Illustrative APY
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1fa40eed-3512-4445-8041-631f25ceccf8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193407Z
+    - ID: f70b1657-c895-4331-b5f1-ced66e051fb5
+      Hint: Context
+      Value: as of this page
+DB: master

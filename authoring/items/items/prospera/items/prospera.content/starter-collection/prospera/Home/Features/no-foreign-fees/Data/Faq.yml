@@ -1,0 +1,45 @@
+---
+ID: "8246a711-8763-4da8-99f9-41011334d72a"
+Parent: "55d01b20-8398-4918-830b-6a4fb23cbefc"
+Template: "5b847aa9-a675-4774-b7ef-818a69f8c5ee"
+Path: "/sitecore/content/starter-collection/prospera/Home/Features/no-foreign-fees/Data/Faq"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "features-no-foreign-fees@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a901a4ef-82a2-4ccb-bdab-41f990f5535f"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2921a50e-060e-4060-a1d1-126324cca5e1"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Faq
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180904Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b46072f5-3d60-42ce-99a2-2d65280b0b15"
+    - ID: 9e9dae83-9ca2-4b36-a659-d238198d3f31
+      Hint: Heading
+      Value: Questions
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180906Z
+DB: master

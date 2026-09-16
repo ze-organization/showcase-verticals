@@ -1,0 +1,59 @@
+---
+ID: "a27a9f24-0969-4011-9ef2-4f99c0fad777"
+Parent: "59584c63-bc70-405e-92f8-94a3f42a3084"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Placeholder Settings/row-7"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__placeholder-settings__"
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  Hint: Placeholder Key
+  Value: "row-7-{*}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f0423547-ea59-4806-90e9-6b33710b3cf4"
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  Hint: Allowed Controls
+  Value: |
+    {D96D2306-48E0-4743-B44F-268B4BF0AB62}
+    {F2D7D7BB-1A17-4ED0-B2A0-BF64C9671853}
+    {6890BA6E-73EC-4A1D-BE17-4A352D611638}
+    {4FB435B0-2F06-4384-A807-6D4F750F692E}
+    {60B4945F-12A1-4883-9DDD-5E17C8773E01}
+    {8329A238-AB1D-4F5C-92CC-368D8D57356A}
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "153ef18f-526a-4390-a787-ef649cd1f736"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: "row-7-{*}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T230546Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c3cf47fa-c180-4e64-8aeb-69075481b5d6"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T230546Z
+DB: master

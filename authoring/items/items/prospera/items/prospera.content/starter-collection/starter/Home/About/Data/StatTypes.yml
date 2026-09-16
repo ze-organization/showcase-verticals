@@ -1,0 +1,48 @@
+---
+ID: "23ea7d93-aabc-46ea-9d3b-bafb2f368682"
+Parent: "7f06c47b-7316-4b48-b68c-70383fcfada8"
+Template: "16986568-7609-4150-be32-a56d42215bec"
+Path: "/sitecore/content/starter-collection/starter/Home/About/Data/StatTypes"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: about@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c40ceed2-4528-4284-8712-1cacf0ed46c3"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "ac5edda3-9b0d-4aa3-ab23-153bd0fb12e4"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StatTypes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154452Z
+    - ID: 635964a3-5c19-42e7-8265-de1172d72e27
+      Hint: Value
+      Value: 8
+    - ID: 76ad2d9c-a29b-4a53-b22e-93210d6ee1e4
+      Hint: Label
+      Value: Insertable types
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ad569122-ae82-4d13-bc87-1db858deff32"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T154454Z
+DB: master

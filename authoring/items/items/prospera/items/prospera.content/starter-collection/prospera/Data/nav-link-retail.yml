@@ -1,0 +1,49 @@
+---
+ID: "53c0b64e-d1dd-4bc6-b6fb-a416d5b53eec"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
+Path: "/sitecore/content/starter-collection/prospera/Data/nav-link-retail"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "nav-link-retail@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2e87e6a3-c34f-43e8-af22-7f188f7b5b6c"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "14f79a04-06f3-4f7c-a5b6-82af76232708"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Retail
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223539Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ae2c1c16-f199-4c10-990c-85ed92af2c8c"
+    - ID: b5d4268a-857f-42e3-aead-31acc948e95b
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Products/Checking-and-Savings" text="Checking &amp; Savings" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d23fc9d5-10d5-4a4f-b99e-aac87330a92d
+      Hint: Title
+      Value: Checking & Savings
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T012918Z
+DB: master

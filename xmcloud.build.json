@@ -1,0 +1,40 @@
+{
+  "buildTargets": [
+    "./authoring/platform/Platform.csproj"
+  ],
+  "transforms": [
+    {
+      "xdtPath": "/app_data/xdts/web.config.xdt",
+      "targetPath": "/web.config"
+    }
+  ],
+  "renderingHosts": {
+    "prospera": {
+      "path": "./examples/prospera",
+      "nodeVersion": "24.14.1",
+      "jssDeploymentSecret": "to-be-configured",
+      "enabled": true,
+      "type": "sxa",
+      "buildCommand": "npm run build",
+      "runCommand": "npm run start:production"
+    }
+  },
+  "postActions": {
+    "actions": {
+      "warmUpCm": {
+        "urls": [
+          "/sitecore/shell",
+          "/sitecore/shell/Applications/Content%20Editor.aspx?sc_bw=1",
+          "/sitecore/client/Applications/Launchpad"
+        ]
+      },
+      "populateSchema": {
+        "indexNames": []
+      },
+      "reindex": {
+        "indexNames": []
+      }
+    }
+  },
+  "authoringPath": "./authoring"
+}

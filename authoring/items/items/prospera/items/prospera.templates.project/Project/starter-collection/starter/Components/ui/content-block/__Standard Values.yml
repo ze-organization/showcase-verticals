@@ -1,0 +1,491 @@
+---
+ID: "cd713d9a-de34-4c49-b32e-aeb6afdb7651"
+Parent: "9287bad6-e065-47d2-9ea1-12080e2679a5"
+Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/content-block/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "content-block@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "eac38082-f018-4f4a-afd8-4d261d08dec3"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215337Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: نظرة عامة
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f9a99a0b-08a5-4100-b1d5-e2f058449f89"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>أضف نص المحتوى هنا. يدعم تنسيق <strong>النص المنسّق</strong>.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: عنوان القسم
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215339Z
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151741Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: نظرة عامة
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b79d37bf-d4ad-4cc4-b07f-eb34cd3068a0"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>أضف نص المحتوى هنا. يدعم تنسيق <strong>النص المنسّق</strong>.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: عنوان القسم
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151741Z
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Oversigt
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b5539de4-20f7-4135-86f0-d767754ff340"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: "<p>Tilføj din brødtekst her. Understøtter <strong>rich text</strong>-formatering.</p>"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Sektionsoverskrift
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215339Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Überblick
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "08cd34a6-3be5-4d8c-bc88-208176634548"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: "<p>Fügen Sie hier Ihren Fließtext ein. Unterstützt <strong>Rich-Text</strong>-Formatierung.</p>"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Abschnittsüberschrift
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215339Z
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151741Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Überblick
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5dbf2290-e1f1-4b23-9941-05f908b29ee5"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: "<p>Fügen Sie hier Ihren Fließtext ein. Unterstützt <strong>Rich-Text</strong>-Formatierung.</p>"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Abschnittsüberschrift
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151741Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215337Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Overview
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6907762b-23d4-48d0-93d5-6fcad8a0b330"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>Add your body copy here. Supports <strong>rich text</strong> formatting.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Section heading
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215337Z
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Resumen
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "035d6a98-61f4-4b8e-bb01-bb6fe4dd9c63"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>Añade aquí el cuerpo del texto. Admite formato de <strong>texto enriquecido</strong>.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Encabezado de sección
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215339Z
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151741Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Resumen
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "cb1bebbe-891e-4879-8364-e208ae3ac227"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>Añade aquí el cuerpo del texto. Admite formato de <strong>texto enriquecido</strong>.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Encabezado de sección
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151741Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Aperçu
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5881833d-788b-4f8a-a468-b6dd8f19c39b"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>Ajoutez ici le corps du texte. Prend en charge la mise en forme <strong>en texte enrichi</strong>.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: "En-tête de section"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215338Z
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151741Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Aperçu
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "477cea3d-718d-4018-839a-7c4f1a2cbca3"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>Ajoutez ici le corps du texte. Prend en charge la mise en forme <strong>en texte enrichi</strong>.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: "En-tête de section"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151741Z
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Panoramica
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "34166c07-1960-45fa-84c5-750992458f86"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>Aggiungi qui il corpo del testo. Supporta la formattazione <strong>rich text</strong>.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Intestazione della sezione
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215338Z
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: 概要
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4e6384af-f9bb-4e86-a593-a56ef41cc69e"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>ここに本文を追加してください。<strong>リッチテキスト</strong>の書式に対応しています。</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: セクション見出し
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215339Z
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: 概览
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "7c3adeb8-c5d1-42dd-a40f-7b935d34fc8f"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>在此添加正文内容。支持<strong>富文本</strong>格式。</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: 板块标题
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215339Z
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215338Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: 概覽
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bba28c6d-8433-4bc2-8834-7e807228456d"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>在此新增正文內容。支援<strong>富文本</strong>格式。</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: 區塊標題
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215339Z
+DB: master

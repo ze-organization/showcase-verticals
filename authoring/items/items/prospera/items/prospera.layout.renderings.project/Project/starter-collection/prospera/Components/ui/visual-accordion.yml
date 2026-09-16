@@ -1,0 +1,71 @@
+---
+ID: "d47e161d-a86a-4102-b76a-7ac89fa2258e"
+Parent: "0b3fcecf-f46e-4b44-953d-a38d19b4b913"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/ui/visual-accordion"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+  Hint: componentName
+  Value: "visual-accordion"
+- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+  Hint: Placeholders
+  Value: "{2ACA31A6-6535-4DEB-A5AD-A8E8968A5253}"
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/d2ec3b31a97346e9b2d5dab22bbbdfc8.ashx?thn=1&db=master&v=2"
+- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+  Hint: Datasource Template
+  Value: "{5B847AA9-A675-4774-B7EF-818A69F8C5EE}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "visual-accordion@1"
+- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+  Hint: Open Properties after Add
+  Value: 0
+- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+  Hint: Parameters Template
+  Value: "{EF68AE33-C925-4C6B-83B6-D0D79C5843B2}"
+- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+  Hint: Datasource Location
+  Value: "./Data/Accordions/Visual Accordion|/sitecore/content/starter-collection/prospera/Data/Site Shared UI/Accordions/Visual Accordion"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0d911923-b64a-4762-b668-b7b29802e3e9"
+- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+  Hint: OtherProperties
+  Value: IsAutoDatasourceRendering=true&IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "1ccaf4f3-db02-49a5-a531-7b373bb028bc"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Visual Accordion
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021137Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5b1b3cf6-5244-4167-be6c-ac71a91340c1"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021137Z
+DB: master

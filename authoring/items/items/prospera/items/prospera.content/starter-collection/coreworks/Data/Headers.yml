@@ -1,0 +1,39 @@
+---
+ID: "de3d6e4f-2083-42b1-881b-e14d7629bf4c"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "8e1ec327-bba4-467d-8b5f-a72e76887c0a"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Headers"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "51dad1c7-a880-432e-b387-1190976204a5"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "4bb3ffa1-9c3e-46a6-bc12-e5fdb8b689aa"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Headers
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220045Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4ce22069-646b-4f0d-8d78-0dc75750ba96"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220045Z
+DB: master

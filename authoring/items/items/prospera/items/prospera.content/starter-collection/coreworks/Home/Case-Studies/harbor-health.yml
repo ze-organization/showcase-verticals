@@ -1,0 +1,86 @@
+---
+ID: "bbc8e7b3-f7f8-483b-aa39-f1ea1f869882"
+Parent: "5e97245b-66c9-4d9f-b8bf-5b474407a851"
+Template: "700416a0-bb15-4001-9c47-233eae954352"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Case-Studies/harbor-health"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{832ABB99-CB0D-422C-AF68-5CD60BCC779D}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "case-study-harbor-health@1"
+- ID: 94cba7fa-41f1-44a2-b07d-08f4a782e6b1
+  Hint: Image
+  Value: |
+    <image mediaid="{44384083-7AB7-40DE-8152-35ED5FAC543E}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F6E6AA1C-877B-42B0-AC58-DFD4A092BEB5}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3559dd00-7cb2-4795-8b8a-7cce59f19943"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "399332d9-24b3-405f-b5ac-04adaed68b71"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Harbor Health stopped forking article layouts
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 143de541-3f28-4aa1-9d6e-9a8c8d170fac
+      Hint: Category
+      Value: Healthcare
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154503Z
+    - ID: 38aac7b2-de78-4d87-8050-641d32d412a4
+      Hint: MetaTitle
+      Value: Harbor Health — Showcase
+    - ID: 41ce9059-3a8a-4b23-9067-7beac0013aa6
+      Hint: Title
+      Value: Harbor Health stopped forking article layouts
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "harbor-health"
+    - ID: 4e791fd9-dddd-41b8-ba36-f190f0bfe5f7
+      Hint: Solution
+      Value: "<p>Article kept its details partial. Landing took the six-section campaign shape. Person stayed the URL for clinicians. Case Study holds Problem and Solution for proof pages.</p><p>Harbor Health now inserts the type that matches the URL, not a fork of Article.</p>"
+    - ID: 54df2010-5d1f-41eb-ab0a-fa3433191be5
+      Hint: Eyebrow
+      Value: Healthcare
+    - ID: 6118081b-76cc-46aa-8442-d6da8b308cd3
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 7f5769ec-3c3b-4abe-a3c0-51d9de3b6e24
+      Hint: Client
+      Value: Harbor Health
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "beb27585-4dd3-4e5f-b06f-ad69ca762de4"
+    - ID: 9d0f68d2-4902-4556-b6b1-759fad06649d
+      Hint: Problem
+      Value: <p>Patient stories, physician bios, and seasonal campaigns all used the same Article template. Campaigns needed a hero, stats, and FAQ. Stories needed a share rail and a body.</p><p>Authors hid unused fields or duplicated the article design with a campaign suffix. Neither scaled.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d3ee317f-cab0-45b4-bfd9-635bf462ff2e
+      Hint: MetaDescription
+      Value: Sample case study. Care stories on Article, campaigns on Landing, proof on Case Study.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215037Z
+    - ID: ecf6b92f-3965-4c05-9490-da0895915fe8
+      Hint: ShortDescription
+      Value: Care stories stay on Article. Campaigns moved to Landing. Editors stopped asking for a new template every week.
+DB: master

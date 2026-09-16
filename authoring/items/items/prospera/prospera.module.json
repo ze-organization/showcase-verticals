@@ -1,7 +1,7 @@
 {
   "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
   "namespace": "Project.prospera",
-  "description": "Prospera site/org serialized items. Paths seeded from prospera-showcase recipes (site=starter, collection=starter-collection). Adjust after first `dotnet sitecore ser pull` against the live CM if roots differ.",
+  "description": "All Prospera (starter / starter-collection) site and org serialized items — content, templates, branches, renderings, placeholders, settings, media, datasources.",
   "items": {
     "includes": [
       {
@@ -11,50 +11,44 @@
         "scope": "itemAndDescendants"
       },
       {
-        "name": "prospera.templates",
-        "path": "/sitecore/templates/Project/starter",
+        "name": "prospera.templates.project",
+        "path": "/sitecore/templates/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
       },
       {
-        "name": "prospera.templates.collection",
-        "path": "/sitecore/templates/Project/starter-collection",
+        "name": "prospera.templates.branches.project",
+        "path": "/sitecore/templates/Branches/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
       },
       {
-        "name": "prospera.templates.branches",
-        "path": "/sitecore/templates/Branches/Project/starter",
+        "name": "prospera.layout.renderings.project",
+        "path": "/sitecore/Layout/Renderings/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
       },
       {
-        "name": "prospera.renderings",
-        "path": "/sitecore/Layout/Renderings/Project/starter",
+        "name": "prospera.layout.placeholders.project",
+        "path": "/sitecore/Layout/Placeholder Settings/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
       },
       {
-        "name": "prospera.placeholderSettings",
-        "path": "/sitecore/Layout/Placeholder Settings/Project/starter",
+        "name": "prospera.layout.layouts.project",
+        "path": "/sitecore/Layout/Layouts/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
       },
       {
-        "name": "prospera.settings",
-        "path": "/sitecore/system/Settings/Project/starter",
+        "name": "prospera.settings.project",
+        "path": "/sitecore/system/Settings/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
       },
       {
-        "name": "prospera.media",
-        "path": "/sitecore/media library/Project/starter-collection",
-        "allowedPushOperations": "CreateUpdateAndDelete",
-        "scope": "itemAndDescendants"
-      },
-      {
-        "name": "prospera.media.default",
-        "path": "/sitecore/media library/Project/Default",
+        "name": "prospera.media.project",
+        "path": "/sitecore/media library/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
       }

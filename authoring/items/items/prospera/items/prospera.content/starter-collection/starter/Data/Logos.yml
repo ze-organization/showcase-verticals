@@ -1,0 +1,39 @@
+---
+ID: "d12ac424-53f1-41d7-a755-9752fb773904"
+Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
+Template: "0dd57f69-c5ac-4545-88f7-5b8785690bcc"
+Path: "/sitecore/content/starter-collection/starter/Data/Logos"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "43b13397-2e49-4dd9-a474-f80bfcd8a367"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "df1a05ab-bd7b-4a7f-9c07-9141025e2ca5"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Logos
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220749Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5ba90253-d08c-4ec5-a0ed-0cbfe0480a6b"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220749Z
+DB: master

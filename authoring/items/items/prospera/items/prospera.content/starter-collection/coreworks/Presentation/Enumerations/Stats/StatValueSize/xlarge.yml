@@ -1,0 +1,50 @@
+---
+ID: "b61786e4-5140-4e59-b3d9-e13e2e8b4d12"
+Parent: "15fdbc28-ca3c-4f2f-81f1-07211e9796b8"
+Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Stats/StatValueSize/xlarge"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "stat-value-size@1"
+- ID: 85ade29a-4684-4471-8a2d-a0937f1e85fd
+  Hint: Value
+  Value: xlarge
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a27ad27e-71f2-4c89-99a7-dadfe21e2c0b"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "17d4a3b6-5d8c-412d-ab8a-1394b91e2891"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Extra Large
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222543Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6d77441e-6871-4c72-895c-3f69408ea978"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222543Z
+DB: master

@@ -1,0 +1,93 @@
+---
+ID: "f080acbc-8cbb-496d-8d71-0369eb68c2a1"
+Parent: "cdda37e9-0e08-4631-a13b-785276e7982f"
+Template: "7c5fa21d-64d5-48a0-821a-01878a69207d"
+Path: "/sitecore/content/starter-collection/starter/Home/Events/partner-summit"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{D184BDA2-F5F1-477E-A79C-5B1319DA3242}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "event-partner-summit@1"
+- ID: 800904c8-f829-48d5-809f-4567bd504bcb
+  Hint: Image
+  Value: |
+    <image mediaid="{1BB76555-D763-4313-921A-7F5195809CE1}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DA997635-B2BC-4818-A145-19BC1163247B}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "d15225f5-f5ec-4892-bb31-e43d81155d29"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e37d7115-daa9-4103-9e00-afde69786d3a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Partner summit
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 01dc3172-c4ef-4862-a408-98472f3306a6
+      Hint: ShortDescription
+      Value: A day with technology and channel partners — no new template required to host it.
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192551Z
+    - ID: 3fc54e5a-003a-456a-9516-906929c8b5a7
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 42759901-e04c-44f0-86a4-0c466c7594a0
+      Hint: VirtualUrl
+      Value: "https://example.com/summit"
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "partner-summit"
+    - ID: 57deb7da-e792-4804-8392-d273fd567f80
+      Hint: Venue
+      Value: London Canary Wharf
+    - ID: 851f894a-9a10-48df-ad57-3c1846785417
+      Hint: Title
+      Value: Partner summit
+    - ID: 8625b1e3-f6d8-4059-bf42-dad631612568
+      Hint: MetaDescription
+      Value: "Two-day partner summit. Event type under the Events listing."
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "860da0f0-e075-4432-a249-bd866a07905e"
+    - ID: 8d46d13a-6f40-4822-83e6-6effa7d7b977
+      Hint: Content
+      Value: <p>The URL is Event. The listing is Page. Insert another Event under Events when the calendar needs a second date.</p>
+    - ID: 94e8cc70-9e69-40b9-8c01-4a83be16d095
+      Hint: StartDate
+      Value: 3 Jun 2026
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bd64d34e-0f30-45ba-b08e-ae58ff4789be
+      Hint: MetaTitle
+      Value: Partner summit — Events
+    - ID: c285b78c-24dc-4ace-b4f8-8c0c5c4fe920
+      Hint: RegistrationAction
+      Value: |
+        <link linktype="external" url="/Get-Started" text="Register" />
+    - ID: c4e4ef41-a3a4-431c-a37e-f41c3a5df4c0
+      Hint: EndDate
+      Value: 4 Jun 2026
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192553Z
+    - ID: f2d3f3c0-20a3-42a4-b07e-adf523b2ad67
+      Hint: Eyebrow
+      Value: Summit
+DB: master

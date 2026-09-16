@@ -1,0 +1,52 @@
+---
+ID: "ac4e0e39-5972-417b-853c-ddcee40dc221"
+Parent: "63023065-d28b-49ed-a3cb-13328fb6b798"
+Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Privacy/Data/Body"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: privacy@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "90f200ca-86f9-41c9-a9a6-1f08a50be6c4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "334ab093-ba19-4d25-bc2d-5a52cb28edd5"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Body
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193309Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Privacy
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a08d02e0-f078-49a1-9961-e5ddaf1e0efb"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: |
+        <p>This showcase stores the minimum needed to run the site: pages you request, forms you submit, and optional analytics events. We do not sell personal data.</p><p><strong>Cookies.</strong> We use a small set of cookies to remember consent, keep a session, and measure whether a form was submitted. The cookie banner on this site points at this page as the policy target. You can withdraw consent by clearing site data in your browser.</p><p>Contact details you send on <a href="/Contact">/Contact</a> or <a href="/Get-Started">/Get-Started</a> are used only to reply. Sample people, products, and destinations on this site are demonstration content, not a live customer file.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Privacy and cookies
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193309Z
+DB: master

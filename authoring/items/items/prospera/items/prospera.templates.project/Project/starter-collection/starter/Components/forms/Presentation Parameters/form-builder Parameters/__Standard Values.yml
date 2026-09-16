@@ -1,0 +1,82 @@
+---
+ID: "f5750947-dbe1-47d2-aa8b-16965cbd21e7"
+Parent: "36928d90-aac1-4820-ac06-3e97014e4626"
+Template: "36928d90-aac1-4820-ac06-3e97014e4626"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/Presentation Parameters/form-builder Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-builder@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "91ccac51-ab36-4d37-bff0-f98ca85baa0b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 02ceccc0-640d-4fee-ad20-671ebc7f6fc4
+      Hint: Gap
+      Value: "{03AF4E38-CA6D-427C-99E1-D5074C15253F}"
+    - ID: 12de20f7-adcf-4cca-a6af-41211f61ff39
+      Hint: TrackEvents
+      Value: 1
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223347Z
+    - ID: 28fb47a3-5fcd-463d-b88f-0980b0633d0c
+      Hint: SubmitButtonVariant
+      Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
+    - ID: 37d1a31f-4d7b-489b-b425-a4014e74616b
+      Hint: CdpFormIntent
+      Value: "{675EBFA0-92E9-4C81-9470-B723D36EA717}"
+    - ID: 3d0e3a8c-a6db-4ae6-a978-6f43c9e024aa
+      Hint: HeadingLayout
+      Value: "{C0A0424D-04F3-458F-B709-3E3200CB325F}"
+    - ID: 43f236de-f26a-4b39-8a7b-c52a17ea01f7
+      Hint: InstanceScope
+      Value: "{B130681D-C9E9-4AD1-959D-9F588233CBF3}"
+    - ID: 4976ecc0-7f80-4465-8b86-754fe11f9d46
+      Hint: FormBackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: 4aecef09-215e-475a-bcc2-d97379bd103d
+      Hint: FormInputStyle
+      Value: "{726D7F40-0CC7-4E08-8DC6-99F80D898469}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6f41e86f-da9d-448a-b854-14407c389ecf
+      Hint: CdpFormCommitment
+      Value: "{99729244-8F4A-4686-8626-740868A5CEDA}"
+    - ID: 751528d3-34f1-4263-a562-82c36cc07ff1
+      Hint: SubmitButtonSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "673cf60e-2afc-4d0a-a3cf-3f1ba1cda600"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bc7e4735-0d49-40fa-960a-fbad54ed8a44
+      Hint: FormColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: d04fbb18-1003-4359-a6d7-c76ecc079a89
+      Hint: SubmitButtonColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223347Z
+    - ID: f0693745-6328-4fe8-a7cc-5f5ebf9b9b69
+      Hint: HeadingSize
+      Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
+    - ID: f908c0d5-c17b-4555-a76c-47801f02e5a6
+      Hint: HeadingAnimation
+      Value: "{B945973A-CB0A-4E1F-A9B9-F589F2DBD98C}"
+DB: master

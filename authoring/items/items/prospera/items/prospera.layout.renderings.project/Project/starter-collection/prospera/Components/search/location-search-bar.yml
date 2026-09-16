@@ -1,0 +1,68 @@
+---
+ID: "5443989b-8aca-4314-b353-ca96ce38d3dd"
+Parent: "55609140-6180-41fd-a6a4-d06189de0353"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/search/location-search-bar"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+  Hint: componentName
+  Value: "location-search-bar"
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/8e1f4186ad7e494382baa047aefa637e.ashx?thn=1&db=master&v=2"
+- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+  Hint: Datasource Template
+  Value: "{F0B7CB2C-08B8-4808-86B8-DC6749D1F782}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "location-search-bar@1"
+- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+  Hint: Open Properties after Add
+  Value: 0
+- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+  Hint: Parameters Template
+  Value: "{64328860-4F9A-45FA-B810-0910F873223A}"
+- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+  Hint: Datasource Location
+  Value: "./Data/Location Search Bars|/sitecore/content/starter-collection/prospera/Data/Location Search Bars"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "d3e1ad3d-321d-4f87-8288-54b3834c37b1"
+- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+  Hint: OtherProperties
+  Value: IsAutoDatasourceRendering=true
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2eda0eed-9894-4d4f-9e7d-835749005523"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Location Search Bar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015124Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bdbef17d-4d33-4e08-a303-90e29d7a3302"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015124Z
+DB: master

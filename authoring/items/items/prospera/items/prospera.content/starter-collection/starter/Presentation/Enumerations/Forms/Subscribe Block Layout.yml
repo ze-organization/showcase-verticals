@@ -1,0 +1,42 @@
+---
+ID: "e89c085e-8f96-4cd6-8bc6-638b0da753cf"
+Parent: "dc752391-1462-4623-8e3d-c95e63be7b3f"
+Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Forms/Subscribe Block Layout"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1191a2f1-7d90-48ad-ba50-71ae79f812c5
+  Hint: Value
+  Value: overlay
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "subscribe-block-layout@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "92a30605-3e5c-40fc-b455-d05043a436c7"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "04bde6a8-3c21-46fd-aafe-cd17c3cc9370"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Subscribe Block Layout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222828Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b505b687-900b-4f6e-8df1-c1b31673b0e8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222828Z
+DB: master

@@ -1,0 +1,98 @@
+---
+ID: "b0158f87-7b10-4081-a80a-b1d6bf75d981"
+Parent: "fcd19ad9-7f08-4345-b2f6-301c4c3f1285"
+Template: "fcd19ad9-7f08-4345-b2f6-301c4c3f1285"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/feedback/consent-banner/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "consent-banner@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5ec7429c-0367-49c2-a745-848b005f0b1c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 12ca7dfd-2a43-4527-8b4e-ac59d640b3c8
+      Hint: MarketingDescription
+      Value: Marketing cookies are used to track visitors across websites so we can display content that is relevant and engaging.
+    - ID: 14f825fb-d78c-4412-8998-570135497114
+      Hint: StatisticsDescription
+      Value: Statistics cookies help us understand how visitors interact with the website by collecting and reporting information anonymously.
+    - ID: 22a8da2e-141d-484e-b177-5a61f968214d
+      Hint: AboutLabel
+      Value: About
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014130Z
+    - ID: 32327fe6-4a2e-45bb-8809-f2e8fd676f49
+      Hint: StatisticsLabel
+      Value: Statistics
+    - ID: 345becf1-1679-4b6c-90cf-07c7020650dc
+      Hint: MarketingLabel
+      Value: Marketing
+    - ID: 5135b9a7-1034-426f-9502-bf936b6cc5f2
+      Hint: NecessaryDescription
+      Value: Necessary cookies keep the website usable — page navigation, secure areas, and remembering your consent choice. The website cannot function properly without them.
+    - ID: 52023119-0031-486d-8293-53555a273193
+      Hint: PolicyLink
+      Value: |
+        <link text="Privacy policy" linktype="external" url="/" />
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5cc59b36-e86e-4521-8eff-daf542f92775
+      Hint: Text
+      Value: <p>We use cookies to improve your experience and analyze traffic. Choose whether to accept.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7af3faaf-2a7c-4590-9a67-4ccf266aaee6
+      Hint: ConsentLabel
+      Value: Consent
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "715e0519-2fb0-449f-9b25-a389c32701f7"
+    - ID: 9e85f82e-c3d8-49c8-86fd-ae54b50151b0
+      Hint: DetailsLabel
+      Value: Details
+    - ID: aa6e0f3a-3734-4ffc-964f-2b3f0fd1c6ca
+      Hint: DeclineLabel
+      Value: Decline
+    - ID: b9aba1a3-d61c-4bd1-abc2-8f46cd4b90f7
+      Hint: NecessaryOnlyLabel
+      Value: Necessary only
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c40f4c93-f524-4f6d-9bbe-faf397c7c1ea
+      Hint: AllowAllLabel
+      Value: Allow all cookies
+    - ID: cbebb6f7-f5ea-4337-904e-dc22eb4fc25b
+      Hint: Title
+      Value: We value your privacy
+    - ID: d89dd9d3-2112-4663-86d9-37aba6702a21
+      Hint: AllowSelectedLabel
+      Value: Allow selected
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014130Z
+    - ID: da27f63f-fcef-4ec3-919b-4619f908ca29
+      Hint: NecessaryLabel
+      Value: Necessary
+    - ID: de0d9897-dcb1-495d-9013-e5ab8cdf9af6
+      Hint: AcceptLabel
+      Value: Accept all
+    - ID: f17ddf59-fea4-4892-927d-b2adb0df3abd
+      Hint: PreferencesLabel
+      Value: Preferences
+    - ID: fcdfee20-7b58-4a27-b920-be1d115c609f
+      Hint: PreferencesDescription
+      Value: Preference cookies let the website remember choices that change how it behaves or looks, like your preferred language or the region you are in.
+DB: master

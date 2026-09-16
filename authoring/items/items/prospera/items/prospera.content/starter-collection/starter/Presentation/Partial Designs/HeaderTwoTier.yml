@@ -1,0 +1,111 @@
+---
+ID: "0e164049-6ecd-4150-b36f-2350cc832c06"
+Parent: "258743c2-f5f2-45ab-bfb2-327712772bda"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/HeaderTwoTier"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "header-two-tier@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: headertwotier
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F5D5BE2F-397D-4E77-884D-850511FFE5D1}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "789ee1fe-8252-4c7e-a267-458a67515d30"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EA1481EE-E6FC-525E-8315-CF11CBB88E65}"
+          s:id="{015F412B-7AB9-4F61-B65A-4D386563942E}"
+          s:par="DynamicPlaceholderId=1&amp;FieldNames=%7B82A36034-A6A4-4493-A119-1DE70AD34716%7D"
+          s:ph="headless-header" />
+        <r
+          uid="{C2AF4E0A-CF89-5925-9B68-9D8D8A2D942D}"
+          s:id="{A09C8422-25D6-4928-B33A-6DBB2E24C9B3}"
+          s:par="DynamicPlaceholderId=2&amp;FieldNames=%7BA054596B-C34A-461B-8198-0EF1F5BCEBDC%7D"
+          s:ph="/headless-header/header-utility-end-1" />
+        <r
+          uid="{7AE4EA9D-73FD-5714-A675-899396E720B7}"
+          s:ds="{B0ACFDD1-FEC8-4E92-8B37-AA6E619596C3}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="DynamicPlaceholderId=3&amp;FieldNames=%7B94DFD7F5-059F-40C1-9348-804BA93E1165%7D"
+          s:ph="/headless-header/header-utility-end-1" />
+        <r
+          uid="{1F17AF6C-9154-5DF6-9CFF-F187780FF78A}"
+          s:ds="{E263E2E7-72F7-4044-84D5-1135D0530953}"
+          s:id="{04CDD963-5944-4933-8A26-617788CACE76}"
+          s:par="DynamicPlaceholderId=4&amp;FieldNames=%7B356ABC14-B62A-40B5-BE9C-456748A30ADE%7D"
+          s:ph="/headless-header/header-start-1" />
+        <r
+          uid="{BC3387E2-A13B-55D5-8FEB-160E57AB3811}"
+          s:ds="{348C59A8-1D64-4762-804A-8E08DD5CA37E}"
+          s:id="{32DC0479-3EEA-4913-B3E2-0ACE94165B6C}"
+          s:par="DynamicPlaceholderId=5&amp;FieldNames=%7B62424526-E5EE-4DCD-98DA-40983463F060%7D"
+          s:ph="/headless-header/header-nav-1" />
+        <r
+          uid="{2A4F8D40-C05B-5324-A7B9-D36E034B2FAE}"
+          s:ds="local:/Data/HeaderCta"
+          s:id="{65A3D17A-FC8B-4F6E-A62F-5A0F0AB958DF}"
+          s:par="Variant=%7B03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2%7D&amp;Size=%7B54A2326F-14CE-41DE-87CC-3EF8C855C804%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B68A7B0EB-100B-454A-AFAD-138B54C5A5F2%7D"
+          s:ph="/headless-header/header-end-1" />
+        <r
+          uid="{61674673-3893-52AF-A5B7-768130D4F268}"
+          s:id="{E6965693-50F6-4CF1-B954-B4CE2B32F886}"
+          s:par="DynamicPlaceholderId=7&amp;FieldNames=%7B045D456C-B89F-4982-BA4A-4E552FDC9480%7D"
+          s:ph="/headless-header/header-mobile-1" />
+        <r
+          uid="{22A11868-3794-5296-A1CA-1C15E754B202}"
+          s:ds="{348C59A8-1D64-4762-804A-8E08DD5CA37E}"
+          s:id="{32DC0479-3EEA-4913-B3E2-0ACE94165B6C}"
+          s:par="DynamicPlaceholderId=8&amp;FieldNames=%7B62424526-E5EE-4DCD-98DA-40983463F060%7D"
+          s:ph="/headless-header/header-mobile-1/mobile-menu-7" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "52b7a4f3-6259-4d9d-93f2-af10322e4607"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Header — Two Tier
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223643Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4f146849-7097-4157-9bdc-37665da009ed"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T144554Z
+DB: master

@@ -1,0 +1,81 @@
+---
+ID: "c68da51b-8156-46ba-b691-d500c027dbfe"
+Parent: "d1a80c7e-1d0d-4763-9ce9-a7af58c1ba67"
+Template: "a53efb46-fcb0-4a10-8b76-625fb560bc09"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/from-recipe-to-live"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{DF3F69D6-5D66-4A32-BFBA-BD8B6D3755D3}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "article-from-recipe-to-live@1"
+- ID: 4ad215e8-ffbf-48e9-934a-17b03bb8192a
+  Hint: Image
+  Value: |
+    <image mediaid="{A69CBB85-D72D-4F8B-A3BA-BE33D2C8300E}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9E5704B3-57BF-4CD6-A92D-8231F69417DB}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2ad81b7c-2a21-4dc2-9a7f-407cdd7b2608"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "61b29782-ed29-4e05-a35d-25a4df53c341"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: From recipe to live page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 06c5790b-82ae-4089-8d02-9c72fe0bcb81
+      Hint: Eyebrow
+      Value: Content as code
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T211630Z
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "from-recipe-to-live"
+    - ID: 5b9cdef2-e069-49ea-996e-40b9504bc3f2
+      Hint: JsonLd
+      Value: |
+        {"@context":"https://schema.org","@type":"Article","headline":"From recipe to live page","author":{"@type":"Person","name":"Maya Chen"}}
+    - ID: 6a728377-a363-455b-9de0-4fb6d0c19eb5
+      Hint: Content
+      Value: <p>A <code>PageRecipe</code> declares handle, template, item path, fields, and placeholder placements. scai compiles that into item operations, plans against the tenant, and applies the plan on push.</p><h2>What the head app does</h2><p><code>npm run build</code> generates component maps and a Next.js bundle. It does not create <code>/Articles</code>. If a recipe is only on disk, the live site will not show it.</p><h2>What authors do next</h2><p>After the five samples exist, a new story does not need a sixth recipe. Insert Article under this folder, fill Title, ShortDescription, Content, and Image, and publish. Recipes seed the type; Pages grows the catalog.</p>
+    - ID: 7a25cf96-c57d-4bb4-8a02-ba62d976f2ad
+      Hint: Title
+      Value: From recipe to live page
+    - ID: 7e2d6134-34a2-41c3-9a02-dda297781043
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a11b684e-e5fc-424a-b585-5ffd8dc7eb95"
+    - ID: 978cd65a-cd85-4517-9130-711919b1a1e1
+      Hint: MetaTitle
+      Value: From recipe to live page — Showcase
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260915T232901Z
+    - ID: f3f3b0bd-7ff8-48cb-bf15-470c0b282d5c
+      Hint: MetaDescription
+      Value: A page recipe is source. scai compiles and pushes it to the tenant. npm run build only builds the head app.
+    - ID: f6e27307-1b87-4a77-83ae-8cea0a72c6e5
+      Hint: ShortDescription
+      Value: "The files in src/recipes/ are the source of truth. They reach Sitecore through scai — never through the head-app build."
+DB: master

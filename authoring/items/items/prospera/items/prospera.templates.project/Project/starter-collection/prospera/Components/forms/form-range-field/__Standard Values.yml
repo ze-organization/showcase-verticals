@@ -1,0 +1,55 @@
+---
+ID: "d5597540-3241-43f9-933c-e4f40b6fcb4b"
+Parent: "204bba40-e7b7-4548-b110-d97b952cb89d"
+Template: "204bba40-e7b7-4548-b110-d97b952cb89d"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-range-field/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-range-field@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a29b3ecd-7d96-4a5b-bbcf-fcc4f508bee1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1327ee15-1371-42ee-8fa7-46ce7367d6c4
+      Hint: Min
+      Value: 0
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014642Z
+    - ID: 4e6507cf-0dae-4e42-978d-57b72c5bf8c0
+      Hint: Step
+      Value: 1
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a5e11b39-39f9-4692-a344-d42a19369fc4"
+    - ID: 98e28ffa-a8c9-45ca-9b55-479c219d2cb3
+      Hint: Label
+      Value: "How would you rate us?"
+    - ID: b3addc86-1298-4007-8535-fed340301179
+      Hint: Max
+      Value: 100
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d2b6ff56-a3d0-4bb3-b10c-1a954de95cd3
+      Hint: Name
+      Value: range
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014642Z
+DB: master

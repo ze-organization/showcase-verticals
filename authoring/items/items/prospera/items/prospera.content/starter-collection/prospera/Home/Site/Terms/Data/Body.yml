@@ -1,0 +1,52 @@
+---
+ID: "5b657fdb-f00f-49e5-a0cb-c35ef64a78ad"
+Parent: "940ff170-48e8-495c-962b-a581334ab8ce"
+Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Terms/Data/Body"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: terms@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5b06e591-7525-4af7-8cdb-6705ce3ce1a2"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "670cd5de-1d14-4c47-9bc2-4444a0f19cea"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Body
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193325Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: Terms
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "22c24a62-c024-4054-9511-4388f13084fb"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: |
+        <p>This site is a demonstration of Prospera Bank, N.A., a fictional U.S. nationally chartered bank. Products, rates, people, jobs, and offers are illustrative. Do not treat APY, APR, fees, or roles as a live offer.</p><p>You may browse, search, and submit the demonstration forms. Do not use the site to store production customer data. See <a href="/Privacy">Privacy</a> for cookies and form data. See <a href="/Accessibility">Accessibility</a> for assistive technology.</p><p>Member FDIC. Equal Housing Lender — in this demonstration’s voice. We do not invent license, routing, or certificate numbers.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Terms of use
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013028Z
+DB: master

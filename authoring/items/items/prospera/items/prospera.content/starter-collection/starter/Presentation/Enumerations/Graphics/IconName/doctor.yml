@@ -1,0 +1,53 @@
+---
+ID: "8f658b71-c1d9-4a64-bc57-550f55d29d5f"
+Parent: "f714d4a5-7a70-4777-90a2-66a2ead2abf7"
+Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Graphics/IconName/doctor"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "icon-name@1"
+- ID: 85ade29a-4684-4471-8a2d-a0937f1e85fd
+  Hint: Value
+  Value: doctor
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "08b5efaa-a683-4a0d-b239-e79accfb6453"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e427febd-9051-41c7-9e5e-90ec505a0d07"
+  - ID: 577f1689-7de4-4ad2-a15f-7fdc1759285f
+    Hint: __Long description
+    Value: Find a doctor / provider, or medical appointments.
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Doctor
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220335Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8c8e20cd-a5cd-4301-8253-0789573e1dc9"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220335Z
+DB: master

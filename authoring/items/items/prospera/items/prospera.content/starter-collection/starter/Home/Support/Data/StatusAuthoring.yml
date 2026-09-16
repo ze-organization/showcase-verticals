@@ -1,0 +1,60 @@
+---
+ID: "97f21d13-b1e0-45ff-88b3-0f7b1f6b7fa9"
+Parent: "ca490595-d9ea-4c33-856f-cc7d34d22dc5"
+Template: "af663a81-2143-4eb3-8bb3-0c56cf627282"
+Path: "/sitecore/content/starter-collection/starter/Home/Support/Data/StatusAuthoring"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: support@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6de96876-1aee-4f9a-94ec-68610e08ddcc"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "cb375b09-a5a1-4a54-a860-c33edb453c30"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StatusAuthoring
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193039Z
+    - ID: 31ad94f9-b040-4be1-90d3-4ac63bcef844
+      Hint: StatusTone
+      Value: success
+    - ID: 64f347a4-3ff1-46f8-937a-bdf2ff56a852
+      Hint: Status
+      Value: Operational
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fee0c402-26e7-4481-b4ea-0202cd65c5b9"
+    - ID: 8fd87896-5ec3-4c18-baba-5981066139c0
+      Hint: Subject
+      Value: Pages authoring
+    - ID: aaecb34f-be31-4dcb-832a-a433291d6966
+      Hint: Value
+      Value: OK
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: be6a5ca3-388f-47d5-9587-4469c0a4e7d1
+      Hint: MetricLabel
+      Value: Insert and preview
+    - ID: c4bdb205-4a5c-4cfc-bef1-754eab0d9464
+      Hint: SubjectType
+      Value: Service
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193042Z
+DB: master

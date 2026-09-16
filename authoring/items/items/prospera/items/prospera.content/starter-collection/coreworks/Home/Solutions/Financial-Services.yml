@@ -1,0 +1,115 @@
+---
+ID: "a45d2bfb-531e-4de9-9bac-084ec609e7b6"
+Parent: "73f168e8-b5a3-40fc-b594-b1fdbb30ae08"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Solutions/Financial-Services"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{19641C92-913C-47E5-85DB-8EC3B4873682}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "solutions-financial-services@1"
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{00DB27AB-D4FC-48B9-A926-0CFF64DC9790}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "cece765b-5c7e-417c-be8d-73c4d3328686"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "d32866ba-1d8c-4ec9-9a44-8cc827e08ea7"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Financial services
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A2254A22-C4C0-57AB-AAD3-331A39302EB8}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7BB5284815-AD56-42AC-8ABB-C14443F45347%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B6D817E6B-E1F2-422A-9E55-ED67ABED0677%7D" />
+            <r
+              uid="{16F6D39A-3354-56FB-9286-74B5D14FD6C5}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B116D8675-32E2-4067-8B1C-40C0DE16DCE2%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B7670CB2A-9D04-4F73-8B3D-2F0E3BBD8735%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B79CD824F-2B06-4630-9130-7E3CA90978B2%7D" />
+            <r
+              uid="{C9D65726-114D-5459-AD9D-E0D840C9B71A}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B5137F858-804C-48A2-826E-0695AC959AE4%7D&amp;Layout=%7BE4E85D2E-FF80-469D-A769-FBEB93CDA9A5%7D&amp;BackgroundColor=%7B0374E224-9A61-4969-81B3-55AD8DC812E3%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BFBB19360-83BF-4EE2-8262-FCE17F830A06%7D" />
+            <r
+              uid="{0BDE219D-A248-5B17-84ED-794C6F70FDBB}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Intro"
+              s:id="{FB155EB8-A0A4-4CC2-BD75-A1AE166E449F}"
+              s:par="DynamicPlaceholderId=4&amp;FieldNames=%7B96915736-5B12-4F11-B06F-78F0F8A5F40B%7D" />
+            <r
+              uid="{BBC0B2F6-AD0F-5D01-B7A8-DDA7F6EA6A34}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Cta"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B40347FB7-7E75-4F26-9465-8068F6F8C6A8%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BEC0FE324-2E57-4514-8EBC-110E82FB7EB7%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Financial services
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154609Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.7
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: "Financial services hub: landings and case studies without a bank-specific template fork."
+    - ID: 4926c0f4-360a-4c27-ae1e-2353db686a6f
+      Hint: ChangeFrequency
+      Value: monthly
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "financial-services"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b5f81bc8-31a0-4f37-8466-87f72c00aa24"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Financial services — Showcase
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: Solutions
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215059Z
+DB: master

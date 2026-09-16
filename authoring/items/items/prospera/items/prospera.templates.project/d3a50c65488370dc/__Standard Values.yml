@@ -1,0 +1,43 @@
+---
+ID: "046323a0-7aa9-4cd3-a13b-100516e3cd91"
+Parent: "43799d51-6fd4-4287-af03-ea28e3ea6219"
+Template: "43799d51-6fd4-4287-af03-ea28e3ea6219"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/Component Folders/quick-links-tiles Site Shared UI - Links Data Folder/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{5BFB3E95-98D4-4A59-95F2-77EA3C5E2343}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "quick-links-tiles@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b7494551-3a49-47d6-83b2-f4c9c74e1ed6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221907Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d196fc75-01ee-4ebf-b006-56494174a2ab"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T221907Z
+DB: master

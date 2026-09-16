@@ -1,0 +1,48 @@
+---
+ID: "195abd6c-9c88-4726-992b-94727c8a3771"
+Parent: "0b8b5232-2371-45b8-84b8-dc58e1774edf"
+Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Documentation/Data/Links"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: documentation@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "429e8cb6-0e69-45b1-b8a9-33cd507f1d67"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "135348d9-23e3-4dfd-9934-ed6efc2b4049"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193241Z
+    - ID: 2902f35f-46f3-497a-94bf-23b73a4d62dd
+      Hint: Title
+      Value: Start here
+    - ID: 68fbe66c-6994-4a63-af02-2913a6966af4
+      Hint: Lead
+      Value: <p>Three destinations. No second docs product.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9705765a-0768-4e67-98f8-30a00310caa7"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193247Z
+DB: master

@@ -1,0 +1,133 @@
+---
+ID: "22a34b5e-a119-40d1-b438-2e2a6f4c27d6"
+Parent: "0458a1bb-f29f-4f07-86af-df88b5c6c2ad"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/starter/Home/Leadership"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: leadership@1
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{130CFE8F-E4C0-4636-81E6-73A3F4706B19}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "69186557-bc87-4a66-b868-d1fa044a7cc0"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "8ac5db21-55a3-4b8a-85cf-e5a66dde11b0"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Leadership
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E64F2C83-36BE-50C8-8306-88F4B76BACFF}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B954B3315-0EC6-4584-87F6-3AACD497E39A%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7BAA3A10D0-ADF3-47D5-99DC-AE4A49A28B9D%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7BAE3209CC-0FCE-40D9-8341-01F7C5170391%7D" />
+            <r
+              uid="{34183C47-D3D5-5740-9543-12C1D7579DE3}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B1D56C84F-0F79-4EEB-8796-37D00CFA6462%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7B9C4BA83F-F8C1-4280-983C-92B215E0FA79%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B38AA7D4A-DCAE-4236-B09C-A46F60F667BC%7D" />
+            <r
+              uid="{D49ED8D8-5688-5F4D-AE36-CAC9DCB5E703}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B2A0F18B5-8AA1-4DB3-ABC9-FC87F5AAEB61%7D&amp;Layout=%7B627DAA88-DDC9-492F-9CF7-B2AEDADF7FAA%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BE2C016D4-50B4-43C8-BB57-9887F8BD62E3%7D" />
+            <r
+              uid="{1F4E1147-071A-5616-AC6E-83083DABB679}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/People"
+              s:id="{D262ACC3-7A0D-4032-9959-9DB0383974C3}"
+              s:par="HeadingLayout=%7B6324F678-CF82-4211-BC19-6DAC927C7665%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B775CD5C9-5691-476A-B330-0293C8B4E34E%7D" />
+            <r
+              uid="{BB4D72C9-1054-5A2E-A998-0C00312BB80E}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B20F5A48C-658B-498D-AF78-EDE1885F090F%7D&amp;SurfaceTone=%7B28E70AA4-D820-43A8-9E0B-B35E39EB1076%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B992BEB60-A17B-4A6D-BD94-BE0FFAA8EA82%7D" />
+            <r
+              uid="{783D81FC-A271-5979-BFF9-9CA103AB4B84}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-persons-4"
+              s:ds="local:/Data/CardAmira"
+              s:id="{D10DC734-C836-40EE-9993-74C663206279}"
+              s:par="DynamicPlaceholderId=6&amp;FieldNames=%7B2790B212-DFA1-49ED-8493-B32B3E9829D1%7D" />
+            <r
+              uid="{2EC47BB1-2038-540C-A3AF-627B13113F98}"
+              p:after="r[@uid='{783D81FC-A271-5979-BFF9-9CA103AB4B84}']"
+              s:ph="/headless-main/container-2/cards-persons-4"
+              s:ds="local:/Data/CardJulian"
+              s:id="{D10DC734-C836-40EE-9993-74C663206279}"
+              s:par="DynamicPlaceholderId=7&amp;FieldNames=%7BD5F20F03-6BB8-48EE-A93A-F58AD909492F%7D" />
+            <r
+              uid="{CE62FF50-EC20-587B-8CD4-6E981CFE4197}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-persons-4"
+              s:ds="local:/Data/CardSofia"
+              s:id="{D10DC734-C836-40EE-9993-74C663206279}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BD5F20F03-6BB8-48EE-A93A-F58AD909492F%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Leadership
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193254Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.7
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: The same three Person pages as /People — Amira, Julian, and Sofia — as a leadership listing.
+    - ID: 4926c0f4-360a-4c27-ae1e-2353db686a6f
+      Hint: ChangeFrequency
+      Value: monthly
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Leadership
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9189c59d-0918-4d70-907d-e5e46df3d403"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Leadership — Showcase
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: People
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T160949Z
+DB: master

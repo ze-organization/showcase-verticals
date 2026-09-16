@@ -1,0 +1,164 @@
+---
+ID: "73eef3b4-65ae-4b6f-9827-9315af3a5439"
+Parent: "e750ebaf-2d46-41c2-b8d5-a93ff1e4a37d"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{D1D3F3FB-A887-485C-A2A7-1FE0C9C2CDCB}"
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{19641C92-913C-47E5-85DB-8EC3B4873682}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: destinations@1
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{FFE967DF-6AAB-428D-8AF6-35A72F1996CF}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "cf516338-3464-4e2a-aecf-9633c95af686"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0f18bdee-a022-45f2-81ce-191667292a55"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Destinations
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F0960EFC-97A7-5142-A5E1-5B72EFBA8056}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7BB5284815-AD56-42AC-8ABB-C14443F45347%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B6D817E6B-E1F2-422A-9E55-ED67ABED0677%7D" />
+            <r
+              uid="{28D1B003-7D28-5B1C-A911-5E306FFFE142}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B116D8675-32E2-4067-8B1C-40C0DE16DCE2%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B7670CB2A-9D04-4F73-8B3D-2F0E3BBD8735%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B79CD824F-2B06-4630-9130-7E3CA90978B2%7D" />
+            <r
+              uid="{63C191EA-3A60-5485-BEFC-AE700ABC3914}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B5137F858-804C-48A2-826E-0695AC959AE4%7D&amp;Layout=%7BE4E85D2E-FF80-469D-A769-FBEB93CDA9A5%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BFBB19360-83BF-4EE2-8262-FCE17F830A06%7D" />
+            <r
+              uid="{0EDFECD9-7EF3-54E8-962A-9C6D980E1A85}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Regions"
+              s:id="{D03497CA-FD13-4D47-A6E3-38DF6510EDB8}"
+              s:par="HeadingLayout=%7BB364FB21-21CE-4924-966F-CA5BEE71B61C%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B1BE9C62A-7C7B-42A0-BC46-AE2A34F83C3C%7D" />
+            <r
+              uid="{F2609549-7BB1-5562-AA38-7C1E87DBA0E9}"
+              p:after="r[@uid='{0EDFECD9-7EF3-54E8-962A-9C6D980E1A85}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/CityCarousel"
+              s:id="{3F2C5402-2A9F-46F8-A50B-2EBB937CA2A4}"
+              s:par="HeadingLayout=%7BB364FB21-21CE-4924-966F-CA5BEE71B61C%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BAD3724A9-ABAB-4A7D-9AE8-0762FC7B9608%7D" />
+            <r
+              uid="{F27EFA22-DA1D-50F2-B7B4-98FBB5C7A05F}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B40347FB7-7E75-4F26-9465-8068F6F8C6A8%7D&amp;SurfaceTone=%7B2598F79E-A7DC-453B-9D83-3E058443EB4E%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7BEC0FE324-2E57-4514-8EBC-110E82FB7EB7%7D" />
+            <r
+              uid="{0DC60500-50D2-50CC-A734-A1CE9BEBC7DC}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardApac"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=7&amp;FieldNames=%7BFA283245-59F8-4874-A946-1F2C9584F004%7D" />
+            <r
+              uid="{C36C6B8D-6F84-5D70-A464-0E70928DF1CB}"
+              p:after="r[@uid='{0DC60500-50D2-50CC-A734-A1CE9BEBC7DC}']"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardEurope"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BFA283245-59F8-4874-A946-1F2C9584F004%7D" />
+            <r
+              uid="{7FDF715E-D82C-5190-B0E5-364366FCB5FC}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardAmericas"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=9&amp;FieldNames=%7BFA283245-59F8-4874-A946-1F2C9584F004%7D" />
+            <r
+              uid="{70DD3EE8-F5D0-5F85-85C8-216B92A5C9E2}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-destinations-5"
+              s:ds="local:/Data/CardKyoto"
+              s:id="{1F038842-4A0E-4365-B0AD-F619A4D75F69}"
+              s:par="DynamicPlaceholderId=10&amp;FieldNames=%7B359D274B-603C-4C97-9E0B-083BBFF7816C%7D" />
+            <r
+              uid="{C73B9A0D-AE4E-5986-AC1D-039EA53A0731}"
+              p:after="r[@uid='{70DD3EE8-F5D0-5F85-85C8-216B92A5C9E2}']"
+              s:ph="/headless-main/container-2/cards-destinations-5"
+              s:ds="local:/Data/CardLisbon"
+              s:id="{1F038842-4A0E-4365-B0AD-F619A4D75F69}"
+              s:par="DynamicPlaceholderId=11&amp;FieldNames=%7BD83AD4C1-755D-4A24-AD7D-67D42360F920%7D" />
+            <r
+              uid="{24E3603A-3E6C-53BE-88E4-C7D83D94D82C}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-destinations-5"
+              s:ds="local:/Data/CardOaxaca"
+              s:id="{1F038842-4A0E-4365-B0AD-F619A4D75F69}"
+              s:par="DynamicPlaceholderId=12&amp;FieldNames=%7BD83AD4C1-755D-4A24-AD7D-67D42360F920%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Destinations
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T224534Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.8
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: Sample destination pages for the starter site — cities and regions as insertable types under a listing.
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Destinations
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "7cb48061-4dc3-4ddb-b007-9dee11cbad4b"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Destinations — Showcase
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: Travel
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215038Z
+DB: master

@@ -1,0 +1,62 @@
+---
+ID: "4ce924a7-d69a-416d-aaaa-d61fb4244532"
+Parent: "e7643209-f671-4db2-9be3-5e3b804085a9"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/layout/container"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+  Hint: componentName
+  Value: container
+- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+  Hint: Placeholders
+  Value: "{62227A4E-090F-4DB8-B2A8-B1F51B2F4188}"
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/b7844f1366a5447098f1a2cd48821160.ashx?thn=1&db=master&v=2"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: container@1
+- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+  Hint: Parameters Template
+  Value: "{65721C43-0584-42C6-B90E-0C0AD4428035}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "81ec571e-94a6-4457-9f60-6526fc555b40"
+- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+  Hint: OtherProperties
+  Value: IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "78c37ac6-c994-4549-95eb-eab690cc0040"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Container
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215330Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bb244135-e33c-44c0-b80f-6834f64fc88a"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T232003Z
+DB: master

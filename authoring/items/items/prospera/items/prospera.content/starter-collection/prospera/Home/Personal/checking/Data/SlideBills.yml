@@ -1,0 +1,56 @@
+---
+ID: "c73a6851-34cc-4a42-9c82-20e2cbefdd80"
+Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
+Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/SlideBills"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking@1"
+- ID: 7fe14a9a-4169-4b67-93e0-0df849873b6d
+  Hint: Image
+  Value: |
+    <image mediapath="/theme-photos/feat-bill-pay.jpg" alt="Calendar of household bills with two marked paid" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e52e7dec-b4bc-4fbc-aa3a-a7d29fbe95c7"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "a5e34f0b-171c-4c74-87fc-770579e757a8"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: SlideBills
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193237Z
+    - ID: 3749bc4d-27b2-4f03-a4b2-3fa6caf890d1
+      Hint: Description
+      Value: <p>Schedule rent and utilities from everyday checking.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "08537810-0b27-4495-b159-baf8f5ed3984"
+    - ID: b376f791-9d7c-43e4-8b36-51a958eb4c7a
+      Hint: Title
+      Value: Bill pay
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193249Z
+    - ID: f5712a6f-019b-408a-9f92-1445842c3d8e
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Features/bill-pay" text="Bill pay" />
+DB: master

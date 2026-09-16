@@ -1,0 +1,49 @@
+---
+ID: "37680cbf-1887-41d1-8927-fa0417f3913b"
+Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
+Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
+Path: "/sitecore/content/starter-collection/starter/Data/footer-link-docs"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-link-docs@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ddb6e640-b2cf-43ba-99e9-9c7e54f95c39"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "3588a4d5-84a4-4ec0-9a95-ff124915a5c9"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Documentation
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223455Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e1c892ef-3de9-495b-ad54-8e7ce8b4a8dc"
+    - ID: b5d4268a-857f-42e3-aead-31acc948e95b
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Documentation" text="Documentation" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d23fc9d5-10d5-4a4f-b99e-aac87330a92d
+      Hint: Title
+      Value: Documentation
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T194629Z
+DB: master

@@ -1,0 +1,58 @@
+---
+ID: "f792c5fc-293a-4d50-be59-79e74b9047c4"
+Parent: "a27c3bda-bbe8-49f3-90a1-301a41134620"
+Template: "a27c3bda-bbe8-49f3-90a1-301a41134620"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/Presentation Parameters/mobile-menu Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "mobile-menu@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "916b57ad-91e8-41d7-ad4a-85ab3a910847"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 037091a1-dc40-4ea2-b9e3-b4b5fdf3c0f9
+      Hint: DrawerSide
+      Value: "{1F1C777D-387F-4847-B6CA-1D4F9A04ACE7}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221103Z
+    - ID: 3d48cd07-b93a-4109-8677-138ccbace1d9
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5aec1c1d-e9d1-4113-929f-68166be2cb81
+      Hint: IconName
+      Value: "{BDC37BA7-BC71-4D41-A761-35E3E5E11958}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1ac22413-e22c-4dd1-a500-273e7e6d64c2"
+    - ID: 9a0b7eeb-281d-42fc-9526-3417d1759941
+      Hint: Padding
+      Value: "{786EA957-4861-4B25-988E-7B13B30235A5}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203653Z
+    - ID: da879d47-13db-4125-9142-4fb85e705d61
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: e71ec144-afc7-482c-8411-8cadd58827b8
+      Hint: VisibleAt
+      Value: "{B5DD3EDD-76C6-405A-A40A-3E4CFD9DB91E}"
+DB: master

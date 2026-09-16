@@ -1,0 +1,39 @@
+---
+ID: "5692e274-eeab-4d51-a8cd-f8cf5d039ded"
+Parent: "6dec56e4-30b3-4d88-aa77-2f2d194b6e6d"
+Template: "7ad8d68c-a454-4c00-a370-632098813e5f"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Site Shared UI/Avatars"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3724349d-6ab7-441b-b82a-1d886bd8d939"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "9b26b359-6ae9-425c-9679-26ea3e70abe7"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Avatars
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214849Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "146d4e61-e665-494b-9b90-75528a25984b"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214849Z
+DB: master

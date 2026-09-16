@@ -1,0 +1,127 @@
+---
+ID: "806c907c-ebfb-4a10-a86f-26caac9d5889"
+Parent: "258743c2-f5f2-45ab-bfb2-327712772bda"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/FooterBands"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-bands@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: footerbands
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4EB567E9-5951-41A4-BB57-5A3A093E67B8}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5a7c54a3-c788-4511-a342-521c5bbc6add"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{CAE338BC-FD79-5735-8657-1ACD78CF6A88}"
+          s:id="{0F52287D-DE07-4097-BEA2-5E88523FB9CF}"
+          s:par="ShowBandDividers=1&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B374DB314-31B7-4FD4-B0C7-663A130ADE5E%7D"
+          s:ph="headless-footer" />
+        <r
+          uid="{AEDEE9E5-545E-5E19-8B02-380B3C58BE1B}"
+          s:id="{B93E9543-4ECA-434A-B522-443D62653678}"
+          s:par="PaddingY=%7B76C81390-638A-4FFC-A568-D4E2666182C2%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B13A45AC3-D63F-4584-BBCF-DB7BF2EC9F62%7D"
+          s:ph="/headless-footer/footer-bands-1" />
+        <r
+          uid="{881590C0-E7D2-5589-B7D9-EC21CC13D736}"
+          s:id="{B93E9543-4ECA-434A-B522-443D62653678}"
+          s:par="PaddingY=%7B5B4ECA46-235F-46F9-8A65-DB08EAC6AF80%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7B13A45AC3-D63F-4584-BBCF-DB7BF2EC9F62%7D"
+          s:ph="/headless-footer/footer-bands-1" />
+        <r
+          uid="{F79D9918-0C30-5B01-A0F4-642DCF083093}"
+          s:id="{B93E9543-4ECA-434A-B522-443D62653678}"
+          s:par="PaddingY=%7B4F569656-8377-4266-B83B-5DEB539C14E3%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B13A45AC3-D63F-4584-BBCF-DB7BF2EC9F62%7D"
+          s:ph="/headless-footer/footer-bands-1" />
+        <r
+          uid="{551E3D15-618A-5E4F-905C-1D719AA37AAA}"
+          s:id="{B93E9543-4ECA-434A-B522-443D62653678}"
+          s:par="PaddingY=%7B76C81390-638A-4FFC-A568-D4E2666182C2%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B13A45AC3-D63F-4584-BBCF-DB7BF2EC9F62%7D"
+          s:ph="/headless-footer/footer-bands-1" />
+        <r
+          uid="{D3C721E0-642C-5154-AB75-DD552439A016}"
+          s:ds="{BD64AF4E-D494-4985-81A5-A908EAB25085}"
+          s:id="{FB155EB8-A0A4-4CC2-BD75-A1AE166E449F}"
+          s:par="DynamicPlaceholderId=6&amp;FieldNames=%7BFCB3375A-60AC-4D38-A5EB-08891AD0D3AE%7D"
+          s:ph="/headless-footer/footer-bands-1/section-wrapper-content-2" />
+        <r
+          uid="{85C3DAE7-0584-56ED-BEC2-428310F4BC10}"
+          s:ds="{0D4416AE-B296-4722-997B-D507127DF721}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="DynamicPlaceholderId=7&amp;FieldNames=%7BD81800CC-E218-4708-988B-51EFB8DA0A22%7D"
+          s:ph="/headless-footer/footer-bands-1/section-wrapper-content-3" />
+        <r
+          uid="{1390C470-2B71-5BD2-96AB-87E9BB3F6726}"
+          s:ds="{F99B9BA2-6356-4735-BF1E-F2271DED71C9}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BD81800CC-E218-4708-988B-51EFB8DA0A22%7D"
+          s:ph="/headless-footer/footer-bands-1/section-wrapper-content-3" />
+        <r
+          uid="{3E4259F7-E986-50F2-8C78-552CDB9935CC}"
+          s:ds="{F2130C48-69EE-4B20-A5CC-E0DFA44B810C}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="Columns=%7B4A1A1D9D-7E0D-4067-8CDB-EC9A8F1FFAE9%7D&amp;DynamicPlaceholderId=9&amp;FieldNames=%7B30947A04-83CF-48AE-A865-4B1F66B32E5A%7D"
+          s:ph="/headless-footer/footer-bands-1/section-wrapper-content-4" />
+        <r
+          uid="{70EEFA1A-7CCC-5796-89D1-FE2BAF12230E}"
+          s:ds="{D99724DD-F981-41D9-A5D2-5BC37D292596}"
+          s:id="{FB155EB8-A0A4-4CC2-BD75-A1AE166E449F}"
+          s:par="DynamicPlaceholderId=10&amp;FieldNames=%7BFCB3375A-60AC-4D38-A5EB-08891AD0D3AE%7D"
+          s:ph="/headless-footer/footer-bands-1/section-wrapper-content-5" />
+        <r
+          uid="{71748A79-09D7-55CF-8700-EE2EC7162BB4}"
+          s:ds="{98CBFA12-D2E1-493F-A451-378DCF607EA3}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="DynamicPlaceholderId=11&amp;FieldNames=%7BFB2FA4E4-4472-4C5D-ACBC-98145DD15D8F%7D"
+          s:ph="/headless-footer/footer-bands-1/section-wrapper-content-5" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "b0d2c99d-700b-446c-858b-fd6f35aba41e"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Footer — Bands
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223626Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "818a4a95-8645-42b1-a10e-4178b48fe574"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T144547Z
+DB: master

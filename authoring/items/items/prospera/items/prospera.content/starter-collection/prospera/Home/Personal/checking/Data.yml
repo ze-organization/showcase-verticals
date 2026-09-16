@@ -1,0 +1,58 @@
+---
+ID: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
+Parent: "8d797d5b-f575-4167-aacf-6646e40ef424"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {A9FB99C4-6E31-5714-9293-8F6B2CCC03C7}
+    {5C0D5F4C-B7E7-428D-B156-016964AB8C41}
+    {4B104D00-F5B4-474E-A869-5D2114CB9DB0}
+    {9B855361-0823-4556-931F-C9D859841147}
+    {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
+    {A676167B-B6D6-4990-8C7C-B09A1984D0E5}
+    {6C0B35AD-65D8-4A1B-A847-FAD6C35EC3A1}
+    {C4A58B24-9743-48EB-8035-431C2602FB31}
+    {20BD07AB-079D-4A72-B4B2-746D00878FED}
+    {5B847AA9-A675-4774-B7EF-818A69F8C5EE}
+    {0513F0BE-18F8-46E2-8DF2-4EF7D35B088D}
+    {B0F18424-5404-472E-989E-902A437A5135}
+    {A3B2B7CF-5E78-493F-AE57-583246702B7C}
+    {92567043-5EF3-4184-B65E-F03F3B51628C}
+    {788427F8-DA26-49DA-8333-AA6204677D18}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "48185051-f5e9-44ee-86de-3e94ec53e911"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193218Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "82eb4e1c-3e18-4a1a-a13d-b62a52d67001"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193218Z
+DB: master

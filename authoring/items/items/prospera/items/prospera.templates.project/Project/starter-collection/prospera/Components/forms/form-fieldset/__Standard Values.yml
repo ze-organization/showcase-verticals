@@ -1,0 +1,43 @@
+---
+ID: "f78cbfd9-209e-437e-80cb-454e6776b1da"
+Parent: "f04b6cea-1e50-4f2c-888f-99654656b758"
+Template: "f04b6cea-1e50-4f2c-888f-99654656b758"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-fieldset/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-fieldset@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "612461f4-6481-4c3d-9487-23dbc56e747f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021228Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d56dd335-ec64-4c42-903b-01909abd0df2"
+    - ID: 904efb87-0e1c-4997-952a-209285648fb5
+      Hint: Legend
+      Value: Contact information
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021228Z
+DB: master

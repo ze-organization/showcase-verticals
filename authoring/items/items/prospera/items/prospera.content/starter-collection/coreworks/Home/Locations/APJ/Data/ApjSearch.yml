@@ -1,0 +1,45 @@
+---
+ID: "0dc2ad62-d97e-4ad9-9692-05acf388f4ab"
+Parent: "7838de3f-c590-40ca-9aa0-e1358db9845a"
+Template: "a0087a72-8274-46e4-aaf0-5e41bf9390cc"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/APJ/Data/ApjSearch"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "locations-apj@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ed60abb5-8672-4d00-8893-58895b288a91"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "07a9c580-7bc0-4aac-b812-8537675f5f56"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: ApjSearch
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192005Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f6feb108-de82-42bb-a985-925db03ad76a"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c0cd65d9-3f52-41bb-9d78-0a4be4c37901
+      Hint: Title
+      Value: APJ
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192008Z
+DB: master

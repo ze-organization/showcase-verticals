@@ -1,0 +1,63 @@
+---
+ID: "b461976a-e21b-426e-bad8-45ea27779d63"
+Parent: "a8b797fa-11dc-4cae-b077-13c3f5f86fe4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Available Renderings/search"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/c8e46970cff2457ba060396bc39ca3f1.ashx?thn=1&db=master&v=2"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__available-renderings__"
+- ID: 715ae6c0-71c8-4744-ab4f-65362d20ad65
+  Hint: Renderings
+  Value: |
+    {6B9E6886-BEF1-48A9-8510-D94F2DB2F565}
+    {5443989B-8ACA-4314-B353-CA96CE38D3DD}
+    {5C20D439-8E7F-4CB1-8A3F-CEF53DB94255}
+    {79670219-AB5D-4E75-B09A-F5E63EA11C53}
+    {514D44FE-29B1-482C-9391-83DE1A7CF843}
+    {BB773E1C-3BEF-48EC-949C-D3F82E0D3654}
+    {DDDD657B-668F-4DA3-8B6F-513D8A86260B}
+    {5EECFD9D-1684-4C52-9143-75C83AAEFE24}
+    {FE336554-4337-48C9-AA24-D4812E06F1C6}
+    {FDFD5BA5-9F70-413D-BE04-BF7C6E4F8760}
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e2b9935d-3647-4cbf-9c9a-2cdc9bde1b00"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "c08c7beb-56f4-470a-b19a-f44f6a93f76d"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T230446Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5add7198-13f1-4970-8fc5-0e8dda59d02b"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021810Z
+DB: master

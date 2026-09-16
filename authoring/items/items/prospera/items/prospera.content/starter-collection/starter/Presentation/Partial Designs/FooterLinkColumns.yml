@@ -1,0 +1,89 @@
+---
+ID: "ca3c4cfe-78d5-4b35-96db-cc7f977ae1b6"
+Parent: "258743c2-f5f2-45ab-bfb2-327712772bda"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/FooterLinkColumns"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-link-columns@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: footerlinkcolumns
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AE5222C9-1E77-4222-80CB-4264B9981B49}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5cacde8e-983a-4da2-aec5-03c5f10ae42b"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{36714FE4-FF16-5B92-A97F-30410BFE0CF3}"
+          s:id="{0F52287D-DE07-4097-BEA2-5E88523FB9CF}"
+          s:par="ShowTierDivider=1&amp;TierTwoBackground=%7B6AB8EC05-6217-4470-A67C-46F1770D0F89%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B99F365E8-F4EB-493D-B5F1-6A71530EAD97%7D"
+          s:ph="headless-footer" />
+        <r
+          uid="{B57B754B-D4E8-5CB1-922B-F72A2B6F4541}"
+          s:ds="{F2130C48-69EE-4B20-A5CC-E0DFA44B810C}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="Columns=%7B3755E801-731C-4F1C-B418-83F7E3EAF148%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B30947A04-83CF-48AE-A865-4B1F66B32E5A%7D"
+          s:ph="/headless-footer/footer-main-1" />
+        <r
+          uid="{C04BB0B1-363A-52B6-A410-D0E446A0E9FE}"
+          s:ds="{D99724DD-F981-41D9-A5D2-5BC37D292596}"
+          s:id="{FB155EB8-A0A4-4CC2-BD75-A1AE166E449F}"
+          s:par="DynamicPlaceholderId=3&amp;FieldNames=%7BFCB3375A-60AC-4D38-A5EB-08891AD0D3AE%7D"
+          s:ph="/headless-footer/footer-bottom-1" />
+        <r
+          uid="{AEAE0F8E-141A-5669-AB3F-1624F81CAA3D}"
+          s:ds="{98CBFA12-D2E1-493F-A451-378DCF607EA3}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="DynamicPlaceholderId=4&amp;FieldNames=%7BFB2FA4E4-4472-4C5D-ACBC-98145DD15D8F%7D"
+          s:ph="/headless-footer/footer-bottom-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0a68127e-50bd-4452-b646-70089f432ce0"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Footer — Link Columns
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223633Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "aa8a3793-5fbd-4ff7-beb0-345be1f5001d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T144550Z
+DB: master

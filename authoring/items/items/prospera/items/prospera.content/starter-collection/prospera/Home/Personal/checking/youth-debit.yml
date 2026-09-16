@@ -1,0 +1,238 @@
+---
+ID: "a573b372-d9af-4214-b966-33328324b311"
+Parent: "8d797d5b-f575-4167-aacf-6646e40ef424"
+Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/youth-debit"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{D830851D-43EC-4BCB-B960-C013BA2AE260}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking-youth-debit@1"
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4044C1E2-193B-4537-8979-D138CF51952B}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2a650ec9-e221-4965-a82f-52c67a039a59"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "c2bacb0c-d8b9-41e4-99e5-049af71423c1"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Youth debit
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3FA41B9A-452B-5D8D-B809-29EDA47EA956}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7BC368140B-9ED5-41A5-BD5D-8885DA08FDDA%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B76DA7548-ADA6-412C-A20B-8829D7A32B66%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B84752B2D-C0A0-4686-B438-1ACB02AD32C8%7D" />
+            <r
+              uid="{88970369-7748-55BA-B105-6A2F74B2699E}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7B1CD27043-2AE3-4B1B-8FBF-D13F0F945700%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B845C2122-E1C7-4D34-A4DB-42A9F62AF306%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B3406F538-5805-43F1-8DE5-572B1F155101%7D" />
+            <r
+              uid="{4CC7E9DD-84B8-5D19-8AC9-0C7B0948EE2A}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{41726C55-0876-493A-A775-79329F911700}"
+              s:par="HeadingLayout=%7BD8039FD3-6889-48D5-ABF8-0698389E43E3%7D&amp;Layout=%7B5EE6BC71-F82E-4A9E-9914-A9AE93496EED%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayStyle=%7BBFFC7C83-E300-4AA7-97F1-FF9B38FB609C%7D&amp;OverlayColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayOpacity=72&amp;DynamicPlaceholderId=3&amp;FieldNames=%7B6D5C3AB2-570E-46B8-8158-D1097727AAF6%7D" />
+            <r
+              uid="{BBA37D1C-48CF-5046-B1E1-9CDE81F4A495}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/TrustMarks"
+              s:id="{51AE241E-02FF-4CF7-84BA-915841E84524}"
+              s:par="Monochrome=1&amp;Size=%7B0DC58C8B-A193-49D7-87CA-88676D2D6133%7D&amp;PaddingY=%7B76DA7548-ADA6-412C-A20B-8829D7A32B66%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B3C9F33A7-BF69-49C4-BC4D-22693AA6D3C0%7D" />
+            <r
+              uid="{45D82A09-F27B-5727-8401-A67617D44AB1}"
+              p:after="r[@uid='{BBA37D1C-48CF-5046-B1E1-9CDE81F4A495}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Controls"
+              s:id="{EBB670EA-8E56-4112-AB76-1F91FE3B2B00}"
+              s:par="HeadingLayout=%7B9452888D-4D62-4681-BC9F-821D6CFC35DD%7D&amp;HeadingSize=%7BBF8DF9D7-2605-4863-BD13-43979E543EAC%7D&amp;ColorScheme=%7B5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32%7D&amp;CtaVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B484CA5C2-CF0E-4898-B1A4-731BE986D111%7D" />
+            <r
+              uid="{0C50948B-7F06-52DD-B878-04725340D195}"
+              p:after="r[@uid='{45D82A09-F27B-5727-8401-A67617D44AB1}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Together"
+              s:id="{85E01424-2F42-46D8-9FD7-67F925743228}"
+              s:par="ImagePosition=%7B8C0C5672-936B-4523-BE31-D2BAFBD3CBEE%7D&amp;MediaFraction=%7B691068BC-728F-4EAD-9C74-8547E26A0066%7D&amp;ContentAlign=%7B7D48FB60-2C14-4C7C-81EE-5577D3A76DA2%7D&amp;ContentVAlign=%7BAEE318C2-F148-48C2-B074-12790FA31BA5%7D&amp;Inset=%7BCF4E532B-B560-4CFF-B117-44EAFA6004F2%7D&amp;SurfaceTone=%7B722C6F93-1336-48B3-9FFE-C763021CC53C%7D&amp;TitleSize=%7BBFE2E6EE-E26E-4D2F-887F-A029C9AE94B1%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;PrimaryActionVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B5D926F54-509C-43F2-B731-77DCB75E265E%7D" />
+            <r
+              uid="{524E32D1-BDB4-5F6C-AFB2-C3C828F8D503}"
+              p:after="r[@uid='{0C50948B-7F06-52DD-B878-04725340D195}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/NotABank"
+              s:id="{85E01424-2F42-46D8-9FD7-67F925743228}"
+              s:par="ImagePosition=%7BB2038BC1-0899-48E4-8249-2AC7A39B00E7%7D&amp;MediaFraction=%7B691068BC-728F-4EAD-9C74-8547E26A0066%7D&amp;ContentAlign=%7B7D48FB60-2C14-4C7C-81EE-5577D3A76DA2%7D&amp;ContentVAlign=%7BAEE318C2-F148-48C2-B074-12790FA31BA5%7D&amp;Inset=%7BCF4E532B-B560-4CFF-B117-44EAFA6004F2%7D&amp;SurfaceTone=%7B722C6F93-1336-48B3-9FFE-C763021CC53C%7D&amp;TitleSize=%7BBF8DF9D7-2605-4863-BD13-43979E543EAC%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;PrimaryActionVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=7&amp;FieldNames=%7B5D926F54-509C-43F2-B731-77DCB75E265E%7D" />
+            <r
+              uid="{642DCA12-60A5-5AC0-9F3B-75266B198E19}"
+              p:after="r[@uid='{524E32D1-BDB4-5F6C-AFB2-C3C828F8D503}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/HowTo"
+              s:id="{EBB670EA-8E56-4112-AB76-1F91FE3B2B00}"
+              s:par="HeadingLayout=%7BB793BBDE-7EA3-4B5B-B53E-0DA24D0EF703%7D&amp;HeadingSize=%7BBF8DF9D7-2605-4863-BD13-43979E543EAC%7D&amp;ColorScheme=%7B722C6F93-1336-48B3-9FFE-C763021CC53C%7D&amp;DynamicPlaceholderId=8&amp;FieldNames=%7B5D0F1652-0DC3-488E-9B93-16263CA40BD6%7D" />
+            <r
+              uid="{143504C6-CACC-5661-A5C6-47260DB6CA53}"
+              p:after="r[@uid='{642DCA12-60A5-5AC0-9F3B-75266B198E19}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Faq"
+              s:id="{D47E161D-A86A-4102-B76A-7AC89FA2258E}"
+              s:par="DynamicPlaceholderId=9&amp;FieldNames=%7B049DD87D-D622-4711-AF97-988ED10F0B6B%7D" />
+            <r
+              uid="{5F322666-1CD1-5C4B-983A-14A60689E086}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{85E01424-2F42-46D8-9FD7-67F925743228}"
+              s:par="ImagePosition=%7B8C0C5672-936B-4523-BE31-D2BAFBD3CBEE%7D&amp;MediaFraction=%7B691068BC-728F-4EAD-9C74-8547E26A0066%7D&amp;ContentAlign=%7B7D48FB60-2C14-4C7C-81EE-5577D3A76DA2%7D&amp;ContentVAlign=%7BAEE318C2-F148-48C2-B074-12790FA31BA5%7D&amp;Inset=%7BCF4E532B-B560-4CFF-B117-44EAFA6004F2%7D&amp;SurfaceTone=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;TitleSize=%7BBF8DF9D7-2605-4863-BD13-43979E543EAC%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;PrimaryActionVariant=%7B973EEE8E-BAD4-4D6F-8696-A97630198F36%7D&amp;DynamicPlaceholderId=10&amp;FieldNames=%7B5D926F54-509C-43F2-B731-77DCB75E265E%7D" />
+            <r
+              uid="{0E3F7851-E01F-54D3-88D7-ED2E40B0B1F2}"
+              p:before="*"
+              s:ph="/headless-main/container-2/logo-wall-4"
+              s:ds="local:/Data/MarkFdic"
+              s:id="{C00802DB-9788-4131-B403-C5E8DC73CB90}"
+              s:par="DynamicPlaceholderId=11&amp;FieldNames=%7B69FF8184-4554-448F-BDDF-5D2195D4C267%7D" />
+            <r
+              uid="{B21A3523-8802-54EC-8232-DC601149A221}"
+              p:after="r[@uid='{0E3F7851-E01F-54D3-88D7-ED2E40B0B1F2}']"
+              s:ph="/headless-main/container-2/logo-wall-4"
+              s:ds="local:/Data/MarkHousing"
+              s:id="{C00802DB-9788-4131-B403-C5E8DC73CB90}"
+              s:par="DynamicPlaceholderId=12&amp;FieldNames=%7B69FF8184-4554-448F-BDDF-5D2195D4C267%7D" />
+            <r
+              uid="{C8B62E0C-9FE9-5D15-8435-34C2EC745451}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/logo-wall-4"
+              s:ds="local:/Data/MarkBank"
+              s:id="{C00802DB-9788-4131-B403-C5E8DC73CB90}"
+              s:par="DynamicPlaceholderId=13&amp;FieldNames=%7B69FF8184-4554-448F-BDDF-5D2195D4C267%7D" />
+            <r
+              uid="{9817160A-0B47-5D6C-8911-CBC1CCA7C4A2}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-5"
+              s:ds="local:/Data/CtrlNotify"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;CtaVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=14&amp;FieldNames=%7B54CF6724-C336-4DD6-A275-6F120BFB55F4%7D" />
+            <r
+              uid="{C3CABEB6-6738-58B9-A746-24E23D760077}"
+              p:after="r[@uid='{9817160A-0B47-5D6C-8911-CBC1CCA7C4A2}']"
+              s:ph="/headless-main/container-2/cards-features-5"
+              s:ds="local:/Data/CtrlLimits"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;CtaVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=15&amp;FieldNames=%7B54CF6724-C336-4DD6-A275-6F120BFB55F4%7D" />
+            <r
+              uid="{EF62284C-D72A-545F-920E-68568AA30D1D}"
+              p:after="r[@uid='{C3CABEB6-6738-58B9-A746-24E23D760077}']"
+              s:ph="/headless-main/container-2/cards-features-5"
+              s:ds="local:/Data/CtrlTopup"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;CtaVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=16&amp;FieldNames=%7B54CF6724-C336-4DD6-A275-6F120BFB55F4%7D" />
+            <r
+              uid="{96784FE3-5934-5007-B3D8-71A201590EC7}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-5"
+              s:ds="local:/Data/CtrlCard"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;CtaVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=17&amp;FieldNames=%7B54CF6724-C336-4DD6-A275-6F120BFB55F4%7D" />
+            <r
+              uid="{3C89BFD0-7CDF-5CF6-970F-037436F10582}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-8"
+              s:ds="local:/Data/HowChecking"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=18&amp;FieldNames=%7BCA438B24-39B2-4240-983C-BB404CD59811%7D" />
+            <r
+              uid="{33E5A303-9AE6-5016-BE61-78B0E163F758}"
+              p:after="r[@uid='{3C89BFD0-7CDF-5CF6-970F-037436F10582}']"
+              s:ph="/headless-main/container-2/cards-features-8"
+              s:ds="local:/Data/HowAsk"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=19&amp;FieldNames=%7BCA438B24-39B2-4240-983C-BB404CD59811%7D" />
+            <r
+              uid="{27F257A3-A273-5DA4-89A2-0F1059234255}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-8"
+              s:ds="local:/Data/HowFund"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=20&amp;FieldNames=%7BCA438B24-39B2-4240-983C-BB404CD59811%7D" />
+            <r
+              uid="{3B795307-D04E-5DF6-B272-1E702B72DFC9}"
+              p:before="*"
+              s:ph="/headless-main/container-2/visual-accordion-9"
+              s:ds="local:/Data/FaqAge"
+              s:id="{21C82650-817F-488D-B5EE-A75ADF5E9FE2}"
+              s:par="DynamicPlaceholderId=21&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
+            <r
+              uid="{2188D259-FA09-5959-8CEF-12D25DBED3BA}"
+              p:after="r[@uid='{3B795307-D04E-5DF6-B272-1E702B72DFC9}']"
+              s:ph="/headless-main/container-2/visual-accordion-9"
+              s:ds="local:/Data/FaqFees"
+              s:id="{21C82650-817F-488D-B5EE-A75ADF5E9FE2}"
+              s:par="DynamicPlaceholderId=22&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
+            <r
+              uid="{578A627C-D494-5052-B9AA-4816E4B3FC21}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/visual-accordion-9"
+              s:ds="local:/Data/FaqFdic"
+              s:id="{21C82650-817F-488D-B5EE-A75ADF5E9FE2}"
+              s:par="DynamicPlaceholderId=23&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
+          </d>
+        </r>
+    - ID: 127dc4a9-ca7c-4096-a268-16536ea17a39
+      Hint: Eyebrow
+      Value: Everyday checking
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193325Z
+    - ID: 27f1e6f7-b1c6-4708-905b-90a2de32939f
+      Hint: Title
+      Value: Youth debit
+    - ID: 3d07e93c-ab9d-451f-9b49-e83d76f755ba
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "youth-debit"
+    - ID: 5f5c4ed3-2cc1-49cf-8db8-8d8d735e481b
+      Hint: MetaTitle
+      Value: Youth debit — Prospera
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "22ddc2f5-0ee6-4ba9-b96d-62415bf32d0f"
+    - ID: a2ffeaa0-6cba-461d-a2b1-28331f5dd95f
+      Hint: MetaDescription
+      Value: "A parent-managed debit card for teens, funded from everyday checking at Prospera Bank, N.A. Member FDIC."
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bf399ac3-28f6-447a-aa15-a6a9a9e38aec
+      Hint: SitemapPriority
+      Value: 0.7
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193340Z
+DB: master

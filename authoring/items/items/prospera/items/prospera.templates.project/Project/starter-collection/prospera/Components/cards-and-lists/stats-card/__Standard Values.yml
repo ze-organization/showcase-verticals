@@ -1,0 +1,52 @@
+---
+ID: "fdc6f5dc-dafe-4460-bb38-7094f24cf277"
+Parent: "b0f18424-5404-472e-989e-902a437a5135"
+Template: "b0f18424-5404-472e-989e-902a437a5135"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/stats-card/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "stats-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9ca0e98a-15c9-47c7-98eb-c30545cff88b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020707Z
+    - ID: 29f93ee9-1847-4e7a-9426-06afcfc1c370
+      Hint: Trend
+      Value: flat
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5fba09e0-ad1c-44a2-81c4-29c885d18277
+      Hint: Value
+      Value: 24.8k
+    - ID: 7824277a-0fc1-4ee9-9185-614718676562
+      Hint: Label
+      Value: Active users
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3796322a-fd58-422a-ba10-96c2aca53ced"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020707Z
+    - ID: f70b1657-c895-4331-b5f1-ced66e051fb5
+      Hint: Context
+      Value: vs last month
+DB: master

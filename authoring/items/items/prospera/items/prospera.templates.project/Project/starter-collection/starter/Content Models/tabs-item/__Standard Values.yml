@@ -1,0 +1,457 @@
+---
+ID: "b46f535c-364c-4b26-936c-20c12cf73e59"
+Parent: "d42a1565-d4c2-44ec-bbee-69f5abdd4cba"
+Template: "d42a1565-d4c2-44ec-bbee-69f5abdd4cba"
+Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/tabs-item/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 219b63ee-2f4c-4c6a-9ae7-7fc076d27d8c
+  Hint: TriggerImage
+  Value: |
+    <image mediaid="{16F749D0-3C0F-471C-8DB7-A52D67F2C059}" />
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "tabs-item@1"
+- ID: 497ca192-0f12-4c59-bc9b-fcce418efd2e
+  Hint: PanelImage
+  Value: |
+    <image mediaid="{4AB3133F-EE99-4EA4-BD21-2146EA9408FD}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c8338ad9-0cf0-4e84-8052-0040693f78ac"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>استبدل هذا بالنص المنسّق الذي يظهر عند تحديد علامة التبويب هذه.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b6bf17cc-5cfc-4e6d-ac61-92a18bad2b49"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: نظرة عامة
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152035Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>استبدل هذا بالنص المنسّق الذي يظهر عند تحديد علامة التبويب هذه.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6cca1c6f-aa7e-47c1-a815-96add32ba8d2"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: نظرة عامة
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152036Z
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>Erstat dette med det formaterede indhold, der vises, når denne fane er valgt.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a82fb073-6686-4d28-8b74-ff7f68c4bfdc"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Oversigt
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: "<p>Ersetzen Sie dies durch den Rich-Text-Inhalt, der bei Auswahl dieses Tabs angezeigt wird.</p>"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "aceb9743-cde8-4a48-925f-e174c4edfe1e"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Überblick
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152035Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: "<p>Ersetzen Sie dies durch den Rich-Text-Inhalt, der bei Auswahl dieses Tabs angezeigt wird.</p>"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b2894734-3016-4553-8322-6080347a0a05"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Überblick
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152036Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222957Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: "<p>Replace this with the rich-text body shown when this tab is selected.</p>"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0723c7f1-4b83-4b1a-9a84-0a0acb1b233d"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Overview
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222957Z
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>Sustituye esto por el contenido de texto enriquecido que se muestra al seleccionar esta pestaña.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "08d50bcb-190e-4fbf-b5f8-1e3c5fc2acee"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Resumen
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152035Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>Sustituye esto por el contenido de texto enriquecido que se muestra al seleccionar esta pestaña.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8c50162e-2aa3-47c4-b618-19e32960f8f4"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Resumen
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152036Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>Remplacez ceci par le contenu riche affiché lorsque cet onglet est sélectionné.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "62085da6-12dd-4578-84fc-c5f18ee17185"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Aperçu
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152035Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>Remplacez ceci par le contenu riche affiché lorsque cet onglet est sélectionné.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b782d0c9-8b9b-41f0-9975-0051134857df"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Aperçu
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152036Z
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: "<p>Sostituisci questo con il corpo rich-text mostrato quando questa scheda è selezionata.</p>"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2c4e69bd-adfc-419a-88c7-4f4ef9c2dbdd"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: Panoramica
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>このタブを選択したときに表示されるリッチテキスト本文に置き換えてください。</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "cfab4658-1ff3-4836-92ad-03f1dc00e64f"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: 概要
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>请将此处替换为选中该选项卡时显示的富文本内容。</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "7188c97d-a8b2-4363-b388-ff3deec41c66"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: 概览
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222958Z
+    - ID: 502e49db-c97f-4941-9210-bc74ad66701a
+      Hint: Content
+      Value: <p>請將此處替換為選取該索引標籤時顯示的富文字內容。</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "59d3a1d6-01d0-4866-ba0a-5fedc99857cf"
+    - ID: a355bf83-3f39-448d-8187-6da6bc168db8
+      Hint: Label
+      Value: 概覽
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222959Z
+DB: master

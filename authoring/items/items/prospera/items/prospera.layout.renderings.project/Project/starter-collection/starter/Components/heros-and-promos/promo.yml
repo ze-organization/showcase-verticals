@@ -1,0 +1,73 @@
+---
+ID: "6bb067f0-02a4-4e79-8bef-100107536429"
+Parent: "af9803c5-f29d-4cc0-8270-436ecbfdd93e"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/heros-and-promos/promo"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+  Hint: componentName
+  Value: promo
+- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+  Hint: Placeholders
+  Value: |
+    {F167A1C5-FE40-484D-A3DF-0B49BE5EDAAB}
+    {CFAEAB10-B26F-48B4-9C04-44F75A8554BA}
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/d8e1bf9ed97f43c6a15acec62e9ab8d5.ashx?thn=1&db=master&v=2"
+- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+  Hint: Datasource Template
+  Value: "{BD18AE32-4F25-4CAB-BE2A-A128400BD768}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: promo@1
+- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+  Hint: Open Properties after Add
+  Value: 0
+- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+  Hint: Parameters Template
+  Value: "{12C09DAD-DDE9-45C8-83ED-F6492726821E}"
+- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+  Hint: Datasource Location
+  Value: "./Data/Promos|/sitecore/content/starter-collection/starter/Data/Promos"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f00deb04-a4c2-404c-8642-aa2cacb99264"
+- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+  Hint: OtherProperties
+  Value: IsAutoDatasourceRendering=true&IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "3401ca7b-5625-4cfb-a5e1-44c1568ee808"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Promo
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221842Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4b9511d6-f116-44dc-994c-8868dc565c34"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T231958Z
+DB: master

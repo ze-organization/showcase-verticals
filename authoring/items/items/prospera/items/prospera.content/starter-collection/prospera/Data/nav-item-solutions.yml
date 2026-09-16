@@ -1,0 +1,55 @@
+---
+ID: "27265f11-82cb-4971-be76-5303d5cab912"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "63e85c54-5c8e-4edb-aa7f-563572575cc5"
+Path: "/sitecore/content/starter-collection/prospera/Data/nav-item-solutions"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "nav-item-solutions@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "623a604e-c783-4d13-977c-ab91197b98e1"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "b964e204-9995-4ffc-9b7c-1e26915d4219"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Solutions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223543Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "7bcf5f78-d487-47da-be11-29479399f9c4"
+    - ID: a4541017-543b-47ce-93b0-2dc32a702b5e
+      Hint: HasPanel
+      Value: 0
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c6a02cee-8698-42b9-8055-baa6dd6c52cd
+      Hint: Groups
+      Value: "{A218FB78-264F-4D00-9B89-01D603712CC4}"
+    - ID: ca355d04-8250-4f8e-96f8-f2109212aec5
+      Hint: Title
+      Value: Advice
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T012925Z
+    - ID: eec6ef44-63dc-400f-beee-8bee1708c721
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Services" text="Advice" />
+DB: master

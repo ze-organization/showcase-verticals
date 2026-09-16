@@ -1,0 +1,88 @@
+---
+ID: "20835df2-1ac5-4466-a5e4-1c3458ca7433"
+Parent: "78abc95f-3d24-41b4-ba51-f517549946dc"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Partial Designs/FooterLegalStrip"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-legal-strip@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: footerlegalstrip
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5E1A168D-9751-49AB-B559-BD24D648AF6A}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "675ae88f-8b98-4c1e-bc56-12c85973af87"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9EC07F59-0444-545A-B2FA-FDE74807BF2C}"
+          s:id="{7C9A05AB-8562-4D90-87F0-81327B97AD1D}"
+          s:par="PaddingY=%7B3A97850D-FDC7-430E-9C78-3D2EB4CBC17D%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B011D9C57-188B-4EA5-8F7A-4C3CE2E18547%7D"
+          s:ph="headless-footer" />
+        <r
+          uid="{C6E6481F-0068-5878-B556-CAD2D14A30A0}"
+          s:id="{BE607F5B-2A6F-40EF-A4CE-90A68CF09E99}"
+          s:par="ColumnCount=%7B9E1654B8-93D6-4609-9309-EFCB850D9D71%7D&amp;MobileColumns=%7B254A296A-55ED-4759-92C3-C04C47B99271%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B9157FBF4-9784-46E4-8A9E-DE80A05B828F%7D"
+          s:ph="/headless-footer/footer-main-1" />
+        <r
+          uid="{1E6CA973-E1F6-5E12-BD5E-30CAD566D58F}"
+          s:ds="{5D26C8AB-25E5-4BF8-A29F-2D0506A0B954}"
+          s:id="{617CAEE4-0D10-4AA9-A441-69C768450722}"
+          s:par="DynamicPlaceholderId=3&amp;FieldNames=%7BEC457D91-FA07-437D-9344-CE9742582C6F%7D"
+          s:ph="/headless-footer/footer-main-1/column-1-2" />
+        <r
+          uid="{2DDF6F97-9A82-5542-BAD4-3C436A9F8292}"
+          s:ds="{C65D6932-403A-4809-A571-96135F84781D}"
+          s:id="{DB48F7F5-DE24-4E62-9FB4-963FF6B645DC}"
+          s:par="DynamicPlaceholderId=4&amp;FieldNames=%7B01878AFF-A72C-4859-95D7-914822721264%7D"
+          s:ph="/headless-footer/footer-main-1/column-2-2" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "963d51d1-61d5-4c8e-9a5f-5e4a43585eb5"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Footer — Legal Strip
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223631Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "388bed0e-2007-4406-bc34-cb6176382716"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021544Z
+DB: master

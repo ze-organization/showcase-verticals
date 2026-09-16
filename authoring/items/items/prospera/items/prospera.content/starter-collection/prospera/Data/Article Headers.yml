@@ -1,0 +1,39 @@
+---
+ID: "5d0727b2-6fef-4b7f-8543-abcedb0aea2d"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "175395e8-8390-477f-a01b-1f0fe0d05131"
+Path: "/sitecore/content/starter-collection/prospera/Data/Article Headers"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "7a4df8e9-3e8b-4d54-b0a7-5c796eebeb11"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "6cc925c6-2ae8-410f-945b-22f9b2c08845"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Article Headers
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214839Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0097bcb1-0301-49f1-a69b-11e05e655655"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214840Z
+DB: master

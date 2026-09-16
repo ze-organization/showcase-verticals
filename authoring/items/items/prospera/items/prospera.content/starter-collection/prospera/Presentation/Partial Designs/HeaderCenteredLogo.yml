@@ -1,0 +1,105 @@
+---
+ID: "18d4a769-f225-430d-aa97-040e9d875628"
+Parent: "78abc95f-3d24-41b4-ba51-f517549946dc"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Partial Designs/HeaderCenteredLogo"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "header-centered-logo@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: headercenteredlogo
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{15CEFF74-846B-45D2-B85A-0E8752F97BA8}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "99964ddb-3719-419c-b09e-33215ed0d261"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7436561D-9FB7-5DD5-9598-D8DB8CDE621B}"
+          s:id="{9D8EB9BF-7341-4DC0-B715-EDBFDF6F39A5}"
+          s:par="DynamicPlaceholderId=1&amp;FieldNames=%7B4294DB41-2D8E-445B-833B-C94D36E070EB%7D"
+          s:ph="headless-header" />
+        <r
+          uid="{3693BFFA-0F12-5EE3-AE6A-1DDB3A77FB17}"
+          s:ds="{2C2BF6E8-72F1-45F5-972E-0D46521B7163}"
+          s:id="{2C0AC7A3-13B8-481A-95CE-19CC0C8AC44B}"
+          s:par="DynamicPlaceholderId=2&amp;FieldNames=%7B57989A29-F1F8-4D12-AAAC-CBDB36F611C3%7D"
+          s:ph="/headless-header/header-start-1" />
+        <r
+          uid="{1E2433B8-02DA-5EDF-BF1E-6FFFF26706D7}"
+          s:ds="{2A213D3C-B274-4365-9B3E-C6DD2C78D12B}"
+          s:id="{E28F1FC6-97E5-4575-80D8-033DBDF1BD92}"
+          s:par="DynamicPlaceholderId=3&amp;FieldNames=%7B2709B66D-A6FE-4086-BC7A-191FD269A910%7D"
+          s:ph="/headless-header/header-nav-1" />
+        <r
+          uid="{24BC9737-CE0F-50C2-ADD2-AEAF61A6B20A}"
+          s:id="{5BC5B788-A2FC-4A10-BB7C-77DC89FD2EB7}"
+          s:par="DynamicPlaceholderId=4&amp;FieldNames=%7B64BA1F85-BFC2-4BB8-B43C-485D917A8F4E%7D"
+          s:ph="/headless-header/header-end-1" />
+        <r
+          uid="{A41A3B47-77B0-59CC-8321-4B9493D21479}"
+          s:ds="local:/Data/LogIn"
+          s:id="{F4DE1918-E77D-48F7-9E25-C548D7CF2F80}"
+          s:par="DynamicPlaceholderId=5&amp;FieldNames=%7B187848C0-58E2-4129-B367-9539926EE2B8%7D"
+          s:ph="/headless-header/header-end-1" />
+        <r
+          uid="{C95905A0-A479-5DD3-804D-8985B10AA633}"
+          s:id="{C5B1ACE1-3BEA-46B6-942B-4CAC80882547}"
+          s:par="DynamicPlaceholderId=6&amp;FieldNames=%7B73C721F7-90C3-4AC7-99A1-E2AF736E6862%7D"
+          s:ph="/headless-header/header-mobile-1" />
+        <r
+          uid="{74A0AD5B-F0EE-5FED-ABCC-18859E78D268}"
+          s:ds="{2A213D3C-B274-4365-9B3E-C6DD2C78D12B}"
+          s:id="{E28F1FC6-97E5-4575-80D8-033DBDF1BD92}"
+          s:par="DynamicPlaceholderId=7&amp;FieldNames=%7B2709B66D-A6FE-4086-BC7A-191FD269A910%7D"
+          s:ph="/headless-header/header-mobile-1/mobile-menu-6" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "6dc4e2eb-8af2-4339-971c-78a6e777249b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Header — Centered Logo
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223637Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "7a245e1b-98fb-4ba7-a79c-a38e29dba432"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021546Z
+DB: master

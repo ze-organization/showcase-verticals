@@ -1,0 +1,47 @@
+---
+ID: "eb67ecec-0e39-4b5c-8a2a-71c58c68e472"
+Parent: "706a31be-3ae9-4b1d-b65d-3d9c0f5ea311"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {A018FECA-B92F-4B23-B6F8-9BD6A43F9617}
+    {10A3D647-7CDA-49DA-9789-C55649A9B40C}
+    {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
+    {2B97B80F-3E0A-4C30-BDF9-5865786BE61F}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "landing-pages@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c679a928-b66a-44e2-81f8-14bfee7fc93c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154521Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3e63b15a-f238-46c4-b41f-2256fdf1c3fb"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T132103Z
+DB: master

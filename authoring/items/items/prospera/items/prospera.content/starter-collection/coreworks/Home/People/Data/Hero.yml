@@ -1,0 +1,63 @@
+---
+ID: "ccba0556-3796-4cc5-82a5-fe3cde631dbf"
+Parent: "2a70f3a5-409d-4862-aa6d-eb8e84938d45"
+Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Path: "/sitecore/content/starter-collection/coreworks/Home/People/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: people@1
+- ID: 94cfbee5-7a7d-49df-b5d4-b6653f3125fb
+  Hint: Image
+  Value: |
+    <image mediaid="{697AB307-828D-424C-AADF-100949417A52}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8169a9f7-600a-42c5-99f9-f69208c7efc8"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "06ab3db7-3f6a-4c79-a440-20d2abfcd969"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 078384e4-add9-401f-a0cb-704f8e3fbf30
+      Hint: Eyebrow
+      Value: People
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193014Z
+    - ID: 28ac333a-404d-41e9-a936-9c1589ff306e
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/People/amira-hassan" text="Meet Amira" />
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: The people behind the catalog.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e565a122-6fa3-4ea7-936f-0d9a56702f16"
+    - ID: b5eaa4fe-ac2c-43d6-9994-991b27300a73
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Careers" text="See careers" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215053Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: Three Person pages. Role is what changes — not the template.
+DB: master

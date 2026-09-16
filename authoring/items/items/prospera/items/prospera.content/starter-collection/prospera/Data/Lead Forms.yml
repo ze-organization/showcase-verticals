@@ -1,0 +1,39 @@
+---
+ID: "7d16b366-733e-42a5-a390-9800c4150b6f"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "05d7cd06-bd18-4175-82ed-244269dd804b"
+Path: "/sitecore/content/starter-collection/prospera/Data/Lead Forms"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "84965e06-2ee7-47af-8aa5-baeaba31fe58"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "82c33289-2acb-470f-a99d-2b0dd637ab3f"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Lead Forms
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220455Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "021c7053-26d0-4b98-8480-5cfccdb3d09d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220455Z
+DB: master

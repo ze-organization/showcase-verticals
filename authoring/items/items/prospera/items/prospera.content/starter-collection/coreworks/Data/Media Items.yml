@@ -1,0 +1,39 @@
+---
+ID: "c09f3cd4-1230-4c64-b17b-d84df5906208"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "efd79765-597f-4483-af02-2550b6ad9186"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Media Items"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6284e9cf-1bfd-4099-8234-ecdf690c5fad"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2c93cc2a-34e0-49ec-9e7d-2ef5261cf59a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Media Items
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220940Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "40c1e91f-8b58-4400-9ffa-7ea6d0efd73e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220940Z
+DB: master

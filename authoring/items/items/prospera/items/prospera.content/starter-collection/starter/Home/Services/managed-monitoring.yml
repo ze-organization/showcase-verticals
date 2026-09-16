@@ -1,0 +1,77 @@
+---
+ID: "eed10ae3-0704-463a-863c-5686b54f5ed4"
+Parent: "8edc4448-95a2-4287-871e-a6d89ec143eb"
+Template: "cd7c3c4c-a03a-46e8-91ed-9f13edb16eb0"
+Path: "/sitecore/content/starter-collection/starter/Home/Services/managed-monitoring"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{C3CDC733-78FB-404B-8BA3-AC17EC31F178}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "service-managed-monitoring@1"
+- ID: c03b497e-dc8d-43b9-b1bb-4113a66d99f1
+  Hint: Image
+  Value: |
+    <image mediaid="{7B8AE6C8-C662-411F-B3AA-151B7A6D1BC5}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8029F777-4459-4F33-BDA1-1034C700029F}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3b1a213c-bed4-43a5-8f32-ac6b164e32ad"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "a50db680-b999-453a-86ad-d70e7cd56f0b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Managed monitoring
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 171542b5-bd57-48b8-ba50-447f4848d7ca
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T224630Z
+    - ID: 2cecb24e-31fe-4505-a444-bb1486a55712
+      Hint: ShortDescription
+      Value: Keep the live site honest — errors, authoring friction, and the pages that stall.
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "managed-monitoring"
+    - ID: 5ab9b4f8-baba-4051-a802-9450c8860a6e
+      Hint: MetaTitle
+      Value: Managed monitoring — Showcase
+    - ID: 80487ecb-bb84-4405-9a5c-5b41ba937585
+      Hint: Title
+      Value: Managed monitoring
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9623aa8a-5156-49d3-867a-8ccf5deaf9a0"
+    - ID: 8ffe2de8-5672-4832-85ea-4bc92bb727a6
+      Hint: Content
+      Value: <p>We watch layout service, Edge, and the Pages canvas. When a placeholder key drifts from what SXA emits, authors see “missing React implementation” — we catch that before the next insert.</p>
+    - ID: b1d44b31-8456-453f-a018-460637196777
+      Hint: Eyebrow
+      Value: Operations
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260903T224632Z
+    - ID: e5f56334-83a9-473e-bb86-7173dea1468a
+      Hint: MetaDescription
+      Value: "Live-site and authoring monitoring. Sample Service page for the starter site."
+DB: master

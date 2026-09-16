@@ -1,0 +1,59 @@
+---
+ID: "476f8a2d-fe74-4182-91d9-c46dfa424988"
+Parent: "06e6ad1a-5cc5-4dab-88fb-f6d323b21791"
+Template: "06e6ad1a-5cc5-4dab-88fb-f6d323b21791"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/layout/section-wrapper/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "section-wrapper@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2e4ebe74-6a2b-447b-8956-00ef23f82ac9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020559Z
+    - ID: 35dc86f8-e176-4532-9bb3-f695a2c59b1c
+      Hint: Eyebrow
+      Value: Overview
+    - ID: 3fafc2a3-2ab9-458d-ab55-1f2d0bad59f3
+      Hint: Lead
+      Value: Short supporting copy that sets up the section.
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 56d7194b-b15d-4a69-810c-56ed60892116
+      Hint: Title
+      Value: Section heading
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 64153d4a-6ecd-426f-987d-a1590145e1f7
+      Hint: Link
+      Value: |
+        <link text="Learn more" linktype="anchor" url="#" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2dd744d3-e1cc-4f9e-98ec-cafc599ef97d"
+    - ID: a11453f4-91f5-4ec2-a261-383cdc49055d
+      Hint: BottomAlignment
+      Value: "{932A39AD-921A-400F-93C4-657FE5CA2FCB}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cee632ca-e3e4-4827-85d9-c3348032dd3c
+      Hint: BottomContent
+      Value: "{C4DABAE9-5BC0-4E97-84DB-2A26CF49857D}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020559Z
+DB: master

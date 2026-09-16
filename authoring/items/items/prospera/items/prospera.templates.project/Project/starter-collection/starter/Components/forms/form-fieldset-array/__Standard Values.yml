@@ -1,0 +1,497 @@
+---
+ID: "3cf284d2-c4a6-4e1d-8325-de464df7e706"
+Parent: "7ee80b05-d898-46fe-b165-a0fc33f42714"
+Template: "7ee80b05-d898-46fe-b165-a0fc33f42714"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/form-fieldset-array/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-fieldset-array@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b967f4eb-8b87-4b7d-a5f4-e72d2ac8cd7a"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223409Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: إضافة عنصر آخر
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3e8477bd-c617-4f54-8a89-1796d0cee37d"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: جهات الاتصال
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223410Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: إزالة
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152059Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: إضافة عنصر آخر
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "080b8004-c13c-4a36-ac38-c4e8885c836d"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: جهات الاتصال
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152059Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: إزالة
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223409Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Tilføj endnu et
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a8ee6c0e-2fad-46f8-8646-7fcb825555a4"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Kontakter
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223411Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Fjern
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223409Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Weiteres hinzufügen
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "41e7954c-dd23-4ae4-b68f-0116dc2bcc1f"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Kontakte
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223411Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Entfernen
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152059Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Weiteres hinzufügen
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2f6a24cc-04b7-4f6c-9966-ae359e786442"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Kontakte
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152100Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Entfernen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223409Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5e712ec9-37f5-4ac8-8481-555b8ddfe095
+      Hint: InitialCount
+      Value: 1
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Add another
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "97361c54-fdc6-4248-acb2-0c9aea72d483"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Contacts
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223409Z
+    - ID: dbf3070e-762b-4909-a91c-258b98120af4
+      Hint: Max
+      Value: 5
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Remove
+    - ID: fa5e80b8-8753-49cc-bc77-21395433d94a
+      Hint: Min
+      Value: 1
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223409Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Añadir otro
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "15d8133c-b96f-4dcb-81e8-5fae3bc34c88"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Contactos
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223411Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Eliminar
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152059Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Añadir otro
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "abbf2f59-6edb-40ee-80f0-70f7d89da079"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Contactos
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152100Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Eliminar
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223409Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Ajouter un autre
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "83879338-4988-42f2-b017-78e61cb72c4f"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Contacts
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223410Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Supprimer
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152059Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Ajouter un autre
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8aebfc55-888d-4ac1-824c-d5b7617556fb"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152100Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Supprimer
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223409Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: Aggiungi un altro
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0e10ea60-aa90-483f-a671-2b3f2e81c623"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: Contatti
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223410Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: Rimuovi
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223410Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: さらに追加
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "505b97ee-6e48-4b90-a789-d6bdd7f30e6f"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: 連絡先
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223410Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: 削除
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223410Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: 添加另一个
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c706a53c-9ec7-41f1-8b44-bd2f158229f9"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: 联系人
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223410Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: 移除
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223410Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 79e3a545-1809-45ab-a126-50aad4c89ca7
+      Hint: AddLabel
+      Value: 新增另一個
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "772eba35-67a3-492a-a9bf-4053d14b8c07"
+    - ID: a7627787-c4d7-4e22-971d-8e19a9c75c86
+      Hint: Legend
+      Value: 聯絡人
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223410Z
+    - ID: f7fcef0f-b095-4be4-8064-497270a31b81
+      Hint: RemoveLabel
+      Value: 移除
+DB: master

@@ -1,0 +1,113 @@
+---
+ID: "64e258a3-7a53-4531-826a-8ec1d1a34f0b"
+Parent: "e7121680-41a9-4fc6-b87c-b9a62654ffb8"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/HeaderUtilityBar"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "header-utility-bar@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: headerutilitybar
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B62C57F5-62D9-407B-BB6A-C4F42487E9F3}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a26c0c71-ec06-4662-aaff-dfd6afd69dae"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A7A3CF3F-CB19-5570-9438-5C2E58C514B7}"
+          s:id="{015F412B-7AB9-4F61-B65A-4D386563942E}"
+          s:par="DynamicPlaceholderId=1&amp;FieldNames=%7B922A73C0-F196-45D1-A263-10D93696E694%7D"
+          s:ph="headless-header" />
+        <r
+          uid="{223C7B87-4BCD-50DA-B5DC-C191D36D1743}"
+          s:ds="local:/Data/MenuTrigger"
+          s:id="{E6965693-50F6-4CF1-B954-B4CE2B32F886}"
+          s:par="ShowTriggerLabel=1&amp;DynamicPlaceholderId=2&amp;FieldNames=%7BD91CDEEB-EA9B-4890-869A-2A678740084F%7D"
+          s:ph="/headless-header/header-start-1" />
+        <r
+          uid="{E70793B6-5606-5016-B136-06BA58096A80}"
+          s:ds="{0C036ED1-9CF4-4501-8ED1-A7491A7F4A8B}"
+          s:id="{04CDD963-5944-4933-8A26-617788CACE76}"
+          s:par="DynamicPlaceholderId=3&amp;FieldNames=%7BB16D370F-4C1D-4715-A3DF-421F609545B3%7D"
+          s:ph="/headless-header/header-start-1" />
+        <r
+          uid="{627456C2-792A-5A12-B031-2D5E870C9B61}"
+          s:ds="{921B8A8A-B84D-4366-B62D-A72515AE8388}"
+          s:id="{32DC0479-3EEA-4913-B3E2-0ACE94165B6C}"
+          s:par="DynamicPlaceholderId=4&amp;FieldNames=%7B0DAF315B-CF2C-445C-9E5F-34ED97B0174B%7D"
+          s:ph="/headless-header/header-start-1/mobile-menu-2" />
+        <r
+          uid="{32F8583F-B031-5244-A7E4-D28F063F67D8}"
+          s:ds="local:/Data/Search"
+          s:id="{C3A9B35C-0589-4F4D-80ED-B68D069E7CCB}"
+          s:par="DynamicPlaceholderId=5&amp;FieldNames=%7B31543F23-8268-4F27-9760-73D8E0D09397%7D"
+          s:ph="/headless-header/header-end-1" />
+        <r
+          uid="{7FA95BCB-9169-5B0F-B655-DD8BD7977893}"
+          s:ds="local:/Data/Account"
+          s:id="{C3A9B35C-0589-4F4D-80ED-B68D069E7CCB}"
+          s:par="IconName=%7BAE615950-764C-4982-A743-AA54638FD6B0%7D&amp;PanelLayout=%7B1FE14C4E-D7D2-44F0-B900-456A80CFEBB2%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7BAEF91E70-D54B-4682-8D17-825FE0BE4198%7D"
+          s:ph="/headless-header/header-end-1" />
+        <r
+          uid="{79BD9187-1139-5BC9-909F-72CF7C4BC2A5}"
+          s:ds="local:/Data/PhoneCta"
+          s:id="{65A3D17A-FC8B-4F6E-A62F-5A0F0AB958DF}"
+          s:par="Variant=%7BF7178B84-BD97-4719-BE5E-A096A4F494D2%7D&amp;Size=%7BE93EA6E7-AC46-4C71-A9EE-39C763456A8E%7D&amp;IconName=%7BD830364D-7B0D-4CEC-B8F2-2C341ABAC121%7D&amp;DynamicPlaceholderId=7&amp;FieldNames=%7BD0D845C1-3660-444E-B89F-7CB86F8EA94E%7D"
+          s:ph="/headless-header/header-end-1" />
+        <r
+          uid="{596666D8-C36E-5BFA-9185-84C84E6E5D0E}"
+          s:ds="{860CBF28-7F3F-4E0C-8958-AAAC9E2E548C}"
+          s:id="{11F5466E-BC9C-49D6-8EF3-3C7542B2E0F2}"
+          s:par="DynamicPlaceholderId=8&amp;FieldNames=%7B04CFFF31-E451-4A97-A95F-A86D51AC66C5%7D"
+          s:ph="/headless-header/header-end-1/trigger-panel-6" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "1c337f5b-ddc7-4549-bb64-0cf7e3fca275"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Header — Utility Bar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223646Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5d47bbf1-0426-4e6c-9afe-bf0484aab70d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T214934Z
+DB: master

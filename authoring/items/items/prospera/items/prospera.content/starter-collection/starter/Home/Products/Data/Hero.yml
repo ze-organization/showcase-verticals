@@ -1,0 +1,63 @@
+---
+ID: "ea9dc90c-4fa7-493a-8c4f-6684a4f95728"
+Parent: "d7c1f3a0-73ac-49f7-a56f-8d48c8b7d71f"
+Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Path: "/sitecore/content/starter-collection/starter/Home/Products/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: products@1
+- ID: 94cfbee5-7a7d-49df-b5d4-b6653f3125fb
+  Hint: Image
+  Value: |
+    <image mediaid="{A98BA608-0B8B-4E08-8899-3D823242B352}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "890dc46c-9f0a-4995-9e3e-d104a3398d0a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "d1a47e9a-6e23-4db3-9f52-a4c175eae897"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 078384e4-add9-401f-a0cb-704f8e3fbf30
+      Hint: Eyebrow
+      Value: Products
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190313Z
+    - ID: 28ac333a-404d-41e9-a936-9c1589ff306e
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/Products/Lighting" text="Browse lighting" />
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Pieces that stay in the room.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9c9544eb-b2e9-49c1-895e-e8273c82e46d"
+    - ID: b5eaa4fe-ac2c-43d6-9994-991b27300a73
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Get-Started" text="Get started" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190327Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: Three categories. Insert a Product under Lighting, Seating, or Tableware — or nest a Subcategory when the set needs another fold.
+DB: master

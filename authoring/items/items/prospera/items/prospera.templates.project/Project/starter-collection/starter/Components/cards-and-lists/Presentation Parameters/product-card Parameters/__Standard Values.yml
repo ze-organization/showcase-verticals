@@ -1,0 +1,70 @@
+---
+ID: "6a188945-3cf9-493b-944e-10963d046823"
+Parent: "d04054d4-2087-4a80-8d35-67d2d5fe017f"
+Template: "d04054d4-2087-4a80-8d35-67d2d5fe017f"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/product-card Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0d0042d8-2b13-440d-850c-e53fa25d1d5d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 097a80c3-18d0-4767-9633-2acae35f69f1
+      Hint: Padding
+      Value: "{E1682301-09FF-4D16-B15E-C148BBD326BC}"
+    - ID: 1230ba8b-99dc-4028-8c57-18fdcb4bcf25
+      Hint: Style
+      Value: "{E2CB8F23-0D12-472A-9554-E4F7428B1DBD}"
+    - ID: 1cd15c8a-bfa1-496f-988b-62bd181bdb6e
+      Hint: MediaBleed
+      Value: "{4F41F715-F4B1-4F79-B81C-AE719979CA5C}"
+    - ID: 24a2430b-c797-49d4-90bc-1b12abe2a563
+      Hint: CardColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221643Z
+    - ID: 3770c3ad-9f12-41e8-8881-c83a30dad038
+      Hint: ColorBand
+      Value: "{07FBCE74-3836-499E-A615-280CD2B4F0A8}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 65f81f95-f9e9-44c4-ae9c-e59221f1745e
+      Hint: CtaVariant
+      Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e9a0f8c8-225a-442a-a88d-5aa797495afa"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d84b0be0-e7bf-4d8b-ad40-5e2685787a64
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203747Z
+    - ID: dce63635-3c1a-47d8-a854-ff67c0ecb34c
+      Hint: TitleLinkIcon
+      Value: "{180C5CB9-ED6E-4D9C-A592-05C3FE32DAC8}"
+    - ID: f999197d-3af2-4593-bf10-e3b45e8256e7
+      Hint: MediaFit
+      Value: "{5A995AAF-84E3-4E91-B1F5-BCF019928387}"
+    - ID: fa8ee40a-f5ec-4c84-8d48-c9ae1df4a23e
+      Hint: CtaKind
+      Value: "{BE0799A0-F360-466C-9FF2-E41DB08E1BFE}"
+DB: master

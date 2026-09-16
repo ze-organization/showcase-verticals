@@ -1,0 +1,58 @@
+---
+ID: "7762a864-3687-4954-839c-2cca6ca5c595"
+Parent: "ebec7dd2-0f53-433c-a348-5c9fd35b9584"
+Template: "ebec7dd2-0f53-433c-a348-5c9fd35b9584"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/pricing-card/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "pricing-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "fd8805fe-3382-4ba9-b564-8df111b193fc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015930Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6e1701e2-b514-418a-a723-eb6ce6b52064
+      Hint: Name
+      Value: Starter
+    - ID: 74302c26-46ab-4de8-b315-ce9bfef59b22
+      Hint: CtaLabel
+      Value: Get started
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "36c9d645-3213-411f-8675-5244d186f471"
+    - ID: b9d7f746-eb47-4c2f-b035-f26241546eb5
+      Hint: Currency
+      Value: USD
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cb1d67f8-94b4-4a1b-9118-ecb552ae1b75
+      Hint: HighlightLabel
+      Value: Most popular
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015930Z
+    - ID: e41b22f6-38df-4d6f-aec9-324db7064fcf
+      Hint: Price
+      Value: $29
+    - ID: ee86ce9d-9764-41e1-bf92-31f047457cd6
+      Hint: PricePeriod
+      Value: /month
+DB: master

@@ -1,0 +1,49 @@
+---
+ID: "ed914747-3859-4655-a855-d86c78d8376c"
+Parent: "4a253525-eee2-4e7f-8634-985c838da7f9"
+Template: "4a253525-eee2-4e7f-8634-985c838da7f9"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/Presentation Parameters/form-upload-field Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-upload-field@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5beba277-9215-47be-b15a-77dcf92911cd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 17a930d0-277e-42ef-84db-67427704257d
+      Hint: Size
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220025Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 619ccf7b-7903-4a25-9c5a-5f8cff9b5ae7
+      Hint: Width
+      Value: "{21695A61-D6FA-4C9E-858F-6B0B4E14DDFF}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "dc2de7b6-5ed4-4756-9250-7a0321647944"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203603Z
+    - ID: f37d5cef-4c3e-4d8c-8b39-626887c96c45
+      Hint: LabelOrientation
+      Value: "{B0323460-A3E0-4711-97FD-ABEF68D74829}"
+DB: master

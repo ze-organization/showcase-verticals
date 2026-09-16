@@ -1,0 +1,67 @@
+---
+ID: "9137be3d-caae-4891-af47-bfe25c1f3327"
+Parent: "69e6d16f-79eb-484d-b8c6-81aec6d507b7"
+Template: "69e6d16f-79eb-484d-b8c6-81aec6d507b7"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/feedback/Presentation Parameters/alert-banner Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "alert-banner@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "84a8bbc8-9105-46ac-946f-37ab9e898eff"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04b91fcf-68a9-4c63-ac47-459bd274a7c2
+      Hint: ShowIcon
+      Value: 1
+    - ID: 0eb82c6d-3673-47d0-8745-67301f8c6e68
+      Hint: Dismissible
+      Value: 1
+    - ID: 0f3de919-6f3d-4e74-b1e2-6121f6ec9fac
+      Hint: TrackEvents
+      Value: 1
+    - ID: 177066c8-3230-4f76-a57b-ae75b756b9c7
+      Hint: Layout
+      Value: "{05CCC5BF-9F2F-4E70-9703-CB97E402F771}"
+    - ID: 196d378c-894e-43a9-b4bb-1405ba5da70b
+      Hint: Composition
+      Value: "{636B9A6B-5376-4D18-971A-8523527FFA97}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T013609Z
+    - ID: 48be3c12-199f-4920-ab47-6acbd49ae001
+      Hint: Position
+      Value: "{31BD6CC7-658A-49FF-AAC0-69CC3198D414}"
+    - ID: 4e1d12da-aaa0-43d5-a7ee-7f7707376a82
+      Hint: DismissLabel
+      Value: Dismiss
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ddb874fb-a86a-48ac-a598-ab5ec2b41a96"
+    - ID: a0b52b82-e2f3-4bb5-8b1c-42fe01c38482
+      Hint: ColorScheme
+      Value: "{2E86C48D-4C15-401D-A0A5-6E1C9A746FFE}"
+    - ID: b7ec4774-28f8-4dcf-a97b-263adce22594
+      Hint: InstanceScope
+      Value: "{8C5912E3-436E-430E-B734-40126FCB1F8F}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013610Z
+DB: master

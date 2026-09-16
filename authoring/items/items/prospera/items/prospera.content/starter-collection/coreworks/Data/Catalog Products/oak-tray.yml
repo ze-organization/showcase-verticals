@@ -1,0 +1,58 @@
+---
+ID: "71aa5b4f-f851-4eb0-a48f-7e24a878c406"
+Parent: "0aded30a-4ee9-40c5-840d-e2b4becbeeea"
+Template: "e1f8b936-ff46-4434-9c39-34b91e166885"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Catalog Products/oak-tray"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "catalog-product-oak-tray@1"
+- ID: 7ea58df8-8edc-4418-bd12-c8ef45a4a094
+  Hint: Image
+  Value: |
+    <image mediaid="{E0086146-6B8B-4855-BBE1-E0E6614CD4A1}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6269a052-b5f8-40d1-abed-cc044f144cab"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "d69d23a2-6882-41f2-b5bc-9719f9f82620"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Oak Tray
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T224513Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2b2b1faf-4c1b-4270-9e1c-689412861f95"
+    - ID: 90b2f1a1-d9b3-43b1-9de1-58cdd239a2d7
+      Hint: Category
+      Value: Tabletop
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d5e878ec-4a2f-4c41-b3bf-10045957f9fb
+      Hint: Title
+      Value: Oak Tray
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215100Z
+    - ID: e5f81c96-420a-464f-a12f-58268fdc900e
+      Hint: Description
+      Value: <p>White oak, a shallow well, handles cut from the same board. Oil finish — wipe, do not soak.</p><p>Sized for a coffee table, not a serving procession. Pair with the Ridge Carafe if you want the still life complete.</p>
+    - ID: f60b802c-391f-4b97-8e54-6b210ba6a088
+      Hint: Tagline
+      Value: A low tray for the carafe, the lamp switch, the remote.
+DB: master

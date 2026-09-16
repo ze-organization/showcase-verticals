@@ -1,0 +1,56 @@
+---
+ID: "f14e3044-a60c-4f84-a03b-07ec40ff54ae"
+Parent: "7e7d5d29-fc62-4d09-b7a0-75ce2c7ecaf4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/Presentation Parameters/person-details Parameters/Parameters/MediaColumn"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1eb8ae32-e190-44a6-968d-ed904c794ebf
+  Hint: Source
+  Value: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/MediaColumn"
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  Hint: Type
+  Value: Droplink
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 1440
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8d6b3171-0ecb-4ff0-bc73-c6eca66ba058"
+Languages:
+- Language: en
+  Fields:
+  - ID: 19a69332-a23e-4e70-8d16-b2640cb24cc8
+    Hint: Title
+    Value: MediaColumn
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "a1c1de02-79bb-4de9-86b2-0148831518b8"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: MediaColumn
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260908T182015Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e4c9624d-9783-406d-b322-d39f6abd2ecd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T182015Z
+DB: master

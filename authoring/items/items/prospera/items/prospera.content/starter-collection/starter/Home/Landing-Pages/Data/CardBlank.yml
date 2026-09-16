@@ -1,0 +1,56 @@
+---
+ID: "78a8f5bc-cc31-4a21-8728-18476d3e901b"
+Parent: "9226119b-d6c4-4376-84d3-566ad4cd56cf"
+Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
+Path: "/sitecore/content/starter-collection/starter/Home/Landing-Pages/Data/CardBlank"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "landing-pages@1"
+- ID: c4b4278a-c86c-400a-aefe-5c5bfaec9014
+  Hint: Image
+  Value: |
+    <image mediaid="{58491524-B0F8-41E6-A83C-18B6BA9AF927}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "d2083c2a-b9da-4b4e-b14c-bafc221a1c8f"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "685b08a2-7c99-4251-8c6a-09faf5788c49"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardBlank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154524Z
+    - ID: 6e046336-9d89-44a0-8412-a447b720a7f7
+      Hint: Description
+      Value: <p>Header and footer only. Drop components into the main Container to build the campaign yourself.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6b5eefb3-665a-42f0-b2f5-d1bd0aff6457"
+    - ID: a832315c-75e1-4920-8831-0f44c6daaaa8
+      Hint: Title
+      Value: Blank landing
+    - ID: ba63fec8-8a4d-485b-86c2-4a054ae9c794
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Landing-Pages/blank" text="View blank landing" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T154529Z
+DB: master

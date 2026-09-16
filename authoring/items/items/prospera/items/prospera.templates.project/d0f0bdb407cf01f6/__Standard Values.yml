@@ -1,0 +1,73 @@
+---
+ID: "5e685a08-7ae0-452e-b6c9-0c3402914dbc"
+Parent: "dff8868b-25ad-4a46-b60e-d2311a68f384"
+Template: "dff8868b-25ad-4a46-b60e-d2311a68f384"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/Presentation Parameters/callout-card Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "callout-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "59249253-36ec-4ab6-98f4-afce932481bb"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0eedc710-20d6-4f48-b9d3-db489642401d
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215003Z
+    - ID: 3b4f7b6f-1db6-4919-9c2b-130050f49c37
+      Hint: ColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: 3d529826-f384-460f-8040-aa605989d298
+      Hint: HeadingSize
+      Value: "{E2713579-7695-4DBF-A447-93364060DCFC}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5de4f701-692f-4a37-8c4c-28104723d372
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: 65782670-275a-433b-a0b4-e901b16340ee
+      Hint: CardStyle
+      Value: "{B5269984-95A5-4514-AE07-49FA4A7342A6}"
+    - ID: 6f6afc61-eb69-437f-9354-9a737e60f6e2
+      Hint: ShowBand
+      Value: 1
+    - ID: 8793449f-18df-48e1-a615-794ed6eb47bd
+      Hint: InstanceScope
+      Value: "{B130681D-C9E9-4AD1-959D-9F588233CBF3}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2a12f32c-2451-4648-93fc-0ea09bebd093"
+    - ID: ba918131-aa3d-4685-97cd-3a6ee458c81b
+      Hint: ButtonVariant
+      Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bc9bec44-0896-4ec5-88e8-7e8a22b7cb74
+      Hint: ButtonAlignment
+      Value: "{37523A98-44D5-49B0-8411-E92A91D6CCE3}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203457Z
+    - ID: e214d187-ae87-45d0-8f71-1971b8e2f141
+      Hint: HeaderStyle
+      Value: "{238B36F3-056F-4710-B499-4013ED9DC408}"
+    - ID: f79d18b2-26b6-4673-9b05-bd35466df1be
+      Hint: ButtonSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+DB: master

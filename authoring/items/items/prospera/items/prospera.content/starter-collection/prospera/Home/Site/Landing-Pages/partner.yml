@@ -1,0 +1,180 @@
+---
+ID: "cc17933c-84c1-42d4-a974-3a8e1d204196"
+Parent: "706a31be-3ae9-4b1d-b65d-3d9c0f5ea311"
+Template: "2476972e-b68f-4589-81b0-231550d60e6f"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/partner"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 08081983-c374-4768-9d71-e8967e71f146
+  Hint: TestimonialAuthorImage
+  Value: |
+    <image mediaid="{F6018F7F-AEA4-4917-A260-F1635F96FBA6}" />
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{F5944F8E-8906-4B6D-98A4-30EAF5572F7C}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "landing-partner@1"
+- ID: 6a098f09-1266-41be-a0cc-a57138e25855
+  Hint: Image
+  Value: |
+    <image mediaid="{323B693B-C1BF-431E-9573-63CD7A3F5728}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{15F9E564-85B8-441C-B99A-6C581E3DD18D}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b9c01486-bff5-4e70-a6dc-d629f10e2f70"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "42d016bf-e00c-4070-80c8-6f7e403c0ee1"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Partner program
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 011522a0-4869-4311-bb32-700f784c47e2
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/People" text="Meet the team" />
+    - ID: 02eab6fe-fe08-4e33-b435-26a46c38614a
+      Hint: Stat3Number
+      Value: 1
+    - ID: 08763327-6978-4fcb-a2aa-eb2b298641a8
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Case-Studies" text="See the work" />
+    - ID: 088a84b1-0f33-4367-a6ec-b6f952d29e14
+      Hint: Faq2Answer
+      Value: <p>Only if the URL should differ. Otherwise one landing plus personalized field values is enough.</p>
+    - ID: 228cbd16-e240-46bf-b2e1-f0b866bc6b05
+      Hint: Stat1Number
+      Value: 3
+    - ID: 22bea2d7-7b6f-4634-ad8f-614b1c2c0c61
+      Hint: Faq5Answer
+      Value: <p>After push, set Landing Pages to Landing only. Nested insert stays Landing via the template.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154537Z
+    - ID: 2c116f5f-ef8f-472d-aa7d-d2c4095cd7a6
+      Hint: Feature2IconName
+      Value: shield
+    - ID: 35e5b5c0-afa2-41a4-859b-ce9082b9d1e2
+      Hint: Stat2Number
+      Value: 40+
+    - ID: 3b46baa2-3f2e-40e9-91c6-a1e9526d4bd8
+      Hint: Faq2Question
+      Value: "Do we need a landing per industry?"
+    - ID: 41ba76b2-53e7-4663-b63d-ee0d61cd7a14
+      Hint: Stat3Label
+      Value: Template for every campaign URL
+    - ID: 44980c51-f42b-4a03-9c23-b2e35035c313
+      Hint: Feature3IconName
+      Value: chart
+    - ID: 4792a77e-9e8a-4789-b4eb-258867bd25ba
+      Hint: Faq1Question
+      Value: "Can each partner get a different hero?"
+    - ID: 4c083050-09f1-4678-9acd-61f6a4e77a79
+      Hint: Faq1Answer
+      Value: <p>Yes — personalize Title, Image, and the CTAs. The section order stays fixed.</p>
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: partner
+    - ID: 504daf0a-4a90-47af-865f-fa863d3666bd
+      Hint: MetaDescription
+      Value: "Sample partner landing. Fixed six-section shape with field-level personalization in mind."
+    - ID: 6bccb0b8-4078-4ac7-a0b4-c01f503290c5
+      Hint: FinalCtaTitle
+      Value: Let's map your first account
+    - ID: 77379d11-6c3b-484a-a031-b169f15af327
+      Hint: Faq4Question
+      Value: "Can we add a form?"
+    - ID: 7a36c5aa-16da-46c9-823f-33dedf453f99
+      Hint: FinalCtaSubhead
+      Value: <p>Bring a brief. We fill the six sections and leave the layout alone.</p>
+    - ID: 7f3ec07d-dedb-4066-a7d8-26373a7f536c
+      Hint: Title
+      Value: Ship the starter. Keep your name on the work.
+    - ID: 8128a3b8-3966-4795-95fe-417cecdc9821
+      Hint: Faq4Answer
+      Value: "<p>Drop a form into the full-width placeholder under Landing Details. Do not grow the template with a form field.</p>"
+    - ID: 815ffd31-9e02-476d-8f41-7f8f0e51d647
+      Hint: TestimonialQuote
+      Value: <p>We keep one Landing type. Account teams change the fields, not the graph.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6cc5e210-4125-4f35-ab54-a2cf5c905b0b"
+    - ID: 9a475c2c-10ef-4005-8abb-c6520326b8c8
+      Hint: Feature3Description
+      Value: <p>Case Studies listing sits next door. Link it from the secondary CTA.</p>
+    - ID: 9d787890-446a-4d87-b515-458740b731e7
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a1245764-49b7-4dc9-a9ab-206cc68c4aba
+      Hint: Faq5Question
+      Value: "Who owns insert options?"
+    - ID: a1e97135-7f26-48f1-ab28-ef95e00324f9
+      Hint: FinalCtaAction
+      Value: |
+        <link linktype="external" url="/People" text="Meet the team" />
+    - ID: a6c48575-24e2-4cfe-b1ab-c0def6535021
+      Hint: Feature1Description
+      Value: <p>Landing, Case Study, Article, and Product already exist. You compose the tenant, not a new design system.</p>
+    - ID: afed0c82-5e40-4a51-b91d-3a50bbe5405d
+      Hint: Feature3Title
+      Value: Proof you can reuse
+    - ID: b33433b4-7e48-474e-9b7f-c83c02d2c50d
+      Hint: Stat2Label
+      Value: Fields an agent can fill from a brief
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bf900fbb-ad8b-4c64-8ded-50091ffafa91
+      Hint: Feature2Description
+      Value: <p>Every landing field is independently personalizable. Variant choice stays on the rendering, not a boolean.</p>
+    - ID: c1619f3b-2475-48d5-953f-4f978a94861b
+      Hint: Eyebrow
+      Value: For implementation partners
+    - ID: c220dc57-061d-45eb-a8ed-ed54357570a8
+      Hint: Stat1Label
+      Value: Sample landings in this starter
+    - ID: c6c46f43-f774-46ce-a659-25a6ccd575ee
+      Hint: Faq3Answer
+      Value: <p>Under Case Studies. That is a separate insertable type with Problem and Solution on the page.</p>
+    - ID: c90d7c6a-dece-43ce-ba16-a601f634c6a1
+      Hint: TestimonialAuthorName
+      Value: Sofia Lang
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260915T232909Z
+    - ID: ed5d626a-9c45-4485-af97-e3bfea8d7ef6
+      Hint: Feature1IconName
+      Value: users
+    - ID: ed9e12c8-715c-46d5-8ea8-528a9fc051e9
+      Hint: Feature2Title
+      Value: "Field-level ABM"
+    - ID: edc384b1-d35d-4af7-a742-0dc7ddff09e1
+      Hint: Faq3Question
+      Value: "Where do case studies live?"
+    - ID: f22db193-01a6-4c04-b825-60a3f33739c7
+      Hint: Feature1Title
+      Value: Shared catalog
+    - ID: f4ec005d-3148-4f34-9036-031edf269660
+      Hint: MetaTitle
+      Value: Partner program — Showcase
+    - ID: fa36d514-728d-4b09-b0dd-6fa6774df53d
+      Hint: ShortDescription
+      Value: A partner landing with the same six sections. Personalize the headline and proof per account — do not fork the type.
+    - ID: fce01a3d-4099-4d23-b3c1-3e35e6627426
+      Hint: TestimonialAuthorTitle
+      Value: Destination Guide
+DB: master

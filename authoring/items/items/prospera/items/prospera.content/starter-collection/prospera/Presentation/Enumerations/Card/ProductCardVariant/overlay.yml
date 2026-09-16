@@ -1,0 +1,50 @@
+---
+ID: "50130086-41d1-441c-9deb-d13c503edc1d"
+Parent: "06a066c5-5deb-4224-8ca9-71ffe0313263"
+Template: "94b6f4ae-dded-4e5f-b144-c4a842e8eda2"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/ProductCardVariant/overlay"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 2128fc95-cfe4-4cf5-93be-f5fee9d7694d
+  Hint: Value
+  Value: overlay
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-card-variant@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "32943edb-1b35-40b1-a120-00e8a19ddb12"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "bd651517-4d9f-4602-b9c9-254ec50eb4df"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Overlay
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T191932Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ffd9d31d-fdb0-4847-9f8b-992b9520fcbe"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T191932Z
+DB: master

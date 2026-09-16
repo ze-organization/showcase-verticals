@@ -1,0 +1,50 @@
+---
+ID: "7f2ac809-08e4-4185-b8de-8eb111eec691"
+Parent: "5d0f3896-c69b-4348-9049-34872744b632"
+Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/OverlapTop/half"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "overlap-top@1"
+- ID: 85ade29a-4684-4471-8a2d-a0937f1e85fd
+  Hint: Value
+  Value: half
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4359b00c-d9a8-43b9-86b6-33e2465c8ad6"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "44f3c64f-1aac-4aa3-b8d5-e61811cb862c"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Half (float over previous section)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221249Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "eebaab89-afd6-4524-b3f9-5032dd623b00"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T221249Z
+DB: master

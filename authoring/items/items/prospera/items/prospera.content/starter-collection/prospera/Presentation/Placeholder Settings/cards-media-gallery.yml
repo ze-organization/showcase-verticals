@@ -1,0 +1,53 @@
+---
+ID: "4f309191-31e8-4584-85ab-561719db48ae"
+Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/cards-media-gallery"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__placeholder-settings__"
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  Hint: Placeholder Key
+  Value: "cards-media-gallery-{*}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "bfb662aa-546c-4e95-b249-2b4a85e1e1c9"
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  Hint: Allowed Controls
+  Value: "{C26007E8-85EC-4C0F-B994-ABEDBCB35F79}"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2e4d5094-345a-4ee9-a41b-2b291d2d07d8"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: "cards-media-gallery-{*}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T230459Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "146a9ed0-b802-4007-a489-3bc194bd822f"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021830Z
+DB: master

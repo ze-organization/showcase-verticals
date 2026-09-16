@@ -1,0 +1,43 @@
+---
+ID: "46de4ebf-0d8b-4757-8c16-3446818c1bee"
+Parent: "6b95519b-0c45-4a33-99f1-e192e8f5a5fb"
+Template: "6b95519b-0c45-4a33-99f1-e192e8f5a5fb"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/Presentation Parameters/main-nav Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "main-nav@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b834def5-a44a-4148-80a8-b3f7b63d2edb"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221341Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ba6b198b-e88f-4bcd-a2af-1aca9edb2ceb"
+    - ID: a755060b-3b92-41b1-8958-2a6abd4895a4
+      Hint: MaxItems
+      Value: "{3D8D34F4-AAC8-45A1-B110-27EB50AC1C2E}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T221342Z
+DB: master

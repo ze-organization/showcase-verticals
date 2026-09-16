@@ -1,0 +1,66 @@
+---
+ID: "6f86f96c-a913-4580-b4a9-a5e42df660cd"
+Parent: "8476fa45-b849-4d96-b78a-46c3e346b1cf"
+Template: "8476fa45-b849-4d96-b78a-46c3e346b1cf"
+Path: "/sitecore/templates/Project/starter-collection/Pages/LocationMetro/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{94E866CA-EB1D-4A98-9C15-341D652C1386}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "location-metro@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "fec9950e-4026-44cf-8498-15cc5d25eabf"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190144Z
+    - ID: 4c7031f4-40a8-4dfb-b67b-29eaffa874b6
+      Hint: TwitterCard
+      Value: summary_large_image
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 68a119cb-6e34-4119-88cd-ccdb43947c06
+      Hint: IncludeInSitemap
+      Value: 1
+    - ID: 7bb493d8-5c13-4d7d-8a81-636f98c1bbf0
+      Hint: ChangeFrequency
+      Value: monthly
+    - ID: 7e1848c1-215c-419e-b5b7-466e70623525
+      Hint: OgType
+      Value: website
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "957677e9-da47-4733-81b6-6d76d5ae3bde"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d4cd932d-3fb6-4df8-bde1-6ca7efb96e2d
+      Hint: SitemapPriority
+      Value: 0.6
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190144Z
+DB: master

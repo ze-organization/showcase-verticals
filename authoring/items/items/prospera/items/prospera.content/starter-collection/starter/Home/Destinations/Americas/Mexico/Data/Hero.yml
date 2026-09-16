@@ -1,0 +1,63 @@
+---
+ID: "167179b8-e66b-4d98-8f47-e7e8979f5383"
+Parent: "c2a49780-0abf-4d81-ad4d-fcafab3f88b2"
+Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Americas/Mexico/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "destination-country-mexico@1"
+- ID: 94cfbee5-7a7d-49df-b5d4-b6653f3125fb
+  Hint: Image
+  Value: |
+    <image mediaid="{C9DA17FF-BAA8-475B-9C90-BC4A9218470F}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9f07c9b3-37cd-47e3-9a0b-8b36eb3bf3dc"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "3b1e10a2-0184-4b91-b927-a6497f158565"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 078384e4-add9-401f-a0cb-704f8e3fbf30
+      Hint: Eyebrow
+      Value: Americas
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190931Z
+    - ID: 28ac333a-404d-41e9-a936-9c1589ff306e
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/Destinations/Americas/Mexico/oaxaca" text="View Oaxaca" />
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Mexico, starting in Oaxaca.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "827abef5-b932-4ebe-a9f7-7014a07c450f"
+    - ID: b5eaa4fe-ac2c-43d6-9994-991b27300a73
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Destinations/Americas" text="Americas" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190935Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: One sample Destination. Insert another city under Mexico when the brief needs a second stop.
+DB: master

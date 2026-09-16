@@ -1,0 +1,79 @@
+---
+ID: "f0b654e3-f2c6-4187-99ec-fc8a906b395c"
+Parent: "0b3238b2-bd60-430c-a1b4-eb994d6d692f"
+Template: "0b3238b2-bd60-430c-a1b4-eb994d6d692f"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/Presentation Parameters/content-block Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "content-block@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9852b306-e8fb-4ae0-9fbe-68c506090600"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 052426a1-770f-4bd4-b938-2333a9411067
+      Hint: HeadingSize
+      Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
+    - ID: 0f73aee9-81f1-4c37-96a0-7095be188a64
+      Hint: AccentLineColor
+      Value: "{CFE1605C-6391-4017-A593-48739BD1844D}"
+    - ID: 1d81db0c-72a6-405d-9ca7-b3e9d365fbeb
+      Hint: HeadingLayout
+      Value: "{6324F678-CF82-4211-BC19-6DAC927C7665}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215349Z
+    - ID: 46f24350-3515-4d33-aab8-c831013c2113
+      Hint: ContentAlignment
+      Value: "{37523A98-44D5-49B0-8411-E92A91D6CCE3}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dc86ba9-e847-4988-aa14-0a983ef754d0
+      Hint: ProseSize
+      Value: "{4C1DE664-2FCE-487C-8F67-3C9B89625344}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 60f23ff3-c66d-4a27-9d3a-f421cf264a84
+      Hint: EyebrowColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b581515d-2a10-424b-a69b-942caa672dc4"
+    - ID: a746627c-88b1-4259-bce1-cc28402f7ae1
+      Hint: HeadingAnimation
+      Value: "{B945973A-CB0A-4E1F-A9B9-F589F2DBD98C}"
+    - ID: aed4891c-e172-4b3f-b68f-df87bd00cdf6
+      Hint: ProseLeading
+      Value: "{D3FC3795-117D-4A71-9423-5049ACB68C2B}"
+    - ID: b7a094ef-289c-45ec-9100-981ba943526b
+      Hint: EyebrowSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c289b251-2179-47f5-8954-4e3baa6c73cd
+      Hint: UseSectionWrapper
+      Value: 1
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203502Z
+    - ID: dd8c2c3f-b9d1-441f-8ec4-70281e35b272
+      Hint: HeadingLevel
+      Value: "{F0DB95D4-A67F-44D5-B912-1BA82907C870}"
+    - ID: f83c3189-3989-4d2f-8099-e52d70526b85
+      Hint: EyebrowStyle
+      Value: "{6E144A78-43C3-426D-8ADF-1357CE5D3886}"
+    - ID: fe321a21-dc3c-45cb-af0c-fc96c798c175
+      Hint: HeadingColor
+      Value: "{7B2DA977-5D35-4279-811A-E7A74EE1C5B0}"
+DB: master

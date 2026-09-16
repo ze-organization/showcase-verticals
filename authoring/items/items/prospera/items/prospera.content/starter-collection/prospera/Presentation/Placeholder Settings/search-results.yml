@@ -1,0 +1,84 @@
+---
+ID: "d7467660-f495-41a0-a763-481abfc1c97d"
+Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/search-results"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__placeholder-settings__"
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  Hint: Placeholder Key
+  Value: "search-results-{*}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6c37f207-b11e-4c7f-aa66-9d5f40547068"
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  Hint: Allowed Controls
+  Value: |
+    {F4F31339-88F8-44EA-9DA8-0188C7C611D1}
+    {30486DB0-8159-48E8-A31A-B22441E9AD7B}
+    {985E2035-912B-4FC5-8255-CCA45654F469}
+    {856C54A5-5B0A-408A-8D6F-02D868C7A523}
+    {54DB7C18-125C-4141-B6CF-397275252A05}
+    {28199AE9-2E2F-4140-919C-F5E13B8BDA85}
+    {555F8905-289D-4657-A40A-7902A6C9BF31}
+    {DBE56472-2E20-4583-8FDB-FC69DE969EE9}
+    {EBB670EA-8E56-4112-AB76-1F91FE3B2B00}
+    {640EE032-8377-49A4-95BD-F743BC5AC09E}
+    {C2286E0D-4A5E-47EC-A4CD-25EE4E421C2A}
+    {D94E6AA3-0832-4102-9120-35899469AE9B}
+    {0559F82E-820F-4420-8324-01586FA9BC8C}
+    {602DA10C-4B4B-4429-8679-B34DBADC6045}
+    {F4E45CE7-512E-44BA-BA25-06C5839F1E65}
+    {22610C86-A39F-4A55-AA44-3B2AF8FDC1FC}
+    {9712D6A3-FE64-4248-9338-4AACFD0EB702}
+    {7F7AE774-00BF-4069-B9BF-E43013DE1EA4}
+    {A5705663-5BC6-4696-BD56-2693A4946703}
+    {98EBFBE3-140F-4ABE-989C-8FC38BACFDE9}
+    {CA2BF16B-4FFA-414C-BDD5-D7E07AA3FD20}
+    {2BA81C86-156F-47B5-BD21-D0C27E4B7D71}
+    {2315E5F7-E30D-4252-BFAF-355EF8794FDD}
+    {7BEA3C03-914E-4975-9C0B-D4EF551BC1FA}
+    {D0D86178-4487-470D-844C-672B00A0170B}
+    {8AA22A06-A114-4FEB-B358-E06E816B9546}
+    {0C103EB4-EF4A-4AB5-B36A-9CDB02C415CA}
+    {391C20C5-B5B2-4C5A-8BD7-3D1AE94B66C5}
+    {78F311A9-7DC5-4FB7-AA56-8910E9DB28D7}
+    {CC4F8690-30A5-48DA-96EB-8830E989EE3E}
+    {DE8F7593-3876-4528-96AD-78565D85A722}
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "dfe4c3ca-0634-4df0-9d3e-de31ab2cb092"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: "search-results-{*}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T230553Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "434d0367-ceff-4626-b548-df86f02a513e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T022005Z
+DB: master

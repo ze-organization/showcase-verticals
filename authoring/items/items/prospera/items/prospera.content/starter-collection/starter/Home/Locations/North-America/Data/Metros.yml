@@ -1,0 +1,48 @@
+---
+ID: "04f6e481-bbc8-4c95-850d-1153cafde725"
+Parent: "f770b22d-b9b7-4d52-b8f1-57b82d00e0f0"
+Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
+Path: "/sitecore/content/starter-collection/starter/Home/Locations/North-America/Data/Metros"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "locations-north-america@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "fe7e09fb-0ed9-4cfd-84db-30f72c2b4dd3"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e08f6a20-d822-4c0f-a2b5-f02807efea57"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Metros
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192021Z
+    - ID: 2902f35f-46f3-497a-94bf-23b73a4d62dd
+      Hint: Title
+      Value: Metros
+    - ID: 68fbe66c-6994-4a63-af02-2913a6966af4
+      Hint: Lead
+      Value: <p>New York is the sample Metro fold. Insert another Metro when a city needs its own listing.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c74c4421-1c42-4636-b4b8-9e1013cf87d3"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192026Z
+DB: master

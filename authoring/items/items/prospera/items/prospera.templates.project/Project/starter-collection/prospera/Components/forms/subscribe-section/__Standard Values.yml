@@ -1,0 +1,67 @@
+---
+ID: "5abf089d-6ca9-4856-8337-ebccc74b4f33"
+Parent: "89b5db9c-1057-4354-90b5-daec520c5df9"
+Template: "89b5db9c-1057-4354-90b5-daec520c5df9"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/subscribe-section/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "subscribe-section@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8b830337-58c0-47db-a04a-76030bef92ef"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1a9080dc-597c-4137-853d-65a96467a371
+      Hint: NameLabel
+      Value: Name
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020919Z
+    - ID: 28c63f11-afd4-47b6-aeca-8fb0ad5ffaa8
+      Hint: EmailRequired
+      Value: 1
+    - ID: 28fe23a7-d982-4a47-8da8-209bfabe5916
+      Hint: NamePlaceholder
+      Value: Your name
+    - ID: 3ccd99f6-bd8e-462d-8857-fd5f9619d40a
+      Hint: ConsentRequired
+      Value: 1
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 59361816-b287-4d12-81f5-b3c8b5f41afb
+      Hint: ConsentText
+      Value: <p>I agree to receive emails and understand I can unsubscribe at any time.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7b246588-afdd-42c8-bd65-8c354f5d461d
+      Hint: SubmitAction
+      Value: /api/forms/subscribe
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "91e1b3a5-54f6-44ac-82ec-5d8a1a075a10"
+    - ID: 9afe87e2-d847-429d-9ab3-fd1c5c9a42f4
+      Hint: Description
+      Value: <p>Stay in the loop with the latest updates.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9666396-f2a5-43d7-848c-02ef634068ed
+      Hint: Title
+      Value: Subscribe to our newsletter
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020919Z
+    - ID: e9f5ad99-1bef-4580-ab65-a871a5de0195
+      Hint: SubmitMethod
+      Value: "{DDCA405C-6027-46FD-A3B3-1879A6B5616D}"
+DB: master

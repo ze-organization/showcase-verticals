@@ -1,0 +1,43 @@
+---
+ID: "f4dc1967-c0ff-4541-a66c-2ff4ded7ef25"
+Parent: "2ec5ca87-feed-4951-9d89-0a2eeb6d8d0b"
+Template: "2ec5ca87-feed-4951-9d89-0a2eeb6d8d0b"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Component Folders/locations-list-grid Folder/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{B679D558-55BB-4E0E-BA1F-C3CF459D03A7}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "locations-list-grid@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b3328af2-1620-4ff8-b039-07d56316a056"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220703Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "55e19bd7-8326-40ff-8ede-e0b9a7de5f61"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220704Z
+DB: master

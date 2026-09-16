@@ -1,0 +1,42 @@
+---
+ID: "f153760c-6024-4be7-bc81-49c7de961484"
+Parent: "cc4d8159-bc26-44c0-af92-1fbb37618e9d"
+Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Hero/OverlayShape"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1191a2f1-7d90-48ad-ba50-71ae79f812c5
+  Hint: Value
+  Value: card
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "overlay-shape@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6aa8f82d-6213-4f6f-a026-8e7395fd2840"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "52613fc4-5ad4-4ee7-895c-ec03f0560487"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Overlay Shape
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221253Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b8fa0391-f310-4e29-8a52-c282130c26ed"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T221253Z
+DB: master

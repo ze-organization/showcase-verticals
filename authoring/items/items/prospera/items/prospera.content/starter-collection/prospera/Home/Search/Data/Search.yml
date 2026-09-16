@@ -1,0 +1,45 @@
+---
+ID: "f9473922-3ba5-4bc9-9848-b47cc30dd91a"
+Parent: "6f301561-9187-4030-b00e-31d72d8c431e"
+Template: "a0087a72-8274-46e4-aaf0-5e41bf9390cc"
+Path: "/sitecore/content/starter-collection/prospera/Home/Search/Data/Search"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-page@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0103a3d2-a8cd-424f-9283-9ea2a6529880"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "3458bf75-4c60-4ee0-8993-a0de5480f339"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193312Z
+    - ID: 54d17633-27ac-4366-8ef6-d568f4adae7c
+      Hint: Lead
+      Value: <p>Start with a query. Results below use the Article cards already on the site.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d77ca314-503f-4c6c-ba38-ee87edeb3ca5"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193319Z
+DB: master

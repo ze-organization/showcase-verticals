@@ -1,0 +1,62 @@
+---
+ID: "861efb4f-d4c8-4d51-8539-90c5cdbacb7e"
+Parent: "bb2a29aa-c84c-488a-b426-429874ac5dda"
+Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
+Path: "/sitecore/content/starter-collection/coreworks/Home/About/Data/CardSofia"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1f47a59f-ca3d-4cea-b933-6780bf00fb97
+  Hint: Image
+  Value: |
+    <image mediaid="{3302B124-E4EB-4F6F-8DE4-4C22C20EA219}" />
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: about@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ad5088b3-8782-458c-a7d8-8199cce010e5"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e3129dc8-8d8c-4e2b-b84c-d911d61f04b1"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardSofia
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192946Z
+    - ID: 430cd7a4-03fc-4f77-89bb-df04e2706973
+      Hint: Eyebrow
+      Value: Travel
+    - ID: 49d7a53b-1265-4071-b2ad-f3784ef43300
+      Hint: FullName
+      Value: Sofia Lang
+    - ID: 6a697dca-a367-4f12-8bd3-47ea39922ea8
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/People/sofia-lang" text="View profile" />
+    - ID: 8a44e378-7fc6-4280-8d29-4f3db2b3dbe9
+      Hint: Role
+      Value: Destination Guide
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c706cb72-845d-4487-8a61-9fcd4e2c6c89"
+    - ID: 9e4ff79c-581f-4123-82ac-223ccb723aa7
+      Hint: Bio
+      Value: <p>Builds itineraries that leave room for the unplanned hour — markets, ferries, and a table that was not on the brief.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215033Z
+DB: master

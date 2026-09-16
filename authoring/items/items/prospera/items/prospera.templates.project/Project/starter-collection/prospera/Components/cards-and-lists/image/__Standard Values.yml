@@ -1,0 +1,47 @@
+---
+ID: "678ba039-6d91-47bb-9067-ab027f3a56ae"
+Parent: "5e9b0ad9-a30c-4742-9b70-da78edfa695d"
+Template: "5e9b0ad9-a30c-4742-9b70-da78edfa695d"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/image/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: image@1
+- ID: 53f7417b-b342-47a1-86cc-0f96816f6f3a
+  Hint: Image
+  Value: |
+    <image src="/theme-photos/home-hero.jpg" alt="Sample image" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "7f07dd80-e650-494d-a49f-88dc1ff5428c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014835Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "93b0ced6-8591-4f9b-a66c-0bd1e7ba727c"
+    - ID: 9326255e-53e2-4d58-bc86-3d2e22c9458c
+      Hint: Caption
+      Value: Image caption
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014835Z
+DB: master

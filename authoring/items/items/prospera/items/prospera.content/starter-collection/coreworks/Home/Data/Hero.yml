@@ -1,0 +1,69 @@
+---
+ID: "d400b882-5bd9-40d4-8e96-72b43adee1c7"
+Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
+Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: 94cfbee5-7a7d-49df-b5d4-b6653f3125fb
+  Hint: Image
+  Value: |
+    <image mediaid="ae6331cf-1ca0-4507-ac21-acafb6fe821f" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b95ab693-49d4-47d6-8007-919c85d040bf"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2ccd0bda-e601-4b53-869f-0db72cd1e239"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 001dd393-96c5-490b-924a-b0f25cd9efd8
+      Hint: __Lock
+      Value: <r />
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: 
+    - ID: 078384e4-add9-401f-a0cb-704f8e3fbf30
+      Hint: Eyebrow
+      Value: Coreworks
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T221751Z
+    - ID: 28ac333a-404d-41e9-a936-9c1589ff306e
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/Get-Started" text="Request a quote" />
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Precision metal made for your business
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2f5f430f-b294-4583-a76c-ebb93404792d"
+    - ID: b5eaa4fe-ac2c-43d6-9994-991b27300a73
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Products" text="Browse equipment" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T230637Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: Guarded CNC cells, fabricated enclosures, and inspection that leaves a record. Send a drawing. We reply with capability and lead time.
+DB: master

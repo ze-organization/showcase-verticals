@@ -1,0 +1,48 @@
+---
+ID: "78e35f03-66fd-4ac9-8570-8b9a5a708001"
+Parent: "be703d08-187f-4d32-94a3-73c839a7de53"
+Template: "a722d49a-f7af-49e1-9dfa-f2236ce547b0"
+Path: "/sitecore/content/starter-collection/starter/Home/Pricing/Data/Plans"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: pricing@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "78bc2509-42cc-41bd-b147-54807349e9db"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "41a8f3fe-f685-4e05-83de-81d60e2ef068"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Plans
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0b18f771-b9dc-4e44-afc2-668047340a43
+      Hint: Title
+      Value: Plans
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T222734Z
+    - ID: 27f321c2-e995-40b9-a131-cbdfaef6f514
+      Hint: Lead
+      Value: <p>Sample tiers so the pricing grid has something to render. Replace the copy for your tenant.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "623d07ec-d2b3-4528-93e2-2ad31118148c"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T222737Z
+DB: master

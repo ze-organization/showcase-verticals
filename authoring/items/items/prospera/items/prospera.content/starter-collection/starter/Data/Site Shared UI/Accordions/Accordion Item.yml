@@ -1,0 +1,39 @@
+---
+ID: "df27cc79-164d-4067-b16e-0baed8d6de8f"
+Parent: "3b57ac92-506b-44ca-bd02-2631046ad27a"
+Template: "1d5df663-6713-4d72-8d01-d38321eae6f5"
+Path: "/sitecore/content/starter-collection/starter/Data/Site Shared UI/Accordions/Accordion Item"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "bbee054a-6bcd-4464-a70e-a839ea81fae4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "582b8e75-52da-4fc6-bbcc-9e5f5c5b2ec9"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Accordion Item
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214448Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "774585a5-5c9d-42a9-a858-732570f72874"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214448Z
+DB: master

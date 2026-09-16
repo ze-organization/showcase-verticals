@@ -1,0 +1,455 @@
+---
+ID: "57d4ed72-49d8-4dbd-af7c-aebb96a48678"
+Parent: "5e0c9b9d-2afa-4d91-85b8-65a37afaf192"
+Template: "5e0c9b9d-2afa-4d91-85b8-65a37afaf192"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/versus-item/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "versus-item@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ca81e482-fe63-4b40-8a9d-192db1f52062"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: الطرف ب
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: الطرف أ
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "564328f3-2620-4cb0-ad97-a434e7b4ff0a"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: الطرف ب
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152046Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: الطرف أ
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6d53db3d-5044-4da7-a15d-eb9f9a9bbaa8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152047Z
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Part B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Part A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6e38b31a-1444-402f-a3ff-491ce52b0662"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Partei B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Partei A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f729d950-8636-4514-8141-618f88f05359"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Partei B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152046Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Partei A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "91aee35b-93a7-41ac-926c-64426b0bd1fd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152047Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Party B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 666eceeb-c8e4-4532-bacb-c6e6a25e8383
+      Hint: CenterValue
+      Value: "18:00"
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Party A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9b9a32e6-517d-4a77-b71d-03536371fd35"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223151Z
+    - ID: f5ccb87f-d993-4987-8608-46ed0b04db25
+      Hint: Status
+      Value: upcoming
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Parte B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Parte A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ad9ac9c2-0b03-42fc-878f-293128bc4cce"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Parte B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152046Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Parte A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e511e67d-725b-4711-8a3d-2b9e1ad291a6"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152047Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Partie B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Partie A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "207ab33f-c85b-4533-86fb-ce017da358c4"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Partie B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152046Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Partie A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "54da16ef-8a05-46d0-a23b-8293132b80dd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152047Z
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: Parte B
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: Parte A
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "11db9286-9659-49cb-814d-c47a56b4b56e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: パーティーB
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223151Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: パーティーA
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bf52ab20-4ecf-4d8e-b6b8-1c8a5a4d3826"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: 乙方
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223152Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: 甲方
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1dfbf925-5f9f-46c5-b535-15198fc9b173"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 222de5ca-6056-4563-a2f4-2bec9a22fd85
+      Hint: PartyBName
+      Value: 乙方
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223152Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 702fb726-ed21-47fc-a99d-8769935f1979
+      Hint: PartyAName
+      Value: 甲方
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "06dab3ea-b8ac-498e-be41-23916c16ef34"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223152Z
+DB: master

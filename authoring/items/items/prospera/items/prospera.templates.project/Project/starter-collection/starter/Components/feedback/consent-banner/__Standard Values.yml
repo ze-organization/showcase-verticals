@@ -1,0 +1,579 @@
+---
+ID: "89057488-a9b5-4079-b824-58822afe2abe"
+Parent: "aa4ce995-b1fa-4bc8-9794-364331fd86a2"
+Template: "aa4ce995-b1fa-4bc8-9794-364331fd86a2"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/feedback/consent-banner/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "consent-banner@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "632e050a-ec31-4077-8ba8-e9279eae0493"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215312Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: رفض
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: قبول الكل
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>نستخدم ملفات تعريف الارتباط لتحسين تجربتك وتحليل حركة الزيارات. اختر ما إذا كنت توافق.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "496c2ed1-24e2-4999-8866-c3bd314e2e90"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: نحن نقدّر خصوصيتك
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151739Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: رفض
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: قبول الكل
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>نستخدم ملفات تعريف الارتباط لتحسين تجربتك وتحليل حركة الزيارات. اختر ما إذا كنت توافق.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f1addcb5-82f9-4f96-b3a6-acc370b2f388"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: نحن نقدّر خصوصيتك
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151739Z
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215312Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Afvis
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Accepter alle
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Vi bruger cookies til at forbedre din oplevelse og analysere trafikken. Vælg, om du vil acceptere.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "944b4656-1cc6-458a-b4cd-b3bd34633482"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Vi værdsætter dit privatliv
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215312Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Ablehnen
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Alle akzeptieren
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Wir verwenden Cookies, um Ihr Erlebnis zu verbessern und den Datenverkehr zu analysieren. Entscheiden Sie, ob Sie zustimmen.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4ea8b5ed-bf8e-4c77-b112-fd0263f2793b"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Wir schätzen Ihre Privatsphäre
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151739Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Ablehnen
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Alle akzeptieren
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Wir verwenden Cookies, um Ihr Erlebnis zu verbessern und den Datenverkehr zu analysieren. Entscheiden Sie, ob Sie zustimmen.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9395c6f0-f5ce-481f-b497-df321c3b6669"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Wir schätzen Ihre Privatsphäre
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151739Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 016ea6b7-fdd9-45ee-83f0-8ecb1abf224d
+      Hint: AllowAllLabel
+      Value: Allow all cookies
+    - ID: 18484ab6-2a59-4be3-8848-a9b96ec9491b
+      Hint: DetailsLabel
+      Value: Details
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215311Z
+    - ID: 384f355d-20c9-49fd-b8dc-3875fe894217
+      Hint: StatisticsLabel
+      Value: Statistics
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Decline
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Accept all
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>We use cookies to improve your experience and analyze traffic. Choose whether to accept.</p>
+    - ID: 5bd8a9ed-65c5-46fa-a8bd-591aad57696f
+      Hint: ConsentLabel
+      Value: Consent
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6f80d075-8ad1-4b6b-b50b-2b36e2407324
+      Hint: NecessaryLabel
+      Value: Necessary
+    - ID: 838c973e-29b3-410c-bf6d-a21240eb8824
+      Hint: NecessaryDescription
+      Value: Necessary cookies keep the website usable — page navigation, secure areas, and remembering your consent choice. The website cannot function properly without them.
+    - ID: 86a170b3-0948-45d8-9fb4-196c739a8781
+      Hint: PreferencesLabel
+      Value: Preferences
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5dfd1f22-9ff4-4c41-b07b-2258fcdf528d"
+    - ID: 95108f71-bb41-45f6-913a-f6c094a1058e
+      Hint: PolicyLink
+      Value: |
+        <link text="Privacy policy" linktype="external" url="/" />
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: We value your privacy
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c186a23f-ab4c-42e7-bbbc-50f5b50e5e75
+      Hint: MarketingDescription
+      Value: Marketing cookies are used to track visitors across websites so we can display content that is relevant and engaging.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215312Z
+    - ID: e0bd3d3b-4981-4162-8277-3ba8ff671cac
+      Hint: PreferencesDescription
+      Value: Preference cookies let the website remember choices that change how it behaves or looks, like your preferred language or the region you are in.
+    - ID: e20fd335-a900-450f-940a-06840b9e23ef
+      Hint: AllowSelectedLabel
+      Value: Allow selected
+    - ID: e240f29b-de5e-424c-96b3-63addba3b6c9
+      Hint: MarketingLabel
+      Value: Marketing
+    - ID: e399fe18-f039-47b0-9d52-b191aed7ab5b
+      Hint: NecessaryOnlyLabel
+      Value: Necessary only
+    - ID: e92b65a7-1ea5-4c01-a204-4f24889626b1
+      Hint: AboutLabel
+      Value: About
+    - ID: ff5b6f90-df6c-41b1-84d1-7ea42c5d68d2
+      Hint: StatisticsDescription
+      Value: Statistics cookies help us understand how visitors interact with the website by collecting and reporting information anonymously.
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215312Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Rechazar
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Aceptar todo
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Usamos cookies para mejorar tu experiencia y analizar el tráfico. Elige si deseas aceptarlas.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b3eb3ac4-690a-46b2-9e91-5a68350b091f"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Valoramos tu privacidad
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151739Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Rechazar
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Aceptar todo
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Usamos cookies para mejorar tu experiencia y analizar el tráfico. Elige si deseas aceptarlas.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6e8dc98c-0102-4d69-bb09-054a7a245c66"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Valoramos tu privacidad
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151739Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215312Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Refuser
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Tout accepter
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Nous utilisons des cookies pour améliorer votre expérience et analyser le trafic. Choisissez de les accepter ou non.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1acd8d77-c5cf-4df1-afb6-d5bcd6392e09"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Nous respectons votre vie privée
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151739Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Refuser
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Tout accepter
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Nous utilisons des cookies pour améliorer votre expérience et analyser le trafic. Choisissez de les accepter ou non.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0a4e880b-1286-4ef7-99d6-52acbf18cf36"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Nous respectons votre vie privée
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151739Z
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215312Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: Rifiuta
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: Accetta tutto
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>Utilizziamo i cookie per migliorare la tua esperienza e analizzare il traffico. Scegli se accettare.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0aaa69f2-c010-40ce-8420-42b356d7660a"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: Teniamo alla tua privacy
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215313Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: 拒否する
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: すべて同意する
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>体験の向上とトラフィック分析のためにクッキーを使用しています。同意するかどうかをお選びください。</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "771f58cc-07a9-4bb0-9925-9006eb863f53"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: プライバシーを大切にしています
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215313Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: 拒绝
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: 全部接受
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>我们使用 Cookie 来改善您的体验并分析流量。请选择是否接受。</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1bf477af-f147-4460-8c03-21325b884709"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: 我们重视您的隐私
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215313Z
+    - ID: 448ed990-89a9-4714-b535-5a1ecb6dd1e2
+      Hint: DeclineLabel
+      Value: 拒絕
+    - ID: 4df7e672-89d4-4eed-bdf5-a597863e4a76
+      Hint: AcceptLabel
+      Value: 全部接受
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 543284fc-55f7-45d8-b4ff-0108c4c8aeb4
+      Hint: Text
+      Value: <p>我們使用 Cookie 來改善您的體驗並分析流量。請選擇是否接受。</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c268c3e8-ec24-40a3-828d-5f547e9a1a85"
+    - ID: 951c4f0c-60a9-423b-8963-99f6b3245085
+      Hint: Title
+      Value: 我們重視您的隱私
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215313Z
+DB: master

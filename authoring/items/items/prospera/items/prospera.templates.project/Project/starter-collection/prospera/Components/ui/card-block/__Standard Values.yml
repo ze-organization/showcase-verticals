@@ -1,0 +1,64 @@
+---
+ID: "8846458a-e3dc-452a-83a0-71d070b10da1"
+Parent: "2cc4d412-d9d5-4914-b40d-193613399a67"
+Template: "2cc4d412-d9d5-4914-b40d-193613399a67"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/card-block/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "card-block@1"
+- ID: c7a1b045-2844-4935-bdb2-f1057738e1f7
+  Hint: Media
+  Value: |
+    <image src="/theme-photos/home-hero.jpg" alt="Card visual" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "fef950e2-f26f-40fc-8ebb-90facc78e140"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 03e7f183-3308-4e74-9f1c-47d1f02ddb86
+      Hint: SecondaryAction
+      Value: |
+        <link text="More details" linktype="external" url="/" />
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T013919Z
+    - ID: 31e51ba4-582f-4ec3-91f9-b78d4764947b
+      Hint: PrimaryAction
+      Value: |
+        <link text="Learn more" linktype="external" url="/" />
+    - ID: 37b5e613-ac79-4324-be8c-68ad095cb599
+      Hint: Description
+      Value: Short subheading shown under the title.
+    - ID: 4a506bd6-52ff-435f-aca1-bd9ce380b6ff
+      Hint: Title
+      Value: Card heading
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7801b7f3-be48-4b8d-83e5-ed3c52ab7240
+      Hint: Footer
+      Value: <p>Optional footer note — replace or clear at placement.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "92055894-e5de-46b2-a683-1f2828db9cb3"
+    - ID: 9bb0f5a1-f304-49ce-a0bd-61f24ea4479f
+      Hint: Content
+      Value: <p>Card body content goes here.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013919Z
+DB: master

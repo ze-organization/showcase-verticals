@@ -1,0 +1,51 @@
+---
+ID: "6b10dafa-61f6-41a0-a4ee-d1f10be644e7"
+Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
+Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Data/WeDont"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "d92330b9-79ca-4865-87a5-8b9361c209b6"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e3ab3361-14d6-414a-88b8-ff366c64bc13"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: WeDont
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 169f5a27-b677-418f-be85-bca86ee122a0
+      Hint: IconName
+      Value: warning
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T230623Z
+    - ID: 6e046336-9d89-44a0-8412-a447b720a7f7
+      Hint: Description
+      Value: <ul><li>Invent a cell for every SKU</li><li>Guess material or finish</li><li>Skip the probe record</li><li>Trade a newsletter for a quote</li></ul>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5e25741b-6360-4776-8be5-948403911535"
+    - ID: a832315c-75e1-4920-8831-0f44c6daaaa8
+      Hint: Title
+      Value: We won't
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T230638Z
+DB: master

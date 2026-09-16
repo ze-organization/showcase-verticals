@@ -1,0 +1,49 @@
+---
+ID: "3f508a1b-a3d3-4a1d-9c4a-e8a5a5d50e75"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
+Path: "/sitecore/content/starter-collection/coreworks/Data/nav-link-news"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "nav-link-news@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "dbc38080-d940-4fb8-b72d-e9fb7caef4d5"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "dde138af-a513-474c-a3e0-9f50537c27f0"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: News
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193459Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "265ab379-c667-436e-8fbc-d33a1bcc0959"
+    - ID: b5d4268a-857f-42e3-aead-31acc948e95b
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/News" text="News" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d23fc9d5-10d5-4a4f-b99e-aac87330a92d
+      Hint: Title
+      Value: News
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193459Z
+DB: master

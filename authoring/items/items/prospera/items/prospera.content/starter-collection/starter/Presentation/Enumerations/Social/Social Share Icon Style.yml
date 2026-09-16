@@ -1,0 +1,42 @@
+---
+ID: "7e8b14a8-c1e6-4bbf-bea5-8cf7d2c5f872"
+Parent: "f3770975-e67b-412d-8591-5f93f499cec7"
+Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Social/Social Share Icon Style"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1191a2f1-7d90-48ad-ba50-71ae79f812c5
+  Hint: Value
+  Value: native
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "social-share-icon-style@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0d141597-aa67-4858-b049-2ed8cba0fa80"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "9d64a0b4-6c45-4f9a-bd29-371c8a09188a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Social Share Icon Style
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222519Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9292979a-ffc8-4d46-967b-424b9cae6f04"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222519Z
+DB: master

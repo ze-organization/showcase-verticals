@@ -1,0 +1,40 @@
+---
+ID: "af9803c5-f29d-4cc0-8270-436ecbfdd93e"
+Parent: "45df18da-0b5e-4d89-9fc8-88938b598eda"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/heros-and-promos"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/fab2b9421e014142b6bf532e86d53f80.ashx?thn=1&db=master&v=2"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "950ecdbd-4ac2-45fb-9909-cf5123225a69"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214840Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4178a6e7-13ca-4b10-9ac3-8b24ad64974c"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T232232Z
+DB: master

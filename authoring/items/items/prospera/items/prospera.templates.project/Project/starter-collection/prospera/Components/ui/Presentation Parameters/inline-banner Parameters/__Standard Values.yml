@@ -1,0 +1,49 @@
+---
+ID: "db96f715-6890-4b52-bc74-d8336c4f30e7"
+Parent: "2ee5c898-0e8e-4a18-b731-c90d8b12bd00"
+Template: "2ee5c898-0e8e-4a18-b731-c90d8b12bd00"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Presentation Parameters/inline-banner Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "inline-banner@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "dcc724b7-19c1-478c-9088-9dc2bf5a273c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1ec71405-1f29-4d7d-9d0a-a75a8d85aa2c
+      Hint: ShowIcon
+      Value: 1
+    - ID: 230a8676-5669-4f29-888b-ece9b1d13efa
+      Hint: Composition
+      Value: "{636B9A6B-5376-4D18-971A-8523527FFA97}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014848Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6ced3179-377d-43ea-9113-15bd9313d5a6
+      Hint: ColorScheme
+      Value: "{2E86C48D-4C15-401D-A0A5-6E1C9A746FFE}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3adea801-df1e-44cd-bf86-d3916a3fd9af"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014848Z
+DB: master

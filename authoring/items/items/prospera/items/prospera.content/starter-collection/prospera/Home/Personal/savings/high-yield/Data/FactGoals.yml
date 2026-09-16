@@ -1,0 +1,55 @@
+---
+ID: "f510f183-8a6d-4316-b4b2-bc3d273c685a"
+Parent: "b4dc4bed-cf15-4b55-b175-67d911697bc5"
+Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/high-yield/Data/FactGoals"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-savings-high-yield@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b49290ce-279f-40a7-9203-678bd3817d90"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "122e2ea7-895e-4d85-a5d3-61c89283b270"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: FactGoals
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193419Z
+    - ID: 3749bc4d-27b2-4f03-a4b2-3fa6caf890d1
+      Hint: Description
+      Value: <p>Label balances for rent, a repair, or a down payment. The APY is the same published sample rate.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "11cf3342-59c4-45c7-b1d7-7fbf116ef079"
+    - ID: b376f791-9d7c-43e4-8b36-51a958eb4c7a
+      Hint: Title
+      Value: Savings goals
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193426Z
+    - ID: eeafe96f-4d61-4e1d-a55f-2a28005cdeb8
+      Hint: IconName
+      Value: savings
+    - ID: f5712a6f-019b-408a-9f92-1445842c3d8e
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Features/goals" text="How goals work" />
+DB: master

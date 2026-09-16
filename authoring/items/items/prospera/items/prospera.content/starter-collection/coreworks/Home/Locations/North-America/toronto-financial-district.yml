@@ -1,0 +1,110 @@
+---
+ID: "81902c4e-cb59-428d-a026-c2678b8d816d"
+Parent: "901c06ba-2a9e-4d9a-b452-17142f56bf0d"
+Template: "94e866ca-eb1d-4a98-9c15-341d652c1386"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/North-America/toronto-financial-district"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{D2579DCE-BFDD-4BAE-BED9-8590C8585F63}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "location-toronto-financial-district@1"
+- ID: 64043948-ed7e-4969-ada4-abef173e2e23
+  Hint: Image
+  Value: |
+    <image mediaid="{754C65FA-2DB6-4E19-BE16-D040AC018B1B}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2BC3125E-13CE-42F0-A427-00BD96D56818}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5824d9a8-756b-4c35-b2b8-11c20633fd73"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "3d681c05-aa5a-41c3-9c8a-aa4063420549"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Toronto Financial District
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0145683c-7d5b-49b5-98f2-750d9f469aa4
+      Hint: City
+      Value: Toronto
+    - ID: 03142dc8-113f-43f0-a4cd-19cd92f83424
+      Hint: Country
+      Value: Canada
+    - ID: 20473c72-15bd-4104-b289-e88d74fbf831
+      Hint: Eyebrow
+      Value: Branch
+    - ID: 205c2120-5207-40d0-9f6c-37dc562d18ec
+      Hint: Hours
+      Value: "<p>Monday–Friday 9:00–17:00<br/>Saturday 10:00–14:00<br/>Sunday closed</p>"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T200319Z
+    - ID: 2f750f77-6bf0-477b-a82c-67b598388e8c
+      Hint: PostalCode
+      Value: M5H 2N2
+    - ID: 458ad2e2-f1ce-49f1-aabb-5f58c47c2f22
+      Hint: MetaDescription
+      Value: Across from Nathan Phillips Square — a compact floor for hybrid teams in the core.
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "toronto-financial-district"
+    - ID: 5a80a0bf-0627-4a3d-bc4f-3f0084097bf4
+      Hint: Title
+      Value: Toronto Financial District
+    - ID: 6440bf98-7099-408a-84f3-61b2ef253cdf
+      Hint: Email
+      Value: toronto@example.com
+    - ID: 765cc1c2-141f-4916-9972-677530d676aa
+      Hint: MetaTitle
+      Value: Toronto Financial District — Showcase
+    - ID: 778ffe8b-f3e9-499d-b147-980c5dadcdd5
+      Hint: Latitude
+      Value: 43.6534
+    - ID: 7c133d20-3f5d-430f-bb9a-33dea3003441
+      Hint: Content
+      Value: <p>The Toronto location faces City Hall. PATH connected in winter; Queen streetcar at the door.</p><p>Bilingual reception. Book a booth if you need a closed door for a call.</p>
+    - ID: 80ccc3e6-2b36-4d8c-b494-81f7dbc7a438
+      Hint: Longitude
+      Value: "-79.3841"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d1cb7b08-3cb9-4f8f-9ab2-9bff7afb20db"
+    - ID: a3e8474e-03e8-4013-a9d2-36a621013590
+      Hint: ShortDescription
+      Value: Across from Nathan Phillips Square — a compact floor for hybrid teams in the core.
+    - ID: a9391d98-647f-48c3-a949-bc76d2d308f5
+      Hint: Phone
+      Value: +1 416 555 0136
+    - ID: aded20ab-b3ad-43cf-9c21-1ff2202de63c
+      Hint: Region
+      Value: North America
+    - ID: aeccda8d-9256-44a6-b595-21717a3d1fec
+      Hint: State
+      Value: ON
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215049Z
+    - ID: e68397ec-6cf4-4a78-a066-e043d9546c55
+      Hint: Address1
+      Value: 100 Queen St W
+    - ID: ef1739ef-85bd-4bdb-9130-b2d8a03a2805
+      Hint: IncludeInSitemap
+      Value: true
+DB: master

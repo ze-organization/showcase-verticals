@@ -1,0 +1,49 @@
+---
+ID: "97da4e07-35a4-4a68-bd30-c52c63e72cd8"
+Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
+Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
+Path: "/sitecore/content/starter-collection/starter/Data/footer-link-partners"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-link-partners@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "176d46c5-02a8-4382-9850-39d41f3bd3e4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "c9beae6e-3cb2-4f84-b1c9-3af4172f4ea1"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Partners
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193654Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c8548bd7-ec1e-4e99-8d8b-0b4b742dc76b"
+    - ID: b5d4268a-857f-42e3-aead-31acc948e95b
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Partners" text="Partners" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d23fc9d5-10d5-4a4f-b99e-aac87330a92d
+      Hint: Title
+      Value: Partners
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193654Z
+DB: master

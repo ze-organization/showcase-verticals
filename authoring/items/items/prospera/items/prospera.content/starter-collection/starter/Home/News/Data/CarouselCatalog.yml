@@ -1,0 +1,59 @@
+---
+ID: "b05f6cbb-f04b-4f04-b985-45cba48d1f59"
+Parent: "d0460f5f-9b1c-4704-8c25-ec97fc893e62"
+Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
+Path: "/sitecore/content/starter-collection/starter/Home/News/Data/CarouselCatalog"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "news-listing@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5e363ca6-8c43-4fa6-84fb-f5ef325ca01b"
+- ID: fec5206f-28dc-42b9-8bcc-4cf7e042aaaa
+  Hint: Image
+  Value: |
+    <image mediaid="{EC3E2D49-335A-48B4-87B6-03CE737F61B1}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "41b1bd8e-06f5-4d80-af21-f81e5df56652"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CarouselCatalog
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 08a97d39-e861-4fb4-9676-467800790ffd
+      Hint: Eyebrow
+      Value: Product
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192200Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3cee9466-8a69-4448-9a11-c15d81601723"
+    - ID: 9a110a03-2ae4-4e97-93a2-03c18f5d5e0d
+      Hint: Excerpt
+      Value: <p>Page stays marketing.</p>
+    - ID: b27c83d4-00e3-4942-b60b-c16e36dc08b5
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/News/catalog-ships-insertable-types" text="Read story" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cfcd7906-6df1-4e9d-bcc3-eb4ef751f020
+      Hint: Title
+      Value: The catalog ships insertable types, not a fork per URL
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192209Z
+DB: master

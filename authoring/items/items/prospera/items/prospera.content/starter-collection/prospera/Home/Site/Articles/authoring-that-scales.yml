@@ -1,0 +1,82 @@
+---
+ID: "5a97c00b-5b6e-4606-81dc-fba5d90a06c7"
+Parent: "d1a80c7e-1d0d-4763-9ce9-a7af58c1ba67"
+Template: "a53efb46-fcb0-4a10-8b76-625fb560bc09"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/authoring-that-scales"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{DF3F69D6-5D66-4A32-BFBA-BD8B6D3755D3}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "article-authoring-that-scales@1"
+- ID: 4ad215e8-ffbf-48e9-934a-17b03bb8192a
+  Hint: Image
+  Value: |
+    <image mediaid="{D87812FD-E852-40BE-A4B6-6D4AF5019337}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3AE86D96-10DE-4BBE-B2F9-66AFBE5BC334}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f43cff27-f2ad-45e4-8b07-3f276c87155a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "cd47d130-ebba-4e1c-a1eb-05dae29b0115"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: "Authoring that scales: insert Article, not rebuild"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 06c5790b-82ae-4089-8d02-9c72fe0bcb81
+      Hint: Eyebrow
+      Value: Authoring
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T211626Z
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "authoring-that-scales"
+    - ID: 5b9cdef2-e069-49ea-996e-40b9504bc3f2
+      Hint: JsonLd
+      Value: |
+        {"@context":"https://schema.org","@type":"Article","headline":"Authoring that scales: insert Article, not rebuild","author":{"@type":"Person","name":"Maya Chen"}}
+    - ID: 6a728377-a363-455b-9de0-4fb6d0c19eb5
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>Home can offer <strong>Page</strong> and Redirect. Articles cannot reuse that list. A new story created there would inherit header and footer only — no article shell.</p><h2>What “enriched” means on insert</h2><p>The Article page design includes three partials:</p><ul><li>Header — Brand + Nav</li><li>Article Details — lead image, share rail, title, dek, body, plus <code>article-details-*</code> and <code>article-details-full-width-*</code></li><li>Footer — Link Columns</li></ul><p>Editors fill page fields. They do not restyle the type. A sixth article after these samples is <strong>Insert → Article</strong> under this listing, not another recipe file.</p></div>
+    - ID: 7a25cf96-c57d-4bb4-8a02-ba62d976f2ad
+      Hint: Title
+      Value: "Authoring that scales: insert Article, not rebuild"
+    - ID: 7e2d6134-34a2-41c3-9a02-dda297781043
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "16907757-9084-4bb1-8b4f-33699a293fb8"
+    - ID: 978cd65a-cd85-4517-9130-711919b1a1e1
+      Hint: MetaTitle
+      Value: Authoring that scales — Showcase
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260915T232900Z
+    - ID: f3f3b0bd-7ff8-48cb-bf15-470c0b282d5c
+      Hint: MetaDescription
+      Value: If Articles only offers Page, the sixth story is an empty marketing shell. Bind Article to a page design that already places the Article Details partial.
+    - ID: f6e27307-1b87-4a77-83ae-8cea0a72c6e5
+      Hint: ShortDescription
+      Value: Insert options are the contract with editors. Under Articles, that contract should be Article — already wired, not a blank Page.
+DB: master

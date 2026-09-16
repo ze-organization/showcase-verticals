@@ -1,0 +1,83 @@
+---
+ID: "6911ce7e-a63c-4ec3-a330-c98163f5db9e"
+Parent: "415eede5-4bf8-415b-9cd5-b768ed4d95cf"
+Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Locations/location-card-sydney-circular-quay"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1e03276f-792d-4555-a3ca-adaaf4ed5463
+  Hint: Image
+  Value: |
+    <image mediaid="{24F757E3-79C7-4480-8BD8-AFBB7132B941}" />
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "location-card-sydney-circular-quay@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2c1f47fd-ff70-4ba5-abcd-286a3188e871"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0ae68692-2060-4c2b-86ba-02e8f62a1e22"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Sydney Circular Quay
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0b9b4a25-604c-4006-b2b1-68bfe462738e
+      Hint: Address1
+      Value: 1 Macquarie Place
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T161710Z
+    - ID: 34ee6d6e-70d0-4950-b143-5d9884d83c41
+      Hint: Name
+      Value: Sydney Circular Quay
+    - ID: 36036af4-36d1-4cbc-b6a3-9f78b3a9d33b
+      Hint: PostalCode
+      Value: 2000
+    - ID: 5ee4858a-1db5-4aac-acd1-451f14392615
+      Hint: Hours
+      Value: "<p>Monday–Friday 9:00–17:00<br/>Saturday 10:00–14:00<br/>Sunday closed</p>"
+    - ID: 65a19ce0-7dd1-412b-a8f6-af16466f5d58
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Locations/apj/sydney-circular-quay" text="View location" />
+    - ID: 786f950c-e20c-428d-b53a-c42352db9b5f
+      Hint: Phone
+      Value: +61 2 9256 4000
+    - ID: 861c8ba7-456f-4e1b-9789-5d96d7020bc6
+      Hint: Longitude
+      Value: 151.2102
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fc6b02a8-b4a7-4e66-b930-caa54830145c"
+    - ID: a7862ea8-35a9-475c-99f0-396da6b1af08
+      Hint: Email
+      Value: sydney@example.com
+    - ID: b24b0008-e095-48f9-91ca-bfdcd6836872
+      Hint: Country
+      Value: Australia
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c6336881-ed79-4a00-9899-5e4158720468
+      Hint: State
+      Value: NSW
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215101Z
+    - ID: e965440a-c0c6-4b8d-ac67-b5d605585770
+      Hint: City
+      Value: Sydney
+    - ID: fc237e6a-07f8-40e4-9a84-81030354c594
+      Hint: Latitude
+      Value: "-33.8612"
+DB: master

@@ -1,0 +1,499 @@
+---
+ID: "d42d3386-d25f-410a-8286-46543ed358ae"
+Parent: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
+Template: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/accordion-item-rendering/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "accordion-item-rendering@1"
+- ID: 9d229aa4-1943-4b81-9e6c-db6d4aa49006
+  Hint: Image
+  Value: |
+    <image mediaid="{80EF6BF4-D4CE-49CE-A999-E975036AC7FD}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b704d16d-3f69-4a16-871e-ef7c7f236d99"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214444Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: عنوان القسم
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: سطر ملخص قصير يظهر عندما يكون المحتوى فارغاً.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ac6b4e02-52c1-44f5-81ca-c990bf61d449"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>استبدل هذا بنص الإجابة الذي يريد المؤلفون عرضه في اللوحة.</p>
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151705Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: عنوان القسم
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: سطر ملخص قصير يظهر عندما يكون المحتوى فارغاً.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a12933c8-19a1-4daf-9196-8061a8e3d0b7"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151706Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>استبدل هذا بنص الإجابة الذي يريد المؤلفون عرضه في اللوحة.</p>
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214444Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Sektionstitel
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Kort resumelinje, der vises, når indholdet er tomt.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a25a3be8-4fd3-4def-b6d7-a41f080d0037"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Erstat dette med den svartekst, som forfatterne vil vise i panelet.</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214444Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Abschnittstitel
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Kurze Zusammenfassung, die angezeigt wird, wenn kein Inhalt vorhanden ist.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2a3106e0-b75b-4429-b17c-cac54028a097"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Ersetzen Sie dies durch den Antworttext, den Autoren im Panel anzeigen möchten.</p>
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151705Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Abschnittstitel
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Kurze Zusammenfassung, die angezeigt wird, wenn kein Inhalt vorhanden ist.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3a200cc5-a000-4a86-b12a-1e12caaa0946"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151706Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Ersetzen Sie dies durch den Antworttext, den Autoren im Panel anzeigen möchten.</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214443Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Section title
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Short summary line shown when Content is empty.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "514504e8-c710-4675-a16c-2e2f9ae91679"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c654387f-5a77-4aaa-8888-130d28859337
+      Hint: Link
+      Value: |
+        <link text="Learn more" linktype="external" url="/" />
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214443Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Replace this with the answer copy authors want to surface in the panel.</p>
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214444Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Título de sección
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Línea de resumen breve que se muestra cuando el contenido está vacío.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ecf73fb4-21d7-478d-9872-632178d6fd70"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Reemplaza esto con el texto de la respuesta que los autores quieren mostrar en el panel.</p>
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151705Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Título de sección
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Línea de resumen breve que se muestra cuando el contenido está vacío.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "89fc3b70-ae12-465f-a503-4d23bb34eadd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151706Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Reemplaza esto con el texto de la respuesta que los autores quieren mostrar en el panel.</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214444Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Titre de section
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Courte ligne de résumé affichée lorsque le contenu est vide.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "86870f16-680c-4df2-97d8-3f52dd3b0365"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Remplacez ce texte par la réponse que les auteurs souhaitent afficher dans le panneau.</p>
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151706Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Titre de section
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Courte ligne de résumé affichée lorsque le contenu est vide.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "086dc19d-9a7b-4419-8fcb-30c01ae94cd6"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151706Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Remplacez ce texte par la réponse que les auteurs souhaitent afficher dans le panneau.</p>
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214444Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: Titolo della sezione
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: Breve riga di riepilogo mostrata quando il contenuto è vuoto.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f91fb731-00bf-4978-a823-9170b47eb0ab"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Sostituisci questo testo con la risposta che gli autori vogliono mostrare nel pannello.</p>
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214444Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: セクションタイトル
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: コンテンツが空のときに表示される短い概要行。
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "40dcf421-ba20-4c1b-89db-7b3aa61f0df0"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>作成者がパネルに表示したい回答文に置き換えてください。</p>
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214445Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: 板块标题
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: 内容为空时显示的简短摘要。
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8ec98c91-287f-450f-a9ce-389ab453aed4"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>请将此处替换为作者希望在面板中呈现的回答文案。</p>
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214445Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: 區塊標題
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 62b9ee48-7e3d-4dfe-a8d0-79dc9b7fbcb4
+      Hint: Description
+      Value: 內容為空時顯示的簡短摘要。
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "33a90698-2789-4fd2-bd51-5dd7712da981"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214445Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>請將此處替換為作者希望在面板中呈現的回答文案。</p>
+DB: master

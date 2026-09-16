@@ -1,0 +1,89 @@
+---
+ID: "96d2f331-32e5-41e3-8743-ee1a37372aa0"
+Parent: "295c1f41-8225-41fb-8fd1-183c4993e149"
+Template: "7aa732ca-4cbb-4364-a252-ec3135cd3abf"
+Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Asia-Pacific/Japan/kyoto"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{BD2AFDAF-333F-453C-828C-17266F7266BE}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "destination-kyoto@1"
+- ID: 7430dd5b-04c1-4108-8270-daee67f596c2
+  Hint: Image
+  Value: |
+    <image mediaid="{E0BFDA34-D8C5-4EFA-A64E-29847850EFDF}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{23481716-2417-4BFF-970D-64EDCED72932}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f5a670ed-c771-47d5-9744-f0d65859f1e2"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "b89b9577-ace6-4cf2-be9b-1efb7d7a9998"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Kyoto
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0c2a290d-5a7f-4b2e-a98a-76620933a1f4
+      Hint: StartingPrice
+      Value: from $1,890
+    - ID: 182026d1-1230-49c3-b716-ae44be37b711
+      Hint: Eyebrow
+      Value: City break
+    - ID: 1ab94ed9-d2ab-47b4-9e30-0c9ec87a2b3b
+      Hint: Country
+      Value: Japan
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190950Z
+    - ID: 3170fe5c-8bba-4879-8895-3076d89169cb
+      Hint: Continent
+      Value: "Asia-Pacific"
+    - ID: 381a4adf-fecd-4db7-b26d-0193a539205c
+      Hint: Content
+      Value: <p>Stay near the river. Walk north before the buses arrive. The gardens that photograph well at noon are quieter at eight.</p><h2>When to go</h2><p>Late March for blossom if the year cooperates; November for colour that does not depend on luck.</p>
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: kyoto
+    - ID: 7a5a5e78-6f2b-4447-80ae-e2b28ed0d8ef
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 8056e968-9913-4bf7-a82f-e15bbd34d4ad
+      Hint: TripDuration
+      Value: 5 nights
+    - ID: 85e9be6e-e1bf-452f-a5b6-b5047364933a
+      Hint: MetaTitle
+      Value: Kyoto — Showcase
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d848ed59-d147-4ad0-a100-d81bd9f10a67"
+    - ID: b46730fe-ece0-439a-a46f-92f1b221d7b4
+      Hint: MetaDescription
+      Value: "Five-night city break in Kyoto. Sample Destination page for the starter site."
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: ce48ead5-e03b-41fc-b4e2-b7dc9c1d63f0
+      Hint: Title
+      Value: Kyoto
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190952Z
+    - ID: ea67701e-21cf-467e-b7d8-4333b176b321
+      Hint: ShortDescription
+      Value: Temples at first light, then a slow walk along the canal.
+DB: master

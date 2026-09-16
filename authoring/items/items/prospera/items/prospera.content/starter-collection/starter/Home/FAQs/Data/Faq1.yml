@@ -1,0 +1,48 @@
+---
+ID: "2391893c-515d-4f5c-984b-bef28e8a86dc"
+Parent: "c05513ee-a454-4202-b86d-e7d4193507d3"
+Template: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
+Path: "/sitecore/content/starter-collection/starter/Home/FAQs/Data/Faq1"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: faqs@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b9cc6daa-6df8-48d2-ab02-9caf7159f87a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "1b65fc08-2d6c-4336-9054-b5db220573e2"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Faq1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154515Z
+    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+      Hint: Title
+      Value: "Why isn't Landing just Page with a hero?"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6f736f4c-b6df-47f0-8fd1-258ccf5d51c1"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T154518Z
+    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+      Hint: Content
+      Value: <p>Page is a free canvas of datasources. Landing is a fixed campaign shape with fields on the route so an agent can fill it from a brief.</p>
+DB: master

@@ -1,0 +1,62 @@
+---
+ID: "1dafea54-af7e-411e-af78-373be5e67fce"
+Parent: "4a25722c-5f0f-407c-856a-bac5ce189b6e"
+Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
+Path: "/sitecore/content/starter-collection/starter/Home/Leadership/Data/CardJulian"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1f47a59f-ca3d-4cea-b933-6780bf00fb97
+  Hint: Image
+  Value: |
+    <image mediaid="{D6E436E4-6F97-4299-A3C1-16E79667CF44}" />
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: leadership@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2de9ed15-8c26-4e52-92d4-3654010546c6"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "f139c62f-3094-4542-a2fd-6a146e09e2d3"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardJulian
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193258Z
+    - ID: 430cd7a4-03fc-4f77-89bb-df04e2706973
+      Hint: Eyebrow
+      Value: Clinical
+    - ID: 49d7a53b-1265-4071-b2ad-f3784ef43300
+      Hint: FullName
+      Value: Julian Park
+    - ID: 6a697dca-a367-4f12-8bd3-47ea39922ea8
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/People/julian-park" text="View profile" />
+    - ID: 8a44e378-7fc6-4280-8d29-4f3db2b3dbe9
+      Hint: Role
+      Value: Care Lead
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3aaed897-92a3-4878-a8c0-d190d50b90ef"
+    - ID: 9e4ff79c-581f-4123-82ac-223ccb723aa7
+      Hint: Bio
+      Value: "<p>Coordinates intake and follow-up so specialists see the same story the patient already told.</p>"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193303Z
+DB: master

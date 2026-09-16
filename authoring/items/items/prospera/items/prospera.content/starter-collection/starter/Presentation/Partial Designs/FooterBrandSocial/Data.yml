@@ -1,0 +1,49 @@
+---
+ID: "f32b8d81-2bd0-4614-ac03-77ca8744df40"
+Parent: "01e51dbd-aaba-4531-ae2c-a0cc7d5cff1a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/FooterBrandSocial/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {A64B99D3-F666-55B2-A6A8-5D3F2E76DEBF}
+    {AB2821E4-2AEE-57A7-AD25-CBC2EA752CFC}
+    {DD43FA15-DF52-47E1-ABEE-1AAC0E6C7550}
+    {9287BAD6-E065-47D2-9EA1-12080E2679A5}
+    {210A31E8-9271-4704-9EA0-A0EA6E9EFD1B}
+    {AA46C461-8E4B-43AB-BC80-A46D7361F53A}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-brand-social@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4dad1a3f-adde-4804-b475-2b714bef03bd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223629Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c6b4ccc0-5097-4036-9b21-06657232fa14"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223629Z
+DB: master

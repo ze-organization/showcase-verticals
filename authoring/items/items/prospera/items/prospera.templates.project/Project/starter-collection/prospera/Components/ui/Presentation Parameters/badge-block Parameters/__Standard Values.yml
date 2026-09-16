@@ -1,0 +1,49 @@
+---
+ID: "6dccae2a-dbc9-4bc9-aae3-81d46d03ad99"
+Parent: "b9e24344-736a-474f-a5d7-329c21842ab3"
+Template: "b9e24344-736a-474f-a5d7-329c21842ab3"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Presentation Parameters/badge-block Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "badge-block@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4919f36c-0621-40f4-abaf-e1ae9feb571e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T013850Z
+    - ID: 4e45193d-d5ae-46a8-945b-fda06e622efe
+      Hint: Style
+      Value: "{AFE11A43-CC79-4A96-87A9-F8AD3AC6EA10}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 569cc6b1-f57c-447a-afa9-f895025c6cc2
+      Hint: ColorScheme
+      Value: "{722C6F93-1336-48B3-9FFE-C763021CC53C}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "965b7010-0283-4fd7-92e9-a5dd3880cf41"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d8b36296-0315-4d08-b38d-4c28c44c0d14
+      Hint: Size
+      Value: "{A05D3897-3264-4DA7-AC11-A21C06665168}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013850Z
+DB: master

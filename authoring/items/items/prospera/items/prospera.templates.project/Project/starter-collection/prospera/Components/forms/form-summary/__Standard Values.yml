@@ -1,0 +1,46 @@
+---
+ID: "a0258796-2fed-422c-9fab-5ff5b2485ceb"
+Parent: "dd52f806-b8c9-4c75-b5ba-75c3fee742e1"
+Template: "dd52f806-b8c9-4c75-b5ba-75c3fee742e1"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-summary/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-summary@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "1b7abf32-9694-4d1b-879f-783495da2fcd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 2041cb86-32bf-461b-8fb8-c80d26bcefd1
+      Hint: TotalLabel
+      Value: Total
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014712Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0347d83b-b4fb-4b94-b5a2-0759f328f29b"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014712Z
+    - ID: efc60ae6-8e24-4253-b023-98d04f653e2b
+      Hint: Title
+      Value: Your selections
+DB: master

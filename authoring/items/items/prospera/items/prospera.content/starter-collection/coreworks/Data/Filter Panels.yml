@@ -1,0 +1,39 @@
+---
+ID: "1783ab4a-38e3-44a2-9520-4ec4a7f96d74"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "6710c249-7509-4e9e-8461-575e902e3563"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Filter Panels"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2e2fba9e-8cff-4bf0-9e9f-ec9100a66949"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "30e46395-295a-4632-9638-29681302db15"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Filter Panels
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215729Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "61d82b3b-af46-47c8-bf06-3a499e7b693a"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215729Z
+DB: master

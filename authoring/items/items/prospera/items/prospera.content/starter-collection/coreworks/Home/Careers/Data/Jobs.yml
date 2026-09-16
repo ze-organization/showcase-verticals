@@ -1,0 +1,48 @@
+---
+ID: "7be5cf66-e762-4bf3-aefd-7e50e8ee22d2"
+Parent: "817eac85-6227-47dd-933b-d9ade03d59e2"
+Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Careers/Data/Jobs"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: careers@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "84f23bca-f0e1-41fc-8f03-a3835da909cd"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "007e15c0-19c9-4fed-bd5e-16ecb9ce5dff"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Jobs
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192708Z
+    - ID: 2902f35f-46f3-497a-94bf-23b73a4d62dd
+      Hint: Title
+      Value: Open roles
+    - ID: 68fbe66c-6994-4a63-af02-2913a6966af4
+      Hint: Lead
+      Value: <p>Three Job pages. Insert → Job under this listing for another role.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9e4d461e-d566-4820-acef-0b1e877206f1"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192717Z
+DB: master

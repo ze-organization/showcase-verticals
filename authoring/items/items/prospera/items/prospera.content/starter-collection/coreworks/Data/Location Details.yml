@@ -1,0 +1,39 @@
+---
+ID: "b6f779c5-bcfe-4586-b218-59d1275ee7c9"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "d35f680c-3dfd-456e-b2cf-478e42249714"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Location Details"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e7f9e481-2564-42ad-8ff9-3a0cd51d4ec4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "5d71c5e9-71f6-40be-8a2b-778f25a97f15"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Location Details
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T161558Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "aff12fd9-1f4f-4e02-803a-2bd4eef19df8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T161558Z
+DB: master

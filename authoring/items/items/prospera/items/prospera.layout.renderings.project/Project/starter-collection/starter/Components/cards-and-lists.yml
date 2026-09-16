@@ -1,0 +1,40 @@
+---
+ID: "5da0a101-ba9d-4c60-9dcd-3256b7dc6c8e"
+Parent: "45df18da-0b5e-4d89-9fc8-88938b598eda"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/cards-and-lists"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/4c5a525b8a384e47b252e17d2c235363.ashx?thn=1&db=master&v=2"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f87dbeb9-f173-4af3-8d02-8efc8261f9dc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214656Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "eb69a900-67cd-4b5d-8447-62f1fd0bb52d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T232229Z
+DB: master

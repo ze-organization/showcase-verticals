@@ -1,0 +1,39 @@
+---
+ID: "cb002037-a649-4567-8659-da24ef9188a3"
+Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
+Template: "9dcb6bce-6b94-480e-9417-8dcf167823f2"
+Path: "/sitecore/content/starter-collection/starter/Data/Search"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c1dc6a45-abe9-4430-bbe6-5cf525153d60"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2847033c-21f2-4bdc-90fb-3faa75dcfc66"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223103Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "84f4ad4c-b410-4e13-a0a9-2d7f9a0aaa47"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223103Z
+DB: master

@@ -1,0 +1,49 @@
+---
+ID: "980f07c2-84cc-4142-ad8c-c40ef2bb160e"
+Parent: "6a16bb8d-2c06-4bbd-8e16-3cec994d5088"
+Template: "6a16bb8d-2c06-4bbd-8e16-3cec994d5088"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/Presentation Parameters/search-controls-bar Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-controls-bar@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b289a0aa-9065-407f-98a9-f3872d1a189f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1d7b8b95-86f7-4e76-b4c0-df68077604df
+      Hint: Density
+      Value: "{ABDD43C2-0343-4C41-A547-26DC202229F1}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222321Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "aad88715-b75b-45a2-b73c-30298090249c"
+    - ID: 98ca8264-3d52-48a8-bf52-cc64946ed0e5
+      Hint: FiltersPlacement
+      Value: "{8F8F82EE-A16F-48B4-98C5-5CE568329B3C}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203800Z
+    - ID: e4c899a1-4e51-42ec-bd19-dc2e375db14b
+      Hint: Surface
+      Value: "{3CEBC16D-977B-4FD7-BBE7-77DC77C5E843}"
+DB: master

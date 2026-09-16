@@ -1,0 +1,39 @@
+---
+ID: "c5a12f52-5918-4584-a964-e4d8b4229491"
+Parent: "8398a3e8-b9dc-4f30-bbf3-9a745bb3c712"
+Template: "2e869770-07aa-4f6e-b6d1-59792360d077"
+Path: "/sitecore/content/starter-collection/starter/Data/Site Shared UI/Badges"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "253d2103-7344-490a-83a5-5cbd5e8b42be"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "937e1181-b62a-48a7-99e6-466bcea7f658"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Badges
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214913Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bdd77177-7798-47b7-b6e3-b5e1ecb8ebd7"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214914Z
+DB: master

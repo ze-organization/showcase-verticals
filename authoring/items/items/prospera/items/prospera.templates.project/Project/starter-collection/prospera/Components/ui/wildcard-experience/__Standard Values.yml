@@ -1,0 +1,43 @@
+---
+ID: "c7d04225-c612-4810-9b8c-ea2b51f7acb9"
+Parent: "8e8811be-d45b-46a3-97db-d835cf6184c4"
+Template: "8e8811be-d45b-46a3-97db-d835cf6184c4"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/wildcard-experience/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "wildcard-experience@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4bbef62d-3487-466f-b557-7e315cc12adf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 258eb117-c89d-4745-be09-db3712d73f5c
+      Hint: Title
+      Value: Wildcard experience
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021153Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "700cf10f-a06c-4bce-aabf-3a6a80a595cd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021153Z
+DB: master

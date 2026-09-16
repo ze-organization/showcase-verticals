@@ -1,0 +1,59 @@
+---
+ID: "f1013ea3-06ad-4c9f-b6bc-76ca965b01d1"
+Parent: "eb67ecec-0e39-4b5c-8a2a-71c58c68e472"
+Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/Data/CardBlank"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "landing-pages@1"
+- ID: c4b4278a-c86c-400a-aefe-5c5bfaec9014
+  Hint: Image
+  Value: |
+    <image mediapath="/theme-photos/hub-02.jpg" alt="Empty studio table ready for a layout" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "83699f2e-4612-464e-95d5-d4b631f7f404"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "685b08a2-7c99-4251-8c6a-09faf5788c49"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardBlank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 169f5a27-b677-418f-be85-bca86ee122a0
+      Hint: IconName
+      Value: "{451292C3-3FE5-4EBB-A535-3A58461A059D}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154524Z
+    - ID: 6e046336-9d89-44a0-8412-a447b720a7f7
+      Hint: Description
+      Value: <p>Header and footer only. Drop components into the main Container to build the campaign yourself.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "929ee73c-32cf-43d5-9076-b3eeb76cdb68"
+    - ID: a832315c-75e1-4920-8831-0f44c6daaaa8
+      Hint: Title
+      Value: Blank landing
+    - ID: ba63fec8-8a4d-485b-86c2-4a054ae9c794
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Landing-Pages/blank" text="View blank landing" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T012955Z
+DB: master

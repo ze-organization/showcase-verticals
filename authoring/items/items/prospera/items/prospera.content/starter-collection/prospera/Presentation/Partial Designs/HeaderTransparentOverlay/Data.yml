@@ -1,0 +1,48 @@
+---
+ID: "9a676c83-476d-4635-b44e-c60081b74b2d"
+Parent: "56e578dd-02c9-4832-8c09-250f52409df0"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Partial Designs/HeaderTransparentOverlay/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {58E1D951-1210-5995-9C02-6D4323AD81FE}
+    {DD43FA15-DF52-47E1-ABEE-1AAC0E6C7550}
+    {EB6BE187-D5F8-41D5-A283-29A32F383762}
+    {CA84D280-D61B-4EE5-9289-B79AFC422E43}
+    {05A20348-0147-4E2D-9D6E-12D262B8E855}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "header-transparent-overlay@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "7c446c4b-46f2-4f3e-af60-745e4354b2de"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223640Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fc4fb4e6-5e9f-45eb-8045-0363d64afc73"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223641Z
+DB: master

@@ -1,0 +1,59 @@
+---
+ID: "739e42a5-8d68-4cde-89cb-572ba28e94a7"
+Parent: "f90f0c1e-4c29-4d71-88af-b70919a57c78"
+Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Data/Closer"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: destinations@1
+- ID: cef030a5-43cb-4f99-9a0a-e8d98b750e3e
+  Hint: Image
+  Value: |
+    <image mediaid="{FC1B14E1-9239-4E1D-9AC4-9E6632AA59F2}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c278c452-c3b5-48b8-ae74-afaa93f43fff"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "aa7ee569-bb68-4a8b-843a-0765fd9614e0"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Closer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190918Z
+    - ID: 2cde99a6-c15a-4cf6-8013-01ef56c2e5c0
+      Hint: Description
+      Value: <p>Five nights, temples at first light, a canal walk that does not need a reservation.</p>
+    - ID: 33f19f4d-9b3b-4726-9039-760657e7a6c5
+      Hint: Eyebrow
+      Value: Featured
+    - ID: 5476fe86-73c2-45a2-a9c8-40c681ddf8cf
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Destinations/Asia-Pacific/Japan/kyoto" text="View Kyoto" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5df50b9a-8fb6-4ef5-9dd4-7383199dbc59"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215041Z
+    - ID: ffbdfe03-f223-4437-a867-986da7f40122
+      Hint: Title
+      Value: Start with Kyoto
+DB: master

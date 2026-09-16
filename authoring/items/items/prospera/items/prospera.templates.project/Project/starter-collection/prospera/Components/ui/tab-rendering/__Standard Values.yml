@@ -1,0 +1,54 @@
+---
+ID: "12ddce81-deed-4cc8-8fd2-9c9869aa9197"
+Parent: "718067b8-eda0-4d8e-a2ae-e7bd72c6720d"
+Template: "718067b8-eda0-4d8e-a2ae-e7bd72c6720d"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/tab-rendering/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "tab-rendering@1"
+- ID: ac32a56c-13a4-4035-a8be-e7f4b8197e33
+  Hint: PanelImage
+  Value: |
+    <image src="/theme-photos/promo-closer.jpg" alt="Tab panel visual" />
+- ID: dae40bbc-5dd6-4536-8451-af86b11184c2
+  Hint: TriggerImage
+  Value: |
+    <image src="/theme-photos/pdp-01.jpg" alt="Tab trigger thumbnail" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "63afaa53-1596-487f-8d7a-84acb336e196"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021001Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 616995d8-6e46-4194-b13c-b607c47b0608
+      Hint: Label
+      Value: Tab
+    - ID: 84040f34-e045-467f-9e4c-0784046072f3
+      Hint: Content
+      Value: <p>Tab body copy goes here. Replace with the content for this tab's panel.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c4fbc33a-4797-46ad-9020-8c4e1aae9d59"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021001Z
+DB: master

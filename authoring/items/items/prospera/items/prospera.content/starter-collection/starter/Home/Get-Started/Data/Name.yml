@@ -1,0 +1,54 @@
+---
+ID: "edea6385-9ff5-48f2-af2c-7d48d0b3b0e6"
+Parent: "fb15400c-d8df-408c-823a-0272b8b07830"
+Template: "0dabc056-d566-4e4e-8f0b-229bab119237"
+Path: "/sitecore/content/starter-collection/starter/Home/Get-Started/Data/Name"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "get-started@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e7a4ed08-287e-4e2f-8082-f961c042cb24"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "83665047-fb35-4d10-aff4-e4fdf15ca646"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Name
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1c6a915a-fb6c-4906-b083-00bfdd0051ff
+      Hint: Label
+      Value: Name
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193251Z
+    - ID: 391bb8e4-d8b4-4f26-9089-b7cac35ff109
+      Hint: Required
+      Value: true
+    - ID: 3f4a56e0-2181-4cd3-a639-e6f34a94dde4
+      Hint: Placeholder
+      Value: Your name
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c5b31ed3-0f4d-4cf7-aa13-691d1b9b0757"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193253Z
+    - ID: feb25172-2f6b-4d61-b8c9-9d9c3354f63f
+      Hint: Name
+      Value: name
+DB: master

@@ -1,0 +1,73 @@
+---
+ID: "14dde6de-56e2-4d6b-802c-ea7b814bf695"
+Parent: "39697c68-2d45-4c4e-b38c-678255ca87bf"
+Template: "39697c68-2d45-4c4e-b38c-678255ca87bf"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/stats-card Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "stats-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "fad0bbea-f79f-4430-ad2e-71de54ce5d4e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0cfda320-00a3-49a1-86f0-5c04ed8816a5
+      Hint: CardColorScheme
+      Value: "{722C6F93-1336-48B3-9FFE-C763021CC53C}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020715Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 641729fa-8eec-4b5b-9cd3-209663a4d24f
+      Hint: Elevation
+      Value: "{0D9E8818-67AE-435D-8219-56B0A9CD53DE}"
+    - ID: 720d14be-e995-4c93-9dc1-26ca7162c833
+      Hint: ValueSize
+      Value: "{89436C3E-9E24-43DF-94D7-2C233DFC6355}"
+    - ID: 75ca6810-8af3-4fde-a661-8a5645729cd0
+      Hint: Emphasis
+      Value: "{0E084834-8452-4A5D-8846-D15E8A2E5AD2}"
+    - ID: 7c2db4c7-1e2a-4540-85fe-2c9609974959
+      Hint: Style
+      Value: "{27C78312-10BE-40DB-B10D-910E61BA200F}"
+    - ID: 80a64460-a042-4306-997f-982e75ad1149
+      Hint: MediaBleed
+      Value: "{A418C7C2-EDB1-43F7-AEAF-E1734EFFFAAF}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5ae11398-5b45-4399-b2ec-8789ab711be4"
+    - ID: 9e9e5780-1f35-44b3-87b5-ae64e13dd5e4
+      Hint: TrendDisplay
+      Value: "{AC6F32E1-58A7-4577-82F5-6F86E69DA871}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c39577e2-e1ea-435d-9533-d5581e8eb9e0
+      Hint: Tone
+      Value: "{D50750BB-0755-41B9-BB7B-0319594D50B4}"
+    - ID: c66c6c6a-e3a8-4e90-89ba-458f384e0b6c
+      Hint: ColorBand
+      Value: "{EC919147-C887-4834-B861-C8C95AFF2C48}"
+    - ID: d1cea9e7-b49c-4e96-a73b-f14ca5261047
+      Hint: LabelCase
+      Value: "{358E4920-B140-4CE0-8538-09FA86824642}"
+    - ID: d2a500c7-32b1-41e3-ba48-d05f87453dac
+      Hint: Padding
+      Value: "{A2648A34-989D-48B2-878A-898C0359F063}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020715Z
+DB: master

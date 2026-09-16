@@ -1,0 +1,56 @@
+---
+ID: "1a714fd9-b686-4ec3-9fa5-4811a048af62"
+Parent: "f770b22d-b9b7-4d52-b8f1-57b82d00e0f0"
+Template: "8cba3388-5944-43d2-8827-02704751704c"
+Path: "/sitecore/content/starter-collection/starter/Home/Locations/North-America/Data/NaLocations"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "locations-north-america@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "65ea3f35-263b-401b-b2e4-413d1d23d965"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "9c370837-15d0-47b7-bda0-976de34d2c7b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: NaLocations
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192024Z
+    - ID: 362a3df3-a791-4991-b7e8-47927dd7d4b1
+      Hint: Locations
+      Value: |
+        {1EF98ACF-5C55-4CB3-9CB6-148BF0CFACC5}
+        {5462196F-7A07-463E-ACBE-87BA2EF5B640}
+        {A6F2DEEE-6445-487E-9A17-45BF2EB47652}
+        {8265FF97-B551-4877-BE6D-0D43CEE62F7A}
+        {3D2D5258-6767-4544-BD0E-AA6259A5CCC3}
+    - ID: 41d09add-5552-4477-adda-c7ee07627e47
+      Hint: Lead
+      Value: <p>Five locations in major metros. Use ZIP or city, or your current position, to sort by distance.</p>
+    - ID: 4687723b-091b-4b30-9ba4-c2d55ba4c7cb
+      Hint: Title
+      Value: North America
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "7189e42e-c6a6-4a6f-8cc2-5b382dbf3967"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192026Z
+DB: master

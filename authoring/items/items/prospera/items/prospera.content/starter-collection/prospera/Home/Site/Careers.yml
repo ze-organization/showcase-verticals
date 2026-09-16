@@ -1,0 +1,139 @@
+---
+ID: "60ed0333-d1bb-4d37-ac52-a1f6368416d0"
+Parent: "42118861-8e23-499c-bf18-f1bbd4397bd1"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{745EB7C5-D8B0-4A77-85BF-C0C0CBB60573}"
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: careers@1
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 50
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E67BE2BA-07A8-424F-ABC1-81D0C2CA441F}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e68bf21d-437d-4df0-8e7e-417a50c4eff3"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "01492a6e-18b7-4b23-9045-41cada46897b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Careers
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{883F340E-B4FB-5AB6-8C81-FAE4B58757E6}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7BC368140B-9ED5-41A5-BD5D-8885DA08FDDA%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B76DA7548-ADA6-412C-A20B-8829D7A32B66%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B84752B2D-C0A0-4686-B438-1ACB02AD32C8%7D" />
+            <r
+              uid="{6628A890-7F97-5D37-9711-BADE9C614C98}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7B1CD27043-2AE3-4B1B-8FBF-D13F0F945700%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B845C2122-E1C7-4D34-A4DB-42A9F62AF306%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B3406F538-5805-43F1-8DE5-572B1F155101%7D" />
+            <r
+              uid="{256955AC-8C65-5677-BB9F-A079E12FB290}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{41726C55-0876-493A-A775-79329F911700}"
+              s:par="HeadingLayout=%7BD8039FD3-6889-48D5-ABF8-0698389E43E3%7D&amp;Layout=%7B5EE6BC71-F82E-4A9E-9914-A9AE93496EED%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayStyle=%7BBFFC7C83-E300-4AA7-97F1-FF9B38FB609C%7D&amp;OverlayColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayOpacity=72&amp;DynamicPlaceholderId=3&amp;FieldNames=%7B6D5C3AB2-570E-46B8-8158-D1097727AAF6%7D" />
+            <r
+              uid="{6C6F9BB6-8158-5027-9C5B-3AD3ED1F79DD}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Jobs"
+              s:id="{EBB670EA-8E56-4112-AB76-1F91FE3B2B00}"
+              s:par="HeadingLayout=%7B9452888D-4D62-4681-BC9F-821D6CFC35DD%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7BEC390DAC-35AD-4E83-B853-CA1E7D39F9AC%7D" />
+            <r
+              uid="{27DEAF78-33CD-59C4-8F53-AEEE3A3785A7}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{85E01424-2F42-46D8-9FD7-67F925743228}"
+              s:par="ImagePosition=%7B8C0C5672-936B-4523-BE31-D2BAFBD3CBEE%7D&amp;SurfaceTone=%7BE92EE345-1B2F-404E-85F4-0DF9E8B9D320%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;PrimaryActionVariant=%7B973EEE8E-BAD4-4D6F-8696-A97630198F36%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B5D926F54-509C-43F2-B731-77DCB75E265E%7D" />
+            <r
+              uid="{EC270CD5-C36A-52D1-826F-DF49104107FF}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardBranch"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7BC38ED184-9C72-4FAA-8D1D-A11D98EF89A9%7D" />
+            <r
+              uid="{3CA389AB-2B7D-51AC-812C-A9BAABE3F0E3}"
+              p:after="r[@uid='{EC270CD5-C36A-52D1-826F-DF49104107FF}']"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardCredit"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=7&amp;FieldNames=%7BCA438B24-39B2-4240-983C-BB404CD59811%7D" />
+            <r
+              uid="{FAD57DD5-8257-5044-8FA6-2D1A052E5CF4}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardTreasury"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=8&amp;FieldNames=%7BCA438B24-39B2-4240-983C-BB404CD59811%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Careers
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192706Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.8
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: Sample jobs as insertable Job pages under Careers.
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Careers
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0370596e-305b-4661-acd2-1c8abdbb9bdd"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Careers — Showcase
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: Join us
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T195407Z
+DB: master

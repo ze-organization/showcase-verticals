@@ -1,0 +1,48 @@
+---
+ID: "98cbfa12-d2e1-493f-a451-378dcf607ea3"
+Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
+Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
+Path: "/sitecore/content/starter-collection/starter/Data/footer-legal"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-legal-content@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "40cb5bb7-4096-4bc6-a567-6142bf3eb6bc"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "252a30d0-d897-484b-b16e-90e2041d0756"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Footer Legal Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223516Z
+    - ID: 7d07c454-b927-452a-860f-85a087e8b176
+      Hint: Items
+      Value: |
+        {C8FF691B-A630-4C2B-9716-BF5C75DD98C0}
+        {4BAD1F53-7264-4EE6-9A9F-4D148F72A79E}
+        {26AD0739-802C-4C1B-AAE8-9D1C5A6791FF}
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a2ea5260-3db4-4464-a87e-6d8e303db059"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T194552Z
+DB: master

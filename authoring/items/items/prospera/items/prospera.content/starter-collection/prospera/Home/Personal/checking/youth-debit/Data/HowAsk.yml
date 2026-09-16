@@ -1,0 +1,55 @@
+---
+ID: "f5173b56-f81f-4a65-b49f-912cf19bee29"
+Parent: "4326997d-9b44-4585-bce3-14e440c54ef8"
+Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/youth-debit/Data/HowAsk"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking-youth-debit@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "caff826c-46e4-454e-90d7-61a487a5b0b9"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "69fab28b-26e3-40f6-abbe-b6fbf2cab173"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: HowAsk
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193336Z
+    - ID: 3749bc4d-27b2-4f03-a4b2-3fa6caf890d1
+      Hint: Description
+      Value: <p>A banker will ask for the teen's details. Ages 13–17 in this demonstration.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e3e3c51e-9347-49fe-982d-c672c3493135"
+    - ID: b376f791-9d7c-43e4-8b36-51a958eb4c7a
+      Hint: Title
+      Value: Ask to add youth debit
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193340Z
+    - ID: eeafe96f-4d61-4e1d-a55f-2a28005cdeb8
+      Hint: IconName
+      Value: users
+    - ID: f5712a6f-019b-408a-9f92-1445842c3d8e
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Contact" text="Contact" />
+DB: master

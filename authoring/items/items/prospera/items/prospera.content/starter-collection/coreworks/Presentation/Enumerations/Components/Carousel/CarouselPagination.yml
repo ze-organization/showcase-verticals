@@ -1,0 +1,42 @@
+---
+ID: "91a966e1-c74f-4772-8ac7-ad4e7b9c51e8"
+Parent: "cd349163-7c2e-4b03-8bb9-3297ac30e33b"
+Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Carousel/CarouselPagination"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1191a2f1-7d90-48ad-ba50-71ae79f812c5
+  Hint: Value
+  Value: none
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "carousel-pagination@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "23ab7050-ed85-4ab0-979c-31bf7c60037c"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e5904aaf-3213-458a-8049-c9864ef2f8f6"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Carousel Pagination
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215147Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f54f967f-29ed-49d3-b932-43db88b27e88"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215147Z
+DB: master

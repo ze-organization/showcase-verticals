@@ -1,0 +1,55 @@
+---
+ID: "2ec9be83-2433-4067-8688-8ba4f67c5345"
+Parent: "b6ba0d10-369c-4210-baca-0a0811c7adf6"
+Template: "b6ba0d10-369c-4210-baca-0a0811c7adf6"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ai/Presentation Parameters/ai-chat Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "ai-chat@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "18f0f371-a9d9-4d67-ae15-76d8781dd7bd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T013556Z
+    - ID: 31090b14-cb98-4746-ba91-697617e6bdba
+      Hint: EnablePersistence
+      Value: 1
+    - ID: 4c907335-0ce8-40f9-96c2-1b4036ae8887
+      Hint: ColorScheme
+      Value: "{F9DAC70B-0DDF-4231-856F-CFDE63708DDC}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5c2c525a-7e64-4f3a-8028-a7d367ef7525
+      Hint: InstanceScope
+      Value: "{8C5912E3-436E-430E-B734-40126FCB1F8F}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6e143c5c-0360-4673-b4e8-89faf6cad4bd
+      Hint: TrackEvents
+      Value: 1
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "37b3b26a-3e37-442c-b85f-d5a321afc379"
+    - ID: 9e652463-6312-4806-8c90-9554724d553f
+      Hint: Position
+      Value: "{31BD6CC7-658A-49FF-AAC0-69CC3198D414}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013556Z
+DB: master

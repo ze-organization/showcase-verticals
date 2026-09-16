@@ -1,0 +1,53 @@
+---
+ID: "6906f976-eaad-46c7-9bfc-69cc20350eb0"
+Parent: "490a7f5f-51f5-4d14-acfe-762b6c538ae7"
+Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/PanelLayout/modal"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "panel-layout@1"
+- ID: 85ade29a-4684-4471-8a2d-a0937f1e85fd
+  Hint: Value
+  Value: modal
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "adc13c18-3dee-490b-8096-e99457544ea2"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "ef671e06-ed94-4707-a209-b4176f0f059a"
+  - ID: 577f1689-7de4-4ad2-a15f-7fdc1759285f
+    Hint: __Long description
+    Value: "Centered dialog overlay with scrim. Pick for focused tasks like site-wide search or a login form."
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Modal (dialog overlay)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221350Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d6632186-e874-41e9-974b-43c8495eaedd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T221350Z
+DB: master

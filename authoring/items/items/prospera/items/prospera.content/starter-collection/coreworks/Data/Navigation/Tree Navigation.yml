@@ -1,0 +1,39 @@
+---
+ID: "d03b0744-5728-46e8-ac37-5d11f8a63fd4"
+Parent: "68570cfc-5aa8-41d8-8d72-efcfe162d421"
+Template: "e048cbd3-1cf7-4b18-ba76-797d55d9abcf"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Navigation/Tree Navigation"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "61751741-df9c-4564-b4dc-4c0ec161cf12"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0ac2b498-95ec-4358-ad30-a83b1a46eb6d"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Tree Navigation
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223117Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ab737d0a-6fb4-4b66-a130-27331a2c406e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223117Z
+DB: master

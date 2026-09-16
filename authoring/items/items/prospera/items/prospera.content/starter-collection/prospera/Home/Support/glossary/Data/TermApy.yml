@@ -1,0 +1,48 @@
+---
+ID: "06fbfac8-7bd7-40ea-b970-0c1c1d221f53"
+Parent: "7ff88223-c27f-4bbc-b38a-cf396612e105"
+Template: "788427f8-da26-49da-8333-aa6204677d18"
+Path: "/sitecore/content/starter-collection/prospera/Home/Support/glossary/Data/TermApy"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "support-glossary@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "17a9af04-415c-4c8f-ab97-8ea359373821"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0c98e31d-f8da-4b7e-94ac-858fa8cfa6e2"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: TermApy
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 023b7912-f958-46e0-9c7e-4bbd673161ac
+      Hint: Title
+      Value: APY
+    - ID: 1af33e00-38b7-4a87-ae1f-c75a70cae96a
+      Hint: Content
+      Value: <p>Annual percentage yield. What interest would be if it compounded once a year, used so savings rates can be compared. Not the same as APR.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180940Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d480a51d-aea9-4c06-82f1-3fa58cf4de06"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180944Z
+DB: master

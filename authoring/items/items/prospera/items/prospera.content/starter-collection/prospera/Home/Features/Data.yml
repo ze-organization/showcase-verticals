@@ -1,0 +1,48 @@
+---
+ID: "f3b56d1a-05f5-44cc-ba4f-b55bd89717ca"
+Parent: "39aa452b-1ad2-43fc-b289-b5b81a473c1e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Features/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {A9FB99C4-6E31-5714-9293-8F6B2CCC03C7}
+    {5C0D5F4C-B7E7-428D-B156-016964AB8C41}
+    {A676167B-B6D6-4990-8C7C-B09A1984D0E5}
+    {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
+    {A3B2B7CF-5E78-493F-AE57-583246702B7C}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: features@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "663a83f7-3dab-481b-901f-bc1504cc267a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180331Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fc3019e8-6c0b-4b4f-ae31-f191b8732b34"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180331Z
+DB: master

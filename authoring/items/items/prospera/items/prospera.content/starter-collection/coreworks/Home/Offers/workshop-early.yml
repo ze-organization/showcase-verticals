@@ -1,0 +1,93 @@
+---
+ID: "b767702c-e3b5-46c1-b50b-aca4f4ecf472"
+Parent: "580e0fa0-8e47-4341-851a-fa875da27533"
+Template: "840dbdff-5e2c-4ed7-9003-84b801d4ed12"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Offers/workshop-early"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{60EEEA7E-2D15-4F1D-A4CC-58AEE116124F}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "offer-workshop-early@1"
+- ID: 364fae90-8b5d-4408-bc53-3b2bd6a7c0f0
+  Hint: Image
+  Value: |
+    <image mediaid="{2505CF9A-CC32-4890-BCF5-4BD19AF3D0EB}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{06B0B77D-FF47-49AE-B1C6-EC65234A9CA7}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4c94493b-8517-474c-8ab7-30ddf9619d96"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "90154cfa-1495-4b03-86cd-0b10706932fd"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Workshop early seat
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192857Z
+    - ID: 2a90b97c-a913-46db-bef7-3f39c0662ee4
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 3fa135a4-60a5-4e27-9c1a-5aec8b79fad0
+      Hint: Title
+      Value: Workshop early seat
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "workshop-early"
+    - ID: 5baa8cc4-c037-4389-a3b4-657085108ab0
+      Hint: OfferText
+      Value: Hold a seat before the public list
+    - ID: 5fdced8b-9465-4a1b-87ca-f1437a0ec236
+      Hint: Content
+      Value: <p>The workshop stays Event. This URL is the Offer. Register from Get Started.</p>
+    - ID: 76e8f913-6169-4bb9-ad57-26295422b28f
+      Hint: Terms
+      Value: <p>Limited sample seats. Not a live ticketing system.</p>
+    - ID: 81b53c73-aabc-44e4-8f8c-386b363e867e
+      Hint: StartDate
+      Value: 1 Apr 2026
+    - ID: 824368c9-9e43-49dc-b52c-41031df71072
+      Hint: ShortDescription
+      Value: Early registration for the authoring workshop.
+    - ID: 8c0d5b76-1b5a-4e15-a068-ce2170d591b4
+      Hint: MetaTitle
+      Value: Workshop early seat — Offers
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "eafca194-9f1e-4388-8f4d-51a1f10e8dec"
+    - ID: afce7f9c-a86e-4126-8494-106489e21d40
+      Hint: EndDate
+      Value: 11 May 2026
+    - ID: b4c5cdb0-3f15-41bc-98ef-f4eb44224860
+      Hint: Eyebrow
+      Value: Events
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215051Z
+    - ID: ea5811ab-dafa-4529-a555-f64f0ff51b2e
+      Hint: CtaLink
+      Value: |
+        <link linktype="external" url="/Events/authoring-workshop" text="See the workshop" />
+    - ID: eef84a68-6a5f-4c8d-bbf3-9ffcddc6167d
+      Hint: MetaDescription
+      Value: Early registration for the authoring workshop.
+DB: master

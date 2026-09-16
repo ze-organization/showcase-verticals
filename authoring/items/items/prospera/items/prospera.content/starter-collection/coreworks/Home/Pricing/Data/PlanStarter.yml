@@ -1,0 +1,55 @@
+---
+ID: "c5cf2acc-091d-4202-bcd5-91902e28706c"
+Parent: "05623d64-bd0d-40bd-87f5-d559a0f8b6b1"
+Template: "fa326c91-01ad-4418-a527-133ee191394b"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Pricing/Data/PlanStarter"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: pricing@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "20119d96-ee6b-4923-b5b5-9f931493a25d"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "78bc988b-816c-42a8-a443-bdcfda8c0f9a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: PlanStarter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T222735Z
+    - ID: 3048d237-ef92-432e-9ea0-cce1aa2d3bc7
+      Hint: CtaLink
+      Value: |
+        <link linktype="external" url="/Landing-Pages/launch" text="Get started" />
+    - ID: 3e69e026-ae8f-41d5-9eab-29c6e4b3c5ad
+      Hint: Features
+      Value: |
+        Page and Article
+        Three sample listings
+        Community support
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fb3b3c71-6ce0-4770-82ea-ea4cc03dcb0b"
+    - ID: b951586a-e2ad-4f41-af25-801312e37ec9
+      Hint: Price
+      Value: $0
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T222737Z
+DB: master

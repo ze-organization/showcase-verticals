@@ -1,0 +1,59 @@
+---
+ID: "4a98beb5-325b-472f-9830-ded90426230c"
+Parent: "4aa13a11-31d0-43cc-a0fb-4f2dfe0a4b14"
+Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/joint/Data/Youth"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking-joint@1"
+- ID: 3640dde1-90f4-4a80-bf90-a200ed994a0e
+  Hint: Image
+  Value: |
+    <image mediapath="/theme-photos/feat-family-banking.jpg" alt="Parent and teen reviewing a household checklist together at a kitchen island" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "eed13463-2120-4d33-831a-d470487d61fa"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "bc1f2a04-fc20-4ca6-be76-96b874366810"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Youth
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193306Z
+    - ID: 483a85dd-866b-4b15-bcea-43ee116af6f0
+      Hint: Eyebrow
+      Value: Youth debit
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a40094bc-de26-4931-82e4-429ec5746dc9"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d5996290-9a0a-43be-a1f4-654341a56976
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Personal/checking/youth-debit" text="Find out more" />
+    - ID: d70f1669-c2e0-48af-9657-47efed02956f
+      Hint: Description
+      Value: <ul><li><strong>Visibility and control.</strong> Set a daily cap and see merchant and amount when the teen card is used.</li><li><strong>Their card, your account.</strong> Youth debit is not a child's own bank.</li><li><strong>Manage it together.</strong> A joint file can add youth debit when both owners agree.</li></ul>
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193323Z
+    - ID: e2198777-25e9-4721-9225-15b08808d5dd
+      Hint: Title
+      Value: Turn small payments into lessons you can both see.
+DB: master

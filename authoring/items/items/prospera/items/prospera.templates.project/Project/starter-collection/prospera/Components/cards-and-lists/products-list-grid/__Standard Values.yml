@@ -1,0 +1,46 @@
+---
+ID: "8b555e18-b468-48b3-be96-1e537a7c5186"
+Parent: "ff29e164-e5f5-4156-aa86-fa02d3f5971b"
+Template: "ff29e164-e5f5-4156-aa86-fa02d3f5971b"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/products-list-grid/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{590320C0-1570-423B-A9BD-7F7B414DECFC}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "products-list-grid@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6c3b2aa3-6677-4362-9bfd-c71b0d5b3d32"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020143Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "841327b3-c03c-468d-9431-b99782450c85"
+    - ID: 94ba1720-ad8e-4e70-964c-e94749240b15
+      Hint: Title
+      Value: Featured products
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020144Z
+DB: master

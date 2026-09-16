@@ -1,0 +1,86 @@
+---
+ID: "9c77dfce-ad93-4232-b041-626606ee6361"
+Parent: "5e97245b-66c9-4d9f-b8bf-5b474407a851"
+Template: "700416a0-bb15-4001-9c47-233eae954352"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Case-Studies/ridge-onboarding"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{832ABB99-CB0D-422C-AF68-5CD60BCC779D}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "case-study-ridge-onboarding@1"
+- ID: 94cba7fa-41f1-44a2-b07d-08f4a782e6b1
+  Hint: Image
+  Value: |
+    <image mediaid="{A8F230EE-8E8D-4B0F-816A-A66B40445F3E}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{54553A6A-23D7-4A5E-B645-9E929E58D081}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5f7c87b5-eb66-4d53-a7f2-1e11abc46b6a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "64761dbf-d55a-40a3-b01a-5109410eb6a6"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Ridge onboarded partners without a template tree
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 143de541-3f28-4aa1-9d6e-9a8c8d170fac
+      Hint: Category
+      Value: Partnerships
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154509Z
+    - ID: 38aac7b2-de78-4d87-8050-641d32d412a4
+      Hint: MetaTitle
+      Value: Ridge onboarding — Showcase
+    - ID: 41ce9059-3a8a-4b23-9067-7beac0013aa6
+      Hint: Title
+      Value: Ridge onboarded partners without a template tree
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "ridge-onboarding"
+    - ID: 4e791fd9-dddd-41b8-ba36-f190f0bfe5f7
+      Hint: Solution
+      Value: "<p>Ridge kept one Landing type for partner campaigns and one Case Study type for proof. Field-level personalization covers account variants. The listing grids reuse feature-card and article-card.</p><p>Onboarding is now Insert → Landing under Landing Pages, then a Case Study when there is a story to tell.</p>"
+    - ID: 54df2010-5d1f-41eb-ab0a-fa3433191be5
+      Hint: Eyebrow
+      Value: Partnerships
+    - ID: 6118081b-76cc-46aa-8442-d6da8b308cd3
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 7f5769ec-3c3b-4abe-a3c0-51d9de3b6e24
+      Hint: Client
+      Value: Ridge
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d3c05ba4-0fbd-4108-a42e-dd8341432a1f"
+    - ID: 9d0f68d2-4902-4556-b6b1-759fad06649d
+      Hint: Problem
+      Value: <p>Each partner wanted a microsite. The team cloned templates, then could not patch insert options in one place. Proof lived in PDFs because there was no Case Study type.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d3ee317f-cab0-45b4-bfd9-635bf462ff2e
+      Hint: MetaDescription
+      Value: Sample case study. Partner onboarding on Landing, proof on Case Study, no extra template tree.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215038Z
+    - ID: ecf6b92f-3965-4c05-9490-da0895915fe8
+      Hint: ShortDescription
+      Value: Partner pages are Landings. Proof pages are Case Studies. The catalog stayed small on purpose.
+DB: master

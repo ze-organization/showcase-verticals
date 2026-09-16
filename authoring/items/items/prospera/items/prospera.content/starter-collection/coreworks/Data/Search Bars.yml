@@ -1,0 +1,39 @@
+---
+ID: "d5a30823-ff53-4046-9751-bcc6bd012a8b"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "c3958cb0-c773-4879-93f6-a27adc32f7d0"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Search Bars"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b58abdc5-17db-47e4-95d1-45720bfaa2a2"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "8b16c7ce-8140-424a-b6c9-e4d7a8350451"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Search Bars
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222235Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "60008a20-8c2a-4a2d-9b0f-3ca85a54380e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222235Z
+DB: master

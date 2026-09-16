@@ -1,0 +1,59 @@
+---
+ID: "e44030d0-053b-4ece-9646-638ff8f1619d"
+Parent: "bfc350f4-ef29-456a-a165-301f259ed9c1"
+Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Services/Data/CardAssessment"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: services@1
+- ID: c4b4278a-c86c-400a-aefe-5c5bfaec9014
+  Hint: Image
+  Value: |
+    <image mediaid="{D86AC17B-FF75-46DB-875B-E73E326691A0}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "efbd8313-e3dd-49f9-82f3-643a1e25fb8e"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e43b3e94-262c-4b0f-994d-a0f44492b5c4"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardAssessment
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 169f5a27-b677-418f-be85-bca86ee122a0
+      Hint: IconName
+      Value: "{3273C711-4F43-48F4-B58B-CE602D574F34}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T224624Z
+    - ID: 6e046336-9d89-44a0-8412-a447b720a7f7
+      Hint: Description
+      Value: <p>Walk the current experience, name the gaps, leave with a sequenced plan.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "85adc1c7-f7d2-468a-a1eb-0de22b93efee"
+    - ID: a832315c-75e1-4920-8831-0f44c6daaaa8
+      Hint: Title
+      Value: "On-site assessment"
+    - ID: ba63fec8-8a4d-485b-86c2-4a054ae9c794
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Services/on-site-assessment" text="Learn more" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215057Z
+DB: master

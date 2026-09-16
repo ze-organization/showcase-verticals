@@ -1,0 +1,47 @@
+---
+ID: "0010796f-b20e-4d04-b900-2c9a3b654c72"
+Parent: "884d33de-09ec-4b14-a760-72c8423c0c46"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Placeholder Settings/location-details-full-width"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  Hint: Placeholder Key
+  Value: "location-details-full-width-{*}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "57a669e7-2bfc-43e2-a500-c186ce4e674e"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "6066730e-0f2f-455d-b077-7dc950a2377e"
+  - ID: 87871ff5-1965-46d6-884f-01d6a0b9c4c1
+    Hint: Description
+    Value: "<p>Full-width slot below the location grid.</p>"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T162359Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bd754d73-8049-4dc3-9b44-dafb2af72a78"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T162400Z
+DB: master

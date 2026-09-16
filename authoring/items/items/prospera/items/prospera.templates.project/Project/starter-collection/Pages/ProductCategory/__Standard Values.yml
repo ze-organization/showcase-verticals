@@ -1,0 +1,68 @@
+---
+ID: "4847fe20-54f2-4e27-8e5c-e3cf3ddab44b"
+Parent: "da6c7443-70ad-4d4b-abd4-07e7c99cd0f2"
+Template: "da6c7443-70ad-4d4b-abd4-07e7c99cd0f2"
+Path: "/sitecore/templates/Project/starter-collection/Pages/ProductCategory/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {1F218C4D-98ED-49B2-9EFF-486B7E539D31}
+    {C788312B-B145-4CF9-BC09-645FD52F7EC0}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-category@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "35efbba8-4a3b-4f03-bb99-f429ea5f0df8"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190239Z
+    - ID: 3db1ecd4-8367-46f0-94f2-a04b2b6ee645
+      Hint: ChangeFrequency
+      Value: monthly
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6bf9cea3-b4b5-427f-929a-c76b00095256
+      Hint: IncludeInSitemap
+      Value: 1
+    - ID: 79e06024-6a1f-428e-a5fa-a7b7fab08d41
+      Hint: TwitterCard
+      Value: summary_large_image
+    - ID: 7c19e0a5-c7fb-43b0-855e-10372e3218fd
+      Hint: OgType
+      Value: website
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6960827b-0f0c-4d91-b542-02da2feea4df"
+    - ID: b785fe09-1a66-4d48-953c-26614fe3651f
+      Hint: SitemapPriority
+      Value: 0.6
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190240Z
+DB: master

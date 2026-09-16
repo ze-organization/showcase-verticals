@@ -1,0 +1,52 @@
+---
+ID: "30dfbf89-36ba-4396-94d2-ac858814cb8a"
+Parent: "035c09b3-9c8e-4f02-a52d-632f2594481a"
+Template: "035c09b3-9c8e-4f02-a52d-632f2594481a"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/navigation/Presentation Parameters/scroll-to-top Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "scroll-to-top@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "55aebca3-53aa-4fa0-bfb0-fe4c13b2498a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 11305c86-45cc-42ff-993a-9edf0fd313b7
+      Hint: ButtonFontColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020452Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "61f57960-496a-4ece-a4c7-b6ebe88a536e"
+    - ID: a066c94d-1aa2-433b-9bce-8bb274b67eed
+      Hint: ButtonColorScheme
+      Value: "{F9DAC70B-0DDF-4231-856F-CFDE63708DDC}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c6457d6e-4ea4-40e6-90dd-c52c69db64fc
+      Hint: Alignment
+      Value: "{1DCE7204-9356-457D-9E0A-4F0696477626}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T160835Z
+    - ID: e3c01a9c-ba8b-43f5-a8ca-3af01a2c5d62
+      Hint: ButtonVariant
+      Value: "{973EEE8E-BAD4-4D6F-8696-A97630198F36}"
+DB: master

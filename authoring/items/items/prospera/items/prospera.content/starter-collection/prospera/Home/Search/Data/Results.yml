@@ -1,0 +1,48 @@
+---
+ID: "bb89d7f8-b9a7-434c-97d7-f2b0573b40a5"
+Parent: "6f301561-9187-4030-b00e-31d72d8c431e"
+Template: "5a2378a0-30af-4b39-9326-1b3b56e3bd37"
+Path: "/sitecore/content/starter-collection/prospera/Home/Search/Data/Results"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-page@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "90d363c1-7855-4155-9059-9a2fddbb2730"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "17ac71f0-5fac-45b0-8a76-6881b1c660a1"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Results
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193313Z
+    - ID: 3c144bf5-49f9-454f-ba35-35f7b81543dd
+      Hint: Lead
+      Value: <p>Sample stories the search experience can filter.</p>
+    - ID: 4e41e21a-a92e-49b2-abd0-991e7a14c1cd
+      Hint: Title
+      Value: Articles
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d659e603-f2ec-46af-a899-78dd49b2ec30"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193319Z
+DB: master

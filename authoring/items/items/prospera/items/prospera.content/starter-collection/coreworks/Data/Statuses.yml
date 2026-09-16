@@ -1,0 +1,39 @@
+---
+ID: "382a1398-3a9e-4f51-a2e6-baca91c309f5"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "6849e8cc-01c5-4487-bb8f-28d9372434cf"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Statuses"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a973cb8c-4696-45eb-bcfa-417ca75a390f"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "d472cddb-977c-4623-85e7-a4a5c8402477"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Statuses
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222753Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "50a09107-ca49-4bd0-982a-b1eb73a21843"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222753Z
+DB: master

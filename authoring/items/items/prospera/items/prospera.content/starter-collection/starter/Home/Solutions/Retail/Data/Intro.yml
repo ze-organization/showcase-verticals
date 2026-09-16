@@ -1,0 +1,51 @@
+---
+ID: "0a794dad-7802-49be-899e-8a6822263704"
+Parent: "c694820f-b24d-4255-8f4f-84862da873ed"
+Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
+Path: "/sitecore/content/starter-collection/starter/Home/Solutions/Retail/Data/Intro"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "solutions-retail@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "cb1ce729-28db-4b84-8607-c95dfb6d8406"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2f5dda55-c337-4d53-84db-959a59bff55e"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Intro
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154622Z
+    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+      Hint: Eyebrow
+      Value: What we ship
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "50935cc9-f860-4d32-8588-bde9f853a6bf"
+    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+      Hint: Body
+      Value: <p>The Products listing is still Page plus a grid. Named PDPs are Product. Campaign URLs are Landing. That split is the whole retail story — not a vertical design system.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+      Hint: Title
+      Value: Listings stay Page. Details stay typed.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T154625Z
+DB: master

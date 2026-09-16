@@ -1,0 +1,66 @@
+---
+ID: "8db7f195-a234-425e-898c-1c5288fb1391"
+Parent: "7c5fa21d-64d5-48a0-821a-01878a69207d"
+Template: "7c5fa21d-64d5-48a0-821a-01878a69207d"
+Path: "/sitecore/templates/Project/starter-collection/Pages/Event/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{7C5FA21D-64D5-48A0-821A-01878A69207D}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: event@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a4236dfb-cfb3-46c7-85de-3ed1b1561517"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0c1ae1e8-8ea0-4eaf-a7b0-8e0d74841bdd
+      Hint: SitemapPriority
+      Value: 0.6
+    - ID: 188f68eb-7708-4cbb-8a42-130464de9c63
+      Hint: TwitterCard
+      Value: summary_large_image
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192531Z
+    - ID: 3fc54e5a-003a-456a-9516-906929c8b5a7
+      Hint: IncludeInSitemap
+      Value: 1
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5a5add8d-016b-4abb-a419-0902a26c4624
+      Hint: OgType
+      Value: website
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6679ac53-ddf5-4534-8c9b-cadbcc12cf61"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192531Z
+    - ID: db60663e-8b94-4c89-94a4-d631cf2a3978
+      Hint: ChangeFrequency
+      Value: monthly
+DB: master

@@ -1,0 +1,51 @@
+---
+ID: "08a9716a-8a78-4e88-b6d4-aef04c154006"
+Parent: "bd09c052-b0a9-4d75-9180-cb4cc640782c"
+Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Features/goals/Data/How"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "features-goals@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f9b01af8-0a9d-4c95-b58b-7729a945683d"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "d35da87c-5d91-4654-accd-fd8e984d01a6"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: How
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180858Z
+    - ID: 6c269cbb-4f09-4531-9816-b3266829b8f3
+      Hint: Body
+      Value: "<p>Open high-yield savings, then ask online banking or a banker to label a balance. The illustrative 4.15% APY on the savings product page applies to the account, not to a separate goal SKU.</p><p>Move money from everyday checking on a schedule you set. Virtual cards can spend from a labeled goal when that tool is on the Rewards Visa — see Virtual cards.</p><p><small>Prospera Bank, N.A., Member FDIC. Equal Housing Lender. Annual percentage yields (APY), annual percentage rates (APR), and fees shown on this site are illustrative for a demonstration and are not live offers.</small></p>"
+    - ID: 70947c7a-7248-46a5-b46e-2e22164f2d91
+      Hint: Eyebrow
+      Value: How it works
+    - ID: 867c53fc-2dec-4d64-8175-33d33c51d5c4
+      Hint: Title
+      Value: One APY. Several labels.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f536a502-5304-40d7-b3d1-7383d90cf4cb"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180901Z
+DB: master

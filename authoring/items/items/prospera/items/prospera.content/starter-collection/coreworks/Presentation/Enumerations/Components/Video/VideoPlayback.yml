@@ -1,0 +1,42 @@
+---
+ID: "8e339812-402d-442a-adb3-e02c9727a8fa"
+Parent: "d6bf732d-06a0-4ee4-a8ef-bd46c80243b2"
+Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Video/VideoPlayback"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1191a2f1-7d90-48ad-ba50-71ae79f812c5
+  Hint: Value
+  Value: "click-to-play"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "video-playback@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a4922fe8-fa91-469f-b131-ffede20990cd"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "724e7232-1178-442c-aa26-026f8f002621"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Video Playback
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223219Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c29c521f-5cf6-43a7-af7b-2c03d6518faa"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223219Z
+DB: master

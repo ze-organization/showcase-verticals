@@ -1,0 +1,63 @@
+---
+ID: "0bc0fa04-daa5-4ba6-ace3-3cfcf181e8ad"
+Parent: "4aa13a11-31d0-43cc-a0fb-4f2dfe0a4b14"
+Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/joint/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking-joint@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "685c9b73-10bc-40de-a38b-1c7197bb98e4"
+- ID: e19f6e46-d51b-47b3-bda8-f99b0246d84d
+  Hint: Image
+  Value: |
+    <image mediaid="{5568DDD7-1F41-473F-B352-D0440C2FEDD5}" alt="Couple at a kitchen table with matching teal and navy Prospera debit cards between them" />
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2681a73b-fe05-4891-b260-4331e1337853"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193304Z
+    - ID: 34d46807-cf7b-4581-a8e2-5241f8b1a19d
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/Get-Started" text="Apply Now" />
+    - ID: 5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Personal/checking" text="Everyday checking" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a525398b-66bd-49f0-bde0-f16a609ae6a1"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T203118Z
+    - ID: dd89508e-129e-43cc-9186-307f91173cb6
+      Hint: Subtitle
+      Value: Build the week together. You will both need to live in the U.S., be 18 or over, and apply for everyday checking — joint is two people on that product, not a second SKU. Terms and eligibility apply.
+    - ID: e804b2fe-aeec-46fd-9146-631c15c72ca1
+      Hint: Eyebrow
+      Value: Joint checking
+    - ID: fb31d0c7-b1ab-4a2a-a53d-e06e7cce2b58
+      Hint: Title
+      Value: Household money is easier when both of you are on the account.
+DB: master

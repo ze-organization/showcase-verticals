@@ -1,0 +1,49 @@
+---
+ID: "6ffa7abd-ddb5-4900-a8e4-926f152e1743"
+Parent: "490a6c65-661d-4393-a9eb-b1de3494a1bf"
+Template: "490a6c65-661d-4393-a9eb-b1de3494a1bf"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/Presentation Parameters/inline-banner Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "inline-banner@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "22dbf102-8114-423d-8e5e-89f0b9b68251"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220420Z
+    - ID: 29bc0655-551b-4d03-8ea3-ec5cc3bf9355
+      Hint: ColorScheme
+      Value: "{49FD2A4F-EE5B-4528-90EE-894A25D0BE33}"
+    - ID: 3330e7b6-04ac-455b-8cda-49b0c82b5d8a
+      Hint: ShowIcon
+      Value: 1
+    - ID: 3fda2044-42ca-4703-8b64-c96daf0b7b4c
+      Hint: Composition
+      Value: "{6163A85E-A8C2-43FB-9BD2-89C96DD028CB}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "df91b7a5-49ba-4ad1-b67a-80a96fbc1eb8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220420Z
+DB: master

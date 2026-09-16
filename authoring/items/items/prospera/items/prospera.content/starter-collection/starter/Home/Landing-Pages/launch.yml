@@ -1,0 +1,184 @@
+---
+ID: "9b48b298-b91a-4c9e-8ddc-4180ad9a554b"
+Parent: "f0431228-afb3-4496-8951-bff1e73f8d7e"
+Template: "2476972e-b68f-4589-81b0-231550d60e6f"
+Path: "/sitecore/content/starter-collection/starter/Home/Landing-Pages/launch"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 08081983-c374-4768-9d71-e8967e71f146
+  Hint: TestimonialAuthorImage
+  Value: |
+    <image mediaid="{86ED3888-C675-4AA8-8593-4C6677A2B08F}" />
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{F94FF91B-8FAC-4FC6-9007-2D11198C1375}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "landing-launch@1"
+- ID: 2a3d77af-2461-43e1-9393-48b38acf1eb1
+  Hint: PartnerLogosImage
+  Value: |
+    <image mediaid="{CC3BBE67-70FB-4AFF-AA00-A0F5D495D49D}" />
+- ID: 6a098f09-1266-41be-a0cc-a57138e25855
+  Hint: Image
+  Value: |
+    <image mediaid="{2F75472E-3DEF-4683-9F49-1CE5EC0F5F04}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5160DD4C-630A-4C03-9D17-22F02C63EE9F}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2753c241-2763-4f84-a2db-e0c98950deee"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e06b120e-8550-40b8-9ec2-98245f8dd40c"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: North Desk launch
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 011522a0-4869-4311-bb32-700f784c47e2
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/Products/north-desk-lamp" text="See the lamp" />
+    - ID: 02eab6fe-fe08-4e33-b435-26a46c38614a
+      Hint: Stat3Number
+      Value: 0
+    - ID: 08763327-6978-4fcb-a2aa-eb2b298641a8
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/pricing" text="Compare plans" />
+    - ID: 088a84b1-0f33-4367-a6ec-b6f952d29e14
+      Hint: Faq2Answer
+      Value: <p>Leave the fields empty. Delivery hides empty sections; editing still shows them.</p>
+    - ID: 228cbd16-e240-46bf-b2e1-f0b866bc6b05
+      Hint: Stat1Number
+      Value: 1 day
+    - ID: 22bea2d7-7b6f-4634-ad8f-614b1c2c0c61
+      Hint: Faq5Answer
+      Value: <p>No. Page is a free canvas of datasources. Landing is a fixed campaign shape with fields on the route.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154532Z
+    - ID: 2c116f5f-ef8f-472d-aa7d-d2c4095cd7a6
+      Hint: Feature2IconName
+      Value: shield
+    - ID: 35e5b5c0-afa2-41a4-859b-ce9082b9d1e2
+      Hint: Stat2Number
+      Value: 6
+    - ID: 3b46baa2-3f2e-40e9-91c6-a1e9526d4bd8
+      Hint: Faq2Question
+      Value: "Can we hide a section?"
+    - ID: 41ba76b2-53e7-4663-b63d-ee0d61cd7a14
+      Hint: Stat3Label
+      Value: Datasource components required
+    - ID: 44980c51-f42b-4a03-9c23-b2e35035c313
+      Hint: Feature3IconName
+      Value: chart
+    - ID: 4792a77e-9e8a-4789-b4eb-258867bd25ba
+      Hint: Faq1Question
+      Value: "Do I compose hero and FAQ as separate renderings?"
+    - ID: 4c083050-09f1-4678-9acd-61f6a4e77a79
+      Hint: Faq1Answer
+      Value: "<p>No. Landing Details reads the page item. Drop extras only in the full-width slot at the bottom.</p>"
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: launch
+    - ID: 504daf0a-4a90-47af-865f-fa863d3666bd
+      Hint: MetaDescription
+      Value: "Sample product-launch landing. Hero, features, stats, proof, FAQ, and a closing CTA on the page item."
+    - ID: 6bccb0b8-4078-4ac7-a0b4-c01f503290c5
+      Hint: FinalCtaTitle
+      Value: "Ready to light the next brief?"
+    - ID: 77379d11-6c3b-484a-a031-b169f15af327
+      Hint: Faq4Question
+      Value: "What icon names can I use?"
+    - ID: 7a36c5aa-16da-46c9-823f-33dedf453f99
+      Hint: FinalCtaSubhead
+      Value: <p>Insert Landing, fill the six sections, and publish. The layout does not change.</p>
+    - ID: 7f3ec07d-dedb-4066-a7d8-26373a7f536c
+      Hint: Title
+      Value: Light the work, not the room.
+    - ID: 8128a3b8-3966-4795-95fe-417cecdc9821
+      Hint: Faq4Answer
+      Value: <p>Use names from the showcase icon vocabulary — play, shield, chart, users, calendar, check.</p>
+    - ID: 815ffd31-9e02-476d-8f41-7f8f0e51d647
+      Hint: TestimonialQuote
+      Value: <p>We stopped rebuilding campaign layouts. Editors fill the landing fields and we personalize the values.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5ba80f1e-e19f-4576-82c4-be748f7f30d7"
+    - ID: 9a475c2c-10ef-4005-8abb-c6520326b8c8
+      Hint: Feature3Description
+      Value: <p>Swap field values per account. Do not fork a template for every campaign.</p>
+    - ID: 9d787890-446a-4d87-b515-458740b731e7
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a1245764-49b7-4dc9-a9ab-206cc68c4aba
+      Hint: Faq5Question
+      Value: "Is this the same as a marketing Page?"
+    - ID: a1e97135-7f26-48f1-ab28-ef95e00324f9
+      Hint: FinalCtaAction
+      Value: |
+        <link linktype="external" url="/Products/Lighting/north-desk-lamp" text="See the lamp" />
+    - ID: a6c48575-24e2-4cfe-b1ab-c0def6535021
+      Hint: Feature1Description
+      Value: <p>Insert Landing under Landing Pages. The shell is already there — fill the fields, ship the URL.</p>
+    - ID: afed0c82-5e40-4a51-b91d-3a50bbe5405d
+      Hint: Feature3Title
+      Value: One shape, many audiences
+    - ID: b33433b4-7e48-474e-9b7f-c83c02d2c50d
+      Hint: Stat2Label
+      Value: Fixed sections on every landing
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bf900fbb-ad8b-4c64-8ded-50091ffafa91
+      Hint: Feature2Description
+      Value: <p>Stats, a quote, and logos live on the route item so an agent can fill them from a brief.</p>
+    - ID: c1619f3b-2475-48d5-953f-4f978a94861b
+      Hint: Eyebrow
+      Value: New collection
+    - ID: c220dc57-061d-45eb-a8ed-ed54357570a8
+      Hint: Stat1Label
+      Value: From insert to live URL
+    - ID: c6c46f43-f774-46ce-a659-25a6ccd575ee
+      Hint: Faq3Answer
+      Value: <p>Under Landing Pages. Insert → Landing. Nested children stay Landing.</p>
+    - ID: c90d7c6a-dece-43ce-ba16-a601f634c6a1
+      Hint: TestimonialAuthorName
+      Value: Amira Hassan
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152210Z
+    - ID: ed5d626a-9c45-4485-af97-e3bfea8d7ef6
+      Hint: Feature1IconName
+      Value: play
+    - ID: ed9e12c8-715c-46d5-8ea8-528a9fc051e9
+      Hint: Feature2Title
+      Value: Proof on the page
+    - ID: edc384b1-d35d-4af7-a742-0dc7ddff09e1
+      Hint: Faq3Question
+      Value: "Where do I insert a new landing?"
+    - ID: f22db193-01a6-4c04-b825-60a3f33739c7
+      Hint: Feature1Title
+      Value: Set up in a day
+    - ID: f4ec005d-3148-4f34-9036-031edf269660
+      Hint: MetaTitle
+      Value: North Desk launch — Showcase
+    - ID: fa36d514-728d-4b09-b0dd-6fa6774df53d
+      Hint: ShortDescription
+      Value: North Desk is a focused lamp for people who ship. One insert, six sections, every field on the page.
+    - ID: fce01a3d-4099-4d23-b3c1-3e35e6627426
+      Hint: TestimonialAuthorTitle
+      Value: Engineering Manager, Platform
+DB: master

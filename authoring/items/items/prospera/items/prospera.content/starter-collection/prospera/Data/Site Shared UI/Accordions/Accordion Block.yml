@@ -1,0 +1,39 @@
+---
+ID: "6c04a252-6d3b-46d7-b682-54ad47440100"
+Parent: "ad2c6d50-873f-4e45-9459-a21d6c1dc944"
+Template: "b5fe7e0a-86be-40f7-8656-a3123df2a167"
+Path: "/sitecore/content/starter-collection/prospera/Data/Site Shared UI/Accordions/Accordion Block"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "d1202697-4971-4476-b82a-135fdce91974"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "87bb4f33-c1a9-4b42-8881-19303ee5586c"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Accordion Block
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215628Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "df091f54-5e17-4f3e-ac80-c7a8752af542"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T215628Z
+DB: master

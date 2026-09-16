@@ -1,0 +1,48 @@
+---
+ID: "5936bee7-207e-4483-8552-1bfdf4d2e646"
+Parent: "0b8dd440-a325-452a-bfdc-5341113380e5"
+Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
+Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Data/Regions"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: destinations@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c15974d5-e47f-4551-bdd1-850ada557b37"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2364c846-5fb6-4c15-8274-99da53f24773"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Regions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190916Z
+    - ID: 2902f35f-46f3-497a-94bf-23b73a4d62dd
+      Hint: Title
+      Value: Browse by region
+    - ID: 68fbe66c-6994-4a63-af02-2913a6966af4
+      Hint: Lead
+      Value: <p>The listing cards are the three regions — not the city PDPs.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "88d1a6b9-03b3-47d6-9edd-80fa4e0857e1"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190923Z
+DB: master

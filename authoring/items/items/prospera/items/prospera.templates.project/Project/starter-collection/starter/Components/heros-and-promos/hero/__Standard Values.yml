@@ -1,0 +1,495 @@
+---
+ID: "932d19c5-c293-4485-913e-92ec7c4dce07"
+Parent: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/hero/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: hero@1
+- ID: 94cfbee5-7a7d-49df-b5d4-b6653f3125fb
+  Hint: Image
+  Value: |
+    <image mediaid="{65DA3E12-8AB7-4C3B-A875-303A0C2E1C8C}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "000daa48-4e55-44ef-8c40-7fe329329477"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>نص وصفي أطول أسفل العنوان.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220122Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: العنوان الرئيسي هنا
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "861dbe8a-ae2b-47fc-9222-9453b39267be"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>عنوان فرعي داعم اختياري.</p>
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>نص وصفي أطول أسفل العنوان.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151817Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: العنوان الرئيسي هنا
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "baea67ae-fa71-4218-9163-fda4834034b6"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151818Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>عنوان فرعي داعم اختياري.</p>
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Længere beskrivende tekst under titlen.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220122Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Overskrift her
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a9d38893-08f6-457a-9927-3a6b8a9d2724"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>Valgfri understøttende undertitel.</p>
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Längerer beschreibender Text unter dem Titel.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220122Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Überschrift hier einfügen
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "40dee2ce-92e3-4220-83cb-4ed87bc11511"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>Optionaler ergänzender Untertitel.</p>
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Längerer beschreibender Text unter dem Titel.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151817Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Überschrift hier einfügen
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8302962f-822e-4ced-bfc7-eff24c290294"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151818Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>Optionaler ergänzender Untertitel.</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Longer descriptive copy under the title.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220121Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Headline goes here
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9aa01411-1b9d-4112-8425-1fa5f3078392"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220122Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>Optional supporting subtitle.</p>
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Texto descriptivo más largo debajo del título.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220122Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Aquí va el titular
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e87c4a7a-9098-4dd9-9ee0-84d51453a612"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>Subtítulo de apoyo opcional.</p>
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Texto descriptivo más largo debajo del título.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151817Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Aquí va el titular
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "eca85d42-5109-47de-a841-9670d257bd22"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151818Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>Subtítulo de apoyo opcional.</p>
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Texte descriptif plus long sous le titre.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220122Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Titre à insérer ici
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "579e2982-a068-4e23-806e-656a2b17eb1e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: "<p>Sous-titre d'accompagnement facultatif.</p>"
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Texte descriptif plus long sous le titre.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T151818Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Titre à insérer ici
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b63b18e9-327c-4e1a-ad06-0f89fdf57ce2"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T151818Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: "<p>Sous-titre d'accompagnement facultatif.</p>"
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>Testo descrittivo più lungo sotto il titolo.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220122Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Titolo qui
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e30cf6e9-21a5-4636-9be5-daadafb74690"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>Sottotitolo di supporto facoltativo.</p>
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>タイトルの下に表示する、やや長めの説明文です。</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220122Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: ここに見出しが入ります
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b96c7352-2d4b-4c4a-b50d-9229d94d386d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>任意の補足サブタイトルです。</p>
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>标题下方较长的描述性文案。</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220123Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: 此处填写标题
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e13dfd4f-a433-4194-a7a8-0dbf4b7dd72e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>可选的辅助副标题。</p>
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0155a94f-7b96-46f4-a474-9e071f5345fd
+      Hint: Description
+      Value: <p>標題下方較長的描述性文案。</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220123Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: 此處填寫標題
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "82fcdb00-6b6b-4117-b3a0-97ad54660433"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220123Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: <p>可選的輔助副標題。</p>
+DB: master

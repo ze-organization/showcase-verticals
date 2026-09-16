@@ -1,0 +1,46 @@
+---
+ID: "bd6729d0-f86f-47c4-ad9c-9b3dc32365cf"
+Parent: "5e067095-39c5-4264-af46-1651eee16269"
+Template: "ca84d280-d61b-4ee5-9289-b79afc422e43"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/HeaderTwoTier/Data/HeaderCta"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "header-two-tier@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0871f4d2-607f-44cd-84c7-cfd6f3d4389c"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2e201692-dfc7-4946-8c7c-e580065a370b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: HeaderCta
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223644Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3089ec77-1baa-4374-ae75-85a7db2ba834"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c0d14dcc-daf6-48cf-b884-5389cba9490e
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Get-Started" text="Get started" />
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193400Z
+DB: master

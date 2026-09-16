@@ -1,0 +1,71 @@
+---
+ID: "f4f28152-0bdc-42ed-9976-fcc988085cb7"
+Parent: "699c4d87-5e61-48c2-94bc-07a006230297"
+Template: "699c4d87-5e61-48c2-94bc-07a006230297"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ai/ai-chat/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "ai-chat@1"
+- ID: 9829a44c-ba58-4a2f-b325-747ef6a330fc
+  Hint: Avatar
+  Value: |
+    <image mediaid="{C81A2D95-FBE8-4D01-88C2-43AD5086F8FF}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9f165567-43c2-427b-83e2-df49ffe1c36f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T013549Z
+    - ID: 3275a188-0ccf-46ed-87cf-05ee56ab4969
+      Hint: Temperature
+      Value: 0.7
+    - ID: 350d23ea-bf79-468c-a26d-6d65785e4001
+      Hint: PlaceholderText
+      Value: Ask a question about this page...
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7d9350b6-edcd-4ce4-bf0d-35051c5e5e51
+      Hint: AssistantName
+      Value: Assistant
+    - ID: 854bbfdb-f26a-4bec-a663-ed9e9027c538
+      Hint: SearchTopK
+      Value: 5
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1fb2edc2-ecdd-42d0-b394-ea4f24902600"
+    - ID: a548761b-1ce2-4847-b90f-2c07e4b636d6
+      Hint: SystemPrompt
+      Value: <p>You are a helpful assistant. Answer concisely and stay on topic.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c54943bb-e1f6-43e0-83c3-fa358a89592c
+      Hint: WelcomeMessage
+      Value: Hi, I am here to help. Ask me anything about content, products, or navigation.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013550Z
+    - ID: f2e05fb5-b600-4d5d-8665-d0de0dee2ccf
+      Hint: Description
+      Value: Ask questions and get quick guidance.
+    - ID: f3708f73-a9b4-4b0e-8c5a-4daf721ccb83
+      Hint: Title
+      Value: AI Chat
+    - ID: f8790f9e-054f-4aca-8148-298ab6646858
+      Hint: MaxTokens
+      Value: 1024
+DB: master

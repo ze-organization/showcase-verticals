@@ -1,0 +1,48 @@
+---
+ID: "cc95edd2-f89f-452d-81fa-c988e3852ba9"
+Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
+Template: "16986568-7609-4150-be32-a56d42215bec"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Data/StatLots"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3e49a7c9-1a5f-4b4b-ac94-f37aa347dd10"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "72c4eb48-924a-4527-a9c4-b991ee2e577e"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StatLots
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T232642Z
+    - ID: 635964a3-5c19-42e7-8265-de1172d72e27
+      Hint: Value
+      Value: 41
+    - ID: 76ad2d9c-a29b-4a53-b22e-93210d6ee1e4
+      Hint: Label
+      Value: Lots released
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "085331ba-cc53-43be-b1df-9e17a36c3e0d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T232729Z
+DB: master

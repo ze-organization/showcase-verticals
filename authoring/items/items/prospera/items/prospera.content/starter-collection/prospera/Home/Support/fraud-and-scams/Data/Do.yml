@@ -1,0 +1,51 @@
+---
+ID: "886a287d-8d5f-4b6c-9956-00148c854db4"
+Parent: "f5a0e450-4ff0-47c6-9e8b-74f5bdeb56ef"
+Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Support/fraud-and-scams/Data/Do"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "support-fraud-and-scams@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f462b0c9-5279-4637-8a84-933741218713"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "581e69a2-664a-4a14-a9fe-df8fa128e00c"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Do
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180933Z
+    - ID: 6c269cbb-4f09-4531-9816-b3266829b8f3
+      Hint: Body
+      Value: "<ol><li><strong>Lock the card</strong> in online banking if a charge is not yours.</li><li><strong>Call from Help</strong> or use Contact. Login is in the header; it is not a second Apply Now.</li><li><strong>Do not share a one-time code</strong> with anyone who phoned you.</li><li><strong>Treat urgent secrecy as a warning</strong> — a banker who already has your file will not ask you to wire to a new person to “protect” funds.</li></ol><p>We publish patterns (unexpected links, too-good listings, pressure to pay by gift card). We do not clone an in-app screenshot scanner on this marketing site.</p><p><small>Prospera Bank, N.A., Member FDIC. Equal Housing Lender. Annual percentage yields (APY), annual percentage rates (APR), and fees shown on this site are illustrative for a demonstration and are not live offers.</small></p>"
+    - ID: 70947c7a-7248-46a5-b46e-2e22164f2d91
+      Hint: Eyebrow
+      Value: Do this
+    - ID: 867c53fc-2dec-4d64-8175-33d33c51d5c4
+      Hint: Title
+      Value: A short list
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c2336369-51ff-42d4-b5e5-e97bb8ed4b41"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180936Z
+DB: master

@@ -1,0 +1,73 @@
+---
+ID: "264b22ca-d382-4836-b919-93dde1909a16"
+Parent: "0a620e3c-a41e-4819-bbe1-ab51175b24bb"
+Template: "0a620e3c-a41e-4819-bbe1-ab51175b24bb"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ai/Presentation Parameters/ai-chat-widget Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "ai-chat-widget@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8f0c2f0d-7a11-4398-9422-3b1950150292"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 12add85a-ce88-44e5-a715-6090b795517d
+      Hint: LauncherIcon
+      Value: "{494250D4-7542-4ABA-86AF-31AA02EAB8A4}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T013538Z
+    - ID: 3d2db9f5-cd8b-4442-a64a-f8ee0c34a68b
+      Hint: InstanceScope
+      Value: "{8C5912E3-436E-430E-B734-40126FCB1F8F}"
+    - ID: 50628701-793b-4a7c-ad6e-31a19c3fe90c
+      Hint: PanelSize
+      Value: "{ECB8F7DA-BC60-4736-B062-15990B8AA1FD}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "65f4880d-15a8-40e1-ab4e-761f373f124e"
+    - ID: 9d4519ef-7b16-43ce-b7e2-8e5fab151fa5
+      Hint: EnablePersistence
+      Value: 1
+    - ID: b932e6b1-3e17-4ccf-9134-9cd349ed547e
+      Hint: PanelHeaderStyle
+      Value: "{5FDC286D-C729-4674-86DB-EA3AC4427267}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: caace0b7-74c4-40a0-adc8-c04f29c01bba
+      Hint: LauncherSize
+      Value: "{07F2DCF4-17DF-4BE2-9E5A-1609F48A851F}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013538Z
+    - ID: ec8ea268-faf0-408d-8b24-5510d45619c6
+      Hint: LauncherShape
+      Value: "{45915AC2-B726-4A9B-9F21-7617F7B462C5}"
+    - ID: ee526a9a-d90f-4060-8a6b-ac45f3c6d732
+      Hint: Placement
+      Value: "{44B8C291-CEE9-49C5-BC4A-3B16C4EA85CF}"
+    - ID: f6501610-a902-4c39-a5e0-d2bd2d16e552
+      Hint: LauncherStyle
+      Value: "{F4401059-95F8-40A4-BAFE-E672C571EFB4}"
+    - ID: f8c0f91f-1744-4b54-b855-d73d1d0b7150
+      Hint: TrackEvents
+      Value: 1
+    - ID: fe5ccba3-a2bd-4346-9bc2-ae2834fa0fd2
+      Hint: ColorScheme
+      Value: "{F9DAC70B-0DDF-4231-856F-CFDE63708DDC}"
+DB: master

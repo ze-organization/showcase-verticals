@@ -1,0 +1,48 @@
+---
+ID: "3dd3f94e-fd3d-46cd-8b25-18c1e89c933f"
+Parent: "9f9e7e91-548d-43f5-9c1a-9e93c9f3ecc0"
+Template: "5d03f5d4-cd26-4c9b-ad3d-226ee5db945d"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Tableware/Data/Products"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-category-tableware@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "190188cb-895b-4818-8a10-5666d1467180"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "38a7c8a0-bce6-454a-be2c-32c033a3c949"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Products
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0478e8ee-f031-49b3-aeb6-ddffca51fba7
+      Hint: Title
+      Value: On the table
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190346Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "29a08339-97a3-4721-91f5-2d9a0c594b56"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190350Z
+    - ID: e80696df-fc1a-4c07-907b-9b1d2ef5e3ab
+      Hint: Lead
+      Value: <p>The Ridge Carafe sits directly under this category.</p>
+DB: master

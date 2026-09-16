@@ -1,0 +1,61 @@
+---
+ID: "18d7b2fa-f027-4dfa-bec2-a65e20eaffc6"
+Parent: "05623d64-bd0d-40bd-87f5-d559a0f8b6b1"
+Template: "fa326c91-01ad-4418-a527-133ee191394b"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Pricing/Data/PlanGrowth"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: pricing@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e4041161-4d93-4a91-b2fc-5d6dbeef6659"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "1e6859de-c3b6-4ff7-9f8d-e4971caa523f"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: PlanGrowth
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 239e44d1-ba83-4e0f-b085-f2140e51e338
+      Hint: CtaLabel
+      Value: Start Growth
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T222736Z
+    - ID: 3048d237-ef92-432e-9ea0-cce1aa2d3bc7
+      Hint: CtaLink
+      Value: |
+        <link linktype="external" url="/Landing-Pages/workshop" text="Start Growth" />
+    - ID: 375613e6-f7e6-424f-b8c0-b8568132be1e
+      Hint: Highlighted
+      Value: true
+    - ID: 3e69e026-ae8f-41d5-9eab-29c6e4b3c5ad
+      Hint: Features
+      Value: |
+        Landing and Case Study
+        Insert options on listings
+        Workshop seat
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1522f0d5-4ab7-49e2-995d-1e9b253dfe6f"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T222737Z
+    - ID: f2fb3620-7eee-414a-bb8b-e2bc4e95cbc7
+      Hint: Name
+      Value: Growth
+DB: master

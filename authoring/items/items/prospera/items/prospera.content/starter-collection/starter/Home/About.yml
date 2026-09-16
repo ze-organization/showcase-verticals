@@ -1,0 +1,171 @@
+---
+ID: "005b6a54-6cac-4063-9cf4-f2cc99d49cf2"
+Parent: "0458a1bb-f29f-4f07-86af-df88b5c6c2ad"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/starter/Home/About"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: about@1
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{831D2CD8-31C5-47D4-A6E7-7FED16562680}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4bbbb1b2-9c6f-4d8b-af01-bdaa60e2370c"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "670a6b69-898f-4020-89fa-51378d26ea15"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: About
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 001dd393-96c5-490b-924a-b0f25cd9efd8
+      Hint: __Lock
+      Value: <r />
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{16FD0A94-4C4C-5282-84DF-F3C364CD1DE0}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B954B3315-0EC6-4584-87F6-3AACD497E39A%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7BAA3A10D0-ADF3-47D5-99DC-AE4A49A28B9D%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7BAE3209CC-0FCE-40D9-8341-01F7C5170391%7D" />
+            <r
+              uid="{3CD4376D-DDBB-53A9-AB18-D3B8653AD9CA}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B1D56C84F-0F79-4EEB-8796-37D00CFA6462%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7B9C4BA83F-F8C1-4280-983C-92B215E0FA79%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B38AA7D4A-DCAE-4236-B09C-A46F60F667BC%7D" />
+            <r
+              uid="{FD8B951B-BF5C-5626-99DE-9C50A3A5978E}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B2A0F18B5-8AA1-4DB3-ABC9-FC87F5AAEB61%7D&amp;Layout=%7B627DAA88-DDC9-492F-9CF7-B2AEDADF7FAA%7D&amp;BackgroundColor=%7BFC57A780-FBE6-47E0-B46D-A300EA30216E%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BE2C016D4-50B4-43C8-BB57-9887F8BD62E3%7D" />
+            <r
+              uid="{0235A286-6CFC-5B7E-9199-A5B4C6917810}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Intro"
+              s:id="{FB155EB8-A0A4-4CC2-BD75-A1AE166E449F}"
+              s:par="DynamicPlaceholderId=4&amp;FieldNames=%7BFCB3375A-60AC-4D38-A5EB-08891AD0D3AE%7D" />
+            <r
+              uid="{F36054A3-C38D-5915-862C-CD6C2754151F}"
+              p:after="r[@uid='{0235A286-6CFC-5B7E-9199-A5B4C6917810}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Stats"
+              s:id="{574A7161-51ED-4398-8AF5-D0297732A77A}"
+              s:par="HeadingLayout=%7B6324F678-CF82-4211-BC19-6DAC927C7665%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BBD27B976-95D0-4B3B-99FB-93D7007CE820%7D" />
+            <r
+              uid="{D296E18E-1C8A-57EA-AD4B-153C9A2B5AAD}"
+              p:after="r[@uid='{F36054A3-C38D-5915-862C-CD6C2754151F}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/People"
+              s:id="{D262ACC3-7A0D-4032-9959-9DB0383974C3}"
+              s:par="HeadingLayout=%7B6324F678-CF82-4211-BC19-6DAC927C7665%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B775CD5C9-5691-476A-B330-0293C8B4E34E%7D" />
+            <r
+              uid="{BE873EDC-2318-502D-A1CC-3F2D3014700B}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B20F5A48C-658B-498D-AF78-EDE1885F090F%7D&amp;SurfaceTone=%7B28E70AA4-D820-43A8-9E0B-B35E39EB1076%7D&amp;DynamicPlaceholderId=7&amp;FieldNames=%7B992BEB60-A17B-4A6D-BD94-BE0FFAA8EA82%7D" />
+            <r
+              uid="{4F749AD9-F36F-500E-9E6C-A4E0700F5A82}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-stats-5"
+              s:ds="local:/Data/StatTypes"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BF4C26F5A-2BA0-4AAB-8A82-04EEB648A0B8%7D" />
+            <r
+              uid="{B9DCDCF6-62B5-5B22-AADD-8E520B23B4EB}"
+              p:after="r[@uid='{4F749AD9-F36F-500E-9E6C-A4E0700F5A82}']"
+              s:ph="/headless-main/container-2/cards-stats-5"
+              s:ds="local:/Data/StatListings"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=9&amp;FieldNames=%7BF4C26F5A-2BA0-4AAB-8A82-04EEB648A0B8%7D" />
+            <r
+              uid="{406DD017-3B9D-5ADF-A246-D9E0E5474218}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-stats-5"
+              s:ds="local:/Data/StatPeople"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=10&amp;FieldNames=%7BF4C26F5A-2BA0-4AAB-8A82-04EEB648A0B8%7D" />
+            <r
+              uid="{5F3B5753-29C9-5272-8AF9-E66D48565DC0}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-persons-6"
+              s:ds="local:/Data/CardAmira"
+              s:id="{D10DC734-C836-40EE-9993-74C663206279}"
+              s:par="DynamicPlaceholderId=11&amp;FieldNames=%7B2790B212-DFA1-49ED-8493-B32B3E9829D1%7D" />
+            <r
+              uid="{F4CC6394-FE4B-505E-9F97-EA7BEC250093}"
+              p:after="r[@uid='{5F3B5753-29C9-5272-8AF9-E66D48565DC0}']"
+              s:ph="/headless-main/container-2/cards-persons-6"
+              s:ds="local:/Data/CardJulian"
+              s:id="{D10DC734-C836-40EE-9993-74C663206279}"
+              s:par="DynamicPlaceholderId=12&amp;FieldNames=%7BD5F20F03-6BB8-48EE-A93A-F58AD909492F%7D" />
+            <r
+              uid="{059FAF5A-A0EF-525E-8008-4B1752B83280}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-persons-6"
+              s:ds="local:/Data/CardSofia"
+              s:id="{D10DC734-C836-40EE-9993-74C663206279}"
+              s:par="DynamicPlaceholderId=13&amp;FieldNames=%7BD5F20F03-6BB8-48EE-A93A-F58AD909492F%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: About the Showcase
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154449Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.8
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: Why this starter ships insertable types instead of a template explosion.
+    - ID: 4926c0f4-360a-4c27-ae1e-2353db686a6f
+      Hint: ChangeFrequency
+      Value: monthly
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: about
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2b89fed7-a45c-4740-9829-b4ccbfdf659c"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: About — Showcase
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: The team
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T160919Z
+DB: master

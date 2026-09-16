@@ -1,0 +1,59 @@
+---
+ID: "32e88f3f-8225-402e-8f93-883d48ad7cfc"
+Parent: "24fe6b6a-ea34-491d-b8bc-8f7faef0af9e"
+Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Case-Studies/Data/CardRidge"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "case-studies@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4c571c90-2cb0-4ea1-ad05-8d3423ec0568"
+- ID: fec5206f-28dc-42b9-8bcc-4cf7e042aaaa
+  Hint: Image
+  Value: |
+    <image mediaid="{79094BAA-5D64-4BB3-9724-B3E339E1C215}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "32176e14-4764-458d-8532-ae9c3a141872"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardRidge
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 08a97d39-e861-4fb4-9676-467800790ffd
+      Hint: Eyebrow
+      Value: Ridge
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154458Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "771de239-e313-40b9-91e9-9531cd59eeea"
+    - ID: 9a110a03-2ae4-4e97-93a2-03c18f5d5e0d
+      Hint: Excerpt
+      Value: <p>Partner pages are Landings. Proof pages are Case Studies. The catalog stayed small on purpose.</p>
+    - ID: b27c83d4-00e3-4942-b60b-c16e36dc08b5
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Case-Studies/ridge-onboarding" text="Read case study" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cfcd7906-6df1-4e9d-bcc3-eb4ef751f020
+      Hint: Title
+      Value: Ridge onboarded partners without a template tree
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215037Z
+DB: master

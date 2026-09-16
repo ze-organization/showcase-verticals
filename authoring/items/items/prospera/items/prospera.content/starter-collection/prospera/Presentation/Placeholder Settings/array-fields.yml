@@ -1,0 +1,69 @@
+---
+ID: "7269e3ab-e4b5-4626-a9ee-27d8d1bde50f"
+Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/array-fields"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__placeholder-settings__"
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  Hint: Placeholder Key
+  Value: "array-fields-{*}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "7f008508-a881-4e3c-bde1-e486505ac845"
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  Hint: Allowed Controls
+  Value: |
+    {BE607F5B-2A6F-40EF-A4CE-90A68CF09E99}
+    {C437C45B-67EF-4F4F-9682-A086E53EBBFF}
+    {2B2F169B-34E7-467B-B065-363704202392}
+    {AFEB783B-20C3-45EA-AC6B-4FDA7CA4C2CA}
+    {F6F9C8C2-869E-4151-A175-9360DAC91CB1}
+    {F956F49A-6766-4686-A357-7FE4F8C557E7}
+    {DCE1A34F-564F-4FAD-BD25-BCE4A0779AA7}
+    {2B346EAE-FCB7-4440-AC96-E70171947C34}
+    {86D78A0A-FCC8-4DCC-ABDA-F7D560E7E49C}
+    {7D8467EF-E89F-497E-A6F7-B248A83B1D86}
+    {9B3AD674-5745-4C39-A3B6-70675D86C1A1}
+    {6547026F-02DE-488F-BE85-F58BFAFE7318}
+    {6888D52A-98F3-426A-9C20-FB4C7E94C2E3}
+    {48B1DC5C-F286-41C1-AE75-A6A197DE5A93}
+    {3F873459-B9C2-416D-B406-AC21776F5317}
+    {5B283D21-8B75-4BBD-86AD-4D93F5376003}
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "3eb7103f-6764-4bff-93da-0d478c101fd4"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: "array-fields-{*}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T230453Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "adc77f01-a983-4e63-a185-b40cd0155fb9"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021815Z
+DB: master

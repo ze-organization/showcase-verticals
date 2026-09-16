@@ -1,0 +1,45 @@
+---
+ID: "f61736ae-1faf-4073-953f-1ba5dfb6f8db"
+Parent: "7f06c47b-7316-4b48-b68c-70383fcfada8"
+Template: "1d0c59ec-d0c3-4c72-8199-4d713f6fe999"
+Path: "/sitecore/content/starter-collection/starter/Home/About/Data/Stats"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: about@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "92b85750-2416-4d43-9a9a-418646131239"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "7c989a24-25ca-421f-8f81-c1219d9990aa"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Stats
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154452Z
+    - ID: 698063f2-b2ce-43c6-8712-03b701de31fb
+      Hint: Lead
+      Value: <p>What this starter actually ships as insertable types and listings.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "cc516bc6-fa72-4b4f-ab96-bd24d4524b0d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T154454Z
+DB: master

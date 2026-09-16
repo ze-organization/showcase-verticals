@@ -1,0 +1,56 @@
+---
+ID: "793c36c5-af34-455a-88e6-099bf05f03f8"
+Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
+Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
+Path: "/sitecore/content/starter-collection/prospera/Home/Data/CardVirtual"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: 7fe14a9a-4169-4b67-93e0-0df849873b6d
+  Hint: Image
+  Value: |
+    <image mediaid="{60FAD606-EC28-4EC0-A395-0B2D5FE73ACE}" alt="Illustration of a dashed virtual debit card in front of a solid card" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4963a97c-7c3b-4879-82dc-32b83e786cd8"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e26a2f72-1351-4df0-a166-9262a00ed5d7"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardVirtual
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021603Z
+    - ID: 3749bc4d-27b2-4f03-a4b2-3fa6caf890d1
+      Hint: Description
+      Value: <p>Issue a number for a subscription or a vendor without sharing your physical Rewards Visa.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9c7cd374-124c-4e9d-ba19-c160468eb9f0"
+    - ID: b376f791-9d7c-43e4-8b36-51a958eb4c7a
+      Hint: Title
+      Value: Virtual cards
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T174136Z
+    - ID: f5712a6f-019b-408a-9f92-1445842c3d8e
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Products/virtual-cards" text="How virtual cards work" />
+DB: master

@@ -1,0 +1,58 @@
+---
+ID: "fea9fc60-0bf7-4432-b1d0-f06247a780d4"
+Parent: "65721c43-0584-42c6-b90e-0c0ad4428035"
+Template: "65721c43-0584-42c6-b90e-0c0ad4428035"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/Presentation Parameters/container Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: container@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6089a198-f0c5-4ba6-a634-865ba2b86bf8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215329Z
+    - ID: 2ce0add5-580d-4d18-a198-660f12b119ee
+      Hint: Alignment
+      Value: "{FA719AD0-E923-41E9-9657-A161AE28317A}"
+    - ID: 45313b07-3caf-401b-8e3e-4b0dbedc2736
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 86e32341-d9d7-4d42-8bf9-3d7bc68ad69c
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9628ed3a-a418-41ae-a50b-8e95b5792d12"
+    - ID: 8f9806ff-cddc-4daf-899d-f001b21806e7
+      Hint: PaddingY
+      Value: "{AA3A10D0-ADF3-47D5-99DC-AE4A49A28B9D}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c451fa2a-8e66-4654-b2de-66b735a3137c
+      Hint: MaxWidth
+      Value: "{5678C06E-3BAE-4DAF-97B8-4303062ACFDF}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203501Z
+    - ID: e5f9e158-e69d-4fac-be5f-d4dddfb7b886
+      Hint: Position
+      Value: "{22F9EE3A-AF3F-4DD6-BE0F-8363F24AE80E}"
+DB: master

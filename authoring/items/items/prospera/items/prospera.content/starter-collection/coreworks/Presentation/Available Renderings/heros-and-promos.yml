@@ -1,0 +1,61 @@
+---
+ID: "ca82482e-b5d9-43d9-9c66-c4cca13789a9"
+Parent: "33305acf-ab7b-4dc4-8c78-4b860b5a0320"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Available Renderings/heros-and-promos"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: "/-/media/fab2b9421e014142b6bf532e86d53f80.ashx?thn=1&db=master&v=2"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__available-renderings__"
+- ID: 715ae6c0-71c8-4744-ab4f-65362d20ad65
+  Hint: Renderings
+  Value: |
+    {85559654-3907-4718-8764-B4831A954C1D}
+    {B59DA1A7-6308-491C-9F40-8373A22F60C0}
+    {021CAA7E-7065-4775-A0B6-7A4FBAAE44F0}
+    {03548C11-6961-4654-977D-0F46F1131E6C}
+    {D7EA9356-A89F-44E6-B434-00A3AC92704D}
+    {6BB067F0-02A4-4E79-8BEF-100107536429}
+    {C1F30257-2823-45FC-9EC0-59A4596ED0E0}
+    {C7431F97-B9E0-40B7-98A0-25CD779E44DA}
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8a44059a-ac58-471f-a245-de18dedad9e6"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "6ff1eea0-0c3e-4f1e-bede-23a919eb58bb"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Heros & Promos
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T230445Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d7ecdc7c-7b75-4662-b963-9143f827bc5e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T232241Z
+DB: master

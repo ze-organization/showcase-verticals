@@ -1,0 +1,39 @@
+---
+ID: "5e3e9373-ef04-4c46-b32b-ef5e1fa14403"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "a91b2343-e918-462a-9a36-b816ba13b700"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Event Details"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e3a28bac-4315-46eb-a74d-7176afb31ddf"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "812b2f19-2289-44b8-b438-dc7a3bc458f0"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Event Details
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192503Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "97f5bb72-e59e-4eb0-b487-8b8c3058a6ed"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T192503Z
+DB: master

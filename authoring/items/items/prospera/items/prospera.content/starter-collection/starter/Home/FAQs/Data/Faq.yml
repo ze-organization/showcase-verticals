@@ -1,0 +1,45 @@
+---
+ID: "b699d234-17c0-4371-905f-29199f065c10"
+Parent: "c05513ee-a454-4202-b86d-e7d4193507d3"
+Template: "a31e56dc-9de9-4e0d-a920-4db9ce4ce2a9"
+Path: "/sitecore/content/starter-collection/starter/Home/FAQs/Data/Faq"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: faqs@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "efb8bbf4-27e0-477c-84ec-3e93c1a1fd85"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "91818bf0-6fab-4386-9181-3ba9bda993e0"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Faq
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154514Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "bb66b3eb-fbb8-434a-9d8a-f5d57d5b2cb2"
+    - ID: ac9fcf3e-56b0-44a2-bb3e-69c63cae4e52
+      Hint: Heading
+      Value: Questions
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T154518Z
+DB: master

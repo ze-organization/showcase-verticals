@@ -1,0 +1,86 @@
+---
+ID: "19641c92-913c-47e5-85db-8ec3b4873682"
+Parent: "f4b00048-cffc-49f1-95ef-c172d56bf5db"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Page Designs/StandardPage"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 0966b999-0d0e-4278-acc9-9da69d461fe6
+  Hint: PartialDesigns
+  Value: "{FDBCB994-AC24-49C2-90ED-9486D9E5BC47}|{0AFB8D2F-1AAD-44D6-9C88-C9373FC6FD94}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "standard-page@1"
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{D4D7B429-2B71-4183-9C64-095AD57AE2C7}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "61a13e8d-375d-46ed-b2ab-5cdb1c5d7154"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+          ph="headless-main"
+          par="MaxWidth=%7B116D8675-32E2-4067-8B1C-40C0DE16DCE2%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B7670CB2A-9D04-4F73-8B3D-2F0E3BBD8735%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B79CD824F-2B06-4630-9130-7E3CA90978B2%7D"
+          uid="{5E4C5238-444C-5278-B057-132689636500}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "8497c797-075c-49e3-9095-77e8ceefff5c"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Standard Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6ACE7A9B-AA72-4BF2-B108-B8D65AC229C9}"
+              s:ds=""
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Position=%7B0C41E7EA-FFD3-4702-8EA1-0386E9808E65%7D&amp;MaxWidth=%7BF0480CF0-E12A-4526-8864-EEF9B3AF70D4%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;BackgroundImage&amp;ColorScheme=%7B0C27EAF9-F7BB-48A2-95AE-3460C3D041B0%7D&amp;BackgroundIntensity=%7B2D0879ED-BE9A-4387-9ACD-13DC455F6CDC%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;FieldNames=%7B79CD824F-2B06-4630-9130-7E3CA90978B2%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260815T190131Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "53f59533-18ea-4ba6-af6b-5f6675ce9a6d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T220216Z
+DB: master

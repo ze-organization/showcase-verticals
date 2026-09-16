@@ -1,0 +1,59 @@
+---
+ID: "e5d3485c-f927-4e63-8b54-f9861fce8850"
+Parent: "cf689256-99e0-48c3-9066-3be8ce2ce9d7"
+Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Landing-Pages/Data/CardPartner"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "landing-pages@1"
+- ID: c4b4278a-c86c-400a-aefe-5c5bfaec9014
+  Hint: Image
+  Value: |
+    <image mediaid="{357F7887-EB87-4250-87BF-C244912890CB}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "84bdc3b8-1264-47c1-bc77-dab9be5a8022"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "9c518701-7f69-4e1f-b0f0-1ca083bfaee9"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardPartner
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 169f5a27-b677-418f-be85-bca86ee122a0
+      Hint: IconName
+      Value: "{3273C711-4F43-48F4-B58B-CE602D574F34}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T154523Z
+    - ID: 6e046336-9d89-44a0-8412-a447b720a7f7
+      Hint: Description
+      Value: "<p>An ABM-style partner page. Swap field values per audience; keep the six-section shape.</p>"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "faec0436-26d9-4a3a-b337-1cadfa9aaa89"
+    - ID: a832315c-75e1-4920-8831-0f44c6daaaa8
+      Hint: Title
+      Value: Partner program
+    - ID: ba63fec8-8a4d-485b-86c2-4a054ae9c794
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Landing-Pages/partner" text="View landing" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215044Z
+DB: master

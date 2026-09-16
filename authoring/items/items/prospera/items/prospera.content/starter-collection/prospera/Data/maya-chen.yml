@@ -1,0 +1,61 @@
+---
+ID: "f50b3194-684c-4718-90a4-44ced3ecd5aa"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "f7ebb3f8-50cd-4197-b638-490bde71cebd"
+Path: "/sitecore/content/starter-collection/prospera/Data/maya-chen"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "author-maya-chen@1"
+- ID: 60699371-f7c4-4bb9-8623-2e06c0ec33de
+  Hint: Avatar
+  Value: |
+    <image mediapath="/theme-photos/promo-closer.jpg" alt="Portrait of Maya Chen" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4f7e4c91-1752-4d36-8fd8-aa08ae1334d6"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "7c4d2d88-4632-4c15-9c44-490bfc255e3a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Maya Chen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 17056070-036b-413d-94f8-475e97d91a1f
+      Hint: Bio
+      Value: <p>Maya Chen leads the starter editorial voice — architecture explainers, authoring patterns, and the path from recipe to live page.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260815T204257Z
+    - ID: 25d50279-7637-46bd-9b9f-73829c43c687
+      Hint: JobTitle
+      Value: Editorial Lead
+    - ID: 6474b35d-685f-4ea7-a61b-b44959752892
+      Hint: AuthorName
+      Value: Maya Chen
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "cd34b371-0952-4240-b6a1-550b930a8445"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: caa39465-53ad-431e-b5f5-1a6b6d98c64d
+      Hint: About
+      Value: Writes about composable architecture, authoring UX, and shipping Sitecore sites as code.
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021246Z
+    - ID: e0c0fe38-5ac3-4901-ad24-66fe1601d9a9
+      Hint: Pronouns
+      Value: she/her
+DB: master

@@ -1,0 +1,48 @@
+---
+ID: "6f377473-9c24-40a9-a64e-355ce37c9ac4"
+Parent: "377842b9-054c-43e1-9b8f-c00da3780cf0"
+Template: "16986568-7609-4150-be32-a56d42215bec"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Lighting/Data/StatFinish"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-category-lighting@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "22d6eec8-01f0-484b-a140-0d11d76c68da"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "6f71bace-e8f5-43de-8161-13eb7316f2b7"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StatFinish
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190333Z
+    - ID: 635964a3-5c19-42e7-8265-de1172d72e27
+      Hint: Value
+      Value: Brass
+    - ID: 76ad2d9c-a29b-4a53-b22e-93210d6ee1e4
+      Hint: Label
+      Value: Finish
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "53cb1b20-6238-4288-a0f5-fd998562f3f3"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190337Z
+DB: master

@@ -1,0 +1,39 @@
+---
+ID: "32491a4e-deb6-44c8-824f-0d1ca72850ec"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "319df685-aa75-49ac-bb66-4aaa45c4f1c6"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Stories Rails"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "626db78e-debe-4096-8759-a9aa37594a2d"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "c47bc572-b7f2-41dc-9554-0cbad91c30c6"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Stories Rails
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222822Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "810a0b8b-78b5-4e29-90c8-45f1d7cab871"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222822Z
+DB: master

@@ -1,0 +1,58 @@
+---
+ID: "5babd88c-d2af-426f-8bc2-a92fbf87e78b"
+Parent: "2b3c044b-e556-4c63-9374-ae0eaec8f9d1"
+Template: "e1f8b936-ff46-4434-9c39-34b91e166885"
+Path: "/sitecore/content/starter-collection/prospera/Data/Catalog Products/linen-throw"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "catalog-product-linen-throw@1"
+- ID: 7ea58df8-8edc-4418-bd12-c8ef45a4a094
+  Hint: Image
+  Value: |
+    <image mediapath="/theme-photos/hub-02.jpg" alt="Folded linen throw on a lounge chair" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "fc4dc83f-975d-4c17-a158-756344c005f9"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "4798fd63-1653-49e0-a28e-fd51f8dfdf39"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Linen Throw
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T224511Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fb48a480-29a0-4770-b119-8aeab33278a0"
+    - ID: 90b2f1a1-d9b3-43b1-9de1-58cdd239a2d7
+      Hint: Category
+      Value: Textiles
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d5e878ec-4a2f-4c41-b3bf-10045957f9fb
+      Hint: Title
+      Value: Linen Throw
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021247Z
+    - ID: e5f81c96-420a-464f-a12f-58268fdc900e
+      Hint: Description
+      Value: "<p>The throw is garment-washed so it drapes on the first day. Hem is a narrow self-edge — no fringe to catch.</p><p>Keep it folded on the lounge chair, or over the arm of the sofa. The weave is tight enough for a lap, open enough to breathe.</p>"
+    - ID: f60b802c-391f-4b97-8e54-6b210ba6a088
+      Hint: Tagline
+      Value: Washed linen, a weight that stays on the sofa.
+DB: master

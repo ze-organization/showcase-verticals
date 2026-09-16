@@ -1,0 +1,55 @@
+---
+ID: "df3e9c36-c5bc-4d33-9b10-813dc588e9ff"
+Parent: "f6903120-2c5c-4ef2-9611-6e4564647b5d"
+Template: "f6903120-2c5c-4ef2-9611-6e4564647b5d"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-rating-field/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-rating-field@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ef735f88-cdf3-42a2-bd31-35da800c9513"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0af49ba5-abe1-46a7-9c64-5c1116cf4090
+      Hint: Max
+      Value: 5
+    - ID: 118c837b-9f5c-478b-861c-1642297c4b96
+      Hint: EndLabel
+      Value: Extremely likely
+    - ID: 1bbf70ed-e3b2-4207-bc68-7289921fbccf
+      Hint: StartLabel
+      Value: Not at all likely
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014653Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "869176ab-a0e3-4e60-b885-c4a60be67d32"
+    - ID: a28c79ee-8dce-4db3-8132-af04e9670f30
+      Hint: Name
+      Value: rating
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014653Z
+    - ID: e64ba9a4-1fb0-4c42-8718-42a7f1fae8e4
+      Hint: Label
+      Value: "How would you rate us?"
+DB: master

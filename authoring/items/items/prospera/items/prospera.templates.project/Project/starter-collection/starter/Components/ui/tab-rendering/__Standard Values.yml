@@ -1,0 +1,457 @@
+---
+ID: "61835908-42d1-4252-b02e-a729d8b937a4"
+Parent: "577c9f0d-7f10-4f6b-81cf-74eb30484015"
+Template: "577c9f0d-7f10-4f6b-81cf-74eb30484015"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/tab-rendering/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 0f90ae3a-e832-43df-af47-6e1f6c70f5f8
+  Hint: TriggerImage
+  Value: |
+    <image mediaid="{DD8D094E-E5AB-4F9F-A819-0EF23750B30D}" />
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "tab-rendering@1"
+- ID: 5ac689aa-7178-4173-bbcb-5321f4b783fc
+  Hint: PanelImage
+  Value: |
+    <image mediaid="{B06F4788-AA95-4D8A-AB52-A4FE517BB31A}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "30b81dd6-e077-4608-89ee-ea0497ece489"
+Languages:
+- Language: ar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>يوضع نص التبويب هنا. استبدله بمحتوى لوحة هذا التبويب.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: علامة تبويب
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "274a09ae-e1f2-4cdd-adbf-9a41af4cd5d4"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: ar-SA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>يوضع نص التبويب هنا. استبدله بمحتوى لوحة هذا التبويب.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152033Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: علامة تبويب
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a1d81846-6f2e-4f4f-ae3c-433928778a5d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152034Z
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>Fanens indhold vises her. Erstat det med indholdet til denne fanes panel.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Fane
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2b963111-8063-4966-9d60-054e62bbb944"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: de
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: "<p>Hier steht der Inhalt des Tabs. Ersetzen Sie ihn durch den Inhalt für dieses Tab-Panel.</p>"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Registerkarte
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "54436128-6b69-46b2-8233-8544ebce0930"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: "<p>Hier steht der Inhalt des Tabs. Ersetzen Sie ihn durch den Inhalt für dieses Tab-Panel.</p>"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152033Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Registerkarte
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9d697c8a-9cae-4f5b-b6cf-be041dfb07d6"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152034Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>Tab body copy goes here. Replace with the content for this tab's panel.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222942Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Tab
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9bbdea25-0fe1-4d7e-a477-dc5b938d18c5"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222942Z
+- Language: es
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>El contenido de la pestaña va aquí. Reemplázalo con el contenido del panel de esta pestaña.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Pestaña
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "616f9419-5442-4225-87f1-48a75426d91b"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: es-ES
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>El contenido de la pestaña va aquí. Reemplázalo con el contenido del panel de esta pestaña.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152033Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Pestaña
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2595aa0d-3991-4077-b481-67a4371d47f5"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152034Z
+- Language: fr
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: "<p>Le contenu de l'onglet s'affiche ici. Remplacez-le par le contenu du panneau de cet onglet.</p>"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Onglet
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "dad2cb11-e2fe-417e-9ead-0fcdb6feb05e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: fr-FR
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: "<p>Le contenu de l'onglet s'affiche ici. Remplacez-le par le contenu du panneau de cet onglet.</p>"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260909T152033Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Onglet
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "09bd2ea7-c179-439a-9450-db731e9db00a"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260909T152034Z
+- Language: it
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>Qui va il contenuto della scheda. Sostituiscilo con il contenuto del pannello di questa scheda.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: Scheda
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9af95278-964a-4603-9694-5cf19c64ac60"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: ja
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>ここにタブの本文が入ります。このタブのパネル用のコンテンツに置き換えてください。</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: タブ
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ef6d7a80-e1c3-457e-921f-0a538157142c"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: zh-CN
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>选项卡正文内容显示在此处。请替换为该选项卡面板的内容。</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222943Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: 标签页
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "097eadc6-6a62-459f-810a-b0c5e5dfa37d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+- Language: zh-TW
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+      Hint: Content
+      Value: <p>分頁正文內容顯示於此處。請替換為該分頁面板的內容。</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222944Z
+    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+      Hint: Label
+      Value: 標籤頁
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "986e5a61-4d80-4213-86bd-14e0cfecf651"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222944Z
+DB: master

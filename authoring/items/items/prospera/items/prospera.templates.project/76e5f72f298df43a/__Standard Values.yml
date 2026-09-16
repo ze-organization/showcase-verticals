@@ -1,0 +1,85 @@
+---
+ID: "20c94c79-e21b-4e8a-8861-af1e6343ca37"
+Parent: "47093364-399a-4291-a00a-7732d1ea6099"
+Template: "47093364-399a-4291-a00a-7732d1ea6099"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/pricing-list-grid Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "pricing-list-grid@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f10a14b4-95a5-41f7-b5da-59dbaecf9377"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0497ad61-4ceb-4396-902c-95b97677cf65
+      Hint: ColumnsSm
+      Value: "{254A296A-55ED-4759-92C3-C04C47B99271}"
+    - ID: 16df732c-634f-4a00-8e05-ab47d3421c4b
+      Hint: Elevation
+      Value: "{0D9E8818-67AE-435D-8219-56B0A9CD53DE}"
+    - ID: 180d9376-26c3-49ed-936f-e87fba16995b
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020027Z
+    - ID: 38a2b7a7-2a24-4205-8db8-6bb1b3f2a845
+      Hint: ColumnsMd
+      Value: "{A799B290-78FE-463A-9C65-B82C40A9C4D9}"
+    - ID: 3fd313b5-2df2-4277-a9c8-ecbf18e3842d
+      Hint: GridPattern
+      Value: "{717B9448-4FDE-4DC7-9F3E-ACA5307467A3}"
+    - ID: 450d5343-22d2-42e0-af4f-3c73950adf61
+      Hint: OverlapTop
+      Value: "{9A7DB544-D761-4773-AB9B-1F049C563CEA}"
+    - ID: 4ff16bc8-0456-4894-8f9c-bd2eda42a148
+      Hint: MaxWidth
+      Value: "{1CD27043-2AE3-4B1B-8FBF-D13F0F945700}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7acf8060-4759-4533-8e8e-1f76443e1c02
+      Hint: FeaturedFirst
+      Value: "{7FB84795-9FD9-4E65-A2BF-3A521E8281C7}"
+    - ID: 80be0b08-f6db-4800-bb79-dabdc1ddc9c8
+      Hint: BackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ca34cf4d-b58d-4408-ac6b-9b97639f1e97"
+    - ID: 930e1b82-d18e-4c62-8581-ec7c99978104
+      Hint: PaddingY
+      Value: "{845C2122-E1C7-4D34-A4DB-42A9F62AF306}"
+    - ID: 9c0ed7dc-44c5-40d4-9825-05490b71ffd9
+      Hint: HeadingSize
+      Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
+    - ID: a82a5396-473f-40ee-a9e3-60948b4d4844
+      Hint: Padding
+      Value: "{F84E40B5-3BEE-4980-8C43-01BCB9B60BAF}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020027Z
+    - ID: e04f5d5a-674c-4d5c-8e42-9f337f5d8219
+      Hint: ColumnsLg
+      Value: "{9437B140-9D2C-424D-82BA-0F2C69CCD969}"
+    - ID: f04fb881-7ce5-4ac1-afaf-ca0d6f76d64e
+      Hint: HeadingLayout
+      Value: "{044F35F6-F95F-474D-9C9A-2FD35000E3BE}"
+    - ID: fba71631-b5fd-4281-be23-3f1b6dbbc1c4
+      Hint: Gap
+      Value: "{404B14BD-C15A-4DD1-98DF-E03E723C86BC}"
+DB: master

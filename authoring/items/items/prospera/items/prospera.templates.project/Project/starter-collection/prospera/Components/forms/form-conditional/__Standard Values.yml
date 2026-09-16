@@ -1,0 +1,46 @@
+---
+ID: "11b2d0d3-b164-489a-943c-c25d8c9ad441"
+Parent: "abe55cf5-7775-41dd-b787-17556bbf690a"
+Template: "abe55cf5-7775-41dd-b787-17556bbf690a"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-conditional/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-conditional@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "07d552ca-b527-4523-874a-01ca84f97ac2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021216Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7d773b1f-ffbf-48ea-abc6-6c76d3e0cba6
+      Hint: Watch
+      Value: country
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d1ff6692-4abb-461c-bcc9-acbc7969f4b2"
+    - ID: a8599531-8c4b-403d-9007-c78675df657c
+      Hint: Value
+      Value: US
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021216Z
+DB: master

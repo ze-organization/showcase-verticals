@@ -1,0 +1,83 @@
+---
+ID: "96e23072-acf8-4411-a628-7fd913d6b7f4"
+Parent: "b23e5b56-e816-4e6d-8bdb-ed8816b6746f"
+Template: "639262ec-f035-4047-af6c-232d8928976d"
+Path: "/sitecore/content/starter-collection/coreworks/Home/People/sofia-lang"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{8DE3F4F5-2853-4C10-9628-C83B01A13683}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "person-sofia-lang@1"
+- ID: 3535f1d3-534c-4170-aa4b-e49aaadfdb26
+  Hint: Image
+  Value: |
+    <image mediaid="{4E7C5749-990F-4C6D-B04B-F55F2C2320E2}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{778D9CEA-5F96-445D-B78C-7362A49339E8}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b321c34e-d351-4d82-b634-3c67976b680b"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e7397458-008f-4d59-bfd8-22b2bd0483ec"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Sofia Lang
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1a9e8c9d-a4bf-4d4b-8e73-9edcc355971a
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 1eae6e14-94a1-4241-954e-1ba65d48709e
+      Hint: MetaDescription
+      Value: Destination guide. Sample Person page for the starter site.
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T224924Z
+    - ID: 3dc1e984-05d0-4e31-8ac4-653f590e3475
+      Hint: MetaTitle
+      Value: Sofia Lang — Showcase
+    - ID: 3e573f98-f8e5-40d5-9705-b1cb452e2a43
+      Hint: FullName
+      Value: Sofia Lang
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "sofia-lang"
+    - ID: 69073724-dbbb-48e5-adde-f8edd958a0a8
+      Hint: Email
+      Value: sofia.lang@example.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4cbd9306-7e56-4850-a707-07bc9e0c149b"
+    - ID: 92bf16dd-7311-43cc-b499-38f09004cba5
+      Hint: Role
+      Value: Destination Guide
+    - ID: b7ae69ae-5417-48be-902a-fe2a08c2f01a
+      Hint: Title
+      Value: Sofia Lang
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d177428f-9211-4585-a306-7dd58a6f0cac
+      Hint: Eyebrow
+      Value: Travel
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215053Z
+    - ID: ec6e4c54-8f27-41fb-8589-619d705f6533
+      Hint: Bio
+      Value: <p>Sofia builds itineraries that leave room for the unplanned hour — markets, ferries, and a table that was not on the brief. The Person type covers guides the same way it covers engineers.</p>
+DB: master

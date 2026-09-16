@@ -1,0 +1,63 @@
+---
+ID: "60118bfd-5ed7-4e20-9b11-b25df528d74f"
+Parent: "f1b8e41b-0c16-4ae9-832e-1db5978565d5"
+Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/Contact/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: contact@1
+- ID: 94cfbee5-7a7d-49df-b5d4-b6653f3125fb
+  Hint: Image
+  Value: |
+    <image mediaid="{6680CEA2-CF03-4B82-B056-FD41A22866CB}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5de4de63-7c35-48e8-b29f-4ceee06c2b8c"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "8b4d71ad-d00e-495c-9444-bed9a2ac1c63"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 078384e4-add9-401f-a0cb-704f8e3fbf30
+      Hint: Eyebrow
+      Value: Contact
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193227Z
+    - ID: 28ac333a-404d-41e9-a936-9c1589ff306e
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="#form" text="Write us" />
+    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+      Hint: Title
+      Value: Ask a person, not a ticket queue.
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "73cd711e-5dea-4a84-be53-78891e0a1c2c"
+    - ID: b5eaa4fe-ac2c-43d6-9994-991b27300a73
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Locations" text="Find a branch" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T012945Z
+    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+      Hint: Subtitle
+      Value: Name, email, and a short note. We route messages to Personal, Business, or a branch.
+DB: master

@@ -1,0 +1,49 @@
+---
+ID: "658f651a-51fb-4cb5-a374-750593d79ce2"
+Parent: "8d22eb14-cc75-4f66-b9c8-6b23fa4dee9c"
+Template: "8d22eb14-cc75-4f66-b9c8-6b23fa4dee9c"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/Presentation Parameters/scroll-to-top Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "scroll-to-top@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b551e17d-88b0-45ac-8c35-c5c081e6ad5b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222222Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 82a697eb-2a89-4598-a009-0b899882e5af
+      Hint: Alignment
+      Value: "{9F4F71BD-F66B-4B2F-9FDD-485ADBBC86B8}"
+    - ID: 8affb429-c3fa-4fd7-ba80-ec6377e3d1c4
+      Hint: ButtonColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f9fc9939-29de-41b8-afe7-cf6421aec1a3"
+    - ID: b608ba39-dd27-4282-8765-a1c22d6757a4
+      Hint: ButtonVariant
+      Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222222Z
+DB: master

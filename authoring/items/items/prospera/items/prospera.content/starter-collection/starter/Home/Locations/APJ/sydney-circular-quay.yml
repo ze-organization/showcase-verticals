@@ -1,0 +1,110 @@
+---
+ID: "78323c66-147b-4b3a-8b17-c1836a80b1f0"
+Parent: "fab79cbd-8850-4852-9bc3-8d18ea3cfa89"
+Template: "94e866ca-eb1d-4a98-9c15-341d652c1386"
+Path: "/sitecore/content/starter-collection/starter/Home/Locations/APJ/sydney-circular-quay"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{7CC202C5-21F2-42E6-A6D1-188BD73EBF04}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "location-sydney-circular-quay@1"
+- ID: 64043948-ed7e-4969-ada4-abef173e2e23
+  Hint: Image
+  Value: |
+    <image mediaid="{88FD3502-3556-4AAE-A250-D2D12CDE16F6}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{98FF20EE-8D4F-40EF-8C82-F90046CD755C}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0a6fa0e0-9fc5-4ace-9bca-7c2455eb1a57"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "7cd7d6ea-6fe8-4ef4-b44e-c115aa819d1b"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Sydney Circular Quay
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0145683c-7d5b-49b5-98f2-750d9f469aa4
+      Hint: City
+      Value: Sydney
+    - ID: 03142dc8-113f-43f0-a4cd-19cd92f83424
+      Hint: Country
+      Value: Australia
+    - ID: 20473c72-15bd-4104-b289-e88d74fbf831
+      Hint: Eyebrow
+      Value: Branch
+    - ID: 205c2120-5207-40d0-9f6c-37dc562d18ec
+      Hint: Hours
+      Value: "<p>Monday–Friday 9:00–17:00<br/>Saturday 10:00–14:00<br/>Sunday closed</p>"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T200301Z
+    - ID: 2f750f77-6bf0-477b-a82c-67b598388e8c
+      Hint: PostalCode
+      Value: 2000
+    - ID: 458ad2e2-f1ce-49f1-aabb-5f58c47c2f22
+      Hint: MetaDescription
+      Value: "Macquarie Place — a quay-side floor for east-coast hours and a balcony that actually gets used."
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "sydney-circular-quay"
+    - ID: 5a80a0bf-0627-4a3d-bc4f-3f0084097bf4
+      Hint: Title
+      Value: Sydney Circular Quay
+    - ID: 6440bf98-7099-408a-84f3-61b2ef253cdf
+      Hint: Email
+      Value: sydney@example.com
+    - ID: 765cc1c2-141f-4916-9972-677530d676aa
+      Hint: MetaTitle
+      Value: Sydney Circular Quay — Showcase
+    - ID: 778ffe8b-f3e9-499d-b147-980c5dadcdd5
+      Hint: Latitude
+      Value: "-33.8612"
+    - ID: 7c133d20-3f5d-430f-bb9a-33dea3003441
+      Hint: Content
+      Value: "<p>1 Macquarie Place, Sydney. Circular Quay ferry and trains are a four-minute walk.</p><p>The balcony faces the water. Book it if you are hosting more than six.</p>"
+    - ID: 80ccc3e6-2b36-4d8c-b494-81f7dbc7a438
+      Hint: Longitude
+      Value: 151.2102
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fecad829-6636-45d4-88a6-61177f2e1190"
+    - ID: a3e8474e-03e8-4013-a9d2-36a621013590
+      Hint: ShortDescription
+      Value: "Macquarie Place — a quay-side floor for east-coast hours and a balcony that actually gets used."
+    - ID: a9391d98-647f-48c3-a949-bc76d2d308f5
+      Hint: Phone
+      Value: +61 2 9256 4000
+    - ID: aded20ab-b3ad-43cf-9c21-1ff2202de63c
+      Hint: Region
+      Value: APJ
+    - ID: aeccda8d-9256-44a6-b595-21717a3d1fec
+      Hint: State
+      Value: NSW
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T200303Z
+    - ID: e68397ec-6cf4-4a78-a066-e043d9546c55
+      Hint: Address1
+      Value: 1 Macquarie Place
+    - ID: ef1739ef-85bd-4bdb-9130-b2d8a03a2805
+      Hint: IncludeInSitemap
+      Value: true
+DB: master

@@ -1,0 +1,49 @@
+---
+ID: "29d8fece-0493-49e6-968f-e00a8e3d55c5"
+Parent: "115e253f-8a7d-4bec-ba58-1bebbcf32bc1"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/starter/Home/Products/Lighting/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {2B97B80F-3E0A-4C30-BDF9-5865786BE61F}
+    {5D03F5D4-CD26-4C9B-AD3D-226EE5DB945D}
+    {1D0C59EC-D0C3-4C72-8199-4D713F6FE999}
+    {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
+    {F147EC3C-D11C-43DB-B4A9-0B6A4092D5BB}
+    {16986568-7609-4150-BE32-A56D42215BEC}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-category-lighting@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "384e5b5e-7efa-45ba-999d-40e0c6d3328b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190329Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "55e4037e-ce16-4e2e-b6d3-fe3fa4c3b172"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190329Z
+DB: master

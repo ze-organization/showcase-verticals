@@ -1,0 +1,47 @@
+---
+ID: "ae7980d1-bd89-486c-b46b-b2e07f4ccb81"
+Parent: "48f614f4-4784-4631-906f-b49ae32bb1e1"
+Template: "48f614f4-4784-4631-906f-b49ae32bb1e1"
+Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/social-link-item/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "social-link-item@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c860faa3-401e-4de0-ac32-87bb4671219a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222443Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 77e414e6-f60d-48b1-ba4e-2bf5c3f44a5c
+      Hint: Link
+      Value: |
+        <link text="Facebook" linktype="external" url="https://www.facebook.com" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8ded9981-caf7-4534-a3cd-dbb77161f8f1"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c5e5a565-1eef-40d1-9738-c59f5684dade
+      Hint: Platform
+      Value: "{6C59E74A-FEC3-47A9-98D1-DEF9CDC4B11B}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203803Z
+DB: master

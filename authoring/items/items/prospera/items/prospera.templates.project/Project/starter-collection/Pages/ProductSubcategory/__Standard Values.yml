@@ -1,0 +1,66 @@
+---
+ID: "3297069f-f9ac-43a2-b1d5-f9f4c3408138"
+Parent: "1f218c4d-98ed-49b2-9eff-486b7e539d31"
+Template: "1f218c4d-98ed-49b2-9eff-486b7e539d31"
+Path: "/sitecore/templates/Project/starter-collection/Pages/ProductSubcategory/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{C788312B-B145-4CF9-BC09-645FD52F7EC0}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-subcategory@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9f58ec0d-e131-4f98-b70c-e20224d3d785"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190220Z
+    - ID: 2a24ec56-c0af-49ca-b51b-fa7458e12c02
+      Hint: SitemapPriority
+      Value: 0.6
+    - ID: 4eb3789b-f5ae-4e11-ae09-654a7ed5a9c1
+      Hint: ChangeFrequency
+      Value: monthly
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "23bccb43-c75a-4abf-9f33-b18950180a15"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cd7638d3-d506-40ef-a808-00b38d6a0657
+      Hint: IncludeInSitemap
+      Value: 1
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190221Z
+    - ID: e0019355-8ef9-46cb-aeba-83a84a7c10bd
+      Hint: OgType
+      Value: website
+    - ID: fe7b423b-efc3-4b8b-b1a5-ba2d92c2aab7
+      Hint: TwitterCard
+      Value: summary_large_image
+DB: master

@@ -1,0 +1,63 @@
+---
+ID: "3ba34ce4-924b-45a7-8395-5f3474b23815"
+Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
+Template: "20bd07ab-079d-4a72-b4b2-746d00878fed"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/Survey"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e94fa01b-ce84-4aa4-91f6-70fa0ccab811"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "a9b9df17-dc23-45ab-bf9c-9ff08d9c09f4"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Survey
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193225Z
+    - ID: 68b03e84-f004-40ff-b755-bd5d927587f4
+      Hint: Lead
+      Value: Illustrative channel scores for this demo — not a CMA ranking, not Trustpilot, and not a live survey of 1,000 customers.
+    - ID: 8bde345f-11b2-4452-a7e7-a711900261a0
+      Hint: NameLabel
+      Value: Channel
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "67416475-e7bc-4271-bd92-d3d18ae14dea"
+    - ID: a3ee489b-6cd2-4461-9309-4f6b7e49c4e4
+      Hint: TotalLabel
+      Value: Sample
+    - ID: b34faea1-b35f-4d39-be7d-91b81668c712
+      Hint: Stat1Label
+      Value: Score
+    - ID: b79eea2e-5923-4c8d-ad58-197e654df009
+      Hint: Rows
+      Value: |
+        {0601CBB1-6BCC-4C00-9469-BB757E3D8D2A}
+        {A54284FF-28BA-40EE-93DE-AD316AA856F0}
+        {A617D551-6B79-4F78-937B-2F2464636A8C}
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193248Z
+    - ID: f3213abb-e572-4ae0-bdb5-6d9667e37991
+      Hint: Title
+      Value: How we show service quality on this demonstration
+DB: master

@@ -1,0 +1,32 @@
+---
+ID: "5a5325bf-60f1-43f2-abaf-c46979a29550"
+Parent: "87ea2348-18fc-46e1-93ed-3eca1304df9d"
+Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/AI Chat"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__shared-folders__"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "361e52ec-4b45-4ea8-977c-db56de858d06"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214412Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fc000eb6-005d-47a6-9940-3ce3cf6c1acd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214412Z
+DB: master

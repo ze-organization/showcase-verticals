@@ -1,0 +1,520 @@
+---
+ID: "e750ebaf-2d46-41c2-b8d5-a93ff1e4a37d"
+Parent: "b86d20bd-dd06-42da-bb99-eb61cf7cbe00"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/coreworks/Home"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{DBD7829C-5F0B-4093-8FF9-64A6594A92AF}"
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{19641C92-913C-47E5-85DB-8EC3B4873682}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 0
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{433D4076-C931-428E-9C59-AA0CB1DEDE62}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2c1305f8-c231-46e0-92c0-9287c18d4683"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 001dd393-96c5-490b-924a-b0f25cd9efd8
+      Hint: __Lock
+      Value: <r />
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{83724F52-A722-53CF-943F-ACEFB7A649AF}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7BB5284815-AD56-42AC-8ABB-C14443F45347%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B6D817E6B-E1F2-422A-9E55-ED67ABED0677%7D" />
+            <r
+              uid="{510E9F40-FA7A-5FAA-9C89-7D215D3249FE}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B116D8675-32E2-4067-8B1C-40C0DE16DCE2%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B7670CB2A-9D04-4F73-8B3D-2F0E3BBD8735%7D&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;BackgroundIntensity=%7B8B0B83ED-77E6-4D70-9899-95FDE6390729%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B79CD824F-2B06-4630-9130-7E3CA90978B2%7D" />
+            <r
+              uid="{F9407AA0-2762-5DBE-B9F3-1AC7F39E4839}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B5137F858-804C-48A2-826E-0695AC959AE4%7D&amp;Layout=%7BAC7A752E-0F31-4E9C-B48D-19F02536BB23%7D&amp;TitleWeight=%7B7A0192B6-0903-480A-8F67-EAFEDC659245%7D&amp;OverlayStyle=%7BCD691A86-B2A4-47A4-858E-68E6DF84A761%7D&amp;OverlayOpacity=60&amp;OverlayColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;OverlayShape=%7BB18A0AE9-A71C-4E5F-893E-FD4E4E9CFE26%7D&amp;OverlayWidth=%7BDFB15E3E-85F3-4797-A6B0-E440CFB7F0CF%7D&amp;OverlayPosition=%7BC48BA710-B3E5-4953-A4A6-169C82856F69%7D&amp;OverlayPadding=%7B9EDB7AC4-BD46-411C-A8E2-59787E2114BD%7D&amp;OverlayMobilePosition=%7B770ABF27-D5A6-4AD1-9017-516AA7BAC23D%7D&amp;PrimaryActionVariant=%7B8B1EE5EB-34F4-48BD-A67E-BAA8E8BCA293%7D&amp;PrimaryActionColorScheme=%7B81BFE28A-8705-4310-B25D-AE76A0808F07%7D&amp;PrimaryActionShowArrow=1&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BFBB19360-83BF-4EE2-8262-FCE17F830A06%7D" />
+            <r
+              uid="{BC76F51C-1612-540B-834D-90BD00171926}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:id="{8DE08823-72C9-4A21-A25B-986712A36C4A}"
+              s:par="ColumnCount=%7B0689C495-B1AD-4E9A-B579-5DD0A8586626%7D&amp;Distribution=%7BAB2B07A0-92B9-4C96-B2B0-5040A473B2B4%7D&amp;Gap=%7B40BE6E1A-AAC6-497E-AF6B-CA6D652B3451%7D&amp;MobileColumns=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;LaptopColumns=%7B7BD689EA-DE20-4E69-9A91-D941FFF18155%7D&amp;MaxWidth=%7BB5284815-AD56-42AC-8ABB-C14443F45347%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;ColorScheme=%7B0C27EAF9-F7BB-48A2-95AE-3460C3D041B0%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B326691A1-9009-4410-985E-2DCA87C1ED4E%7D" />
+            <r
+              uid="{DA4CC5EE-5061-5EAD-BEDD-FF1229E9567C}"
+              p:after="r[@uid='{BC76F51C-1612-540B-834D-90BD00171926}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/LogoStrip"
+              s:id="{7D4C23EC-E228-44C3-B881-1640682642F3}"
+              s:par="Marquee=1&amp;Size=%7B169388C9-5775-4D72-A819-4DBDDDBC6FBE%7D&amp;Monochrome=1&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;PaddingY=%7B130717EB-23B5-4734-B694-8D0EF60C501A%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B9D57F4BB-A591-4547-A894-9FB3797C874C%7D" />
+            <r
+              uid="{2485AAB8-9195-54B8-96AB-3D32D13D55E6}"
+              p:after="r[@uid='{DA4CC5EE-5061-5EAD-BEDD-FF1229E9567C}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Materials"
+              s:id="{D03497CA-FD13-4D47-A6E3-38DF6510EDB8}"
+              s:par="HeadingLayout=%7B9EB2E1FD-FAB7-4182-8984-6BDF60FC6717%7D&amp;ColumnsLg=%7B54ED5477-0873-469D-9DFA-7888F12F7A8C%7D&amp;ColumnsMd=%7B71F1D137-EDDB-4ED1-B52D-BD052C3A2108%7D&amp;ColumnsSm=%7B7BD689EA-DE20-4E69-9A91-D941FFF18155%7D&amp;Gap=%7B22133B72-825B-4D14-9A5C-1D60CE441BF9%7D&amp;PaddingY=%7B130717EB-23B5-4734-B694-8D0EF60C501A%7D&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;BackgroundIntensity=%7B8B0B83ED-77E6-4D70-9899-95FDE6390729%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B8EE74710-F514-418A-AABC-1312C7EACD85%7D" />
+            <r
+              uid="{52C996A8-DD27-5048-9A26-3237429536BC}"
+              p:after="r[@uid='{2485AAB8-9195-54B8-96AB-3D32D13D55E6}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Capabilities"
+              s:id="{D03497CA-FD13-4D47-A6E3-38DF6510EDB8}"
+              s:par="HeadingLayout=%7B9EB2E1FD-FAB7-4182-8984-6BDF60FC6717%7D&amp;ColumnsLg=%7B71F1D137-EDDB-4ED1-B52D-BD052C3A2108%7D&amp;ColumnsMd=%7B7BD689EA-DE20-4E69-9A91-D941FFF18155%7D&amp;ColumnsSm=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;BackgroundIntensity=%7B8B0B83ED-77E6-4D70-9899-95FDE6390729%7D&amp;Style=%7BEFE8ADE1-8A92-4FCE-9A2F-ACDF717D8F8B%7D&amp;CardColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;DynamicPlaceholderId=7&amp;FieldNames=%7B8EE74710-F514-418A-AABC-1312C7EACD85%7D" />
+            <r
+              uid="{6D91F3A6-BF92-51A2-AD43-9583342CAB90}"
+              p:after="r[@uid='{52C996A8-DD27-5048-9A26-3237429536BC}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Process"
+              s:id="{8500E263-613A-4CE5-A50B-287C40123B15}"
+              s:par="UseSectionWrapper=1&amp;HeadingLayout=%7B9EB2E1FD-FAB7-4182-8984-6BDF60FC6717%7D&amp;TabsAlignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;DynamicPlaceholderId=8&amp;FieldNames=%7B38327DE6-04E1-40B6-8F8D-D9B4184658AE%7D" />
+            <r
+              uid="{873D01AF-DA94-5A26-96D0-CE106FF97566}"
+              p:after="r[@uid='{6D91F3A6-BF92-51A2-AD43-9583342CAB90}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/QuoteRules"
+              s:id="{D03497CA-FD13-4D47-A6E3-38DF6510EDB8}"
+              s:par="HeadingLayout=%7B9EB2E1FD-FAB7-4182-8984-6BDF60FC6717%7D&amp;ColumnsLg=%7B7BD689EA-DE20-4E69-9A91-D941FFF18155%7D&amp;ColumnsMd=%7B7BD689EA-DE20-4E69-9A91-D941FFF18155%7D&amp;ColumnsSm=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;BackgroundIntensity=%7B8B0B83ED-77E6-4D70-9899-95FDE6390729%7D&amp;DynamicPlaceholderId=9&amp;FieldNames=%7B8EE74710-F514-418A-AABC-1312C7EACD85%7D" />
+            <r
+              uid="{4D869CDF-D87B-5BDB-B664-8398CD93B67F}"
+              p:after="r[@uid='{873D01AF-DA94-5A26-96D0-CE106FF97566}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/CaseStudies"
+              s:id="{519A19E3-5ABC-47BA-942E-E64A8167AFD0}"
+              s:par="HeadingLayout=%7B9EB2E1FD-FAB7-4182-8984-6BDF60FC6717%7D&amp;ColumnsLg=%7BA4563BCD-AD06-4DDE-A932-E611002AF050%7D&amp;ColumnsMd=%7BA4563BCD-AD06-4DDE-A932-E611002AF050%7D&amp;ColumnsSm=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;BackgroundIntensity=%7B8B0B83ED-77E6-4D70-9899-95FDE6390729%7D&amp;DynamicPlaceholderId=10&amp;FieldNames=%7B1FEF8B43-1585-4953-A2F6-CF73F8BE47B6%7D" />
+            <r
+              uid="{372E93CC-59C9-5840-9BBD-02B59FEE12E1}"
+              p:after="r[@uid='{4D869CDF-D87B-5BDB-B664-8398CD93B67F}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/ProcessBand"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7BB2DE278A-5BAB-44EF-B679-96731B7F5534%7D&amp;Layout=%7BE4E85D2E-FF80-469D-A769-FBEB93CDA9A5%7D&amp;SurfaceTone=%7B3B811372-E9F7-4C71-B186-65E8FF56D0C5%7D&amp;BackgroundScrim=%7BDA46696E-1FCB-481A-8A06-19F65D77EB5D%7D&amp;DynamicPlaceholderId=11&amp;FieldNames=%7BEC0FE324-2E57-4514-8EBC-110E82FB7EB7%7D" />
+            <r
+              uid="{FBE9F128-0AA7-5124-B110-31986F61E846}"
+              p:after="r[@uid='{372E93CC-59C9-5840-9BBD-02B59FEE12E1}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Certs"
+              s:id="{7D4C23EC-E228-44C3-B881-1640682642F3}"
+              s:par="Columns=%7BC5F2518E-8E26-40D5-8D82-E55A4932B8A5%7D&amp;Size=%7B169388C9-5775-4D72-A819-4DBDDDBC6FBE%7D&amp;Monochrome=1&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;PaddingY=%7B130717EB-23B5-4734-B694-8D0EF60C501A%7D&amp;DynamicPlaceholderId=12&amp;FieldNames=%7BDC153C45-CC66-4D5A-88AA-A75EA1361DA4%7D" />
+            <r
+              uid="{FEA98A60-7C51-56C6-A007-F58954990FDE}"
+              p:after="r[@uid='{FBE9F128-0AA7-5124-B110-31986F61E846}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Reviews"
+              s:id="{117165EC-78E4-46AE-8A31-0B14626795ED}"
+              s:par="HeadingLayout=%7B9EB2E1FD-FAB7-4182-8984-6BDF60FC6717%7D&amp;ColumnsLg=%7BA4563BCD-AD06-4DDE-A932-E611002AF050%7D&amp;ColumnsMd=%7BA4563BCD-AD06-4DDE-A932-E611002AF050%7D&amp;ColumnsSm=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;ShowImages=1&amp;ColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;BackgroundIntensity=%7B8B0B83ED-77E6-4D70-9899-95FDE6390729%7D&amp;DynamicPlaceholderId=13&amp;FieldNames=%7B1C2DACD0-E341-4423-AD53-21F7446F19FE%7D" />
+            <r
+              uid="{AEA9FE37-DEAE-5BD1-8208-C4117606F2E8}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/QuoteForm"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B40347FB7-7E75-4F26-9465-8068F6F8C6A8%7D&amp;Layout=%7BAC7A752E-0F31-4E9C-B48D-19F02536BB23%7D&amp;SurfaceTone=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;DynamicPlaceholderId=14&amp;FieldNames=%7BC540910A-2173-4377-BA71-318C7D09B384%7D" />
+            <r
+              uid="{E4BF2362-B96A-54ED-8FE7-39F80FE8B010}"
+              p:before="*"
+              s:ph="/headless-main/container-2/column-2-4"
+              s:ds="local:/Data/HeroStats"
+              s:id="{574A7161-51ED-4398-8AF5-D0297732A77A}"
+              s:par="HeadingPlacement=%7B55F4E99B-0466-4386-8EB7-A9D8EE82A12B%7D&amp;HeadingLayout=%7BB364FB21-21CE-4924-966F-CA5BEE71B61C%7D&amp;ColumnsLg=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;ColumnsMd=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;ColumnsSm=%7B0980A47E-24C6-4FEF-BB2E-5913CAC85D5B%7D&amp;Style=%7BD27107F1-A6AE-4512-A8EE-4721DAE3CAB3%7D&amp;CardColorScheme=%7B2D47998B-EFE6-4BB4-AEE4-BE38651AE2BB%7D&amp;Padding=%7B02724768-E48E-4B6A-9756-A79A6807A8C9%7D&amp;OverlapTop=%7B3749EA93-F0A5-4A2E-A175-DFFBE610412E%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;MaxWidth=%7BB5284815-AD56-42AC-8ABB-C14443F45347%7D&amp;DynamicPlaceholderId=15&amp;FieldNames=%7BE1860753-162E-4FB5-BD39-62CCE7D09A94%7D" />
+            <r
+              uid="{2F063AB6-3403-5148-8C3E-D8D331BF7D02}"
+              p:before="*"
+              s:ph="/headless-main/container-2/column-2-4/cards-stats-15"
+              s:ds="local:/Data/StatLots"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=16&amp;FieldNames=%7BCE862C33-0913-4DAE-91AF-88484AA1FD8E%7D" />
+            <r
+              uid="{2F177BA9-D2AE-509A-BBBF-BA067F69E232}"
+              p:after="r[@uid='{2F063AB6-3403-5148-8C3E-D8D331BF7D02}']"
+              s:ph="/headless-main/container-2/column-2-4/cards-stats-15"
+              s:ds="local:/Data/StatOnTime"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=17&amp;FieldNames=%7BCE862C33-0913-4DAE-91AF-88484AA1FD8E%7D" />
+            <r
+              uid="{03F3FC76-63FE-5D14-AC9F-040FCDE67BD2}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/column-2-4/cards-stats-15"
+              s:ds="local:/Data/StatFirstArticle"
+              s:id="{AB2D81B5-AC53-4664-8752-D1DB87DE38EB}"
+              s:par="DynamicPlaceholderId=18&amp;FieldNames=%7BCE862C33-0913-4DAE-91AF-88484AA1FD8E%7D" />
+            <r
+              uid="{C105AF00-21E1-571E-B8E7-7EFD3C4AA8F3}"
+              p:before="*"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoNorthwind"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=19&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{EA420389-EB89-5083-B855-4FE4B261419E}"
+              p:after="r[@uid='{C105AF00-21E1-571E-B8E7-7EFD3C4AA8F3}']"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoHarbor"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=20&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{04D4AB15-EC6E-5727-AD13-6D2A77C5EE70}"
+              p:after="r[@uid='{EA420389-EB89-5083-B855-4FE4B261419E}']"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoRidge"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=21&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{1DDC2871-F0E2-5BD4-9D5E-A8BE709D0D65}"
+              p:after="r[@uid='{04D4AB15-EC6E-5727-AD13-6D2A77C5EE70}']"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoMeridian"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=22&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{1EAC829A-B402-5DC9-84F6-CBEE11312CC0}"
+              p:after="r[@uid='{1DDC2871-F0E2-5BD4-9D5E-A8BE709D0D65}']"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoCalder"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=23&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{713E6E7E-ABFB-5A50-AD82-2ADF4A0063F5}"
+              p:after="r[@uid='{1EAC829A-B402-5DC9-84F6-CBEE11312CC0}']"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoVoss"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=24&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{66BE62BE-048C-5517-A74D-DFE0D9700560}"
+              p:after="r[@uid='{713E6E7E-ABFB-5A50-AD82-2ADF4A0063F5}']"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoHelix"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=25&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{7EB32232-FBAA-591E-B7E8-96B99757D40E}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/logo-wall-5"
+              s:ds="local:/Data/LogoOakridge"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=26&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{519A839C-48DF-53BF-8EA3-09A2A6685542}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatAluminum"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=27&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{FC478EB7-7F49-5AA6-ACCF-1EC6DAA53435}"
+              p:after="r[@uid='{519A839C-48DF-53BF-8EA3-09A2A6685542}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatSteel"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=28&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{15F23BC1-4527-52AE-8E1D-7C727E6C1742}"
+              p:after="r[@uid='{FC478EB7-7F49-5AA6-ACCF-1EC6DAA53435}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatStainless"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=29&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{10AF6ECD-EA73-5DF5-8BA8-86C8965DEA3F}"
+              p:after="r[@uid='{15F23BC1-4527-52AE-8E1D-7C727E6C1742}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatCnc"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=30&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{BAB90802-91EF-5BCE-A73B-311386789032}"
+              p:after="r[@uid='{10AF6ECD-EA73-5DF5-8BA8-86C8965DEA3F}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatBrake"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=31&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{382BC90C-14C9-56EA-9340-9C1AEC54F933}"
+              p:after="r[@uid='{BAB90802-91EF-5BCE-A73B-311386789032}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatCmm"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=32&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{41E1B2F3-3D91-503F-A544-D049FAD10F70}"
+              p:after="r[@uid='{382BC90C-14C9-56EA-9340-9C1AEC54F933}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatProbe"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=33&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{A0DE3FE3-66BB-56D1-BB86-EABB78465C99}"
+              p:after="r[@uid='{41E1B2F3-3D91-503F-A544-D049FAD10F70}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatTravelers"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=34&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{76470A07-E388-5E3D-AED3-7FA25B69625E}"
+              p:after="r[@uid='{A0DE3FE3-66BB-56D1-BB86-EABB78465C99}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatLead"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=35&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{64EAC361-9088-5EA1-A3CA-A1962A11CFD1}"
+              p:after="r[@uid='{76470A07-E388-5E3D-AED3-7FA25B69625E}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatQuote"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=36&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{0BE8DD05-C9B3-583E-8A33-48F0C6612781}"
+              p:after="r[@uid='{64EAC361-9088-5EA1-A3CA-A1962A11CFD1}']"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatField"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=37&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{7DA0E054-E823-5E1E-BC02-F178C79DF7AC}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-6"
+              s:ds="local:/Data/MatPeople"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=38&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{09DF8B55-4903-50BC-867E-E4AC5C587744}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-7"
+              s:ds="local:/Data/CapMachining"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=39&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{F7D17F38-3B03-5B5F-976A-288A01C137D9}"
+              p:after="r[@uid='{09DF8B55-4903-50BC-867E-E4AC5C587744}']"
+              s:ph="/headless-main/container-2/cards-features-7"
+              s:ds="local:/Data/CapFabrication"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=40&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{E6538292-D0D5-5953-90A6-35C4DE4358D6}"
+              p:after="r[@uid='{F7D17F38-3B03-5B5F-976A-288A01C137D9}']"
+              s:ph="/headless-main/container-2/cards-features-7"
+              s:ds="local:/Data/CapInspection"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=41&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{010343F3-2CD8-5C45-B86D-CF67AEBEF573}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-7"
+              s:ds="local:/Data/CapRecords"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=42&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{EAE4FA59-0526-5D54-ADBF-74092710248A}"
+              p:before="*"
+              s:ph="/headless-main/container-2/visual-tabs-8"
+              s:ds="local:/Data/TabQuote"
+              s:id="{300E17D9-A54F-4C43-BF98-E7A4FB020112}"
+              s:par="DynamicPlaceholderId=43&amp;FieldNames=%7BC18EF0EF-A1A6-4C53-A55A-0A58ED90F831%7D" />
+            <r
+              uid="{AD480E1E-4D3C-58F3-87EA-14ACA3E7A062}"
+              p:after="r[@uid='{EAE4FA59-0526-5D54-ADBF-74092710248A}']"
+              s:ph="/headless-main/container-2/visual-tabs-8"
+              s:ds="local:/Data/TabProcess"
+              s:id="{300E17D9-A54F-4C43-BF98-E7A4FB020112}"
+              s:par="DynamicPlaceholderId=44&amp;FieldNames=%7BC18EF0EF-A1A6-4C53-A55A-0A58ED90F831%7D" />
+            <r
+              uid="{C1B387ED-2774-5FAA-BBF5-92D7F267E687}"
+              p:after="r[@uid='{AD480E1E-4D3C-58F3-87EA-14ACA3E7A062}']"
+              s:ph="/headless-main/container-2/visual-tabs-8"
+              s:ds="local:/Data/TabArticle"
+              s:id="{300E17D9-A54F-4C43-BF98-E7A4FB020112}"
+              s:par="DynamicPlaceholderId=45&amp;FieldNames=%7BC18EF0EF-A1A6-4C53-A55A-0A58ED90F831%7D" />
+            <r
+              uid="{FF4E34D4-3570-5791-9129-E78E6BBB400E}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/visual-tabs-8"
+              s:ds="local:/Data/TabShip"
+              s:id="{300E17D9-A54F-4C43-BF98-E7A4FB020112}"
+              s:par="DynamicPlaceholderId=46&amp;FieldNames=%7BC18EF0EF-A1A6-4C53-A55A-0A58ED90F831%7D" />
+            <r
+              uid="{233EB2E3-4845-5D55-A7EF-C51944C81934}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-9"
+              s:ds="local:/Data/WeQuote"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=47&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{05CA6DEB-C58E-576C-8D48-8B23756870C4}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-9"
+              s:ds="local:/Data/WeDont"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=48&amp;FieldNames=%7BAFFF8C9F-5F2F-4267-8E4B-7073FACCDFD6%7D" />
+            <r
+              uid="{CE32FC03-CE2A-587E-8CD3-6C6D2EFCED76}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-articles-10"
+              s:ds="local:/Data/CardNorthwind"
+              s:id="{6BD5E42D-9622-4CB4-9EA5-4B66D4B6C320}"
+              s:par="DynamicPlaceholderId=49&amp;FieldNames=%7B2C844D6D-617D-4E13-8B6B-F3F4FE6DA74D%7D" />
+            <r
+              uid="{299F0C06-027D-57D8-8BB3-156D153C2E3F}"
+              p:after="r[@uid='{CE32FC03-CE2A-587E-8CD3-6C6D2EFCED76}']"
+              s:ph="/headless-main/container-2/cards-articles-10"
+              s:ds="local:/Data/CardHarbor"
+              s:id="{6BD5E42D-9622-4CB4-9EA5-4B66D4B6C320}"
+              s:par="DynamicPlaceholderId=50&amp;FieldNames=%7B2C844D6D-617D-4E13-8B6B-F3F4FE6DA74D%7D" />
+            <r
+              uid="{0445B733-076A-5BF5-A3F8-9478809792CA}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-articles-10"
+              s:ds="local:/Data/CardRidge"
+              s:id="{6BD5E42D-9622-4CB4-9EA5-4B66D4B6C320}"
+              s:par="DynamicPlaceholderId=51&amp;FieldNames=%7B2C844D6D-617D-4E13-8B6B-F3F4FE6DA74D%7D" />
+            <r
+              uid="{BE238C0C-D8E2-5842-AD17-8CE1FB346857}"
+              p:before="*"
+              s:ph="/headless-main/container-2/logo-wall-12"
+              s:ds="local:/Data/SealProcess"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=52&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{6F98EF37-FF8A-528D-BFAC-2633859D3E33}"
+              p:after="r[@uid='{BE238C0C-D8E2-5842-AD17-8CE1FB346857}']"
+              s:ph="/headless-main/container-2/logo-wall-12"
+              s:ds="local:/Data/SealQuality"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=53&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{D2B7D980-3A08-5A00-A2AD-D31364E2BC4F}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/logo-wall-12"
+              s:ds="local:/Data/SealLot"
+              s:id="{9DB8D387-7BD2-4B28-897A-971CB22FB609}"
+              s:par="DynamicPlaceholderId=54&amp;FieldNames=%7B890DAAA6-59D2-433A-8976-D1DD1CD8AA6B%7D" />
+            <r
+              uid="{C6C7B82D-B7FA-5885-AA9A-FAD382832F04}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-reviews-13"
+              s:ds="local:/Data/ReviewNorthwind"
+              s:id="{C6EBC198-2A49-44FD-BB2C-D5F65CDC5B5F}"
+              s:par="DynamicPlaceholderId=55&amp;FieldNames=%7B83556BB9-3578-43AE-9F69-368146536B14%7D" />
+            <r
+              uid="{2D0020F0-CF6E-5570-B5E3-955930E156C5}"
+              p:after="r[@uid='{C6C7B82D-B7FA-5885-AA9A-FAD382832F04}']"
+              s:ph="/headless-main/container-2/cards-reviews-13"
+              s:ds="local:/Data/ReviewHarbor"
+              s:id="{C6EBC198-2A49-44FD-BB2C-D5F65CDC5B5F}"
+              s:par="DynamicPlaceholderId=56&amp;FieldNames=%7B83556BB9-3578-43AE-9F69-368146536B14%7D" />
+            <r
+              uid="{1A82058D-8F4D-5AFD-8EF4-DE26BAD4D1F3}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-reviews-13"
+              s:ds="local:/Data/ReviewRidge"
+              s:id="{C6EBC198-2A49-44FD-BB2C-D5F65CDC5B5F}"
+              s:par="DynamicPlaceholderId=57&amp;FieldNames=%7B83556BB9-3578-43AE-9F69-368146536B14%7D" />
+            <r
+              uid="{C7FBCF59-9AF7-5552-A85B-A7B14120220D}"
+              p:before="*"
+              s:ph="/headless-main/container-2/promo-content-14"
+              s:ds="local:/Data/HomeForm"
+              s:id="{D4A1E3B5-D09D-4B67-A4BC-B8675C5F9924}"
+              s:par="FormColorScheme=%7B2598F79E-A7DC-453B-9D83-3E058443EB4E%7D&amp;SubmitButtonColorScheme=%7B0374E224-9A61-4969-81B3-55AD8DC812E3%7D&amp;CdpFormIntent=%7B3C9C0AEE-0F8D-4314-BCF4-B050C545C1BA%7D&amp;DynamicPlaceholderId=58&amp;FieldNames=%7BB7C70816-5025-40C8-8CEC-4C3932C01518%7D" />
+            <r
+              uid="{BD0E34E5-512A-5DB6-94ED-0BC8B6D4F6F1}"
+              p:before="*"
+              s:ph="/headless-main/container-2/promo-content-14/form-fields-58"
+              s:ds="local:/Data/Name"
+              s:id="{4FB435B0-2F06-4384-A807-6D4F750F692E}"
+              s:par="DynamicPlaceholderId=59&amp;FieldNames=%7B0E0313BD-EA80-444A-AD5A-6A1CA556946D%7D" />
+            <r
+              uid="{C8C53777-67A3-543D-A99F-8E7F0B712698}"
+              p:after="r[@uid='{BD0E34E5-512A-5DB6-94ED-0BC8B6D4F6F1}']"
+              s:ph="/headless-main/container-2/promo-content-14/form-fields-58"
+              s:ds="local:/Data/Email"
+              s:id="{4FB435B0-2F06-4384-A807-6D4F750F692E}"
+              s:par="DynamicPlaceholderId=60&amp;FieldNames=%7B0E0313BD-EA80-444A-AD5A-6A1CA556946D%7D" />
+            <r
+              uid="{15C19014-41C8-5FE8-92B9-24F45EC0DB81}"
+              p:after="r[@uid='{C8C53777-67A3-543D-A99F-8E7F0B712698}']"
+              s:ph="/headless-main/container-2/promo-content-14/form-fields-58"
+              s:ds="local:/Data/Company"
+              s:id="{4FB435B0-2F06-4384-A807-6D4F750F692E}"
+              s:par="DynamicPlaceholderId=61&amp;FieldNames=%7B0E0313BD-EA80-444A-AD5A-6A1CA556946D%7D" />
+            <r
+              uid="{00194B75-0ADB-5B09-998F-7CDB2610C874}"
+              p:after="r[@uid='{15C19014-41C8-5FE8-92B9-24F45EC0DB81}']"
+              s:ph="/headless-main/container-2/promo-content-14/form-fields-58"
+              s:ds="local:/Data/Phone"
+              s:id="{4FB435B0-2F06-4384-A807-6D4F750F692E}"
+              s:par="DynamicPlaceholderId=62&amp;FieldNames=%7B0E0313BD-EA80-444A-AD5A-6A1CA556946D%7D" />
+            <r
+              uid="{B38059C9-25A7-5F4B-ACF2-92A367BC92F9}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/promo-content-14/form-fields-58"
+              s:ds="local:/Data/Message"
+              s:id="{60B4945F-12A1-4883-9DDD-5E17C8773E01}"
+              s:par="DynamicPlaceholderId=63&amp;FieldNames=%7B707E8575-2028-4FD3-9DD7-C154075FC1BB%7D" />
+            <r
+              uid="{EA72AF98-6CAB-59ED-A997-E57704FD99FF}"
+              p:before="*"
+              s:ph="/headless-main/container-2/promo-media-14"
+              s:ds="local:/Data/QuoteFormImage"
+              s:id="{04CDD963-5944-4933-8A26-617788CACE76}"
+              s:par="CaptionStyle=%7BEADB8C0F-42FE-45C5-8B0D-C8F9F18BB94E%7D&amp;Framing=%7BDD2A55FE-6B18-46C8-9E5A-559BA4C1CE3B%7D&amp;DynamicPlaceholderId=64&amp;FieldNames=%7B75A308E7-7038-4D27-BAAB-00EE6782D514%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Welcome to the Showcase
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260815T190029Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 1.0
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: "End-to-end demonstration of the partial → page-design → page chain."
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Homepage Demo
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "67c69ccd-edc9-4757-ab6a-942df4e770a4"
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Showcase — Reference Homepage
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: Reference experience
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260912T000454Z
+DB: master

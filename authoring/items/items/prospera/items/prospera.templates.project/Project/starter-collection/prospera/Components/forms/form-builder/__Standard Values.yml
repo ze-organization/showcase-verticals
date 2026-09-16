@@ -1,0 +1,49 @@
+---
+ID: "c8f69337-734a-43ac-974a-86fed1f6e6be"
+Parent: "d80b9e2a-637a-410e-9116-19eb8f3a89eb"
+Template: "d80b9e2a-637a-410e-9116-19eb8f3a89eb"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-builder/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-builder@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f28b6cdb-0e5a-4ae1-8047-3310f148aaca"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021159Z
+    - ID: 4b3fe034-363b-4f3d-956d-9b57dc4e98aa
+      Hint: Title
+      Value: Get in touch
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ea5c3b40-640b-4dd2-9c31-2ca277954c59"
+    - ID: 8e60b178-34f7-4bab-b2fc-b4071ee16cb3
+      Hint: Description
+      Value: <p>Tell us a bit about yourself and we'll be in touch shortly.</p>
+    - ID: ba1c2eac-b3f4-48ec-be8c-50ee6dee74e5
+      Hint: SubmitMethod
+      Value: "{DDCA405C-6027-46FD-A3B3-1879A6B5616D}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021159Z
+DB: master

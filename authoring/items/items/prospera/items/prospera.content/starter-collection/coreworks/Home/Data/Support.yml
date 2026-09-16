@@ -1,0 +1,59 @@
+---
+ID: "f4e4029d-073c-4772-90ee-4d1a437a0a7e"
+Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
+Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Data/Support"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: cef030a5-43cb-4f99-9a0a-e8d98b750e3e
+  Hint: Image
+  Value: |
+    <image mediapath="/theme/hub-01.jpg" alt="Precision machining hall with enclosed CNC cells" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "aa4d60df-c8da-4601-9873-83f280797285"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "96c8e73c-4694-4bfd-8dd4-c408e8de858d"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Support
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T221752Z
+    - ID: 2cde99a6-c15a-4cf6-8013-01ef56c2e5c0
+      Hint: Description
+      Value: "<p>Keep a cell running after install — on-site assessment, managed monitoring, and operator enablement.</p>"
+    - ID: 33f19f4d-9b3b-4726-9039-760657e7a6c5
+      Hint: Eyebrow
+      Value: Aftermarket
+    - ID: 5476fe86-73c2-45a2-a9c8-40c681ddf8cf
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Services" text="Aftermarket" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "766130b0-b56c-4794-8cfe-b267659c4692"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T221756Z
+    - ID: ffbdfe03-f223-4437-a867-986da7f40122
+      Hint: Title
+      Value: Field service, spares, and training
+DB: master

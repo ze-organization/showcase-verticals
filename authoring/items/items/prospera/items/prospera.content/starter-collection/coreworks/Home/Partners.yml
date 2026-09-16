@@ -1,0 +1,143 @@
+---
+ID: "5a757ef0-05e5-43b0-b164-6a4d7fff76ef"
+Parent: "e750ebaf-2d46-41c2-b8d5-a93ff1e4a37d"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Partners"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{F2773DC6-C534-4FE4-A907-BE8F25E79A26}"
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{19641C92-913C-47E5-85DB-8EC3B4873682}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: partners@1
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DDED1FB3-6332-45FE-A30C-531CA71E6E03}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8920797f-783e-4b22-9a1d-5989b5a1545e"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "8d945319-6cc6-4508-b4e4-c6adaeb70ea5"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Partners
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C67AB682-227F-5905-9079-2CFA1EC5C097}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7BB5284815-AD56-42AC-8ABB-C14443F45347%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B6D817E6B-E1F2-422A-9E55-ED67ABED0677%7D" />
+            <r
+              uid="{D06DB90D-49FB-5A91-BC24-4B78AFC360D0}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B116D8675-32E2-4067-8B1C-40C0DE16DCE2%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B7670CB2A-9D04-4F73-8B3D-2F0E3BBD8735%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B79CD824F-2B06-4630-9130-7E3CA90978B2%7D" />
+            <r
+              uid="{3CC814F0-3824-5A43-81D1-0A9F3807C31A}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B5137F858-804C-48A2-826E-0695AC959AE4%7D&amp;Layout=%7BE4E85D2E-FF80-469D-A769-FBEB93CDA9A5%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BFBB19360-83BF-4EE2-8262-FCE17F830A06%7D" />
+            <r
+              uid="{221906E2-FA1B-55B4-B7BE-35B546A843B9}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Partners"
+              s:id="{D03497CA-FD13-4D47-A6E3-38DF6510EDB8}"
+              s:par="HeadingLayout=%7BB364FB21-21CE-4924-966F-CA5BEE71B61C%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B1BE9C62A-7C7B-42A0-BC46-AE2A34F83C3C%7D" />
+            <r
+              uid="{F755363B-5D05-5477-B884-473FE4D36936}"
+              p:after="r[@uid='{221906E2-FA1B-55B4-B7BE-35B546A843B9}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/FeaturedChild"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B40347FB7-7E75-4F26-9465-8068F6F8C6A8%7D&amp;SurfaceTone=%7B2598F79E-A7DC-453B-9D83-3E058443EB4E%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BEC0FE324-2E57-4514-8EBC-110E82FB7EB7%7D" />
+            <r
+              uid="{D263406C-04E2-5227-B0E8-0A0C4333E842}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7BB30CD98D-8818-4DC7-A721-EC45C8CACFD5%7D&amp;SurfaceTone=%7B2598F79E-A7DC-453B-9D83-3E058443EB4E%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7BEC0FE324-2E57-4514-8EBC-110E82FB7EB7%7D" />
+            <r
+              uid="{1E723D5B-7D51-5119-8BEC-B74D92D24B60}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardNorthwind"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=7&amp;FieldNames=%7BFA283245-59F8-4874-A946-1F2C9584F004%7D" />
+            <r
+              uid="{24C6C800-DD9D-5F5D-91EF-DB4B434B3182}"
+              p:after="r[@uid='{1E723D5B-7D51-5119-8BEC-B74D92D24B60}']"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardHarbor"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BFA283245-59F8-4874-A946-1F2C9584F004%7D" />
+            <r
+              uid="{C6056DC2-1CB7-59E2-B989-1D090F06DACE}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-4"
+              s:ds="local:/Data/CardRidge"
+              s:id="{75BA43A6-ED9B-4136-9C30-18CDFA117650}"
+              s:par="DynamicPlaceholderId=9&amp;FieldNames=%7BFA283245-59F8-4874-A946-1F2C9584F004%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Partners
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192338Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.8
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: Technology and channel partners as insertable Partner pages.
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Partners
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "18c01eb9-e8e7-47eb-9ce4-9874f4343487"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Partners — Showcase
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: Network
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215051Z
+DB: master

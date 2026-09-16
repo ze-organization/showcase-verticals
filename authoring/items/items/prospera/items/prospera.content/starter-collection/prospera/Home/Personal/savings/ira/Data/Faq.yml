@@ -1,0 +1,45 @@
+---
+ID: "1d9ca79e-6593-45eb-8a90-a7a3942a03a9"
+Parent: "f5344306-0afa-4ee1-a4d3-7e9ac12d118b"
+Template: "5b847aa9-a675-4774-b7ef-818a69f8c5ee"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/ira/Data/Faq"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-savings-ira@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "2dba195e-6efb-4df4-814c-0c19887633a4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "9fbf169f-47c2-408c-8c47-0cea45556d66"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Faq
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193431Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d8c48ff3-ea28-433f-a648-dbd2812a2e55"
+    - ID: 9e9dae83-9ca2-4b36-a659-d238198d3f31
+      Hint: Heading
+      Value: Questions about IRA savings
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193440Z
+DB: master

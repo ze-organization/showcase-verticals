@@ -1,0 +1,54 @@
+---
+ID: "d5a0285d-fa87-411a-b9f9-7c92c1e45a05"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
+Path: "/sitecore/content/starter-collection/coreworks/Data/nav-group-company"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "nav-group-company@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6956e898-775d-4d84-b7f1-44457b130465"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "5381a1e0-0b4a-47db-a9c6-2b8b7730d98f"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Nav Group — Company
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193513Z
+    - ID: 7d07c454-b927-452a-860f-85a087e8b176
+      Hint: Items
+      Value: |
+        {85485E0F-83FF-4527-823F-ACE1C79D7A43}
+        {B97B7692-EE23-46AA-A03E-4ADF7F238535}
+        {E1CB9E90-C926-4DF0-9BF9-6034B54CA25B}
+        {8CFA7110-A149-4338-A135-B3AB429DFFC5}
+        {B587D9AA-DE01-460A-941B-1C90F9167BEB}
+        {0306150B-6E26-443F-880C-59F610304498}
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "e9f7cd71-2f90-460d-b4a6-c4309264653d"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T214826Z
+    - ID: de709d94-2f09-4fa0-b6d8-07c91fd864a8
+      Hint: Title
+      Value: Company
+DB: master

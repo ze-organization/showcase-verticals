@@ -1,0 +1,67 @@
+---
+ID: "4132b135-8a7f-49f2-a8c0-4d9b950df1a6"
+Parent: "d2f685a2-b7b8-414e-a831-8ba20c9cd9bd"
+Template: "d2f685a2-b7b8-414e-a831-8ba20c9cd9bd"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/stories-rail Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "stories-rail@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "91b8f0f2-777f-489b-bf1b-a56026b529be"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1755b52e-1aeb-4263-ac7f-b0a414421d38
+      Hint: ThumbSize
+      Value: "{7B3BEDC5-7C81-40E4-A180-453BF06BC7E5}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222821Z
+    - ID: 2aaa607b-40a6-41bd-a369-92ef4239a848
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: 4448ceb4-243a-430f-ba9e-5aaa92ac7242
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 566bbebf-7a2b-410f-b860-38e173d006a6
+      Hint: OverlapTop
+      Value: "{1E496A19-90A5-4308-8064-BB707683C7BC}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 733b37ec-8669-4a9a-9759-d3e03d5893b9
+      Hint: RingColorScheme
+      Value: "{7EB034A0-9B22-4256-9B3E-705BC0D3D96E}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c0043418-f005-436e-bb6b-f864c8c13eb1"
+    - ID: a9a1ff71-381e-4216-ab69-9548032f02f7
+      Hint: HeadingLayout
+      Value: "{C0A0424D-04F3-458F-B709-3E3200CB325F}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: ca261e27-66c5-4628-bd1a-137159119747
+      Hint: HeadingSize
+      Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222821Z
+    - ID: ec6c90b8-98bd-4eb0-9496-f251401c5675
+      Hint: PaddingY
+      Value: "{9C4BA83F-F8C1-4280-983C-92B215E0FA79}"
+    - ID: fca94ca4-ac20-44b9-9778-084423639306
+      Hint: MaxWidth
+      Value: "{1D56C84F-0F79-4EEB-8796-37D00CFA6462}"
+DB: master

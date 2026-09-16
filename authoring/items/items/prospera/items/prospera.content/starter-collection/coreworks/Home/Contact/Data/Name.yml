@@ -1,0 +1,57 @@
+---
+ID: "0014e78a-1582-4226-9845-403299d06b96"
+Parent: "5372815a-04a8-4967-93a2-6e4044564de0"
+Template: "0dabc056-d566-4e4e-8f0b-229bab119237"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Contact/Data/Name"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: contact@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "28b235be-eda7-4ce6-a025-c79d777be34c"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "19f68cb6-60a1-4470-8c49-f4f1fc291860"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Name
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1c6a915a-fb6c-4906-b083-00bfdd0051ff
+      Hint: Label
+      Value: Name
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193229Z
+    - ID: 391bb8e4-d8b4-4f26-9089-b7cac35ff109
+      Hint: Required
+      Value: true
+    - ID: 3f4a56e0-2181-4cd3-a639-e6f34a94dde4
+      Hint: Placeholder
+      Value: Your name
+    - ID: 8c28d74d-7878-4939-902b-0ba0069f3abf
+      Hint: Type
+      Value: "{06D159A1-278A-407A-B56E-C185339B2904}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "81d31574-5e91-4f92-abf6-4a0ec53e35a9"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T214729Z
+    - ID: feb25172-2f6b-4d61-b8c9-9d9c3354f63f
+      Hint: Name
+      Value: name
+DB: master

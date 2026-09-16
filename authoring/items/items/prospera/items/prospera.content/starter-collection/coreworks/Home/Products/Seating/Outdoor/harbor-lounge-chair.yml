@@ -1,0 +1,94 @@
+---
+ID: "2ce7a320-bfe6-4539-bef1-141dd95ca38a"
+Parent: "7c795223-d7d8-49da-9c03-8475506a23b4"
+Template: "c788312b-b145-4cf9-bc09-645fd52f7ec0"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Seating/Outdoor/harbor-lounge-chair"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{E4981D3C-E8ED-409B-A310-EE1230BEB46F}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-harbor-lounge-chair@1"
+- ID: 808e5bce-6150-4af3-a2dd-c0f5cb77d4ca
+  Hint: Image2
+  Value: |
+    <image mediaid="{E09138ED-8403-4C6C-B344-98D98510969C}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{186B689E-9389-4830-AC7B-647B1498FBF6}" />
+- ID: d1b7f57a-f9c6-4e05-9959-d40d26e26be2
+  Hint: Image1
+  Value: |
+    <image mediaid="{108F44CC-BC65-42BA-8DB6-2CFE55FF22FB}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3a57e291-9c01-4d45-8d10-52cfeb0bb38f"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "28a8ce3e-d86c-4836-9f32-a933005b47ed"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Harbor Lounge Chair
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 02043b09-9be2-4802-bc0f-d1ba6e0f5ad4
+      Hint: JsonLd
+      Value: |
+        {"@context":"https://schema.org","@type":"Product","name":"Harbor Lounge Chair","sku":"HLC-04"}
+    - ID: 04e7a0e8-069f-41fd-ae9f-a269d40a3b60
+      Hint: Title
+      Value: Harbor Lounge Chair
+    - ID: 204d9343-1539-44e7-b66d-d306f1640f3a
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190403Z
+    - ID: 2ebbdf9c-8c7f-42d5-9f39-bd409ffeebe5
+      Hint: ShortDescription
+      Value: Low seat, wide arm — built to stay in the room, not rotate out of it.
+    - ID: 36f55053-ee38-4940-a28d-9ca24ab5ab59
+      Hint: MetaDescription
+      Value: Low lounge chair in solid ash. Sample Product page for the starter site.
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "harbor-lounge-chair"
+    - ID: 56e9a4e6-bfd8-4d9f-96e9-aea682c65e91
+      Hint: Eyebrow
+      Value: Seating
+    - ID: 5db4e061-c355-4823-8a78-72e9d5a44a5b
+      Hint: MetaTitle
+      Value: Harbor Lounge Chair — Showcase
+    - ID: 674b68d7-ae28-473d-992e-d22df5122a40
+      Hint: Category
+      Value: Outdoor
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b4b7b23a-e02d-409a-a9e8-cd0ea835a6f9"
+    - ID: a1fc794c-b938-494e-a120-0132a7f35ff3
+      Hint: Content
+      Value: <p>Harbor sits lower than a task chair and wider than a side chair. The frame is solid ash; the cushion is a single piece so it does not split at the seam after a season.</p><h2>Upholstery</h2><p>Wool blend in two house colours. The sample here is the sand cloth; charcoal is available on insert of another Product.</p>
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: ce34b0a0-c2fd-4da1-809c-dd4f543f7f9a
+      Hint: Sku
+      Value: "HLC-04"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215055Z
+    - ID: e0c70f8b-7d56-43d5-8d78-097d89fd52d4
+      Hint: Price
+      Value: 1240
+DB: master

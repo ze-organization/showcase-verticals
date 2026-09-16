@@ -1,0 +1,52 @@
+---
+ID: "acd304fb-d787-41d3-8aea-4bb18d39dd7a"
+Parent: "ff5b3cc0-bf6a-47c8-9b97-c4499f25f3b3"
+Template: "ff5b3cc0-bf6a-47c8-9b97-c4499f25f3b3"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/Presentation Parameters/form-checkbox-field Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "form-checkbox-field@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "e9b22d62-c7f9-4f70-a43b-ffa667c02c6a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215813Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d33c3af1-8b7d-4838-ae9e-8591738349db"
+    - ID: 95407466-d6a1-4ca8-bcce-478e20900c82
+      Hint: Width
+      Value: "{21695A61-D6FA-4C9E-858F-6B0B4E14DDFF}"
+    - ID: a459a199-564f-48cb-b88d-cb7435e19c4e
+      Hint: CheckboxPosition
+      Value: "{FEF30E53-34E6-4C80-A820-61DF37A5B690}"
+    - ID: b225b285-4b62-4bc2-84e9-a39b2dfa1c9e
+      Hint: LabelOrientation
+      Value: "{56B57EAC-A615-42DD-8230-86127BF50627}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203557Z
+    - ID: fc4a1826-9495-4bdd-9da4-ba2ad961e2da
+      Hint: Size
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+DB: master

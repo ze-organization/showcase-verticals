@@ -1,0 +1,57 @@
+---
+ID: "06c69dc9-3485-42cc-970a-c3608bd01519"
+Parent: "788427f8-da26-49da-8333-aa6204677d18"
+Template: "788427f8-da26-49da-8333-aa6204677d18"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/accordion-item-rendering/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "accordion-item-rendering@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "02e01aa4-d998-4215-ac45-9a0a198397da"
+- ID: f0a4c745-69d6-4aec-80c5-8bb1b056cdb4
+  Hint: Image
+  Value: |
+    <image src="/theme-photos/pdp-01.jpg" alt="Accordion thumbnail" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 023b7912-f958-46e0-9c7e-4bbd673161ac
+      Hint: Title
+      Value: Section title
+    - ID: 08543ed5-b4bc-4fa3-a4aa-236cc6c9fd6a
+      Hint: Link
+      Value: |
+        <link text="Learn more" linktype="external" url="/" />
+    - ID: 1af33e00-38b7-4a87-ae1f-c75a70cae96a
+      Hint: Content
+      Value: <p>Replace this with the answer copy authors want to surface in the panel.</p>
+    - ID: 2130a785-9bdd-41b4-93ab-6984a25d27fc
+      Hint: Description
+      Value: Short summary line shown when Content is empty.
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T012757Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ce4f567d-cf11-4438-96a9-18e542049e34"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T012757Z
+DB: master

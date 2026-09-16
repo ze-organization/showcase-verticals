@@ -1,0 +1,49 @@
+---
+ID: "5739b234-0453-4708-9c4a-a320ff256271"
+Parent: "9bfea142-9f07-4d69-bcd0-f80882bb42d7"
+Template: "8d140ec2-f25c-4539-9fce-101b1299c69d"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Search/Data/Bar"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-page@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4021ca4d-935a-466a-b009-31d30db5af0a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "248e0e01-baaa-4c0d-a886-e8e017354975"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Bar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193312Z
+    - ID: 549d4e05-6496-4abc-be0d-b792e9315559
+      Hint: PlaceholderText
+      Value: Search articles
+    - ID: 6a7d6904-d586-4cd1-988e-456f775f9d80
+      Hint: Action
+      Value: |
+        <link linktype="external" url="/Search" text="Search" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "97fe5b71-8f2f-407d-9d34-998e7a8f5d51"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193319Z
+DB: master

@@ -1,0 +1,51 @@
+---
+ID: "59e6e554-a124-4ee9-aa97-637598ae954e"
+Parent: "63427661-13ca-4c61-bf29-799b41a61ed7"
+Template: "6068e692-98d7-4fbf-8a2c-ff1589fcb2b8"
+Path: "/sitecore/content/starter-collection/prospera/Home/Apply-Now/Data/Form"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "get-started@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "9b04cf9c-e3c2-4f7c-92d2-816f50e9deda"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "63836e0b-5905-41e0-a449-ac7021e49e4c"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193251Z
+    - ID: 52b40200-bb26-44a5-b6c2-e03ca39f6ad6
+      Hint: Description
+      Value: <p>Legal name, email, and what you are applying for. We will not process a live account from this demonstration form.</p>
+    - ID: 81975c4b-6e83-472a-afe3-02b9102d1e10
+      Hint: Title
+      Value: Start an application
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3c367ebb-6987-48a2-8650-17cb7faa88c3"
+    - ID: b5b59a13-d819-44fb-8c9a-fbb016995644
+      Hint: SubmitMethod
+      Value: "{DDCA405C-6027-46FD-A3B3-1879A6B5616D}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021639Z
+DB: master

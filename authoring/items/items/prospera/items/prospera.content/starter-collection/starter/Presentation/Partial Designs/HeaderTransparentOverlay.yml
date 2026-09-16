@@ -1,0 +1,100 @@
+---
+ID: "c1017ae7-c6ad-4be5-807e-63190c85d22c"
+Parent: "258743c2-f5f2-45ab-bfb2-327712772bda"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/HeaderTransparentOverlay"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "header-transparent-overlay@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: headertransparentoverlay
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E894A4AA-D95E-49A4-8264-0CF37DF8CB6E}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a229ca37-b7da-487c-8f7b-5ab19adbf70c"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5E118DA7-E9D6-507D-ACE2-E4964C66B593}"
+          s:id="{015F412B-7AB9-4F61-B65A-4D386563942E}"
+          s:par="DynamicPlaceholderId=1&amp;FieldNames=%7B2FB7B5FD-E08A-4E68-9B3A-5D833BFD7BE1%7D"
+          s:ph="headless-header" />
+        <r
+          uid="{08B4BBD1-2716-57D9-B3FB-A4DA930BB810}"
+          s:ds="{E263E2E7-72F7-4044-84D5-1135D0530953}"
+          s:id="{04CDD963-5944-4933-8A26-617788CACE76}"
+          s:par="DynamicPlaceholderId=2&amp;FieldNames=%7B356ABC14-B62A-40B5-BE9C-456748A30ADE%7D"
+          s:ph="/headless-header/header-start-1" />
+        <r
+          uid="{5F6140F9-AE78-52A9-8B1E-6080F2CA28AF}"
+          s:ds="{348C59A8-1D64-4762-804A-8E08DD5CA37E}"
+          s:id="{32DC0479-3EEA-4913-B3E2-0ACE94165B6C}"
+          s:par="DynamicPlaceholderId=3&amp;FieldNames=%7B62424526-E5EE-4DCD-98DA-40983463F060%7D"
+          s:ph="/headless-header/header-nav-1" />
+        <r
+          uid="{21DB7E76-823A-5AC5-A999-55C61F2166E7}"
+          s:ds="local:/Data/OverlayCta"
+          s:id="{65A3D17A-FC8B-4F6E-A62F-5A0F0AB958DF}"
+          s:par="Variant=%7BE0E20F0A-865B-4301-A09B-37451BA72620%7D&amp;Size=%7B54A2326F-14CE-41DE-87CC-3EF8C855C804%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B68A7B0EB-100B-454A-AFAD-138B54C5A5F2%7D"
+          s:ph="/headless-header/header-end-1" />
+        <r
+          uid="{2465E802-460A-51D8-AAF8-3994442582ED}"
+          s:id="{E6965693-50F6-4CF1-B954-B4CE2B32F886}"
+          s:par="DynamicPlaceholderId=5&amp;FieldNames=%7B045D456C-B89F-4982-BA4A-4E552FDC9480%7D"
+          s:ph="/headless-header/header-mobile-1" />
+        <r
+          uid="{64785732-1136-51B7-8CB7-640239BB8C7E}"
+          s:ds="{348C59A8-1D64-4762-804A-8E08DD5CA37E}"
+          s:id="{32DC0479-3EEA-4913-B3E2-0ACE94165B6C}"
+          s:par="DynamicPlaceholderId=6&amp;FieldNames=%7B62424526-E5EE-4DCD-98DA-40983463F060%7D"
+          s:ph="/headless-header/header-mobile-1/mobile-menu-5" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "dc58829a-fb8e-4b4c-a0db-47c8cb01d7ff"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Header — Transparent Overlay
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223640Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b3c48a41-760b-4e5e-9aea-4621fdbae3dd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T144554Z
+DB: master

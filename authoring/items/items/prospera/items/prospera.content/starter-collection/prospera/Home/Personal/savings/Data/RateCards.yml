@@ -1,0 +1,48 @@
+---
+ID: "e43f46bb-377e-4fb7-b04a-2f5fd2a196f1"
+Parent: "fbf85376-7a35-4af5-a8ab-336a224e2ddc"
+Template: "ff29e164-e5f5-4156-aa86-fa02d3f5971b"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data/RateCards"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-savings@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a35c3f8c-ef98-48b0-acbd-854ac4cfc173"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "6d29df58-a721-4a93-8ece-52ae7fd59af2"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: RateCards
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193343Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5a2d0602-1f88-4885-a1a8-330e4204d41f"
+    - ID: 94ba1720-ad8e-4e70-964c-e94749240b15
+      Hint: Title
+      Value: Compare. Choose. Save.
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193353Z
+    - ID: f5a92ad0-c426-4ead-a403-4c391ffb02c6
+      Hint: Lead
+      Value: <p>Figures below are demonstration values, not a live lock. Confirm terms on each product page before you apply.</p>
+DB: master

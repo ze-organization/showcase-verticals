@@ -1,0 +1,138 @@
+---
+ID: "e9328f5a-c569-4246-89d3-f7f645a2cf4b"
+Parent: "b4eb749b-dfbb-4d76-be5a-9108beb43f30"
+Template: "bd6de379-30cf-4464-b015-7d8529a5571f"
+Path: "/sitecore/content/starter-collection/starter/Home/Locations/EMEA"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{94E866CA-EB1D-4A98-9C15-341D652C1386}"
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{E3C873F7-E58D-4854-8C33-301E6A7661EF}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "locations-emea@1"
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{158A98EE-4732-4928-BC8A-2DE2600EF01E}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f474f254-234d-443b-b4a3-c826f5c3def4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "7221cfd0-3631-4261-b176-2b6e66937c88"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: EMEA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{19B37AE4-669B-5F3B-B784-7D84C84C5F74}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B954B3315-0EC6-4584-87F6-3AACD497E39A%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7BAA3A10D0-ADF3-47D5-99DC-AE4A49A28B9D%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7BAE3209CC-0FCE-40D9-8341-01F7C5170391%7D" />
+            <r
+              uid="{B9201FA8-4603-566E-94F4-FB82CEDFFEA7}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B1D56C84F-0F79-4EEB-8796-37D00CFA6462%7D&amp;Alignment=%7BFA719AD0-E923-41E9-9657-A161AE28317A%7D&amp;PaddingY=%7B9C4BA83F-F8C1-4280-983C-92B215E0FA79%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B38AA7D4A-DCAE-4236-B09C-A46F60F667BC%7D" />
+            <r
+              uid="{EEBDCA4E-9DEE-556C-914E-A9037ED624AB}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B2A0F18B5-8AA1-4DB3-ABC9-FC87F5AAEB61%7D&amp;Layout=%7B627DAA88-DDC9-492F-9CF7-B2AEDADF7FAA%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BE2C016D4-50B4-43C8-BB57-9887F8BD62E3%7D" />
+            <r
+              uid="{4AF8373A-84BC-5635-A859-DF806B88AF9D}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/EmeaSearch"
+              s:id="{1D360F94-DE07-45FC-B359-2E7645A0FA83}"
+              s:par="DynamicPlaceholderId=4&amp;FieldNames=%7B78D9CBF6-CD4D-4DDF-8C9F-8196C839BCF7%7D" />
+            <r
+              uid="{BE9B755D-30F6-545B-8CFE-B506EB1CBA67}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7B20F5A48C-658B-498D-AF78-EDE1885F090F%7D&amp;SurfaceTone=%7B28E70AA4-D820-43A8-9E0B-B35E39EB1076%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B992BEB60-A17B-4A6D-BD94-BE0FFAA8EA82%7D" />
+            <r
+              uid="{573B7346-996F-5F90-8C21-BDD20BCA2D37}"
+              p:before="*"
+              s:ph="/headless-main/container-2/search-controls-leading-4"
+              s:ds="local:/Data/EmeaSearchBar"
+              s:id="{29C524E9-00A8-4A53-8339-78EB0AFD36A8}"
+              s:par="ShowRadius=1&amp;ShowUseMyLocation=1&amp;DynamicPlaceholderId=6&amp;FieldNames=%7BA7070438-7D5B-4DF5-9493-586BFFB3CEC9%7D" />
+            <r
+              uid="{3FAE098E-5F3B-5459-B1F9-04F4FA0246BF}"
+              p:before="*"
+              s:ph="/headless-main/container-2/search-results-4"
+              s:ds="local:/Data/EmeaLocations"
+              s:id="{9D98E0CA-DACB-4E49-A21B-FCCB5CF63C4F}"
+              s:par="HeadingLayout=%7B6324F678-CF82-4211-BC19-6DAC927C7665%7D&amp;DynamicPlaceholderId=7&amp;FieldNames=%7BC7FCA24F-A012-423B-AD5B-CF3376D5E829%7D" />
+            <r
+              uid="{2E09FD8C-F7AC-5E84-A369-7A7EA217948F}"
+              p:before="*"
+              s:ph="/headless-main/container-2/search-results-4/locations-map-7"
+              s:id="{DA77167E-5C77-4D37-A46A-41FA79D1F199}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7B66AD4530-1DE6-40B5-BF50-DB518604A003%7D" />
+          </d>
+        </r>
+    - ID: 0848f88b-e689-4d35-8447-d41922a81714
+      Hint: SitemapPriority
+      Value: 0.7
+    - ID: 2107eacf-9432-4455-aa13-daf3cac2c1df
+      Hint: MetaTitle
+      Value: EMEA locations — Showcase
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192011Z
+    - ID: 35a9fde3-4d39-45e2-9882-f3630036747e
+      Hint: MetaDescription
+      Value: Five sample locations in London, Paris, Frankfurt, Dubai, and Johannesburg.
+    - ID: 403f18cd-bb64-41ad-aaba-1dd25a63f38d
+      Hint: ChangeFrequency
+      Value: weekly
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: EMEA
+    - ID: 5e43b896-4b7f-4d94-a97b-038057a44faa
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6da2bde6-c93d-4269-8c33-d6659dba8762"
+    - ID: a4c1f427-baf1-4a03-82f8-0d28ea06d8b1
+      Hint: Title
+      Value: EMEA
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260908T160954Z
+    - ID: ef40f4bb-ffd3-41fb-9dda-0e2a8556c02d
+      Hint: Eyebrow
+      Value: Locations
+DB: master

@@ -1,0 +1,46 @@
+---
+ID: "42a72954-c2f5-49e4-9234-1f5e1ca4905c"
+Parent: "6cbb13fc-c011-4261-a295-752ebcddc5a5"
+Template: "ca84d280-d61b-4ee5-9289-b79afc422e43"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/HeaderUtilityBar/Data/PhoneCta"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "header-utility-bar@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ad2a654f-9412-4ec8-916f-73f8c689bff6"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "011da9d1-555a-47a4-af4d-48901579fb22"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: PhoneCta
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223649Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "298d063a-8d52-4451-bc33-8e3d70a3effd"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c0d14dcc-daf6-48cf-b884-5389cba9490e
+      Hint: Link
+      Value: |
+        <link linktype="external" url="tel:+18005550123" text="Call us" />
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T223649Z
+DB: master

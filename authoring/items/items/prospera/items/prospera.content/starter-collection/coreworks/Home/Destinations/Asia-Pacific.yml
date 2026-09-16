@@ -1,0 +1,132 @@
+---
+ID: "1e7ae1f1-2a80-4a41-b236-be1006e22653"
+Parent: "73eef3b4-65ae-4b6f-9827-9315af3a5439"
+Template: "d1d3f3fb-a887-485c-a2a7-1fe0c9c2cdcb"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Asia-Pacific"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{EAE24D74-7EE3-48FD-8180-D7F7B410A762}"
+- ID: 1c106983-519c-461d-98da-2e163f75ec34
+  Hint: Image
+  Value: |
+    <image mediaid="{9976F425-F0CC-4803-8BE7-E802B443F7AC}" />
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{C70D7A59-7256-4799-A961-4179E53D166B}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "destination-region-asia-pacific@1"
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F7A5F5D5-F832-4921-9B08-5B879F1D1547}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0a59931d-14c3-485f-ba05-72453c5b8588"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "8d3d75ce-26f5-4030-a8e0-0fc2b9876cbc"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: "Asia-Pacific"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CADCC0E3-B651-5C37-A707-249EB1FBD13E}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7BB5284815-AD56-42AC-8ABB-C14443F45347%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B5150CAEF-0DF8-4A1A-98A9-6FA8485D999A%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B6D817E6B-E1F2-422A-9E55-ED67ABED0677%7D" />
+            <r
+              uid="{77E37E64-A35F-5797-83D3-E0677CA3167B}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{4CE924A7-D69A-416D-AAAA-D61FB4244532}"
+              s:par="MaxWidth=%7B116D8675-32E2-4067-8B1C-40C0DE16DCE2%7D&amp;Alignment=%7B82764666-742B-4C88-9EB8-3417E9011F2D%7D&amp;PaddingY=%7B7670CB2A-9D04-4F73-8B3D-2F0E3BBD8735%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B79CD824F-2B06-4630-9130-7E3CA90978B2%7D" />
+            <r
+              uid="{9141BAE8-9B7A-5A60-9E4A-F16F9B32D069}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{D7EA9356-A89F-44E6-B434-00A3AC92704D}"
+              s:par="HeadingLayout=%7B5137F858-804C-48A2-826E-0695AC959AE4%7D&amp;Layout=%7BE4E85D2E-FF80-469D-A769-FBEB93CDA9A5%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7BFBB19360-83BF-4EE2-8262-FCE17F830A06%7D" />
+            <r
+              uid="{63D8EE08-4DBC-5CAE-8CFC-D8B717FE86A5}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Children"
+              s:id="{493135B9-FF7C-4423-B109-69EC63954E19}"
+              s:par="HeadingLayout=%7BB364FB21-21CE-4924-966F-CA5BEE71B61C%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B5E8AD097-BB59-4DF4-A919-8FC3890DA75C%7D" />
+            <r
+              uid="{39AE6B89-8D50-5272-9DC7-AC8908A807A3}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{6BB067F0-02A4-4E79-8BEF-100107536429}"
+              s:par="ImagePosition=%7BB30CD98D-8818-4DC7-A721-EC45C8CACFD5%7D&amp;SurfaceTone=%7B2598F79E-A7DC-453B-9D83-3E058443EB4E%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BEC0FE324-2E57-4514-8EBC-110E82FB7EB7%7D" />
+            <r
+              uid="{8B03A462-76A9-5263-B582-3C36EE5CF6B1}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-destinations-4"
+              s:ds="local:/Data/CardJapan"
+              s:id="{1F038842-4A0E-4365-B0AD-F619A4D75F69}"
+              s:par="DynamicPlaceholderId=6&amp;FieldNames=%7B359D274B-603C-4C97-9E0B-083BBFF7816C%7D" />
+          </d>
+        </r>
+    - ID: 08a65ae7-5b5a-4344-989d-f10b502c149b
+      Hint: Title
+      Value: "Asia-Pacific"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190938Z
+    - ID: 3dc41294-5fec-4a2c-a580-6a78d2cb41c2
+      Hint: ShortDescription
+      Value: Kyoto under Japan — region, country, then the city.
+    - ID: 42720d69-1fe2-4abd-a82a-458cf083ee8c
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "Asia-Pacific"
+    - ID: 51801c0d-074c-4d1f-b7d3-0870f01402cd
+      Hint: ChangeFrequency
+      Value: weekly
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ecc7a958-5185-43e5-a916-bb145f39560e"
+    - ID: 9613e8bf-e7e7-49e4-9a8c-22a603a2734b
+      Hint: MetaDescription
+      Value: "Asia-Pacific region hub. Insert a Country or a Destination under this type."
+    - ID: 9ef1feae-d876-4373-a6b2-369f0361c16f
+      Hint: SitemapPriority
+      Value: 0.7
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cefe011f-a04e-4b2e-9c99-320935a32f2d
+      Hint: MetaTitle
+      Value: "Asia-Pacific destinations — Showcase"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T215039Z
+    - ID: ee1c9ef4-87fd-4f14-9861-65caecc1de4a
+      Hint: Eyebrow
+      Value: Destinations
+DB: master

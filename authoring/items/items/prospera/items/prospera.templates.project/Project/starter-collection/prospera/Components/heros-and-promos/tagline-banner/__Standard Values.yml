@@ -1,0 +1,46 @@
+---
+ID: "aec99e5a-c5d9-4dfc-939f-2dcadea7c7c8"
+Parent: "49400cf7-066e-450f-8da9-7b02fb9f5d26"
+Template: "49400cf7-066e-450f-8da9-7b02fb9f5d26"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/tagline-banner/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "tagline-banner@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "f0702056-e8a1-4d00-aabc-73d143d95970"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T021022Z
+    - ID: 3de5a3cd-9a02-4965-a4bd-fe7a67b4f6b9
+      Hint: Tagline
+      Value: Listen Loud.
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "acfaf571-b429-42ee-8ae6-50a91fa72a97"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021022Z
+    - ID: dc775211-141e-4845-9ccb-297f493122fc
+      Hint: Lead
+      Value: Come join us.
+DB: master

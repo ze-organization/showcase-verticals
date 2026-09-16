@@ -1,0 +1,51 @@
+---
+ID: "17d86e99-6613-40a7-a8fa-259ff7f0d5a2"
+Parent: "57397e0b-2312-4755-bc10-4d4faf08d6ac"
+Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Business/business-account/Data/Eligibility"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "business-account@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c72afdbf-d6c9-4ab5-a47a-f77b391e9ae4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "655d9006-8738-48ef-be10-9d9b3c0fc94d"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Eligibility
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180814Z
+    - ID: 6c269cbb-4f09-4531-9816-b3266829b8f3
+      Hint: Body
+      Value: "<p>U.S.-registered entities with an operating history. Typical files include legal name, entity type, beneficial owners, and monthly payment volume. Sole proprietors have a separate page when personal and business money must stay apart.</p><p>We review files case by case. Approval is not guaranteed from Apply Now.</p><p><small>Prospera Bank, N.A., Member FDIC. Equal Housing Lender. Annual percentage yields (APY), annual percentage rates (APR), and fees shown on this site are illustrative for a demonstration and are not live offers.</small></p>"
+    - ID: 70947c7a-7248-46a5-b46e-2e22164f2d91
+      Hint: Eyebrow
+      Value: Eligibility
+    - ID: 867c53fc-2dec-4d64-8175-33d33c51d5c4
+      Hint: Title
+      Value: Who we bank in this demonstration
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a052d4c3-42a0-4660-ab42-63ebe37c68ae"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180819Z
+DB: master

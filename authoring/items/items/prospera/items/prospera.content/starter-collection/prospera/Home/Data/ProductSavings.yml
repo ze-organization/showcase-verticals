@@ -1,0 +1,65 @@
+---
+ID: "5f3aea01-aa3d-45d0-915f-21c12ae87367"
+Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
+Template: "590320c0-1570-423b-a9bd-7f7b414decfc"
+Path: "/sitecore/content/starter-collection/prospera/Home/Data/ProductSavings"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 1efa60e6-a01d-4c02-82bc-c07bf453dd61
+  Hint: Image1
+  Value: |
+    <image mediaid="{0354268B-CAEA-4467-8D41-BE4F2AAD2793}" alt="Advisor and customer reviewing a personal savings framework booklet in a bank lounge" />
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "8f099014-a762-420f-8b4d-044012cde4ad"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "5d64e4c2-ef29-4fa8-9bba-34f48626715f"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: ProductSavings
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T170142Z
+    - ID: 48bb977a-e8b7-4ac4-b939-ad762bf363e9
+      Hint: CtaLabel
+      Value: See savings
+    - ID: 6df9f9ac-10a7-4b43-bf23-b2eddb7420f4
+      Hint: Price
+      Value: 4.15
+    - ID: 895e330a-7fe2-4dbb-a3c5-dce0ee81ed08
+      Hint: Title
+      Value: "High-yield savings"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5e03cd4c-65cf-4cf7-95cc-4a23360c6dfd"
+    - ID: a0b1cbad-9910-4704-9f3f-8f15e28f711d
+      Hint: Sku
+      Value: "SAV-01"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T203123Z
+    - ID: de8117cc-bf50-4b44-a5bf-b74f71e76249
+      Hint: ShortDescription
+      Value: Illustrative 4.15% APY on balances you do not need this week.
+    - ID: e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Products/Checking-and-Savings/high-yield-savings" text="See savings" />
+DB: master

@@ -1,0 +1,46 @@
+---
+ID: "91244ee9-7271-4371-8ca5-9e47e9447c4a"
+Parent: "c0638ac2-175c-4913-af92-a5876009f803"
+Template: "c0638ac2-175c-4913-af92-a5876009f803"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/Products Data Folder/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {F147EC3C-D11C-43DB-B4A9-0B6A4092D5BB}
+    {947648A7-023E-4CDA-B4D7-B3A42EC59B88}
+    {5D03F5D4-CD26-4C9B-AD3D-226EE5DB945D}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__shared-data-folders__"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "41617961-741f-4b3b-98e5-480b606bc594"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214434Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "788438fd-2898-4983-9313-a5c7c379c916"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T230448Z
+DB: master

@@ -1,0 +1,39 @@
+---
+ID: "ccaedb1b-c2fd-4388-9bc6-eea459679278"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "650392f1-20a7-4c31-8d2e-84c52446ce6f"
+Path: "/sitecore/content/starter-collection/prospera/Data/Article with TOC Details"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5aa4d6f3-be26-4fe5-9ade-bea151462984"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "fb75b7c1-8877-4f4f-8523-b30dc330b6e3"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Article with TOC Details
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260903T211606Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0cb27690-c460-4b59-819d-bfdf7eac5b83"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260903T211606Z
+DB: master

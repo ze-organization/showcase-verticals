@@ -1,0 +1,57 @@
+---
+ID: "b0b12a33-b6cd-4425-bd16-3a136747093b"
+Parent: "12610e5d-642e-40b6-8f06-4494c91d2ceb"
+Template: "12610e5d-642e-40b6-8f06-4494c91d2ceb"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/accordion-item/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "accordion-item@1"
+- ID: b5bb560d-4267-4518-be8d-ce4a87514363
+  Hint: Image
+  Value: |
+    <image src="/theme-photos/hub-01.jpg" alt="Accordion thumbnail" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a23f58fe-f10c-4f5a-9507-b9f0b9df2e58"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T012805Z
+    - ID: 29778bf5-4976-4cb9-8929-2dfe6bf39ffe
+      Hint: Content
+      Value: <p>Replace this with the body content that opens when this row is expanded.</p>
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b483aec6-96be-4a2d-bd71-854aeb29f2d1"
+    - ID: a3fa75aa-6a2c-4042-8bfd-6b14acbc57e7
+      Hint: Link
+      Value: |
+        <link text="Learn more" linktype="external" url="/" />
+    - ID: bad95ba6-3f6b-41b0-b0af-94172fadc7cf
+      Hint: Description
+      Value: Short summary surfaced in the row trigger.
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bec9934a-d231-47d3-9f90-4756dae0f853
+      Hint: Title
+      Value: "How does this work?"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T012805Z
+DB: master

@@ -1,0 +1,100 @@
+---
+ID: "0b043b2a-c391-4b8b-9e03-e62137e2c705"
+Parent: "647772d9-f896-4355-9512-014ff3453a27"
+Template: "647772d9-f896-4355-9512-014ff3453a27"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/Presentation Parameters/article-header Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "article-header@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "7cf2e817-d2fe-46f3-b23c-cf963d05ab05"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1f69b334-16ae-40e3-8dd8-d35dcbff18b9
+      Hint: EyebrowSize
+      Value: "{A05D3897-3264-4DA7-AC11-A21C06665168}"
+    - ID: 20e5f1f4-8867-4fd0-b3cf-c86485aaebee
+      Hint: TitleWeight
+      Value: "{AB56CEAF-C370-487E-B7E1-66273D651476}"
+    - ID: 23e54438-e448-4207-841b-c8d45cc2242c
+      Hint: HeadingSize
+      Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T013834Z
+    - ID: 28dffbb1-5cff-442a-8845-e8ef17e3f4c7
+      Hint: ProseLeading
+      Value: "{0EAF5B21-4A6C-4586-BFDF-7DF7EED29687}"
+    - ID: 3fff600f-1037-45bd-9224-51a2831f4678
+      Hint: EyebrowStyle
+      Value: "{2B67B11E-8B23-4155-AD30-ECF1C18E51E5}"
+    - ID: 44039017-a43f-4124-be6a-bd33248451fb
+      Hint: InstanceScope
+      Value: "{8C5912E3-436E-430E-B734-40126FCB1F8F}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 73fb04a2-de14-4cd2-82d7-d44f74622371
+      Hint: BackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: 8b041379-c639-4777-85c5-bcb694c8bb32
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f586b6ab-e873-4d1f-951f-c7e4d6302794"
+    - ID: adbeec7a-9571-41c0-8d58-6a2fd4961ea4
+      Hint: AuthorStyle
+      Value: "{B87B5AAA-7326-4FC4-B862-CDDABDE05631}"
+    - ID: b07be8d0-eb4a-4962-a735-d694f176d9db
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"
+    - ID: b12047ee-2d0e-4b64-984f-12bbf4bd3553
+      Hint: HeadingColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: b7b3f117-67ff-4542-bf07-11156b24f456
+      Hint: Alignment
+      Value: "{A5F5DBAF-9EEC-41E9-B261-CC27F2906111}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: c2b92824-ca4f-42a0-a152-b0872d1f4688
+      Hint: MediaAspect
+      Value: "{D900F7C2-110A-4737-B748-11CCE664FB2D}"
+    - ID: c57b6ea7-fb2f-4c1a-b811-12b2983cc22b
+      Hint: EyebrowColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: ca5a8b80-5b0d-4f57-8553-460fa953154d
+      Hint: ProseSize
+      Value: "{5237306B-FA3F-4F2F-A422-C59863E1A1CA}"
+    - ID: caef627f-9806-4635-9dd0-f7203a7a93eb
+      Hint: MediaFit
+      Value: "{5ECEBAE7-A1A5-42C9-8FAB-1E2BD13CD157}"
+    - ID: d0a5dda0-f64a-4ace-ab8d-7f2d53e4418b
+      Hint: ImagePosition
+      Value: "{2281F139-FD84-42C0-B822-F8B4D4348F32}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T013834Z
+    - ID: e2ff70c6-8d41-4391-8889-8d9dc47142a7
+      Hint: HeadingAnimation
+      Value: "{8D2A5B10-7A18-41B0-B9E5-412DC0C92675}"
+    - ID: e33c8ed1-c4d5-4174-a226-9d7ae6863596
+      Hint: UseSectionWrapper
+      Value: 1
+    - ID: ef32c00e-c34d-443e-8688-0efb5e6f8399
+      Hint: MediaShape
+      Value: "{0D4EA55D-5C88-444A-B372-DEFAABFE4AB5}"
+DB: master

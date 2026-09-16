@@ -1,0 +1,106 @@
+---
+ID: "93ca4acd-e040-4e8a-aeaa-b16468e2790a"
+Parent: "78abc95f-3d24-41b4-ba51-f517549946dc"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Partial Designs/FooterBrandSocial"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-brand-social@1"
+- ID: 55faae90-3bba-4f7f-96fe-13c3f40055ff
+  Hint: Signature
+  Value: footerbrandsocial
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9F4FA90E-AC1D-4FD9-985E-F70D90F1F05A}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "d953954f-716e-4ac6-b7b3-696b0556366e"
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C0CD65BF-2E29-51A6-991A-BFF308242FA6}"
+          s:id="{7C9A05AB-8562-4D90-87F0-81327B97AD1D}"
+          s:par="ShowTierDivider=1&amp;TierTwoBackground=%7B5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B88FDADE2-2295-4423-9E34-FDDB12C97826%7D"
+          s:ph="headless-footer" />
+        <r
+          uid="{B32956C5-6B0A-54C3-AABD-8EE0AA1F9732}"
+          s:id="{BE607F5B-2A6F-40EF-A4CE-90A68CF09E99}"
+          s:par="ColumnCount=%7B9E1654B8-93D6-4609-9309-EFCB850D9D71%7D&amp;Distribution=%7B5D74F528-599A-44F0-864D-26F245A9764D%7D&amp;MobileColumns=%7B254A296A-55ED-4759-92C3-C04C47B99271%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B9157FBF4-9784-46E4-8A9E-DE80A05B828F%7D"
+          s:ph="/headless-footer/footer-main-1" />
+        <r
+          uid="{1183CCCF-A0D7-5673-927C-A9237C95BAB3}"
+          s:ds="{2C2BF6E8-72F1-45F5-972E-0D46521B7163}"
+          s:id="{2C0AC7A3-13B8-481A-95CE-19CC0C8AC44B}"
+          s:par="DynamicPlaceholderId=3&amp;FieldNames=%7BE8798A03-176C-47DE-A0C2-68E782BB44B1%7D"
+          s:ph="/headless-footer/footer-main-1/column-1-2" />
+        <r
+          uid="{78BAD03C-3AD9-54CD-B451-72918B0B94C5}"
+          s:ds="local:/Data/BrandBlurb"
+          s:id="{617CAEE4-0D10-4AA9-A441-69C768450722}"
+          s:par="DynamicPlaceholderId=4&amp;FieldNames=%7BEC457D91-FA07-437D-9344-CE9742582C6F%7D"
+          s:ph="/headless-footer/footer-main-1/column-1-2" />
+        <r
+          uid="{0D736A7C-8603-50C0-9AFD-0A37C605D007}"
+          s:ds="{2963F73C-51E2-44E1-8BBC-D5532082581F}"
+          s:id="{DB48F7F5-DE24-4E62-9FB4-963FF6B645DC}"
+          s:par="DynamicPlaceholderId=5&amp;FieldNames=%7B1516FCDF-7C84-4446-958D-D0C9E5566DC4%7D"
+          s:ph="/headless-footer/footer-main-1/column-2-2" />
+        <r
+          uid="{647E68B4-C9AB-5065-A286-38F9DE5998F3}"
+          s:ds="{59F69D13-4329-4687-9C83-08CF09F4BE20}"
+          s:id="{DB48F7F5-DE24-4E62-9FB4-963FF6B645DC}"
+          s:par="DynamicPlaceholderId=6&amp;FieldNames=%7B1516FCDF-7C84-4446-958D-D0C9E5566DC4%7D"
+          s:ph="/headless-footer/footer-main-1/column-2-2" />
+        <r
+          uid="{A7D9C3DA-94C3-5A17-86DF-2DA3195AB474}"
+          s:ds="{5D26C8AB-25E5-4BF8-A29F-2D0506A0B954}"
+          s:id="{617CAEE4-0D10-4AA9-A441-69C768450722}"
+          s:par="DynamicPlaceholderId=7&amp;FieldNames=%7BEC457D91-FA07-437D-9344-CE9742582C6F%7D"
+          s:ph="/headless-footer/footer-bottom-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "9a320cce-c187-4ba1-9b26-b6db532d1906"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Footer — Brand + Social
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223628Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3273fb3d-89a2-42b2-97d6-b965446dfb89"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T021544Z
+DB: master

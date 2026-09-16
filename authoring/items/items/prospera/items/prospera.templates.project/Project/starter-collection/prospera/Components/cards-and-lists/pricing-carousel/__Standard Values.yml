@@ -1,0 +1,46 @@
+---
+ID: "43a207cb-94af-4537-944f-3e596b8eb99f"
+Parent: "b2278274-c094-457f-b8a9-a9ca96deab86"
+Template: "b2278274-c094-457f-b8a9-a9ca96deab86"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/pricing-carousel/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: "{EBEC7DD2-0F53-433C-A348-5C9FD35B9584}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "pricing-carousel@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "bad39f88-49d2-4b70-8acf-5b0776096c4f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015941Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 58199ebb-9946-4b5c-a28e-969290fb0206
+      Hint: Title
+      Value: Pricing that scales with you
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6a6d1694-95a2-4068-94e4-f498e7a3a69e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015941Z
+DB: master

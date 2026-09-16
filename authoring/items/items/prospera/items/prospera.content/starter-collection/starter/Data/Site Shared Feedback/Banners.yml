@@ -1,0 +1,39 @@
+---
+ID: "f52e8fda-7084-4446-9686-d078e1aad1e4"
+Parent: "0bee2721-9edc-44eb-a758-09ff888e8199"
+Template: "2200e799-998c-4a4f-b66c-93c232e2b59e"
+Path: "/sitecore/content/starter-collection/starter/Data/Site Shared Feedback/Banners"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ea835dc6-36d0-421c-bcd6-f0b30008eda1"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "0f329ac4-58da-4b0b-86ae-1b39cf342fcc"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Banners
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T220420Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b75bbc94-d586-4d26-a741-5db29daafdad"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T220420Z
+DB: master

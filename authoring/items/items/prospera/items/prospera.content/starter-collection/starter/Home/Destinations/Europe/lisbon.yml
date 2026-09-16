@@ -1,0 +1,89 @@
+---
+ID: "059e414d-5cf7-4844-8f17-3b8ec975e858"
+Parent: "40e0d9cb-0b72-4cf9-ab2e-8c92f8d4cfad"
+Template: "7aa732ca-4cbb-4364-a252-ec3135cd3abf"
+Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Europe/lisbon"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{BD2AFDAF-333F-453C-828C-17266F7266BE}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "destination-lisbon@1"
+- ID: 7430dd5b-04c1-4108-8270-daee67f596c2
+  Hint: Image
+  Value: |
+    <image mediaid="{34756315-A700-4009-9281-5A3EC8DFD8C6}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{11E926F2-4697-4497-8A7F-D81D6697FAE8}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "155a8cb4-6d4c-4a3b-971f-7db45b549dc1"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "a8fd7542-c4ef-43e9-aff4-8839fefaf14f"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Lisbon
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0c2a290d-5a7f-4b2e-a98a-76620933a1f4
+      Hint: StartingPrice
+      Value: from $1,140
+    - ID: 182026d1-1230-49c3-b716-ae44be37b711
+      Hint: Eyebrow
+      Value: Coastal
+    - ID: 1ab94ed9-d2ab-47b4-9e30-0c9ec87a2b3b
+      Hint: Country
+      Value: Portugal
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T191000Z
+    - ID: 3170fe5c-8bba-4879-8895-3076d89169cb
+      Hint: Continent
+      Value: Europe
+    - ID: 381a4adf-fecd-4db7-b26d-0193a539205c
+      Hint: Content
+      Value: <p>Start in Alfama before the cruise groups. Walk downhill; the city is designed for that. Eat late.</p>
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: lisbon
+    - ID: 7a5a5e78-6f2b-4447-80ae-e2b28ed0d8ef
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 8056e968-9913-4bf7-a82f-e15bbd34d4ad
+      Hint: TripDuration
+      Value: 4 nights
+    - ID: 85e9be6e-e1bf-452f-a5b6-b5047364933a
+      Hint: MetaTitle
+      Value: Lisbon — Showcase
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "fba7db4f-6590-4e5b-87c3-36248d575a86"
+    - ID: b46730fe-ece0-439a-a46f-92f1b221d7b4
+      Hint: MetaDescription
+      Value: "Four-night coastal stay in Lisbon. Sample Destination page for the starter site."
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: ce48ead5-e03b-41fc-b4e2-b7dc9c1d63f0
+      Hint: Title
+      Value: Lisbon
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T191001Z
+    - ID: ea67701e-21cf-467e-b7d8-4333b176b321
+      Hint: ShortDescription
+      Value: Trams, tiles, and a table by the water at the end of the day.
+DB: master

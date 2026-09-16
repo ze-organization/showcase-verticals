@@ -1,0 +1,55 @@
+---
+ID: "cafe8420-e735-4e41-b333-503558474f2e"
+Parent: "4a25722c-5f0f-407c-856a-bac5ce189b6e"
+Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
+Path: "/sitecore/content/starter-collection/starter/Home/Leadership/Data/Closer"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: leadership@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "fc3c5846-b3e8-4492-920c-69ac9d6ade51"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "a12de505-2679-4bfa-a44c-de1a477af4ca"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Closer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193256Z
+    - ID: 2cde99a6-c15a-4cf6-8013-01ef56c2e5c0
+      Hint: Description
+      Value: <p>Careers lists sample jobs. Contact if the role you want is not posted yet.</p>
+    - ID: 33f19f4d-9b3b-4726-9039-760657e7a6c5
+      Hint: Eyebrow
+      Value: Join us
+    - ID: 5476fe86-73c2-45a2-a9c8-40c681ddf8cf
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Careers" text="See careers" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "5ef31287-1297-45c4-b354-c1642a9eda16"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193303Z
+    - ID: ffbdfe03-f223-4437-a867-986da7f40122
+      Hint: Title
+      Value: Open roles, or write if the board is wrong.
+DB: master

@@ -1,0 +1,48 @@
+---
+ID: "685321ee-6b1f-404b-8007-357e1fd182c0"
+Parent: "34aca276-b75e-48e6-8308-711a67a6a262"
+Template: "947648a7-023e-4cda-b4d7-b3a42ec59b88"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Data/SkuCarousel"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: products@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "7208f91b-138c-41da-b053-995623b47f1d"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e06cdcf7-d78d-4875-9487-b4df54fc4a21"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: SkuCarousel
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190314Z
+    - ID: 4c125a5e-635e-4e83-9738-e1154cd9b714
+      Hint: Title
+      Value: In the catalog
+    - ID: 5218ccbf-d37d-4fbb-9045-872c4e131a64
+      Hint: Lead
+      Value: <p>Three authored SKUs nested under the hubs above.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6abb4b8f-0cea-4744-a8ac-f22053c5e4b0"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190327Z
+DB: master

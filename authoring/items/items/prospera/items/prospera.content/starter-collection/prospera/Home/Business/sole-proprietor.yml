@@ -1,0 +1,133 @@
+---
+ID: "8667f19d-c90d-4b9e-a353-abe7a74bfa2b"
+Parent: "cc8de905-80b0-4810-8fb1-42b2e7eeca4a"
+Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
+Path: "/sitecore/content/starter-collection/prospera/Home/Business/sole-proprietor"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "business-sole-proprietor@1"
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4A7022CF-823D-4D5D-9586-9BC5FF7D560A}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "0b1301ec-1731-40f2-983e-c1566e04614a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "dad2ba7e-e405-450f-ae5d-6fc9d647a50d"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Sole proprietor checking
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D45FACB6-E75B-5BA5-9793-A39307F1BBCC}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7BC368140B-9ED5-41A5-BD5D-8885DA08FDDA%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B76DA7548-ADA6-412C-A20B-8829D7A32B66%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B84752B2D-C0A0-4686-B438-1ACB02AD32C8%7D" />
+            <r
+              uid="{34308D04-D20B-5238-995D-6FBBEC65CA54}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7B1CD27043-2AE3-4B1B-8FBF-D13F0F945700%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B845C2122-E1C7-4D34-A4DB-42A9F62AF306%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B3406F538-5805-43F1-8DE5-572B1F155101%7D" />
+            <r
+              uid="{9E723D90-94BD-5E57-B16B-959F81319BE7}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{41726C55-0876-493A-A775-79329F911700}"
+              s:par="HeadingLayout=%7BD8039FD3-6889-48D5-ABF8-0698389E43E3%7D&amp;Layout=%7B5EE6BC71-F82E-4A9E-9914-A9AE93496EED%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayStyle=%7BBFFC7C83-E300-4AA7-97F1-FF9B38FB609C%7D&amp;OverlayColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayOpacity=72&amp;DynamicPlaceholderId=3&amp;FieldNames=%7B6D5C3AB2-570E-46B8-8158-D1097727AAF6%7D" />
+            <r
+              uid="{012D3EAE-B10A-51BB-AD3F-754699A4F107}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Who"
+              s:id="{617CAEE4-0D10-4AA9-A441-69C768450722}"
+              s:par="HeadingLayout=%7B9452888D-4D62-4681-BC9F-821D6CFC35DD%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7BEC457D91-FA07-437D-9344-CE9742582C6F%7D" />
+            <r
+              uid="{2259B54A-B3EB-5E47-99A8-72DFCE14F348}"
+              p:after="r[@uid='{012D3EAE-B10A-51BB-AD3F-754699A4F107}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Faq"
+              s:id="{D47E161D-A86A-4102-B76A-7AC89FA2258E}"
+              s:par="DynamicPlaceholderId=5&amp;FieldNames=%7B049DD87D-D622-4711-AF97-988ED10F0B6B%7D" />
+            <r
+              uid="{7D837472-7F70-5B1E-9BBD-2FC737AC0B92}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{85E01424-2F42-46D8-9FD7-67F925743228}"
+              s:par="ImagePosition=%7B8C0C5672-936B-4523-BE31-D2BAFBD3CBEE%7D&amp;SurfaceTone=%7BE92EE345-1B2F-404E-85F4-0DF9E8B9D320%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;PrimaryActionVariant=%7B973EEE8E-BAD4-4D6F-8696-A97630198F36%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B5D926F54-509C-43F2-B731-77DCB75E265E%7D" />
+            <r
+              uid="{B58C8E62-68BF-543C-B3CF-495AD7265B86}"
+              p:before="*"
+              s:ph="/headless-main/container-2/visual-accordion-5"
+              s:ds="local:/Data/FaqPersonal"
+              s:id="{21C82650-817F-488D-B5EE-A75ADF5E9FE2}"
+              s:par="DynamicPlaceholderId=7&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
+            <r
+              uid="{5B055E64-2A3A-5DC3-90E6-411C29756661}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/visual-accordion-5"
+              s:ds="local:/Data/FaqCash"
+              s:id="{21C82650-817F-488D-B5EE-A75ADF5E9FE2}"
+              s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
+          </d>
+        </r>
+    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+      Hint: Title
+      Value: Sole proprietor checking
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180824Z
+    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+      Hint: SitemapPriority
+      Value: 0.7
+    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+      Hint: MetaDescription
+      Value: A dedicated operating account for freelancers, landlords, and sole proprietors at Prospera Bank, N.A. Member FDIC.
+    - ID: 4926c0f4-360a-4c27-ae1e-2353db686a6f
+      Hint: ChangeFrequency
+      Value: monthly
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "sole-proprietor"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "6549f58b-9b05-4427-b5a2-d3cacfc52621"
+    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+      Hint: MetaTitle
+      Value: Sole proprietor checking — Prospera
+    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+      Hint: Eyebrow
+      Value: Business
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180829Z
+DB: master

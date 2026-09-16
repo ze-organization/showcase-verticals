@@ -1,0 +1,192 @@
+---
+ID: "a0e5bbca-3dc8-4033-8946-451f29f67514"
+Parent: "69fc0a48-3e75-426e-9b2b-296d7a3bf8a4"
+Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{D830851D-43EC-4BCB-B960-C013BA2AE260}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: personal@1
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  Hint: __Sortorder
+  Value: 0
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3BEACA0B-302E-49FA-9812-4672610FC82A}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5d01b0de-32b0-49a9-abdc-bdce2da643a2"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "11a87a5a-8f03-4a7c-a3f7-d3d5d6a93325"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Personal
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1A4A1D3B-FAF6-5FCF-A01C-C1C86769F865}"
+              p:before="*"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7BC368140B-9ED5-41A5-BD5D-8885DA08FDDA%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B76DA7548-ADA6-412C-A20B-8829D7A32B66%7D&amp;DynamicPlaceholderId=1&amp;FieldNames=%7B84752B2D-C0A0-4686-B438-1ACB02AD32C8%7D" />
+            <r
+              uid="{ABB65E1E-BFDB-5AA9-8B0F-F3F88F165B31}"
+              p:after="*[1=2]"
+              s:ph="headless-main"
+              s:id="{CD1BB671-2951-4C14-9521-BB128FB97E77}"
+              s:par="MaxWidth=%7B1CD27043-2AE3-4B1B-8FBF-D13F0F945700%7D&amp;Alignment=%7B62814925-1CA1-4AAE-A149-AE5BCB76F7F9%7D&amp;PaddingY=%7B845C2122-E1C7-4D34-A4DB-42A9F62AF306%7D&amp;DynamicPlaceholderId=2&amp;FieldNames=%7B3406F538-5805-43F1-8DE5-572B1F155101%7D" />
+            <r
+              uid="{39460087-D3D1-58A1-91A3-1C04717CD7C0}"
+              p:before="*"
+              s:ph="/headless-main/container-1"
+              s:ds="local:/Data/Hero"
+              s:id="{41726C55-0876-493A-A775-79329F911700}"
+              s:par="HeadingLayout=%7BD8039FD3-6889-48D5-ABF8-0698389E43E3%7D&amp;Layout=%7B5EE6BC71-F82E-4A9E-9914-A9AE93496EED%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayStyle=%7BBFFC7C83-E300-4AA7-97F1-FF9B38FB609C%7D&amp;OverlayColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;OverlayOpacity=72&amp;DynamicPlaceholderId=3&amp;FieldNames=%7B6D5C3AB2-570E-46B8-8158-D1097727AAF6%7D" />
+            <r
+              uid="{924373A0-1819-5434-AE2A-B855D3BAE597}"
+              p:before="*"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/TrustMarks"
+              s:id="{51AE241E-02FF-4CF7-84BA-915841E84524}"
+              s:par="Monochrome=1&amp;Size=%7B0DC58C8B-A193-49D7-87CA-88676D2D6133%7D&amp;PaddingY=%7B76DA7548-ADA6-412C-A20B-8829D7A32B66%7D&amp;DynamicPlaceholderId=4&amp;FieldNames=%7B3C9F33A7-BF69-49C4-BC4D-22693AA6D3C0%7D" />
+            <r
+              uid="{5E551E07-07F6-5189-AD62-87B2651ECE5A}"
+              p:after="r[@uid='{924373A0-1819-5434-AE2A-B855D3BAE597}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Products"
+              s:id="{EBB670EA-8E56-4112-AB76-1F91FE3B2B00}"
+              s:par="HeadingLayout=%7B9452888D-4D62-4681-BC9F-821D6CFC35DD%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BEC390DAC-35AD-4E83-B853-CA1E7D39F9AC%7D" />
+            <r
+              uid="{1F408434-77A0-51B6-A848-113D8A7FF2CE}"
+              p:after="r[@uid='{5E551E07-07F6-5189-AD62-87B2651ECE5A}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Tools"
+              s:id="{85E01424-2F42-46D8-9FD7-67F925743228}"
+              s:par="ImagePosition=%7B8C0C5672-936B-4523-BE31-D2BAFBD3CBEE%7D&amp;MediaFraction=%7B691068BC-728F-4EAD-9C74-8547E26A0066%7D&amp;ContentAlign=%7B7D48FB60-2C14-4C7C-81EE-5577D3A76DA2%7D&amp;ContentVAlign=%7BAEE318C2-F148-48C2-B074-12790FA31BA5%7D&amp;Inset=%7BCF4E532B-B560-4CFF-B117-44EAFA6004F2%7D&amp;SurfaceTone=%7B722C6F93-1336-48B3-9FFE-C763021CC53C%7D&amp;TitleSize=%7BBF8DF9D7-2605-4863-BD13-43979E543EAC%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;PrimaryActionVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B5D926F54-509C-43F2-B731-77DCB75E265E%7D" />
+            <r
+              uid="{C92EA67E-22B6-58A0-8E5F-9FFBB47D956E}"
+              p:after="r[@uid='{1F408434-77A0-51B6-A848-113D8A7FF2CE}']"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Faq"
+              s:id="{D47E161D-A86A-4102-B76A-7AC89FA2258E}"
+              s:par="DynamicPlaceholderId=7&amp;FieldNames=%7B049DD87D-D622-4711-AF97-988ED10F0B6B%7D" />
+            <r
+              uid="{7CB71E54-2147-5230-AEBD-8C747658EE20}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2"
+              s:ds="local:/Data/Closer"
+              s:id="{85E01424-2F42-46D8-9FD7-67F925743228}"
+              s:par="ImagePosition=%7BB2038BC1-0899-48E4-8249-2AC7A39B00E7%7D&amp;MediaFraction=%7B691068BC-728F-4EAD-9C74-8547E26A0066%7D&amp;ContentAlign=%7B7D48FB60-2C14-4C7C-81EE-5577D3A76DA2%7D&amp;ContentVAlign=%7BAEE318C2-F148-48C2-B074-12790FA31BA5%7D&amp;Inset=%7BCF4E532B-B560-4CFF-B117-44EAFA6004F2%7D&amp;SurfaceTone=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;TitleSize=%7BBF8DF9D7-2605-4863-BD13-43979E543EAC%7D&amp;EyebrowStyle=%7B2B67B11E-8B23-4155-AD30-ECF1C18E51E5%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;PrimaryActionVariant=%7B973EEE8E-BAD4-4D6F-8696-A97630198F36%7D&amp;DynamicPlaceholderId=8&amp;FieldNames=%7B5D926F54-509C-43F2-B731-77DCB75E265E%7D" />
+            <r
+              uid="{AE1D60A5-D57A-5AF3-B012-56A0C05DA65B}"
+              p:before="*"
+              s:ph="/headless-main/container-2/logo-wall-4"
+              s:ds="local:/Data/MarkFdic"
+              s:id="{C00802DB-9788-4131-B403-C5E8DC73CB90}"
+              s:par="DynamicPlaceholderId=9&amp;FieldNames=%7B69FF8184-4554-448F-BDDF-5D2195D4C267%7D" />
+            <r
+              uid="{CC6A0FFF-6D46-5C81-BECF-29EF34B6542E}"
+              p:after="r[@uid='{AE1D60A5-D57A-5AF3-B012-56A0C05DA65B}']"
+              s:ph="/headless-main/container-2/logo-wall-4"
+              s:ds="local:/Data/MarkHousing"
+              s:id="{C00802DB-9788-4131-B403-C5E8DC73CB90}"
+              s:par="DynamicPlaceholderId=10&amp;FieldNames=%7B69FF8184-4554-448F-BDDF-5D2195D4C267%7D" />
+            <r
+              uid="{2DD4A8EC-74C8-5C66-ABE1-2FEBD99DE01D}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/logo-wall-4"
+              s:ds="local:/Data/MarkBank"
+              s:id="{C00802DB-9788-4131-B403-C5E8DC73CB90}"
+              s:par="DynamicPlaceholderId=11&amp;FieldNames=%7B69FF8184-4554-448F-BDDF-5D2195D4C267%7D" />
+            <r
+              uid="{83F3884D-0E86-5BDD-839E-0510ED969B59}"
+              p:before="*"
+              s:ph="/headless-main/container-2/cards-features-5"
+              s:ds="local:/Data/CardChecking"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;CtaVariant=%7B4BFB0002-BFBA-4C88-B2DC-0BF1DDE79B43%7D&amp;DynamicPlaceholderId=12&amp;FieldNames=%7BC38ED184-9C72-4FAA-8D1D-A11D98EF89A9%7D" />
+            <r
+              uid="{17EFF7EE-AC94-560E-9D16-8EDC6E07A6BD}"
+              p:after="r[@uid='{83F3884D-0E86-5BDD-839E-0510ED969B59}']"
+              s:ph="/headless-main/container-2/cards-features-5"
+              s:ds="local:/Data/CardSavings"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=13&amp;FieldNames=%7BCA438B24-39B2-4240-983C-BB404CD59811%7D" />
+            <r
+              uid="{0BBD064D-DED4-58CA-AE3C-D2522997CA0A}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/cards-features-5"
+              s:ds="local:/Data/CardCards"
+              s:id="{555F8905-289D-4657-A40A-7902A6C9BF31}"
+              s:par="Elevation=%7BD06B6848-F66E-451B-8082-97BD84FFAD75%7D&amp;DynamicPlaceholderId=14&amp;FieldNames=%7BCA438B24-39B2-4240-983C-BB404CD59811%7D" />
+            <r
+              uid="{8C1771B8-93A8-5EA1-B211-6A9B77BAE660}"
+              p:before="*"
+              s:ph="/headless-main/container-2/visual-accordion-7"
+              s:ds="local:/Data/FaqProducts"
+              s:id="{21C82650-817F-488D-B5EE-A75ADF5E9FE2}"
+              s:par="DynamicPlaceholderId=15&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
+            <r
+              uid="{E4632AD1-8D36-5FDD-9286-37CF70F5C890}"
+              p:after="*[1=2]"
+              s:ph="/headless-main/container-2/visual-accordion-7"
+              s:ds="local:/Data/FaqJoint"
+              s:id="{21C82650-817F-488D-B5EE-A75ADF5E9FE2}"
+              s:par="DynamicPlaceholderId=16&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
+          </d>
+        </r>
+    - ID: 127dc4a9-ca7c-4096-a268-16536ea17a39
+      Hint: Eyebrow
+      Value: Banking
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193135Z
+    - ID: 27f1e6f7-b1c6-4708-905b-90a2de32939f
+      Hint: Title
+      Value: Personal
+    - ID: 3d07e93c-ab9d-451f-9b49-e83d76f755ba
+      Hint: IncludeInSitemap
+      Value: true
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: Personal
+    - ID: 5f5c4ed3-2cc1-49cf-8db8-8d8d735e481b
+      Hint: MetaTitle
+      Value: Personal banking — Prospera
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f28c6e59-b096-4819-a486-ed632be27fea"
+    - ID: a2ffeaa0-6cba-461d-a2b1-28331f5dd95f
+      Hint: MetaDescription
+      Value: "Everyday checking, high-yield savings, and a Rewards Visa from Prospera Bank, N.A. Member FDIC."
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: bf399ac3-28f6-447a-aa15-a6a9a9e38aec
+      Hint: SitemapPriority
+      Value: 0.9
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T195241Z
+DB: master

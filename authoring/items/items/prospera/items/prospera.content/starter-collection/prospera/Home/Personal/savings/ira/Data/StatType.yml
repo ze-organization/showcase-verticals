@@ -1,0 +1,51 @@
+---
+ID: "805bf3de-2393-4394-8b7a-0b5ca85e42f4"
+Parent: "f5344306-0afa-4ee1-a4d3-7e9ac12d118b"
+Template: "b0f18424-5404-472e-989e-902a437a5135"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/ira/Data/StatType"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-savings-ira@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c072f974-b7aa-4d30-8c70-98e7869a70c6"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "79c42609-61b0-4bb3-bed6-cd3d2579667e"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StatType
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193435Z
+    - ID: 5fba09e0-ad1c-44a2-81c4-29c885d18277
+      Hint: Value
+      Value: 2
+    - ID: 7824277a-0fc1-4ee9-9185-614718676562
+      Hint: Label
+      Value: Types named
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "d4357af3-95ec-4a1d-8f3a-808b67d52c23"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193440Z
+    - ID: f70b1657-c895-4331-b5f1-ced66e051fb5
+      Hint: Context
+      Value: Traditional and Roth as labels
+DB: master

@@ -1,0 +1,51 @@
+---
+ID: "7aed7f23-4645-4f8c-bd2a-100961235c4e"
+Parent: "1d52e29f-4f36-4cd0-ace0-4eb8f911cb33"
+Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Business/integrations/Data/How"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "business-integrations@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ae8969f9-ab81-4416-bc0e-3429e8025a41"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "b7b2097c-f852-4592-94ed-c6afde4d3cdd"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: How
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180821Z
+    - ID: 6c269cbb-4f09-4531-9816-b3266829b8f3
+      Hint: Body
+      Value: "<p>After business checking or sole proprietor checking exists, a banker can describe how activity reaches your ledger. Accounting is the landing for month-end. Treasury is the landing for ACH and wires.</p><p>We do not name a marketplace of third-party brands on this demonstration page, and we do not clone their settings screens.</p><p><small>Prospera Bank, N.A., Member FDIC. Equal Housing Lender. Annual percentage yields (APY), annual percentage rates (APR), and fees shown on this site are illustrative for a demonstration and are not live offers.</small></p>"
+    - ID: 70947c7a-7248-46a5-b46e-2e22164f2d91
+      Hint: Eyebrow
+      Value: How it works
+    - ID: 867c53fc-2dec-4d64-8175-33d33c51d5c4
+      Hint: Title
+      Value: Export, connect, reconcile
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "9955ea9f-0694-45f9-9d39-2b7e5ae1568e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180824Z
+DB: master

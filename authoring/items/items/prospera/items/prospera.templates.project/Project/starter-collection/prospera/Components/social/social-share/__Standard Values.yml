@@ -1,0 +1,53 @@
+---
+ID: "e25bddea-c887-4cac-8e48-bda87023d0ed"
+Parent: "78cbbea2-4a47-47ea-a24b-4bfef8fedaa2"
+Template: "78cbbea2-4a47-47ea-a24b-4bfef8fedaa2"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/social/social-share/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "social-share@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "37289302-1338-4cf5-9bb9-1955db7e5517"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020654Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "eec46367-701d-48ee-a72f-5dcbebf3f8be"
+    - ID: 908bbf69-b468-47eb-9a80-5b1b6e84b2d7
+      Hint: Platforms
+      Value: |
+        {390D2914-848C-4074-848A-181E327CDB73}
+        {E7E9A851-0E95-4CBE-BBD2-8CB4423D1CB5}
+        {4276152B-E62E-428E-8054-BAF68B488589}
+        {0ABF0E44-3164-4F0F-80AD-A4BC191E804D}
+        {9641134B-ECF8-43E9-9222-A12C551D5D6E}
+        {F51E6122-C518-4084-94B0-57B58F2B69CC}
+        {48C5B735-D6F6-4471-B40A-1DFD0055AB75}
+        {70669FD6-A393-4DE5-BAD7-F61C5985BBD9}
+        {F9EB3BF9-7D76-4948-9BC0-D92F12A0829A}
+        {9B5FF74F-00F5-4D16-85DD-478ADE9CDD58}
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T020654Z
+DB: master

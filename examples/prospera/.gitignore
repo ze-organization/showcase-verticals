@@ -1,0 +1,40 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+.pnpm-store/
+
+# next.js
+/.next*/
+/out/
+
+# typescript incremental cache (tsc --noEmit)
+*.tsbuildinfo
+
+# misc
+.DS_Store
+.orchestrator-release-age-verified
+
+# local env files
+.env.local
+.env.*.local
+.env
+.env.production
+
+# Log files
+*.log*
+
+# vercel
+.vercel
+
+# sitecore temp files
+.sitecore/
+!.sitecore/enum-manifest.json
+
+# scai local env (machine-specific profile, push baselines, Cursor MCP)
+sitecoreai.cli.json
+.scai/
+.cursor/mcp.json
+
+# Astra theme pack (local implementation assets; do not commit)
+/theme-pack/

@@ -1,0 +1,57 @@
+---
+ID: "06ce94fb-32e6-40fd-afbe-6b4d258e9106"
+Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
+Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
+Path: "/sitecore/content/starter-collection/coreworks/Data/footer-column-resources"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-column-resources@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b6408d7f-3feb-46bd-bfd8-ca0dfc06d566"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "606b2b1c-6b9d-464b-8e20-4939826f6ecd"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Footer Column — Resources
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T223507Z
+    - ID: 7d07c454-b927-452a-860f-85a087e8b176
+      Hint: Items
+      Value: |
+        {4CBC718C-B804-4476-9F4B-431F82E63A37}
+        {25A5F3B3-D057-426C-A96F-2DC34FCE14D9}
+        {17DEB522-950B-427F-BFDD-88AD9D151567}
+        {D4DD4031-161F-41F1-A3DE-4F8764AC93AE}
+        {FB7C28C4-D8FE-48F7-A60A-35273B1E6E5B}
+        {8BBD0CDC-4542-44F6-B0EB-4FE3ED660CE1}
+        {4130BACD-6E66-4ACE-8074-A8D92B44906F}
+        {7D258707-3FF1-409E-B9B3-F67473548C83}
+        {3B60CCA6-D143-4E18-8D72-98713ADFC5FD}
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c8719128-70f3-4cc0-9813-8f7c9899a238"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T214824Z
+    - ID: de709d94-2f09-4fa0-b6d8-07c91fd864a8
+      Hint: Title
+      Value: Resources
+DB: master

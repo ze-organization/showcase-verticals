@@ -1,0 +1,48 @@
+---
+ID: "99f59e11-9b90-4dec-bd60-b670df1cda03"
+Parent: "a81c0563-6114-4a94-bf72-684ae67ff7da"
+Template: "788427f8-da26-49da-8333-aa6204677d18"
+Path: "/sitecore/content/starter-collection/prospera/Home/Features/shared-debit/Data/FaqVsJoint"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "features-shared-debit@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "bf93b796-3be3-479d-9793-bca8b6961a64"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "4f0784b9-1208-40a1-81b4-9bac192b8ed1"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: FaqVsJoint
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 023b7912-f958-46e0-9c7e-4bbd673161ac
+      Hint: Title
+      Value: "How is this different from joint checking?"
+    - ID: 1af33e00-38b7-4a87-ae1f-c75a70cae96a
+      Hint: Content
+      Value: <p>Joint owners both own everyday checking. Shared debit is an extra card on your file with a cap. The helper does not become an account owner.</p>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180910Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "c9a662f0-7418-4ad0-aa49-3d83af079fe8"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180911Z
+DB: master

@@ -1,0 +1,61 @@
+---
+ID: "814fe34d-7d4c-4c62-9243-af51e53014f7"
+Parent: "3d87af51-e300-4e49-b0a2-8dc4853f042d"
+Template: "3d87af51-e300-4e49-b0a2-8dc4853f042d"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/destination-card Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "destination-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "99a104b2-7875-4efc-a8af-d10afa4106fc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 2308b31a-2b27-4ddd-b482-966416a7db5c
+      Hint: MediaBleed
+      Value: "{4F41F715-F4B1-4F79-B81C-AE719979CA5C}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215448Z
+    - ID: 2fdbd376-7dcc-49f8-a8d4-e3b0f97db071
+      Hint: CardColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: 3bebc354-eb42-420f-848a-dc0e518e7453
+      Hint: ColorBand
+      Value: "{07FBCE74-3836-499E-A615-280CD2B4F0A8}"
+    - ID: 46580bfc-367b-440e-974f-6515876d8d9e
+      Hint: Style
+      Value: "{E2CB8F23-0D12-472A-9554-E4F7428B1DBD}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7655e9ae-8bd3-42e9-86f5-35d6bbcff58f
+      Hint: Padding
+      Value: "{E1682301-09FF-4D16-B15E-C148BBD326BC}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "118777e4-1d1e-41c7-ae25-d498aa84b4c1"
+    - ID: 9e753c3b-416b-4cd4-9a9e-5ba06d0d0286
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203504Z
+    - ID: e03fa187-7157-48b1-96a4-33c681374b81
+      Hint: TitleLinkIcon
+      Value: "{180C5CB9-ED6E-4D9C-A592-05C3FE32DAC8}"
+DB: master

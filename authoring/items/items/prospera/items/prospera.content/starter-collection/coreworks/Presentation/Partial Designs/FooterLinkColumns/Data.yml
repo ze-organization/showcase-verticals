@@ -1,0 +1,50 @@
+---
+ID: "5bde8b24-511c-487b-afd9-f946d238848b"
+Parent: "0afb8d2f-1aad-44d6-9c88-c9373fc6fd94"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/FooterLinkColumns/Data"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  Hint: __Masters
+  Value: |
+    {A64B99D3-F666-55B2-A6A8-5D3F2E76DEBF}
+    {40E338C3-DC4D-4F98-B7CE-93760F2AC62C}
+    {AB2821E4-2AEE-57A7-AD25-CBC2EA752CFC}
+    {DD43FA15-DF52-47E1-ABEE-1AAC0E6C7550}
+    {9287BAD6-E065-47D2-9EA1-12080E2679A5}
+    {E206A702-C22A-5CBA-8774-B3E30DA7BBC1}
+    {3D46697F-AA15-531C-B279-091B42F934F0}
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "footer-link-columns@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "34ec070d-83f5-4614-abee-113bfccedf22"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T224022Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "911a338c-a79d-4c56-a21c-d3747ebdc7ad"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T224023Z
+DB: master

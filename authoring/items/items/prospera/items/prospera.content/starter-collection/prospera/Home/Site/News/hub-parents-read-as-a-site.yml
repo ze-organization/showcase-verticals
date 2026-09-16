@@ -1,0 +1,83 @@
+---
+ID: "940b92ff-ed2e-4d5d-8860-7a3613ab8a4a"
+Parent: "7cc675d3-97d8-4145-ade9-08cec6843eca"
+Template: "ba3a6fc8-f669-46e9-8a24-0789dac704b7"
+Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/hub-parents-read-as-a-site"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+  Hint: Page Design
+  Value: "{F0DF0297-115E-5A5B-AA25-FB1795464A6C}"
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "news-hub-parents@1"
+- ID: 9d42e06e-fa7f-4074-a710-967a3ec57909
+  Hint: Image
+  Value: |
+    <image mediaid="{966313F4-D496-474D-86C8-A9832CB981AE}" />
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A3863F6A-4F94-41E1-8330-6D40584667CA}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "501dfca1-993e-4d0a-a0af-956056442de9"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "bb8bb15b-7df2-40e4-ba3d-dcf27448e89d"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hub parents now read as a site
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1c221bd0-3962-4f24-92f2-7e46d101ae47
+      Hint: MetaDescription
+      Value: Every browse parent uses hero, children, one supporting band, and a closer promo.
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T192212Z
+    - ID: 350ff754-c7fe-4895-9473-8626896c003c
+      Hint: Source
+      Value: Showcase Desk
+    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+      Hint: NavigationTitle
+      Value: "hub-parents-read-as-a-site"
+    - ID: 50e9fd68-9c64-49a1-88ff-5f6eeab9fc7b
+      Hint: Eyebrow
+      Value: IA
+    - ID: 7ea4c2a3-57ab-460c-9e5f-520b9f80ccd4
+      Hint: Title
+      Value: Hub parents now read as a site, not a grid of folders
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "00ed53ed-e2f3-4160-a541-df0bacf3db1f"
+    - ID: afd87627-5fe4-4fbf-915d-2ca8a2d6e525
+      Hint: DisplayDate
+      Value: "2026-08-26"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260915T232914Z
+    - ID: e115b488-f184-4503-8450-473985f8679f
+      Hint: MetaTitle
+      Value: Hub parents now read as a site — News
+    - ID: e63e1c16-6ece-420c-815e-18bca7c07f2f
+      Hint: Content
+      Value: "<p>Copy and images come from the immediate children. Industry look-and-feel waits for the split.</p><p>Home stays empty on purpose. Legal stays thin. Search stays the search experience.</p>"
+    - ID: f255492f-abdf-457f-8d05-3890a7a92506
+      Hint: ShortDescription
+      Value: "Every browse parent uses the same stack: hero, children, one supporting band, a closer promo."
+    - ID: fabc61b3-0ca1-4f7d-8af7-a74a7a1c52f2
+      Hint: IncludeInSitemap
+      Value: true
+DB: master

@@ -1,0 +1,58 @@
+---
+ID: "44320eef-ba85-45c6-982d-65eb94745a60"
+Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
+Template: "fd048ce3-fb9b-40b5-90c4-9118f1cb6ac3"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Data/ReviewHarbor"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: 99a4db26-3bbf-4ea7-893b-b20b2b8c4506
+  Hint: AuthorImage
+  Value: |
+    <image mediapath="/theme/person-02.jpg" alt="Portrait of Tom Alvarez" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ff1a1bca-5030-4a68-b4b7-ef3b14ebdf0a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "d45221c6-e2d0-4bef-8c37-37dc62897e0e"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: ReviewHarbor
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 040f9a18-db38-41b1-ba35-d45825e91b77
+      Hint: AuthorName
+      Value: Tom Alvarez
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T230628Z
+    - ID: 7bb29e06-2515-4ca1-b687-0a751b0c8750
+      Hint: Rating
+      Value: 5
+    - ID: 837e17fa-abe5-4077-8dd0-4d3d808b1167
+      Hint: Quote
+      Value: <p>Enclosures stayed on Fabrication. The floor stopped forking a line per packaging SKU.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a531a12f-7520-44b9-a44b-296ba868c5a9"
+    - ID: a528f0b4-7c7e-4251-a985-17304c252d22
+      Hint: AuthorRole
+      Value: Operations, Harbor
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T230638Z
+DB: master

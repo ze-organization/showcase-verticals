@@ -1,0 +1,49 @@
+---
+ID: "efecd9b7-ebce-4dda-ac8c-6ca30e22d8f9"
+Parent: "4aa13a11-31d0-43cc-a0fb-4f2dfe0a4b14"
+Template: "0513f0be-18f8-46e2-8df2-4ef7d35b088d"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/joint/Data/MarkFdic"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking-joint@1"
+- ID: 40333ae0-57fd-4e3d-9f24-a67b6dcac7b3
+  Hint: Logo
+  Value: |
+    <image mediaid="{B4A7295C-2714-4EF7-B600-2DD2AD12B5C8}" alt="Member FDIC" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "a6b25673-e633-4fa0-acef-c114060c6e74"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "aa732321-c0f5-46a6-9839-5c262201226f"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: MarkFdic
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193308Z
+    - ID: 37095b10-d73a-463a-aaf6-9c008736e849
+      Hint: Name
+      Value: Member FDIC
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "1f4ec887-453d-49bd-8b48-a72e69550f1e"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T203030Z
+DB: master

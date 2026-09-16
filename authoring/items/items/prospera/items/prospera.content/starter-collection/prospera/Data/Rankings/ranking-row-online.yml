@@ -1,0 +1,57 @@
+---
+ID: "a617d551-6b79-4f78-937b-2f2464636a8c"
+Parent: "7524b430-ce05-4990-9e97-77c551c1d975"
+Template: "62ca7490-fa37-462d-b1e5-cf9f37557a37"
+Path: "/sitecore/content/starter-collection/prospera/Data/Rankings/ranking-row-online"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "ranking-row-online@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "3363370a-3509-46ce-8937-802d29c3bd87"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "e964cd0e-c473-488d-9a61-ee6e6d3c2a94"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Online servicing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T165909Z
+    - ID: 2650038d-ecd1-4d26-8136-02d4caae7626
+      Hint: SecondaryLabel
+      Value: Account access
+    - ID: 3afc6125-7ecf-450f-9c6f-d3083ed9afcd
+      Hint: Stat1
+      Value: 4.6
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "51b151e1-146a-44f6-8cd3-bb389ffe857e"
+    - ID: 9d795a24-85fa-47a4-b8ba-741cea878e96
+      Hint: Rank
+      Value: 3
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d87c4430-d8fa-46bd-b531-31ea6f96cdcc
+      Hint: Name
+      Value: Online servicing
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T165909Z
+    - ID: de2460d5-3f04-4d65-a361-82a9b1eb546e
+      Hint: Total
+      Value: 4.6
+DB: master

@@ -1,0 +1,32 @@
+---
+ID: "1a9bebe4-a881-47c5-abf9-0b6d08b51e65"
+Parent: "d9eacb65-4d4f-45de-af88-7690e853a22c"
+Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
+Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Avatar"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__shared-folders__"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "892308b9-3de5-47a9-ad1e-e22b7df85334"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214412Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "8d6ff80e-d44d-4ebd-a218-d3709a347ed4"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214413Z
+DB: master

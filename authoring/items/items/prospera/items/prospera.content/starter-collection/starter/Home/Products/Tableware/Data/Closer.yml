@@ -1,0 +1,55 @@
+---
+ID: "3dfe9296-12e9-4354-af40-2a7ab10c6ad4"
+Parent: "53259800-d696-461d-bc9c-028c2dc6177a"
+Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
+Path: "/sitecore/content/starter-collection/starter/Home/Products/Tableware/Data/Closer"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "product-category-tableware@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "b033d185-6be3-4262-8894-548d5f2e7a28"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "c919813f-2185-41cc-841a-f349f7ca8e10"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Closer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190347Z
+    - ID: 2cde99a6-c15a-4cf6-8013-01ef56c2e5c0
+      Hint: Description
+      Value: <p>Lighting and seating sit beside tableware under Products.</p>
+    - ID: 33f19f4d-9b3b-4726-9039-760657e7a6c5
+      Hint: Eyebrow
+      Value: Catalog
+    - ID: 5476fe86-73c2-45a2-a9c8-40c681ddf8cf
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Products" text="All products" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ea5d92de-7aa8-45fe-9589-c73fd32b9975"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190350Z
+    - ID: ffbdfe03-f223-4437-a867-986da7f40122
+      Hint: Title
+      Value: See the rest of the catalog
+DB: master

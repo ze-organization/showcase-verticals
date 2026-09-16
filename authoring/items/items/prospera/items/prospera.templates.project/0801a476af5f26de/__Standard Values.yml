@@ -1,0 +1,79 @@
+---
+ID: "87c23ab8-cc01-4ad0-85aa-9848ae941f1b"
+Parent: "cc5d9217-fa9c-4844-827d-3625db3fc05d"
+Template: "cc5d9217-fa9c-4844-827d-3625db3fc05d"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/Presentation Parameters/subscription-banner Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "subscription-banner@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5e490eef-7783-4240-ac83-d87b93080f17"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 02543951-0642-412b-a796-25a021366581
+      Hint: TitleSize
+      Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
+    - ID: 070d4070-5ef1-4ae9-84dd-4bcc568c39f5
+      Hint: InstanceScope
+      Value: "{8C5912E3-436E-430E-B734-40126FCB1F8F}"
+    - ID: 0f1afa5a-97e0-4962-af11-dcf87464ad3e
+      Hint: FormColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: 101ccede-cc1b-4f01-9d88-1c01b98a329b
+      Hint: FormBackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: 25bac522-5653-4f97-aad9-aba473a66b0b
+      Hint: SubmitButtonVariant
+      Value: "{973EEE8E-BAD4-4D6F-8696-A97630198F36}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T020957Z
+    - ID: 3b174b24-b08d-4b82-9db4-35dd01adaf72
+      Hint: BackgroundPosition
+      Value: "{337A3A3A-0BEE-4148-90D3-9ADB0955BEF2}"
+    - ID: 45f66179-21f0-4a3a-8683-b41731678c42
+      Hint: Alignment
+      Value: "{A5F5DBAF-9EEC-41E9-B261-CC27F2906111}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 874c3786-bba4-49a2-9950-4820bcd4a0c2
+      Hint: SubmitButtonFontColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "55c46192-ec7f-42fd-b33d-e06b1abc5976"
+    - ID: a4473e4f-14f9-4622-8341-cef6d14e245c
+      Hint: TrackEvents
+      Value: 1
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: ccc27452-1302-42b0-bf41-0d530916ee39
+      Hint: SubmitButtonColorScheme
+      Value: "{F9DAC70B-0DDF-4231-856F-CFDE63708DDC}"
+    - ID: d2d8c122-dc2b-449d-a191-b6b57a50473a
+      Hint: BackgroundScrim
+      Value: "{A08DA44E-01A3-424D-ADBE-9339B24B69F0}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T160838Z
+    - ID: dbfc4baa-eac9-4f4a-afce-333d85883913
+      Hint: SubscribeButtonLayout
+      Value: "{592D74F2-A776-4AE2-8439-4C9F37C044E3}"
+    - ID: fa27a505-c7dd-4e90-aefb-95e87bac9d35
+      Hint: SubmitButtonSize
+      Value: "{A05D3897-3264-4DA7-AC11-A21C06665168}"
+DB: master

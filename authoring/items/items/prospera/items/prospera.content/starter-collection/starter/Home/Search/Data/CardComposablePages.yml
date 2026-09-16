@@ -1,0 +1,62 @@
+---
+ID: "39e99d8c-72ed-48a1-b28e-502dc77bb799"
+Parent: "2dc1bacf-e803-4e8b-9d74-a87a2cc32ce9"
+Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
+Path: "/sitecore/content/starter-collection/starter/Home/Search/Data/CardComposablePages"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "search-page@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "67eb8f97-4ef0-45ec-91e8-5b171f462609"
+- ID: fec5206f-28dc-42b9-8bcc-4cf7e042aaaa
+  Hint: Image
+  Value: |
+    <image mediaid="{8CB44C4E-0ED9-4214-83CA-E60035B2E024}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "27fbf99e-5a25-4f57-988a-3b505a226749"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardComposablePages
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 08a97d39-e861-4fb4-9676-467800790ffd
+      Hint: Eyebrow
+      Value: Architecture
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T193314Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3253de09-5d7e-49ae-b929-b0260fe5f687"
+    - ID: 9a110a03-2ae4-4e97-93a2-03c18f5d5e0d
+      Hint: Excerpt
+      Value: <p>One shared Page template for marketing URLs. A dedicated Article template only when insert options and layout actually change.</p>
+    - ID: b27c83d4-00e3-4942-b60b-c16e36dc08b5
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Articles/composable-pages" text="Read article" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cfa3a5d7-9bdf-4c28-979c-01fce0704894
+      Hint: Date
+      Value: "2026-04-02T09:00:00Z"
+    - ID: cfcd7906-6df1-4e9d-bcc3-eb4ef751f020
+      Hint: Title
+      Value: Composable pages without a template explosion
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T193319Z
+DB: master

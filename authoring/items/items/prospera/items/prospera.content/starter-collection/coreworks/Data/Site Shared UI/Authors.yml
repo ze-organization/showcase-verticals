@@ -1,0 +1,39 @@
+---
+ID: "6df27d9f-c292-4cc8-a9ac-a78ea9ce26c2"
+Parent: "6dec56e4-30b3-4d88-aa77-2f2d194b6e6d"
+Template: "80866d76-fb9a-4120-8cf0-cb1bc855541f"
+Path: "/sitecore/content/starter-collection/coreworks/Data/Site Shared UI/Authors"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "7a14c9fe-e180-434d-b30d-7d02dddf647d"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "f985223a-8748-41a2-ae2a-806a3b32d010"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Authors
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T214849Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "13d48ea3-bfdf-4587-ad1b-6d1f4d000383"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T214850Z
+DB: master

@@ -1,0 +1,39 @@
+---
+ID: "b0a05de7-7a20-40a1-b5a3-0e91e765d591"
+Parent: "aa573b7c-b364-4945-9c83-50106c2816a4"
+Template: "84b73f71-8059-482e-abb1-cbc2ea8bc8d1"
+Path: "/sitecore/content/starter-collection/prospera/Data/Navigation/Mobile Menu"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/16x16/folder.png
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "529f15d7-3343-42d0-b3d0-25d427a3689a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "76ba8803-8e88-4810-894d-bc9958835098"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Mobile Menu
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221103Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "0e0fb5d9-b911-4588-bd7a-220c3c5e4f4c"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T221104Z
+DB: master

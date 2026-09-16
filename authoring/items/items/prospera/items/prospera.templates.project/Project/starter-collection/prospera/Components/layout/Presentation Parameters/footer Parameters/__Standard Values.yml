@@ -1,0 +1,55 @@
+---
+ID: "8a55e5b5-2f10-40f8-9841-f1af99752589"
+Parent: "0a7d72c8-a552-4b4c-a7a8-ba57cd784e8a"
+Template: "0a7d72c8-a552-4b4c-a7a8-ba57cd784e8a"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/layout/Presentation Parameters/footer Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: footer@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ed462306-60f7-49ae-9511-534da7cc5914"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T014555Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 69766b05-8e97-434d-8d8d-4afe361fe3cb
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"
+    - ID: 8c37c289-b11e-4161-b700-553ae25f9f51
+      Hint: BackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f9d15d53-9368-43d3-9261-ef89caad0613"
+    - ID: 9687df25-41d7-4a6e-8980-4c668e5fd504
+      Hint: ColorScheme
+      Value: "{E92EE345-1B2F-404E-85F4-0DF9E8B9D320}"
+    - ID: 9ba10b83-6213-40a3-b713-f50e36b8bd6e
+      Hint: TierTwoBackground
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: a30231a6-550a-4383-84a2-d6e33550ec2c
+      Hint: MaxWidth
+      Value: "{0055B24F-93C3-4857-AB2D-4ABB4015261C}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T014555Z
+DB: master

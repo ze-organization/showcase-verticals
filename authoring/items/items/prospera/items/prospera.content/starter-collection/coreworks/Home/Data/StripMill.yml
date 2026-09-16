@@ -1,0 +1,52 @@
+---
+ID: "5f3eaafd-32dd-4e0d-ab22-ef52714ad45f"
+Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
+Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
+Path: "/sitecore/content/starter-collection/coreworks/Home/Data/StripMill"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "homepage-demo@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "da63ce50-253d-494d-8a8a-159a6eadec31"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "43938747-f970-41d2-b26a-35ea53eb50a3"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: StripMill
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 169f5a27-b677-418f-be85-bca86ee122a0
+      Hint: IconName
+      Value: chart
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260911T230607Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "280b6318-056f-4c81-b829-4a07d1d9d45d"
+    - ID: a832315c-75e1-4920-8831-0f44c6daaaa8
+      Hint: Title
+      Value: Milling
+    - ID: ba63fec8-8a4d-485b-86c2-4a054ae9c794
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Products/Machining" text="Milling" />
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260911T230637Z
+DB: master

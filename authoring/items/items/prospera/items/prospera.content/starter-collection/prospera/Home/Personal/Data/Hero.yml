@@ -1,0 +1,63 @@
+---
+ID: "7a45dde8-5e5d-494d-b188-cf83ff683daf"
+Parent: "05ef4858-57ae-4258-8e71-76c611693840"
+Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/Data/Hero"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: personal@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "bf5043d1-592f-4105-8560-9b25ab6cdc86"
+- ID: e19f6e46-d51b-47b3-bda8-f99b0246d84d
+  Hint: Image
+  Value: |
+    <image mediapath="/theme-photos/hub-01.jpg" alt="Customer and banker reviewing a household budget at a branch table" />
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "2b5aa1a0-5331-49f1-bd28-08ca93074169"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193137Z
+    - ID: 34d46807-cf7b-4581-a8e2-5241f8b1a19d
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="external" url="/Personal/checking" text="Everyday checking" />
+    - ID: 5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="external" url="/Get-Started" text="Apply Now" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "2e08e54a-2129-4e76-9e32-237f5539d36b"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193146Z
+    - ID: dd89508e-129e-43cc-9186-307f91173cb6
+      Hint: Subtitle
+      Value: "Open everyday checking for paychecks and bills. Add high-yield savings, a Rewards Visa, a joint owner, or youth debit from that same relationship."
+    - ID: e804b2fe-aeec-46fd-9146-631c15c72ca1
+      Hint: Eyebrow
+      Value: Personal
+    - ID: fb31d0c7-b1ab-4a2a-a53d-e06e7cce2b58
+      Hint: Title
+      Value: Checking first. Savings and a card when you want them.
+DB: master

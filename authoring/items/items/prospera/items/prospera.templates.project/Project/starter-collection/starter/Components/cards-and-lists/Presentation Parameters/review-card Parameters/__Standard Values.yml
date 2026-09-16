@@ -1,0 +1,58 @@
+---
+ID: "cc51b59e-4ebd-4874-93d7-f29b8c747dc9"
+Parent: "3095606c-4c23-40e2-a8a2-335c0f63d105"
+Template: "3095606c-4c23-40e2-a8a2-335c0f63d105"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/review-card Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "review-card@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "50a0e660-d286-45e4-bbed-89592754a00e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1b106c99-0711-4415-a6dd-9b39b3d0d435
+      Hint: MediaBleed
+      Value: "{4F41F715-F4B1-4F79-B81C-AE719979CA5C}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T222029Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5b910444-ef50-4215-bf67-d53c3ca67dd0
+      Hint: CardColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 7978383d-14bd-4a57-97a4-c7594962f4b8
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "83a9059f-2cd1-40eb-9f79-25802a667921"
+    - ID: 903d91fa-7dca-4fd3-95d2-459c17e652cd
+      Hint: Padding
+      Value: "{E1682301-09FF-4D16-B15E-C148BBD326BC}"
+    - ID: b33bee69-9ca9-4dc4-80f6-3a79b9981ef5
+      Hint: Style
+      Value: "{E2CB8F23-0D12-472A-9554-E4F7428B1DBD}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d941d674-42ff-49ba-a724-4f308421c042
+      Hint: ColorBand
+      Value: "{07FBCE74-3836-499E-A615-280CD2B4F0A8}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260813T222029Z
+DB: master

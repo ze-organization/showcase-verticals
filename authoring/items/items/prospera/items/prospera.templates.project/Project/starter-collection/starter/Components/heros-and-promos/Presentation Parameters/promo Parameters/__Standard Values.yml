@@ -1,0 +1,109 @@
+---
+ID: "fcb421b5-9d0d-4034-ab86-6a209f7d0cfe"
+Parent: "12c09dad-dde9-45c8-83ed-f6492726821e"
+Template: "12c09dad-dde9-45c8-83ed-f6492726821e"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/Presentation Parameters/promo Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: promo@1
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "ee457530-135c-403f-a3c5-fd52d6994bac"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0451c265-f02c-4fd0-bb7f-3e7f7636cf80
+      Hint: PaddingY
+      Value: "{295A5038-66A8-4D33-BDDF-B7CDA0AD0B71}"
+    - ID: 19210a05-7180-4e9d-a9c8-f9c0a75ccbde
+      Hint: HeadingAnimation
+      Value: "{B945973A-CB0A-4E1F-A9B9-F589F2DBD98C}"
+    - ID: 258de8b7-7197-4a08-bfc8-cdcfcc763ff7
+      Hint: ContentVAlign
+      Value: "{3E6738BF-E549-482E-9438-F0C7B1E33A3B}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T221840Z
+    - ID: 356d7d4c-9799-4d0e-bf3f-2c6ccb2b38ef
+      Hint: MediaShape
+      Value: "{69885AC8-8982-4147-A74E-EE4D76D7AD7B}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 585d5efb-59e4-4b98-9c2b-f4e7c3a3a662
+      Hint: SecondaryActionColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 77b3df15-c02a-4036-a127-33baddd9dcaa
+      Hint: Inset
+      Value: "{4E36FD9C-ECC2-4729-900A-FC989B31D99E}"
+    - ID: 79c5f5d4-b5d7-49c4-b41b-7a43b8286be5
+      Hint: SecondaryActionVariant
+      Value: "{E0E20F0A-865B-4301-A09B-37451BA72620}"
+    - ID: 7cb98a8a-1941-468c-8c71-91f1194dafd2
+      Hint: SecondarySurfaceTone
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: 84b6a62c-57ff-4cfd-b82e-7395756ba0e6
+      Hint: ActionSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: 886a9d9c-3548-47fd-988c-0498bd3f9b60
+      Hint: BackgroundPosition
+      Value: "{54F4B6DA-A7A5-4E54-9240-613E1F5D9401}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "a26e05e9-3e42-4efd-aa31-5a5bc7c8cb62"
+    - ID: 953cdb71-7bcf-42f4-9199-38be4ae0abdf
+      Hint: ImagePosition
+      Value: "{45FE4CC8-9E37-404F-857D-E835D8484649}"
+    - ID: a8273758-3122-40e8-86b6-a8f3e50c24ee
+      Hint: EyebrowColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: b4b6d2ff-79c1-4252-98e8-62be47def5a6
+      Hint: PrimaryActionColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: b9c89a1e-124e-4915-bb47-20cd593c4ad1
+      Hint: MediaFraction
+      Value: "{F295D38C-0305-4022-B4AF-031D42E92C87}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: ce8b09df-0e64-4e98-991b-fc7cf3913852
+      Hint: PrimaryActionVariant
+      Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
+    - ID: d731076d-51b9-4187-aecb-b0bdde12c13b
+      Hint: ContentAlign
+      Value: "{8FB178F2-BF58-46CE-AF9F-D3FDBFB35E2C}"
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203750Z
+    - ID: ddf70d0e-0909-4ff4-9083-ebedfb70970d
+      Hint: BackgroundScrim
+      Value: "{0743AD31-06DB-417C-971B-BC7DBCFB14BB}"
+    - ID: df393b24-b03c-4897-a7fe-bdd988007176
+      Hint: InstanceScope
+      Value: "{8FE4C9F3-F804-4003-B065-C45E54378C9A}"
+    - ID: df515a44-875c-4756-b66c-6b630df67800
+      Hint: TitleSize
+      Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
+    - ID: e5629edb-3acf-406b-a96b-93f6b7dafa61
+      Hint: SurfaceTone
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: f43395fd-de4d-4322-8292-3158fa47237b
+      Hint: EyebrowStyle
+      Value: "{6E144A78-43C3-426D-8ADF-1357CE5D3886}"
+    - ID: f5d41dfe-5fcd-4148-a780-7863d46d5309
+      Hint: VideoPlayback
+      Value: "{EC21253E-51AD-4BE8-8196-F25B1B46D5BC}"
+    - ID: ff776dcc-948e-4f3f-b29e-0ce0ace592b7
+      Hint: Layout
+      Value: "{F6845E6F-B4DB-4C6F-986A-2DA411AB314C}"
+DB: master

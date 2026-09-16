@@ -1,0 +1,45 @@
+---
+ID: "1219a968-4fda-4433-915e-a74949fb1d7b"
+Parent: "b4dc4bed-cf15-4b55-b175-67d911697bc5"
+Template: "5b847aa9-a675-4774-b7ef-818a69f8c5ee"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/high-yield/Data/Faq"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-savings-high-yield@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "82b95479-ea99-4e3e-b909-25b691ef4149"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "a986d20b-a591-48a2-8956-353f4aa7a4b6"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Faq
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193412Z
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "ce6c0252-ee1e-43e5-9284-526e0f3d0bcb"
+    - ID: 9e9dae83-9ca2-4b36-a659-d238198d3f31
+      Hint: Heading
+      Value: "Questions about high-yield savings"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193425Z
+DB: master

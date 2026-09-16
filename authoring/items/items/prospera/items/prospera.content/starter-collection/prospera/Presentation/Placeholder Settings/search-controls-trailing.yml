@@ -1,0 +1,58 @@
+---
+ID: "69b63d7b-4111-400d-a0be-232682444ae5"
+Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/search-controls-trailing"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "__placeholder-settings__"
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  Hint: Placeholder Key
+  Value: "search-controls-trailing-{*}"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "41d74dcd-98ba-499e-8eca-8cc98e47c55b"
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  Hint: Allowed Controls
+  Value: |
+    {6B9E6886-BEF1-48A9-8510-D94F2DB2F565}
+    {5443989B-8ACA-4314-B353-CA96CE38D3DD}
+    {5C20D439-8E7F-4CB1-8A3F-CEF53DB94255}
+    {DDDD657B-668F-4DA3-8B6F-513D8A86260B}
+    {FE336554-4337-48C9-AA24-D4812E06F1C6}
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "bd47e7ae-9679-4fc7-87d1-84fd3f9970f3"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: "search-controls-trailing-{*}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T230552Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "b9cdf82d-a598-40b1-b639-fb0bdee6c97f"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T022004Z
+DB: master

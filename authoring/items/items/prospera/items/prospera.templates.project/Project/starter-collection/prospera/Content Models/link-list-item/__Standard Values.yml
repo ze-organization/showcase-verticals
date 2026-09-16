@@ -1,0 +1,47 @@
+---
+ID: "3603e245-24e2-4242-929a-7ea26bdbe06c"
+Parent: "acd6a45c-b550-4942-b58e-e93b7ddfadbf"
+Template: "acd6a45c-b550-4942-b58e-e93b7ddfadbf"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/link-list-item/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "link-list-item@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "56446430-a845-4d52-bbaa-965b703193a9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T015013Z
+    - ID: 4d283e85-86f9-49ae-a94f-bd6fc1862501
+      Hint: Title
+      Value: Link label
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 73d32cda-a576-495d-9919-57bacac2134b
+      Hint: Link
+      Value: |
+        <link text="Link label" linktype="external" url="/" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "4eb1e294-3a12-4a4a-8bba-e7ee30bf1f43"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T015013Z
+DB: master

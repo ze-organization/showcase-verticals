@@ -1,0 +1,48 @@
+---
+ID: "c437222d-59f0-4703-8fbd-37d60c7d0f91"
+Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
+Template: "c4a58b24-9743-48eb-8035-431c2602fb31"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/Quotes"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-checking@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "4cd2e990-353a-47db-9daa-21793f2cf438"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "77ec3819-af99-4470-80c5-ee1cda6dcb0a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Quotes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193225Z
+    - ID: 5b206a2f-3633-4f68-bd54-f62f248f2154
+      Hint: Lead
+      Value: <p>Composite quotes for the showcase. Not Trustpilot and not a live survey.</p>
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "75f6d86f-6638-441a-af7c-80984a695070"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T193248Z
+    - ID: e092a05f-7fb3-4f24-a8ba-1d3144c2afc7
+      Hint: Title
+      Value: What customers say in this demonstration
+DB: master

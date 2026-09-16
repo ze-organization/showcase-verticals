@@ -1,0 +1,100 @@
+---
+ID: "c792d629-0fa6-4dd9-81f8-43ac581aa012"
+Parent: "871d3d4d-19fc-41dc-bb4d-b641397d60bc"
+Template: "871d3d4d-19fc-41dc-bb4d-b641397d60bc"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/Presentation Parameters/card-block Parameters/__Standard Values"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "card-block@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "5d138c4c-1d73-4b75-a5f1-3f19eecaa0fa"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0a5637ca-ca1f-4ea7-b63a-76b8c6eaba25
+      Hint: ActionPlacement
+      Value: "{301B1983-E152-4C10-9EAF-967989DDAAA8}"
+    - ID: 14833836-2952-4f63-9840-a3c0e63b695c
+      Hint: MediaBleed
+      Value: "{4F41F715-F4B1-4F79-B81C-AE719979CA5C}"
+    - ID: 14c187d8-bb6a-4bf5-a65e-971d57087e78
+      Hint: SecondaryActionColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260813T215038Z
+    - ID: 44bf15a7-ff10-4f05-9aa7-ab43562aebc4
+      Hint: ActionSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: 46988726-131e-4d30-a6c8-3925416ad3d7
+      Hint: MediaFit
+      Value: "{5A995AAF-84E3-4E91-B1F5-BCF019928387}"
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: 6a019af3-c0a7-40d6-aa1d-0b10a76084f3
+      Hint: Style
+      Value: "{E2CB8F23-0D12-472A-9554-E4F7428B1DBD}"
+    - ID: 74e6af84-2ab0-49fd-9c26-b5af5458b624
+      Hint: PrimaryActionVariant
+      Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
+    - ID: 89a24a50-039e-4c07-b692-4daf0bdc0635
+      Hint: TitleLinkIcon
+      Value: "{180C5CB9-ED6E-4D9C-A592-05C3FE32DAC8}"
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "3ba67fda-da86-4c2a-b45e-8ff99baac414"
+    - ID: 8efd7f15-3c8a-4918-8e19-536b2214d5e4
+      Hint: FooterColorScheme
+      Value: "{9D95DC4D-C838-4EE6-937B-9653E9ECCEE8}"
+    - ID: 902ca3c6-71e8-4741-938c-3eda7b9d194a
+      Hint: IconBadgeColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: 993e0d83-fc2b-4a62-9206-99c8cb35a76b
+      Hint: CardColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: 9c95a4c9-1e97-4353-b533-41e20afaeeec
+      Hint: Padding
+      Value: "{E1682301-09FF-4D16-B15E-C148BBD326BC}"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260814T203458Z
+    - ID: dd5cc26b-1b62-4c4b-bfb0-288797b88c49
+      Hint: TitleWeight
+      Value: "{1E73B506-F9CD-4DC3-9422-8E81D28965FD}"
+    - ID: deeb8134-c4e7-407d-950e-81ef1a9b913b
+      Hint: PrimaryActionColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: e41beee8-3a39-41c7-a1e2-1a16b9304eec
+      Hint: SecondaryActionVariant
+      Value: "{E0E20F0A-865B-4301-A09B-37451BA72620}"
+    - ID: e5d39213-f087-4633-83a5-e63199bbcf11
+      Hint: AccentBar
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: e6eac31a-63b5-49af-a21d-5e747da6112e
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: e76361be-6c44-4ca1-90ce-1fb2941c91d9
+      Hint: TitleSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: f076caf9-abb8-423d-8278-5fdc1d91e575
+      Hint: IconBadgeSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: f37d0cd2-9e15-4799-abed-2260fe3a665c
+      Hint: ColorBand
+      Value: "{07FBCE74-3836-499E-A615-280CD2B4F0A8}"
+DB: master

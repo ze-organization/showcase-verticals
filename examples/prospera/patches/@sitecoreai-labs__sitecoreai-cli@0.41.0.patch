@@ -1,0 +1,286 @@
+diff --git a/dist/esm/chunk-4Z246VNO.js b/dist/esm/chunk-4Z246VNO.js
+index 2cfd7c5bedfadfa44326bced23ff998339879feb..eaa32c66dd79f87408b4eb122e53a754e1bf38a4 100644
+--- a/dist/esm/chunk-4Z246VNO.js
++++ b/dist/esm/chunk-4Z246VNO.js
+@@ -1088,6 +1088,22 @@ var PartialDesignRecipeSchema = z6.object({
+   description: z6.string().optional(),
+   /** Defaults to the partial-design icon if omitted. */
+   icon: z6.string().optional(),
++  /**
++   * Appearance thumbnail — uploaded to the media library and written to
++   * Sitecore `__Thumbnail` as `<image mediaid="{GUID}" />`.
++   */
++  thumbnail: z6.discriminatedUnion("kind", [
++    z6.object({
++      kind: z6.literal("external-url"),
++      url: z6.string().min(1),
++      alt: z6.string().optional()
++    }),
++    z6.object({
++      kind: z6.literal("asset"),
++      path: z6.string().min(1),
++      alt: z6.string().optional()
++    })
++  ]).optional(),
+   /** Placeholders this partial holds, with their pre-placed renderings. */
+   layout: LayoutSchema
+ });
+@@ -1145,6 +1161,22 @@ var PageDesignRecipeSchema = z6.object({
+   displayName: z6.string().min(1),
+   description: z6.string().optional(),
+   icon: z6.string().optional(),
++  /**
++   * Appearance thumbnail — uploaded to the media library and written to
++   * Sitecore `__Thumbnail` as `<image mediaid="{GUID}" />`.
++   */
++  thumbnail: z6.discriminatedUnion("kind", [
++    z6.object({
++      kind: z6.literal("external-url"),
++      url: z6.string().min(1),
++      alt: z6.string().optional()
++    }),
++    z6.object({
++      kind: z6.literal("asset"),
++      path: z6.string().min(1),
++      alt: z6.string().optional()
++    })
++  ]).optional(),
+   /**
+    * Page template handles this design applies to. Compiler builds the
+    * URL-string templates-to-designs mapping field on the Sitecore Page
+@@ -1584,6 +1616,22 @@ var PageTemplateRecipeSchema = z10.object({
+   description: z10.string().optional(),
+   /** Defaults to the SXA page icon if omitted. */
+   icon: z10.string().optional(),
++  /**
++   * Appearance thumbnail — uploaded to the media library and written to
++   * Sitecore `__Thumbnail` as `<image mediaid="{GUID}" />`.
++   */
++  thumbnail: z10.discriminatedUnion("kind", [
++    z10.object({
++      kind: z10.literal("external-url"),
++      url: z10.string().min(1),
++      alt: z10.string().optional()
++    }),
++    z10.object({
++      kind: z10.literal("asset"),
++      path: z10.string().min(1),
++      alt: z10.string().optional()
++    })
++  ]).optional(),
+   /**
+    * Optional taxonomy metadata. `meta.tax.group` nests the template one
+    * folder level deep: when set, the template lands at
+@@ -3510,7 +3558,7 @@ function compileComponentTemplateRecipe(input, context, emittedFolders = /* @__P
+   const recipe = ComponentTemplateRecipeSchema.parse(input);
+   const operations = [];
+   const policy = defaultPolicyForRecipe(recipe.kind);
+-  const icon = DEFAULT_ICON;
++  const icon = recipe.icon ?? DEFAULT_ICON;
+   if (recipe.parameters && recipe.dynamicPlaceholders) {
+     throw createScaiError(
+       `Recipe '${recipe.handle}' combines an external 'parameters' template with 'dynamicPlaceholders: true'.`,
+@@ -5226,6 +5274,13 @@ function compilePartialDesignRecipe(input, context) {
+     });
+   }
+   operations.push(...scoped.fieldOps);
++  operations.push(...emitThumbnailOps({
++    recipe,
++    site,
++    itemRefKey,
++    policy,
++    destinationFolder: WIREFRAME_PARTIAL_DESIGNS_MEDIA
++  }));
+   return OperationIrSchema.parse({
+     schemaVersion: "1",
+     recipeHandle: recipe.handle,
+@@ -5316,6 +5371,13 @@ function compilePageDesignRecipe(input, context) {
+     value: { kind: "string", value: layoutXml }
+   });
+   if (scoped) operations.push(...scoped.fieldOps);
++  operations.push(...emitThumbnailOps({
++    recipe,
++    site,
++    itemRefKey,
++    policy,
++    destinationFolder: WIREFRAME_PAGE_DESIGNS_MEDIA
++  }));
+   return OperationIrSchema.parse({
+     schemaVersion: "1",
+     recipeHandle: recipe.handle,
+@@ -5387,6 +5449,13 @@ function compilePageTemplateRecipe(input, context, emittedFolders = /* @__PURE__
+       value: { kind: "ref-recipe", refKey: workflowId(recipe.defaultWorkflow) }
+     });
+   }
++  operations.push(...emitThumbnailOps({
++    recipe,
++    site,
++    itemRefKey: templateId(site, recipe.handle),
++    policy,
++    destinationFolder: WIREFRAME_PAGE_DESIGNS_MEDIA
++  }));
+   return OperationIrSchema.parse({
+     schemaVersion: "1",
+     recipeHandle: recipe.handle,
+@@ -6020,6 +6089,32 @@ function basenameForMediaSource(source) {
+   const tail = source.path.split("/").filter(Boolean).pop();
+   return tail ?? "thumbnail";
+ }
++var WIREFRAME_PAGE_DESIGNS_MEDIA = "/sitecore/media library/Project/starter-collection/shared/Wireframes/page-designs";
++var WIREFRAME_PARTIAL_DESIGNS_MEDIA = "/sitecore/media library/Project/starter-collection/shared/Wireframes/partial-designs";
++function emitThumbnailOps({ recipe, site, itemRefKey, policy, destinationFolder }) {
++  if (!recipe.thumbnail) return [];
++  const refKey = thumbnailMediaId(site, recipe.handle);
++  const basename = basenameForMediaSource(recipe.thumbnail);
++  return [
++    {
++      op: "MediaUpload",
++      policy,
++      label: `media-upload:thumbnail:${recipe.handle}`,
++      id: refKey,
++      source: recipe.thumbnail,
++      destinationPath: `${destinationFolder}/${basename}`,
++      ...recipe.thumbnail.alt ? { altText: recipe.thumbnail.alt } : {}
++    },
++    {
++      op: "SetField",
++      policy,
++      label: `thumbnail:${recipe.handle}`,
++      itemRefKey,
++      fieldId: SYSTEM_THUMBNAIL_FIELD_ID,
++      value: { kind: "media-xml-ref", refKey }
++    }
++  ];
++}
+ function compileSiteTemplateRecipe(input, context) {
+   const recipe = SiteTemplateRecipeSchema.parse(input);
+   if (!context.siteTemplatesRoot) {
+diff --git a/dist/esm/recipe/schema.js b/dist/esm/recipe/schema.js
+index d51f333861afbe4cd21184be39c40eeadd47767c..bd6b0593ddcdc8c2f27a2cbcc67e202c6313785c 100644
+--- a/dist/esm/recipe/schema.js
++++ b/dist/esm/recipe/schema.js
+@@ -976,6 +976,22 @@ var PartialDesignRecipeSchema = z6.object({
+   description: z6.string().optional(),
+   /** Defaults to the partial-design icon if omitted. */
+   icon: z6.string().optional(),
++  /**
++   * Appearance thumbnail — uploaded to the media library and written to
++   * Sitecore `__Thumbnail` as `<image mediaid="{GUID}" />`.
++   */
++  thumbnail: z6.discriminatedUnion("kind", [
++    z6.object({
++      kind: z6.literal("external-url"),
++      url: z6.string().min(1),
++      alt: z6.string().optional()
++    }),
++    z6.object({
++      kind: z6.literal("asset"),
++      path: z6.string().min(1),
++      alt: z6.string().optional()
++    })
++  ]).optional(),
+   /** Placeholders this partial holds, with their pre-placed renderings. */
+   layout: LayoutSchema
+ });
+@@ -1033,6 +1049,22 @@ var PageDesignRecipeSchema = z6.object({
+   displayName: z6.string().min(1),
+   description: z6.string().optional(),
+   icon: z6.string().optional(),
++  /**
++   * Appearance thumbnail — uploaded to the media library and written to
++   * Sitecore `__Thumbnail` as `<image mediaid="{GUID}" />`.
++   */
++  thumbnail: z6.discriminatedUnion("kind", [
++    z6.object({
++      kind: z6.literal("external-url"),
++      url: z6.string().min(1),
++      alt: z6.string().optional()
++    }),
++    z6.object({
++      kind: z6.literal("asset"),
++      path: z6.string().min(1),
++      alt: z6.string().optional()
++    })
++  ]).optional(),
+   /**
+    * Page template handles this design applies to. Compiler builds the
+    * URL-string templates-to-designs mapping field on the Sitecore Page
+@@ -1616,6 +1648,22 @@ var PageTemplateRecipeSchema = z11.object({
+   description: z11.string().optional(),
+   /** Defaults to the SXA page icon if omitted. */
+   icon: z11.string().optional(),
++  /**
++   * Appearance thumbnail — uploaded to the media library and written to
++   * Sitecore `__Thumbnail` as `<image mediaid="{GUID}" />`.
++   */
++  thumbnail: z11.discriminatedUnion("kind", [
++    z11.object({
++      kind: z11.literal("external-url"),
++      url: z11.string().min(1),
++      alt: z11.string().optional()
++    }),
++    z11.object({
++      kind: z11.literal("asset"),
++      path: z11.string().min(1),
++      alt: z11.string().optional()
++    })
++  ]).optional(),
+   /**
+    * Optional taxonomy metadata. `meta.tax.group` nests the template one
+    * folder level deep: when set, the template lands at
+diff --git a/dist/recipe/schema/kinds/design.d.ts b/dist/recipe/schema/kinds/design.d.ts
+index 5ada4113aa735f7d1331bb54743f5d4a0ab1f5d5..d56eb49a165ed377768253f85535da312d2e315d 100644
+--- a/dist/recipe/schema/kinds/design.d.ts
++++ b/dist/recipe/schema/kinds/design.d.ts
+@@ -16,6 +16,15 @@ export declare const PartialDesignRecipeSchema: z.ZodObject<{
+     displayName: z.ZodString;
+     description: z.ZodOptional<z.ZodString>;
+     icon: z.ZodOptional<z.ZodString>;
++    thumbnail: z.ZodOptional<z.ZodDiscriminatedUnion<[z.ZodObject<{
++        kind: z.ZodLiteral<"external-url">;
++        url: z.ZodString;
++        alt: z.ZodOptional<z.ZodString>;
++    }, z.core.$strip>, z.ZodObject<{
++        kind: z.ZodLiteral<"asset">;
++        path: z.ZodString;
++        alt: z.ZodOptional<z.ZodString>;
++    }, z.core.$strip>], "kind">>;
+     layout: z.ZodObject<{
+         placeholders: z.ZodDefault<z.ZodRecord<z.ZodString, z.ZodArray<z.ZodType<import("../content-values").ComponentPlacement, import("../content-values").ComponentPlacementInput, z.core.$ZodTypeInternals<import("../content-values").ComponentPlacement, import("../content-values").ComponentPlacementInput>>>>>;
+     }, z.core.$strip>;
+@@ -87,6 +96,15 @@ export declare const PageDesignRecipeSchema: z.ZodObject<{
+     displayName: z.ZodString;
+     description: z.ZodOptional<z.ZodString>;
+     icon: z.ZodOptional<z.ZodString>;
++    thumbnail: z.ZodOptional<z.ZodDiscriminatedUnion<[z.ZodObject<{
++        kind: z.ZodLiteral<"external-url">;
++        url: z.ZodString;
++        alt: z.ZodOptional<z.ZodString>;
++    }, z.core.$strip>, z.ZodObject<{
++        kind: z.ZodLiteral<"asset">;
++        path: z.ZodString;
++        alt: z.ZodOptional<z.ZodString>;
++    }, z.core.$strip>], "kind">>;
+     appliesTo: z.ZodDefault<z.ZodArray<z.ZodString>>;
+     partials: z.ZodDefault<z.ZodArray<z.ZodString>>;
+     layout: z.ZodOptional<z.ZodObject<{
+diff --git a/dist/recipe/schema/kinds/page.d.ts b/dist/recipe/schema/kinds/page.d.ts
+index 31d0ff446ef245c09ceabfacc7bf19425a9ba75a..461e47cf265d8fe16447ec56433bef3f75132864 100644
+--- a/dist/recipe/schema/kinds/page.d.ts
++++ b/dist/recipe/schema/kinds/page.d.ts
+@@ -34,6 +34,15 @@ export declare const PageTemplateRecipeSchema: z.ZodObject<{
+     displayName: z.ZodString;
+     description: z.ZodOptional<z.ZodString>;
+     icon: z.ZodOptional<z.ZodString>;
++    thumbnail: z.ZodOptional<z.ZodDiscriminatedUnion<[z.ZodObject<{
++        kind: z.ZodLiteral<"external-url">;
++        url: z.ZodString;
++        alt: z.ZodOptional<z.ZodString>;
++    }, z.core.$strip>, z.ZodObject<{
++        kind: z.ZodLiteral<"asset">;
++        path: z.ZodString;
++        alt: z.ZodOptional<z.ZodString>;
++    }, z.core.$strip>], "kind">>;
+     meta: z.ZodOptional<z.ZodObject<{
+         tax: z.ZodOptional<z.ZodOptional<z.ZodObject<{
+             section: z.ZodOptional<z.ZodOptional<z.ZodString>>;

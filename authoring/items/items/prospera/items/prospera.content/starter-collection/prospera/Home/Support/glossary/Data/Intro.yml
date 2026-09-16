@@ -1,0 +1,51 @@
+---
+ID: "c89a1388-f779-4b50-bcb9-bc852c49eb9a"
+Parent: "7ff88223-c27f-4bbc-b38a-cf396612e105"
+Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Support/glossary/Data/Intro"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "support-glossary@1"
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "6155f5f8-f8b7-402c-a4f4-dc4c8cc812af"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "f17df403-81f4-4176-a6f7-770ecd7628cd"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: Intro
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T180938Z
+    - ID: 6c269cbb-4f09-4531-9816-b3266829b8f3
+      Hint: Body
+      Value: <p>If a product page and this glossary ever disagree, the product page plus Fees, rates and charges win. Figures remain illustrative.</p><p><small>Prospera Bank, N.A., Member FDIC. Equal Housing Lender. Annual percentage yields (APY), annual percentage rates (APR), and fees shown on this site are illustrative for a demonstration and are not live offers.</small></p>
+    - ID: 70947c7a-7248-46a5-b46e-2e22164f2d91
+      Hint: Eyebrow
+      Value: How to read this
+    - ID: 867c53fc-2dec-4d64-8175-33d33c51d5c4
+      Hint: Title
+      Value: Definitions follow the pages they appear on
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "21151d21-7a41-48bb-917d-c20e90d8ae9c"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T180945Z
+DB: master

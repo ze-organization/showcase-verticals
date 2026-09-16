@@ -1,0 +1,71 @@
+---
+ID: "af299a78-6dc8-48bf-9d39-8a1851609864"
+Parent: "9055e977-8d4e-480f-b104-cc5407181c42"
+Template: "c5983974-fd79-4b87-84dc-0496923bcf42"
+Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Asia-Pacific/Japan/Data/CardKyoto"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "destination-country-japan@1"
+- ID: bc687277-431e-48bc-97d1-cd23cf8eaf06
+  Hint: Image
+  Value: |
+    <image mediaid="{D104FFDB-63EF-449C-9050-94763008D440}" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c0ff38fa-bf64-494c-a8e8-46a53179b57a"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "f0f71e39-46a4-4eed-9e96-d8df93c6cc5a"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: CardKyoto
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1009f3bb-c85e-4932-8743-3baaa3adfd31
+      Hint: TripDuration
+      Value: 5 nights
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260904T190948Z
+    - ID: 347b30ad-a374-4293-9df0-7791081d5846
+      Hint: Label
+      Value: City break
+    - ID: 516b35d6-f27f-42a9-80c1-c0086fa366ed
+      Hint: Description
+      Value: <p>Temples at first light, then a slow walk along the canal.</p>
+    - ID: 782a7f51-6152-422c-af0a-8d2b8597af43
+      Hint: Link
+      Value: |
+        <link linktype="external" url="/Destinations/Asia-Pacific/Japan/kyoto" text="View destination" />
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "f150a38b-d836-4226-add8-d13395a59cbb"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: cb387afe-f959-438c-8fd7-9ae6d86d4587
+      Hint: Title
+      Value: Kyoto
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260904T190950Z
+    - ID: debff4c1-494c-4530-9dd2-f0389a3c3468
+      Hint: StartingPrice
+      Value: from $1,890
+    - ID: e7ffa9eb-9642-489f-b39a-a5aa9cbcd84d
+      Hint: Country
+      Value: Japan
+    - ID: f81ed8c9-1772-4786-9faf-15bb0f6d9732
+      Hint: Continent
+      Value: "Asia-Pacific"
+DB: master

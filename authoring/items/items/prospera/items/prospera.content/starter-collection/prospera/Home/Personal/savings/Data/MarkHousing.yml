@@ -1,0 +1,49 @@
+---
+ID: "1849e5c8-35a3-4f10-8e28-e5968ff2106a"
+Parent: "fbf85376-7a35-4af5-a8ab-336a224e2ddc"
+Template: "0513f0be-18f8-46e2-8df2-4ef7d35b088d"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data/MarkHousing"
+BranchID: "00000000-0000-0000-0000-000000000000"
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+  Hint: Scai Handle
+  Value: "personal-savings@1"
+- ID: 40333ae0-57fd-4e3d-9f24-a67b6dcac7b3
+  Hint: Logo
+  Value: |
+    <image mediaid="{1E9ED1B8-B1DD-4A28-B524-8B8BB45F26DC}" alt="Equal Housing Lender" />
+- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+  Hint: __Shared revision
+  Value: "c0d98512-37d9-4fd2-b020-13401adab7a4"
+Languages:
+- Language: en
+  Fields:
+  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+    Hint: __Unversioned revision
+    Value: "b75daae3-acaf-4ac5-afd4-23f641502c61"
+  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+    Hint: __Display name
+    Value: MarkHousing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      Hint: __Created
+      Value: 20260916T193346Z
+    - ID: 37095b10-d73a-463a-aaf6-9c008736e849
+      Hint: Name
+      Value: Equal Housing Lender
+    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+      Hint: __Revision
+      Value: "555a86d2-c692-4f38-9e03-4c57244201e5"
+    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+      Hint: __Updated
+      Value: 20260916T203047Z
+DB: master
