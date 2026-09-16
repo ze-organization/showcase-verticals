@@ -5,403 +5,402 @@ Template: "ff66f937-4ba1-481f-b9d9-12512dc3224b"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/quick-links-tiles/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "quick-links-tiles@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4d3334da-11a8-4ee0-bc44-c1aa12ed9439"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221905Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: كيف يمكننا مساعدتك؟
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a433f17a-e59f-4c32-aaf7-f614263dd255"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151937Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: كيف يمكننا مساعدتك؟
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4f782793-6ed8-45ea-8c1d-4d6221d66d9c"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151938Z
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221905Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "Hvordan kan vi hjælpe?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9e837e94-c077-4b83-a078-f4377f58b6ab"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221905Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "Wie können wir helfen?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a9833866-8e9f-4714-aebf-27da9d3ad570"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151937Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "Wie können wir helfen?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1cd783d8-83c0-4591-a860-fba449ab3046"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151938Z
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221905Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "How can we help?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "80d39dd9-3c8a-4a43-8458-1e2524e7e8e6"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221905Z
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221905Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "¿Cómo podemos ayudarte?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8de490de-2138-4992-98e1-ffe0fd4d7b62"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151937Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "¿Cómo podemos ayudarte?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1be86747-c95e-4009-9d8b-bbd7acbba274"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151938Z
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221905Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "Comment pouvons-nous vous aider ?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c788cfb1-236a-42e2-a25a-651cfce50085"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151937Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "Comment pouvons-nous vous aider ?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "06115963-8497-4d18-98f8-daaf1c804169"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151938Z
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221905Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: "Come possiamo aiutarti?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2e2d821b-7e65-4ae4-adee-b3ec73167eb7"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221906Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: 何かお手伝いできることはありますか？
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7ba7af5e-1512-4b52-b3cc-689b9237dc5e"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221906Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: 我们能为您做什么？
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7e61fc38-b647-465a-9cfa-345e96e3387b"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221906Z
-    - ID: 3d7b0b39-d8db-46e0-b4e1-81354e1edc65
+    - ID: "3d7b0b39-d8db-46e0-b4e1-81354e1edc65"
       Hint: Title
       Value: 我們能為您做什麼？
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "78700eed-4942-4464-a0b9-03396c993f9d"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221906Z
-DB: master

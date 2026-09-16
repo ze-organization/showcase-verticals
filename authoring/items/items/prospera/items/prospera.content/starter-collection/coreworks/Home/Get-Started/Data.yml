@@ -5,42 +5,41 @@ Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Get-Started/Data"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {2B97B80F-3E0A-4C30-BDF9-5865786BE61F}
     {6068E692-98D7-4FBF-8A2C-FF1589FCB2B8}
     {0DABC056-D566-4E4E-8F0B-229BAB119237}
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "get-started@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e5f11eed-b846-44ea-839d-0e4591ab1032"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T193250Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2c49221e-59cb-4ec9-bf4a-10df712873b9"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T193250Z
-DB: master

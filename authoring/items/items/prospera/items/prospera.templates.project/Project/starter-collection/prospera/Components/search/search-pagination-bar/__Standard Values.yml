@@ -5,51 +5,50 @@ Template: "a0efdc10-95d0-4e1f-833e-30707e98f668"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/search-pagination-bar/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "search-pagination-bar@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "73426875-3ae7-4609-a77d-f895c36c8446"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T020533Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5d2f6422-bb48-4b1a-846f-ab7a1bfb8963
+    - ID: "5d2f6422-bb48-4b1a-846f-ab7a1bfb8963"
       Hint: SummaryTemplate
       Value: "Showing {start}-{end} of {total} results"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "59844d6e-c6e3-4420-8870-3abf8349860a"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T020533Z
-    - ID: ee5acde6-ab30-4803-a948-00ae8b09cd72
+    - ID: "ee5acde6-ab30-4803-a948-00ae8b09cd72"
       Hint: PerPageLabel
       Value: Results per page
-    - ID: f4626037-c1f6-4b3b-a021-d77d5b141c6c
+    - ID: "f4626037-c1f6-4b3b-a021-d77d5b141c6c"
       Hint: NextLabel
       Value: Next
-    - ID: f49af4a3-75a1-4fe8-900a-4230f277262b
+    - ID: "f49af4a3-75a1-4fe8-900a-4230f277262b"
       Hint: SummaryEmptyTemplate
       Value: No results
-    - ID: f79359fc-0471-489a-8c8b-6e8e4c0ca634
+    - ID: "f79359fc-0471-489a-8c8b-6e8e4c0ca634"
       Hint: PreviousLabel
       Value: Previous
-DB: master

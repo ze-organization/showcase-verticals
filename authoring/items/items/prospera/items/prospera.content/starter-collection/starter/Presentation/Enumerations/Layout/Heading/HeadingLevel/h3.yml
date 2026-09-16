@@ -5,46 +5,45 @@ Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/Heading/HeadingLevel/h3"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "heading-level@1"
-- ID: 85ade29a-4684-4471-8a2d-a0937f1e85fd
+- ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: h3
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "710d60bc-e249-49ea-b765-cefe6c204fc7"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "761a1264-89c3-42a6-acf8-9d60568c0a2d"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: H3
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220107Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "aa72e8a9-b205-4fb4-9c67-c83180c10ac8"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220107Z
-DB: master

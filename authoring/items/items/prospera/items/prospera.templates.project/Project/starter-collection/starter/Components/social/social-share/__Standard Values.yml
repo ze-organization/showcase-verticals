@@ -5,39 +5,39 @@ Template: "54b28b9f-f39c-49d6-b1e0-21686b7837a0"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/social/social-share/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "social-share@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0b00ddd7-20de-4f80-b4a2-f7e246c52f5e"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222523Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ed6bd9d5-97dd-445a-b8bc-34d0eba634ba"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222523Z
-    - ID: f2fc0c28-04a3-4cf1-b311-e613b56e1533
+    - ID: "f2fc0c28-04a3-4cf1-b311-e613b56e1533"
       Hint: Platforms
       Value: |
         {1C3F8F0B-D33F-46FB-A72E-B1BD4C4EB12E}
@@ -50,4 +50,3 @@ Languages:
         {32EAEC21-B917-487C-86B0-0204EEE80905}
         {726FDA9B-A1B2-4DAE-AAD4-1C2B907509A0}
         {46A62668-C73B-4470-B32B-C0972C8A8466}
-DB: master

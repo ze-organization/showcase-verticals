@@ -5,61 +5,60 @@ Template: "f147ec3c-d11c-43db-b4a9-0b6a4092d5bb"
 Path: "/sitecore/content/starter-collection/starter/Home/Products/Data/CardHarborChair"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: products@1
-- ID: 75643a7e-7343-4479-b00d-f5328a9c66e1
+- ID: "75643a7e-7343-4479-b00d-f5328a9c66e1"
   Hint: Image1
   Value: |
     <image mediaid="{A7B94AF5-BC7D-40E5-BD34-47943A27D10D}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "656b6be7-ef40-4a36-b967-e806a0e87be6"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "c0a6215d-4f76-462d-9b21-77f9ba04eda1"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: CardHarborChair
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T224930Z
-    - ID: 7922f46b-35a5-48ea-bf00-c1dd3811d564
+    - ID: "7922f46b-35a5-48ea-bf00-c1dd3811d564"
       Hint: ShortDescription
       Value: Low seat, wide arm — built to stay in the room.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "12559926-6610-42f9-b05f-d2b208a9289f"
-    - ID: 916ee4d9-3184-4c39-9e66-8f4dd454e2a0
+    - ID: "916ee4d9-3184-4c39-9e66-8f4dd454e2a0"
       Hint: Price
       Value: 1240
-    - ID: 93807c96-1e68-4c22-a492-1e88cc61339d
+    - ID: "93807c96-1e68-4c22-a492-1e88cc61339d"
       Hint: Sku
       Value: "HLC-04"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: be4de649-d273-41a8-a5c0-132befed1747
+    - ID: "be4de649-d273-41a8-a5c0-132befed1747"
       Hint: CtaLabel
       Value: View product
-    - ID: cd89855c-1c07-4ffd-ae2c-ec66bb6eae8c
+    - ID: "cd89855c-1c07-4ffd-ae2c-ec66bb6eae8c"
       Hint: Link
       Value: |
         <link linktype="external" url="/Products/harbor-lounge-chair" text="View product" />
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260903T224932Z
-    - ID: f0a97dd0-416f-439e-9b02-0329ed00b729
+    - ID: "f0a97dd0-416f-439e-9b02-0329ed00b729"
       Hint: Title
       Value: Harbor Lounge Chair
-DB: master

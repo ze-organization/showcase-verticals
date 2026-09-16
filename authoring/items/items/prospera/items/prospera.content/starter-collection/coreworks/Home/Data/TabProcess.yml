@@ -5,48 +5,47 @@ Template: "577c9f0d-7f10-4f6b-81cf-74eb30484015"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/TabProcess"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "homepage-demo@1"
-- ID: 5ac689aa-7178-4173-bbcb-5321f4b783fc
+- ID: "5ac689aa-7178-4173-bbcb-5321f4b783fc"
   Hint: PanelImage
   Value: |
     <image mediapath="/theme/card-01.jpg" alt="Milling spindle behind a closed CNC window" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cdd708bd-23fa-4b98-95db-1c6f5cf49510"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "13cffbf6-e89b-4ef1-be9c-c9aeb5a8aa03"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: TabProcess
   Versions:
   - Version: 1
     Fields:
-    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+    - ID: "18a588ed-56c5-4392-8eb9-64d0c1651d30"
       Hint: Content
       Value: <p>The toolpath and the nest are written once for the cell. We do not invent a new line for every SKU.</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260911T230619Z
-    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+    - ID: "2a579fa5-cac3-4aaa-b34d-638adcae8184"
       Hint: Label
       Value: Process
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3091e206-77c7-44db-ae7e-e423fb9d0e4b"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T230638Z
-DB: master

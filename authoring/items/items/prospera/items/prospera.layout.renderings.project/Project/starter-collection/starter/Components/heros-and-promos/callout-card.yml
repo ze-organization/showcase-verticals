@@ -5,64 +5,63 @@ Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/heros-and-promos/callout-card"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: "callout-card"
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/4a6ce8e1a6184db586cad1f370f4ddfc.ashx?thn=1&db=master&v=2"
-- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{C19C025A-9424-4B2F-8760-E374C4E5A8B9}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "callout-card@1"
-- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
-- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{DFF8868B-25AD-4A46-B60E-D2311A68F384}"
-- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "./Data/Callouts|/sitecore/content/starter-collection/starter/Data/Callouts"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ed444ea9-6c7b-45cc-bffa-bc067b25b93a"
-- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsAutoDatasourceRendering=true
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "8bf6edcf-9d22-4842-a424-6989055d362f"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Callout Card
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215004Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2c09c9c4-48b6-4d80-8547-f86f44f4b2e6"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T231938Z
-DB: master

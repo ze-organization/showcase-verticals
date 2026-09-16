@@ -5,21 +5,20 @@ Template: "83746e54-66fe-4fd4-b79d-ff3fd4acd903"
 Path: "/sitecore/templates/Branches/Project/click-click-launch/Components/Promos/Promo Enumerations/$name/Number of Columns/5"
 BranchID: "00000000-0000-0000-0000-000000000000"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240321T021656Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4a069d2d-37fd-428a-98e7-8d51bb0cf5e0"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20240321T021656Z
-DB: master

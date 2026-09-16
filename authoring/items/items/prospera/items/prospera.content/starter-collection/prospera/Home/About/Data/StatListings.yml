@@ -5,44 +5,43 @@ Template: "16986568-7609-4150-be32-a56d42215bec"
 Path: "/sitecore/content/starter-collection/prospera/Home/About/Data/StatListings"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: about@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "004ac8d2-ddff-4aec-98f3-b6b1823ff0d0"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "799baaba-3406-46bd-9a74-94c9132fe147"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: StatListings
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T154453Z
-    - ID: 635964a3-5c19-42e7-8265-de1172d72e27
+    - ID: "635964a3-5c19-42e7-8265-de1172d72e27"
       Hint: Value
       Value: 6
-    - ID: 76ad2d9c-a29b-4a53-b22e-93210d6ee1e4
+    - ID: "76ad2d9c-a29b-4a53-b22e-93210d6ee1e4"
       Hint: Label
       Value: Typed listings
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5bee8da0-b395-494b-8bbd-f7e2bdbf261d"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T154454Z
-DB: master

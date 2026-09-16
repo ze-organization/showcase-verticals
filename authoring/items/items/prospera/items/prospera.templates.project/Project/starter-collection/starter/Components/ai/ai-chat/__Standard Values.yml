@@ -5,623 +5,622 @@ Template: "6030183c-79ba-4875-8c53-4fd5532b5130"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ai/ai-chat/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "ai-chat@1"
-- ID: d09618cc-d710-4467-886a-3c0cd7cbad9e
+- ID: "d09618cc-d710-4467-886a-3c0cd7cbad9e"
   Hint: Avatar
   Value: |
     <image mediaid="{C9BC3478-235A-43EF-8826-0A37486FABC8}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "31177be3-f70a-429d-a76e-f92fab763355"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: اطرح أسئلتك واحصل على إرشادات سريعة.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214559Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>أنت مساعد مفيد. أجب بإيجاز والتزم بالموضوع.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: المساعد
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8c7176f8-df20-45c4-9808-32d454f8c8d2"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: مرحبًا، أنا هنا للمساعدة. اسألني عن أي شيء يتعلق بالمحتوى أو المنتجات أو التنقّل.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214600Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: محادثة الذكاء الاصطناعي
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: اطرح سؤالاً حول هذه الصفحة...
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: اطرح أسئلتك واحصل على إرشادات سريعة.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151711Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>أنت مساعد مفيد. أجب بإيجاز والتزم بالموضوع.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: المساعد
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ded522ca-dfe7-48a4-b9d2-770d155798ec"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: مرحبًا، أنا هنا للمساعدة. اسألني عن أي شيء يتعلق بالمحتوى أو المنتجات أو التنقّل.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151712Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: محادثة الذكاء الاصطناعي
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: اطرح سؤالاً حول هذه الصفحة...
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Stil spørgsmål og få hurtig vejledning.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214559Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Du er en hjælpsom assistent. Svar kortfattet, og hold dig til emnet.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Assistent
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2d158a95-ed20-448b-843c-087426db6cb3"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: Hej, jeg er her for at hjælpe. Spørg mig om alt vedrørende indhold, produkter eller navigation.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214600Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: "AI-chat"
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Stil et spørgsmål om denne side...
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Stellen Sie Fragen und erhalten Sie schnelle Hilfe.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214559Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Sie sind ein hilfreicher Assistent. Antworten Sie prägnant und bleiben Sie beim Thema.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Assistent
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c986466a-3202-47a8-8e40-9a83e68daa14"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: Hallo, ich helfe Ihnen gerne. Fragen Sie mich alles zu Inhalten, Produkten oder Navigation.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214601Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: "KI-Chat"
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Stellen Sie eine Frage zu dieser Seite …
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Stellen Sie Fragen und erhalten Sie schnelle Hilfe.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151711Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Sie sind ein hilfreicher Assistent. Antworten Sie prägnant und bleiben Sie beim Thema.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Assistent
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "27aea538-a185-49fc-882b-3055235eba4a"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: Hallo, ich helfe Ihnen gerne. Fragen Sie mich alles zu Inhalten, Produkten oder Navigation.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151712Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: "KI-Chat"
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Stellen Sie eine Frage zu dieser Seite …
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Ask questions and get quick guidance.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214559Z
-    - ID: 2f0d1448-a7df-4939-8a5d-c0e4fbd51c5c
+    - ID: "2f0d1448-a7df-4939-8a5d-c0e4fbd51c5c"
       Hint: MaxTokens
       Value: 1024
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>You are a helpful assistant. Answer concisely and stay on topic.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Assistant
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6b945a20-b405-4d0d-afdf-f46f92651dd5
+    - ID: "6b945a20-b405-4d0d-afdf-f46f92651dd5"
       Hint: SearchTopK
       Value: 5
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e004e05e-01a2-4673-b358-0b1834d07d27"
-    - ID: 904db3ae-3add-4d07-80d4-6edc1a807af2
+    - ID: "904db3ae-3add-4d07-80d4-6edc1a807af2"
       Hint: Temperature
       Value: 0.7
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: Hi, I am here to help. Ask me anything about content, products, or navigation.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214559Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: AI Chat
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Ask a question about this page...
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Haz preguntas y obtén orientación rápida.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214559Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Eres un asistente útil. Responde de forma concisa y cíñete al tema.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Asistente
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b0d08a69-2935-4449-81f6-6e22ed324c91"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: Hola, estoy aquí para ayudarte. Pregúntame lo que quieras sobre contenido, productos o navegación.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214601Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: Chat con IA
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Haz una pregunta sobre esta página...
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Haz preguntas y obtén orientación rápida.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151711Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Eres un asistente útil. Responde de forma concisa y cíñete al tema.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Asistente
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e1fbdfd2-7be0-4357-8e20-807aa9ae578d"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: Hola, estoy aquí para ayudarte. Pregúntame lo que quieras sobre contenido, productos o navegación.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151712Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: Chat con IA
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Haz una pregunta sobre esta página...
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Posez vos questions et obtenez des conseils rapides.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214600Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Vous êtes un assistant utile. Répondez de manière concise et restez sur le sujet.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Assistant
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "400a1b5c-a4fb-455c-871a-8bc2de20c69d"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: "Bonjour, je suis là pour vous aider. Posez-moi toutes vos questions sur le contenu, les produits ou la navigation."
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214600Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: Chat IA
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Posez une question sur cette page...
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Posez vos questions et obtenez des conseils rapides.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151711Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Vous êtes un assistant utile. Répondez de manière concise et restez sur le sujet.</p>
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "0ba987c5-9dd1-4654-b9e2-dbea2c9470c1"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: "Bonjour, je suis là pour vous aider. Posez-moi toutes vos questions sur le contenu, les produits ou la navigation."
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151712Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: Chat IA
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Posez une question sur cette page...
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: Fai domande e ricevi indicazioni rapide.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214600Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>Sei un assistente utile. Rispondi in modo conciso e rimani in tema.</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: Assistente
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9057b56d-88f4-40bb-85f5-68efeedc0e6b"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: Ciao, sono qui per aiutarti. Chiedimi qualsiasi cosa su contenuti, prodotti o navigazione.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214600Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: Chat IA
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Fai una domanda su questa pagina...
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: 質問すればすぐに答えが得られます。
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214600Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>あなたは有能なアシスタントです。簡潔に答え、話題から逸れないでください。</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: アシスタント
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4d466907-719a-45fa-8872-836a239afa5c"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: こんにちは。お手伝いします。コンテンツや商品、ナビゲーションについて何でもお尋ねください。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214600Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: AIチャット
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: このページについて質問する...
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: 提出问题，即刻获得指引。
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214600Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>你是一个乐于助人的助手。请简洁作答并紧扣主题。</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: 助手
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3710cd40-ac58-4581-a8f3-bb190ab41c49"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: 您好，我随时为您服务。有关内容、产品或导航的任何问题都可以问我。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214600Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: AI 聊天
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: 就此页面提问...
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 161f51ba-e745-4257-aa3d-fe033f56fa27
+    - ID: "161f51ba-e745-4257-aa3d-fe033f56fa27"
       Hint: Description
       Value: 提出問題，立即獲得指引。
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214600Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 553edcfe-ac5c-47c0-86e4-eb6a996074bc
+    - ID: "553edcfe-ac5c-47c0-86e4-eb6a996074bc"
       Hint: SystemPrompt
       Value: <p>你是一個樂於助人的助手。請簡潔作答並緊扣主題。</p>
-    - ID: 5b78ea7c-848a-4392-823e-e337d0a133ea
+    - ID: "5b78ea7c-848a-4392-823e-e337d0a133ea"
       Hint: AssistantName
       Value: 助理
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "374e79f9-b174-4b28-9712-8ded7b0319ed"
-    - ID: 9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9
+    - ID: "9b4423f5-d70b-4bf6-a81d-6f8e0ed982f9"
       Hint: WelcomeMessage
       Value: 您好，我隨時為您服務。有關內容、產品或導覽的任何問題都可以問我。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214600Z
-    - ID: e94a7bb9-71fa-4110-8648-452181600406
+    - ID: "e94a7bb9-71fa-4110-8648-452181600406"
       Hint: Title
       Value: AI 聊天
-    - ID: fa7259d4-7368-4daa-aa23-d4c680013957
+    - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: 針對此頁面提問...
-DB: master

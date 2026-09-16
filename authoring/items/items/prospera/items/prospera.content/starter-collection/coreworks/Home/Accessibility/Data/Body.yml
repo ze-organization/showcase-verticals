@@ -5,48 +5,47 @@ Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Accessibility/Data/Body"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: accessibility@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "919e9f43-56b3-4a33-9d5a-f0180afcee50"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "2510aaa1-1760-4a8b-bc01-d2290c7d96d5"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Body
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T193224Z
-    - ID: 34dd4bb0-cac4-498c-93c3-30d26d09cf93
+    - ID: "34dd4bb0-cac4-498c-93c3-30d26d09cf93"
       Hint: Eyebrow
       Value: Accessibility
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8f40e92f-845e-42ef-a8c0-9abe7eb5b531"
-    - ID: a141102d-2b8d-4542-a24c-ebcb7de0b798
+    - ID: "a141102d-2b8d-4542-a24c-ebcb7de0b798"
       Hint: Body
       Value: |
         <div class="ck-content"><p>Pages use semantic headings, labeled form fields, and text alternatives on sample images. Primary actions are buttons or links with visible text — not icon-only controls in the header CTA or share menus.</p><p>If a listing or details page fails keyboard or screen-reader use, write us at <a href="~/link.aspx?_id=DDA2BED620B04E53889C9F476508B356&amp;_z=z">Contact</a>. Legal pages stay as content-blocks so the copy can be updated without a new template.</p></div>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d
+    - ID: "cc2d01d6-e2ba-4db7-94ea-0bf26fe6ef2d"
       Hint: Title
       Value: Accessible by default, not as a fork
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T214721Z
-DB: master

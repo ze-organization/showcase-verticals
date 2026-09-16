@@ -5,42 +5,41 @@ Template: "e87c1619-4b1f-425a-a957-6863db6f82cd"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/Presentation Parameters/location-search-bar Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "location-search-bar@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "aa7e3498-1859-4fe5-95de-fac01a17edfa"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 12b27ee3-0256-431d-9b3c-551ee92d33db
+    - ID: "12b27ee3-0256-431d-9b3c-551ee92d33db"
       Hint: DefaultUnit
       Value: "{42F6E7F3-9A46-44FE-A58D-1F032F77006C}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220613Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "279e7163-6082-4e6d-b06f-4276bf496e13"
-    - ID: 8f8cf8f0-94ac-43e7-a051-566bcdc79eeb
+    - ID: "8f8cf8f0-94ac-43e7-a051-566bcdc79eeb"
       Hint: RadiusOptions
       Value: 5,10,25,50,100
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220613Z
-DB: master

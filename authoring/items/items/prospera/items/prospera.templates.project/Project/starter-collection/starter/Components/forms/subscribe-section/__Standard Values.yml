@@ -5,580 +5,579 @@ Template: "ba5f96eb-c7a3-4f3c-971b-84a2d9f3e721"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/subscribe-section/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "subscribe-section@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0ebdab45-c6b2-4b93-b42e-f3ac5f4140ce"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>ابقَ على اطّلاع بآخر التحديثات.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: اسمك
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>أوافق على تلقّي رسائل البريد الإلكتروني وأدرك أنه يمكنني إلغاء الاشتراك في أي وقت.</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222844Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: اشترك في نشرتنا الإخبارية
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: الاسم
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ffa2033b-3758-494e-95fe-e3edf455938c"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222845Z
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>ابقَ على اطّلاع بآخر التحديثات.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: اسمك
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>أوافق على تلقّي رسائل البريد الإلكتروني وأدرك أنه يمكنني إلغاء الاشتراك في أي وقت.</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152028Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: اشترك في نشرتنا الإخبارية
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: الاسم
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c2acd53f-d6a3-4a93-8925-c726caf480bb"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152029Z
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Hold dig opdateret med de seneste nyheder.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Dit navn
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: "<p>Jeg accepterer at modtage e-mails og forstår, at jeg til enhver tid kan afmelde mig.</p>"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222844Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: Tilmeld dig vores nyhedsbrev
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Navn
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "0eed1a74-0074-498a-b38e-727cfc4019af"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222846Z
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Bleiben Sie mit den neuesten Updates auf dem Laufenden.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Ihr Name
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: "<p>Ich stimme dem Erhalt von E-Mails zu und weiß, dass ich mich jederzeit abmelden kann.</p>"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222844Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: Newsletter abonnieren
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Name
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b68098aa-5dc6-4966-8e97-c2291445f330"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222846Z
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Bleiben Sie mit den neuesten Updates auf dem Laufenden.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Ihr Name
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: "<p>Ich stimme dem Erhalt von E-Mails zu und weiß, dass ich mich jederzeit abmelden kann.</p>"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152029Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: Newsletter abonnieren
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9ca1f918-9ac5-40ea-9632-827ad94694d6"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152029Z
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Stay in the loop with the latest updates.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Your name
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>I agree to receive emails and understand I can unsubscribe at any time.</p>
-    - ID: 190d128a-a290-475e-8c1f-83ef2e7059bf
+    - ID: "190d128a-a290-475e-8c1f-83ef2e7059bf"
       Hint: EmailRequired
       Value: 1
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222844Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: Subscribe to our newsletter
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Name
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b66ca6ec-c30d-4796-a5a2-662439eba43e"
-    - ID: a2875391-4cde-4532-bbba-b5bd6aa8d43a
+    - ID: "a2875391-4cde-4532-bbba-b5bd6aa8d43a"
       Hint: SubmitMethod
       Value: "{A84D43EE-DECB-4CE2-AF60-F9EC6B5977FC}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cd90a4d6-6989-4355-b42c-c8a3aecb5bd2
+    - ID: "cd90a4d6-6989-4355-b42c-c8a3aecb5bd2"
       Hint: SubmitAction
       Value: /api/forms/subscribe
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222844Z
-    - ID: fb0c6768-6698-4a34-a3e5-cc0a24e81aaf
+    - ID: "fb0c6768-6698-4a34-a3e5-cc0a24e81aaf"
       Hint: ConsentRequired
       Value: 1
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Mantente al día con las últimas novedades.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Tu nombre
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>Acepto recibir correos electrónicos y entiendo que puedo cancelar la suscripción en cualquier momento.</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222844Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: Suscríbete a nuestro boletín
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Nombre
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "01ba5f63-d8f8-44aa-bccd-64c9f9579d76"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222846Z
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Mantente al día con las últimas novedades.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Tu nombre
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>Acepto recibir correos electrónicos y entiendo que puedo cancelar la suscripción en cualquier momento.</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152029Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: Suscríbete a nuestro boletín
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Nombre
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "41934fb3-ed1e-416d-adba-2d24f85bc8ae"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152029Z
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Restez informé des dernières actualités.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Votre nom
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: "<p>J'accepte de recevoir des e-mails et je comprends que je peux me désabonner à tout moment.</p>"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222845Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: "Abonnez-vous à notre newsletter"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Nom
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b2d34f0a-3add-477a-938f-7a4493ea9a28"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222845Z
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Restez informé des dernières actualités.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Votre nom
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: "<p>J'accepte de recevoir des e-mails et je comprends que je peux me désabonner à tout moment.</p>"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152029Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: "Abonnez-vous à notre newsletter"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Nom
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "14a05907-f8c7-4247-aa8d-7ff442a0cb6d"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152029Z
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>Resta aggiornato sulle ultime novità.</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: Il tuo nome
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: "<p>Acconsento a ricevere e-mail e comprendo di poter annullare l'iscrizione in qualsiasi momento.</p>"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222845Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: Iscriviti alla nostra newsletter
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: Nome
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3a7b0b6b-54d6-429e-abe0-09e823ab16d4"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222845Z
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>最新情報をお見逃しなく。</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: お名前
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>メールの受信に同意し、いつでも配信を停止できることを理解しています。</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222845Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: ニュースレターを購読する
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: 名前
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1d1d7079-1e89-428a-87ef-9616ec0f8075"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222845Z
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>及时了解最新动态。</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: 您的姓名
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>我同意接收电子邮件，并了解可以随时取消订阅。</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222845Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: 订阅我们的新闻通讯
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: 姓名
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "441f643d-d69a-4201-8338-a71713ef2f9c"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222845Z
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0498f193-2aa2-4e67-9e82-b2aca14c0d01
+    - ID: "0498f193-2aa2-4e67-9e82-b2aca14c0d01"
       Hint: Description
       Value: <p>及時掌握最新動態。</p>
-    - ID: 09c4db8a-bb95-4b54-a8a6-97f23b7866b4
+    - ID: "09c4db8a-bb95-4b54-a8a6-97f23b7866b4"
       Hint: NamePlaceholder
       Value: 您的姓名
-    - ID: 0d317cbb-faf2-4232-833c-8c72296700ff
+    - ID: "0d317cbb-faf2-4232-833c-8c72296700ff"
       Hint: ConsentText
       Value: <p>我同意接收電子郵件，並瞭解可以隨時取消訂閱。</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222845Z
-    - ID: 28185671-8000-4a6a-9196-fb93813042a2
+    - ID: "28185671-8000-4a6a-9196-fb93813042a2"
       Hint: Title
       Value: 訂閱我們的電子報
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5fbe11ea-f83c-49f0-a7d6-69475abe3eed
+    - ID: "5fbe11ea-f83c-49f0-a7d6-69475abe3eed"
       Hint: NameLabel
       Value: 姓名
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f2636599-a441-4519-85fa-b45492b98155"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222845Z
-DB: master

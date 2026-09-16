@@ -5,67 +5,66 @@ Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/cards-and-lists/articles-list-grid"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: "articles-list-grid"
-- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
   Hint: Placeholders
   Value: "{EA96EC45-B123-4CFC-9306-DEF7EBE93AB9}"
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/3ff42b0fae7c4952887661f6c2dd3039.ashx?thn=1&db=master&v=2"
-- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{5A2378A0-30AF-4B39-9326-1B3B56E3BD37}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "articles-list-grid@1"
-- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
-- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{59A05BD1-44E2-400D-8671-9683466A5B16}"
-- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "./Data/Articles|/sitecore/content/starter-collection/starter/Data/Articles"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "53a8cde9-7066-4226-94e7-bce96dc5ec6f"
-- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsAutoDatasourceRendering=true&IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "a8896cee-24e7-43be-a5a7-26a2eff89f77"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Articles List / Grid
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214805Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4e775ed6-2778-4d26-9879-5cf615c93325"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T231830Z
-DB: master

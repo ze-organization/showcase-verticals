@@ -5,491 +5,490 @@ Template: "5c6340a7-53c9-4a17-a00c-fbcbe20d6b8b"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/matrix/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {538C4EED-546E-4B62-B96A-2B68B8345EB0}
     {B4AEC6F3-1292-477D-839C-1F0A357EE6E0}
     {9CEF4176-C1D9-4B8D-A4ED-9EAA355EB73E}
     {83977F95-9A53-4646-A1BB-6F19A30171A0}
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: matrix@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fb2707f0-bcd2-4336-9685-5ff8f126ac35"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: مصفوفة المقارنة
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: الجوانب
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d106d293-ba07-43a8-903c-bc609dc43af7"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: قارن بين الأساليب عبر جوانب مشتركة.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151848Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: مصفوفة المقارنة
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: الجوانب
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e076062a-3ebb-46f7-87a1-0a93dc7e75d7"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: قارن بين الأساليب عبر جوانب مشتركة.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151849Z
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Sammenligningsmatrix
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspekter
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b22ce34f-5d75-4854-b53a-9019deb359de"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Sammenlign tilgange på tværs af fælles aspekter.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Vergleichsmatrix
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspekte
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c85c1ba6-c4a3-4046-9d8b-36be34e0e5ad"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Vergleichen Sie Ansätze anhand gemeinsamer Aspekte.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151848Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Vergleichsmatrix
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspekte
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7989df10-435a-4bf7-9fab-f2733e411caf"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Vergleichen Sie Ansätze anhand gemeinsamer Aspekte.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151849Z
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220835Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Comparison matrix
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspects
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "752d2f6d-a673-48ed-8e2e-87a5f755ab38"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Compare approaches across common aspects.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Matriz comparativa
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspectos
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "60a79472-7730-4939-ad96-3ec18b31ab4c"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Compara enfoques según aspectos comunes.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151848Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Matriz comparativa
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspectos
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a691d265-fde4-4424-b37c-5ef25eb28448"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Compara enfoques según aspectos comunes.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151849Z
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Matrice comparative
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspects
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b5a738c2-d78f-4ca8-ba5a-55bc28386169"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Comparez les approches selon des aspects communs.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151848Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Matrice comparative
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "dd000b99-23a7-413c-b7da-fa7ccefdffa9"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Comparez les approches selon des aspects communs.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151849Z
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: Matrice di confronto
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: Aspetti
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "80514766-3471-4b9d-8a18-53b9280933ac"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: Confronta gli approcci secondo aspetti comuni.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: 比較マトリクス
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: 項目
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "880bede2-44a4-4034-b009-7ee14e5a0d4a"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: 共通の観点でアプローチを比較しましょう。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: 对比矩阵
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: 对比维度
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "304be273-42e8-4a4e-a760-5d90d6c38c6c"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: 从共同维度比较各种方案。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220836Z
-    - ID: 280718dd-7286-403c-bf21-22c7a3d74506
+    - ID: "280718dd-7286-403c-bf21-22c7a3d74506"
       Hint: Title
       Value: 比較矩陣
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70b8e954-6dbf-4546-af32-d13c8f3ea6ec
+    - ID: "70b8e954-6dbf-4546-af32-d13c8f3ea6ec"
       Hint: AspectsLabel
       Value: 比較面向
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7a8e801a-cfb2-47d7-b489-9008868c5d14"
-    - ID: a47a9664-e202-4386-b29c-9278561e0f16
+    - ID: "a47a9664-e202-4386-b29c-9278561e0f16"
       Hint: Description
       Value: 從共同面向比較各種方案。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220837Z
-DB: master

@@ -5,45 +5,44 @@ Template: "51e7fb76-5722-46bf-9c01-eb3b06c3498d"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Presentation Parameters/accordion-block Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "accordion-block@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a80ce54e-d04a-40f1-9564-e0a8ec0d3d8e"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 08e0f818-2cd9-4125-8f1d-e3663b859ee2
+    - ID: "08e0f818-2cd9-4125-8f1d-e3663b859ee2"
       Hint: HeadingAnimation
       Value: "{8D2A5B10-7A18-41B0-B9E5-412DC0C92675}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T014437Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6f53e8c4-2508-4a61-b288-26eccba60e40"
-    - ID: 982f12ad-9d26-443d-a616-8ae78f6d2fcf
+    - ID: "982f12ad-9d26-443d-a616-8ae78f6d2fcf"
       Hint: HeadingSize
       Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d347c378-58fd-4694-8f80-561a86c296ed
+    - ID: "d347c378-58fd-4694-8f80-561a86c296ed"
       Hint: HeadingLayout
       Value: "{044F35F6-F95F-474D-9C9A-2FD35000E3BE}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T014437Z
-DB: master

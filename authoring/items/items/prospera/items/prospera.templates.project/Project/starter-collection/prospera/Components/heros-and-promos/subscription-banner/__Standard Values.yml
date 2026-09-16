@@ -5,63 +5,62 @@ Template: "6ca1a3fe-76ef-404b-a400-cee3327c5d7d"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/subscription-banner/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "subscription-banner@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d05d2660-8fe2-4b4f-91b3-f25aa0636c3e"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T020944Z
-    - ID: 34926770-c76c-434a-9186-c28a22070bf1
+    - ID: "34926770-c76c-434a-9186-c28a22070bf1"
       Hint: EmailLabel
       Value: Email address
-    - ID: 4711fd4e-1d4a-4192-911c-41876a24605e
+    - ID: "4711fd4e-1d4a-4192-911c-41876a24605e"
       Hint: Title
       Value: Stay in the loop
-    - ID: 4880747c-c561-4b8f-b2e4-e1bdb1076ebb
+    - ID: "4880747c-c561-4b8f-b2e4-e1bdb1076ebb"
       Hint: EmailPlaceholder
       Value: you@example.com
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 702fca0c-7419-4d45-81bd-f19e3de9fc52
+    - ID: "702fca0c-7419-4d45-81bd-f19e3de9fc52"
       Hint: SubmitMethod
       Value: "{DDCA405C-6027-46FD-A3B3-1879A6B5616D}"
-    - ID: 7909034e-e6fc-4f75-a138-dab111c17b03
+    - ID: "7909034e-e6fc-4f75-a138-dab111c17b03"
       Hint: SubmitText
       Value: Subscribe
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2345543c-81fc-4e11-9919-d064b50760ab"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c9f952d4-4b7e-4b50-aa2c-6c63c6a3a72c
+    - ID: "c9f952d4-4b7e-4b50-aa2c-6c63c6a3a72c"
       Hint: Description
       Value: <p>Get monthly updates on new components, recipes, and starter kits.</p>
-    - ID: d742cdd6-c8fd-4b69-8ece-65ce4a1731eb
+    - ID: "d742cdd6-c8fd-4b69-8ece-65ce4a1731eb"
       Hint: ErrorMessage
       Value: Something went wrong. Please try again.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T020944Z
-    - ID: eb803914-54e3-48f1-897b-445763ed21cf
+    - ID: "eb803914-54e3-48f1-897b-445763ed21cf"
       Hint: EmailRequired
       Value: 1
-    - ID: fb3a053e-032c-4fd4-a4b7-18d8141d4974
+    - ID: "fb3a053e-032c-4fd4-a4b7-18d8141d4974"
       Hint: SuccessMessage
       Value: Thanks for subscribing.
-DB: master

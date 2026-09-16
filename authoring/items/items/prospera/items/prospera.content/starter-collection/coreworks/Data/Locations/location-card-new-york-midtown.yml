@@ -5,73 +5,72 @@ Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/coreworks/Data/Locations/location-card-new-york-midtown"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 1e03276f-792d-4555-a3ca-adaaf4ed5463
+- ID: "1e03276f-792d-4555-a3ca-adaaf4ed5463"
   Hint: Image
   Value: |
     <image mediaid="{3960F8ED-ADB8-4B59-9F76-E3C7DC5205FD}" />
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "location-card-new-york-midtown@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "31fcb578-6ee5-4d33-a033-563e7767017e"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "beacc224-0dbf-431a-8090-5de931690c5c"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: New York Midtown
   Versions:
   - Version: 1
     Fields:
-    - ID: 0b9b4a25-604c-4006-b2b1-68bfe462738e
+    - ID: "0b9b4a25-604c-4006-b2b1-68bfe462738e"
       Hint: Address1
       Value: 30 Rockefeller Plaza
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T161658Z
-    - ID: 34ee6d6e-70d0-4950-b143-5d9884d83c41
+    - ID: "34ee6d6e-70d0-4950-b143-5d9884d83c41"
       Hint: Name
       Value: New York Midtown
-    - ID: 36036af4-36d1-4cbc-b6a3-9f78b3a9d33b
+    - ID: "36036af4-36d1-4cbc-b6a3-9f78b3a9d33b"
       Hint: PostalCode
       Value: 10112
-    - ID: 5ee4858a-1db5-4aac-acd1-451f14392615
+    - ID: "5ee4858a-1db5-4aac-acd1-451f14392615"
       Hint: Hours
       Value: "<p>Monday–Friday 9:00–17:00<br/>Saturday 10:00–14:00<br/>Sunday closed</p>"
-    - ID: 65a19ce0-7dd1-412b-a8f6-af16466f5d58
+    - ID: "65a19ce0-7dd1-412b-a8f6-af16466f5d58"
       Hint: Link
       Value: |
         <link linktype="external" url="/Locations/north-america/new-york-midtown" text="View location" />
-    - ID: 786f950c-e20c-428d-b53a-c42352db9b5f
+    - ID: "786f950c-e20c-428d-b53a-c42352db9b5f"
       Hint: Phone
       Value: +1 212 555 0148
-    - ID: 861c8ba7-456f-4e1b-9789-5d96d7020bc6
+    - ID: "861c8ba7-456f-4e1b-9789-5d96d7020bc6"
       Hint: Longitude
       Value: "-73.9787"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e4625fc7-a6c1-4661-a8f8-1ce6d92bf560"
-    - ID: a7862ea8-35a9-475c-99f0-396da6b1af08
+    - ID: "a7862ea8-35a9-475c-99f0-396da6b1af08"
       Hint: Email
       Value: newyork@example.com
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215101Z
-    - ID: e965440a-c0c6-4b8d-ac67-b5d605585770
+    - ID: "e965440a-c0c6-4b8d-ac67-b5d605585770"
       Hint: City
       Value: New York
-    - ID: fc237e6a-07f8-40e4-9a84-81030354c594
+    - ID: "fc237e6a-07f8-40e4-9a84-81030354c594"
       Hint: Latitude
       Value: 40.7587
-DB: master

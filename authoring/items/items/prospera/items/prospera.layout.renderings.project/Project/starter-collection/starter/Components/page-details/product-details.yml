@@ -5,71 +5,70 @@ Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/page-details/product-details"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: "product-details"
-- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
   Hint: Placeholders
   Value: |
     {9FC74D60-27D4-4245-9FFA-B87697F84540}
     {54C68E03-1B67-4296-8BF9-9C9A2A10CEB2}
     {57E7550F-955C-4EE2-9372-BB806248724D}
     {3DE0234B-3FD9-466C-91F0-34C097014DAE}
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/7cb408f1e87140e8b57dfd78fe451b08.ashx?thn=1&db=master&v=2"
-- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{1AE3C3CE-C59A-494E-8BAE-C50CC7C8B27E}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "product-details@1"
-- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
-- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{A8907B1E-5F56-46C8-B437-009422E10365}"
-- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "./Data/Product Details|/sitecore/content/starter-collection/starter/Data/Product Details"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b114068e-54be-47e6-bd4b-b4beba33e19f"
-- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "b1fbe00a-314c-4f1b-849f-4d5ae6743eb8"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Product Details
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260908T182044Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9603edd4-9743-4406-801d-9407d3fe2036"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T232140Z
-DB: master

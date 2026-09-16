@@ -5,69 +5,68 @@ Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/page-details/article-details"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: "article-details"
-- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
   Hint: Placeholders
   Value: |
     {939F0D70-6741-4A22-8535-4B3E9DDFD65A}
     {5D8562E9-B972-4A2D-9A48-1A7688A73DDC}
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/dfa07ca2ee264e638c912245e70a1a11.ashx?thn=1&db=master&v=2"
-- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{EC9ACD7F-C770-47B9-B051-C67C8B56AE12}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "article-details@1"
-- ID: 7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
-- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{DB19F8EB-20C2-4F1A-9BF2-E668088E25FC}"
-- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "./Data/Article Details|/sitecore/content/starter-collection/prospera/Data/Article Details"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9dac791b-ab7e-44dc-bdbb-b865cd40bf19"
-- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "88ef771a-c64b-42e4-b72a-a6323baeaaed"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Article Details
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T013643Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9053a5bb-a9bd-4de9-b9bd-6f895b04a5ac"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T013644Z
-DB: master

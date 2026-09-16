@@ -5,60 +5,59 @@ Template: "d7085589-cfb8-49e2-9db6-693bc75890e5"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/location-card/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "location-card@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2e7a2696-e28f-4cdf-b461-ec844ab3bd27"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1574c6fc-bdd6-423c-9a55-ca6feff3a57f
+    - ID: "1574c6fc-bdd6-423c-9a55-ca6feff3a57f"
       Hint: PostalCode
       Value: 11201
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T015040Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 7f9e378f-5e5e-44aa-917c-69c31b73388d
+    - ID: "7f9e378f-5e5e-44aa-917c-69c31b73388d"
       Hint: Longitude
       Value: "-73.9903"
-    - ID: 87e8793f-3842-4c5c-ab2a-ce860f630646
+    - ID: "87e8793f-3842-4c5c-ab2a-ce860f630646"
       Hint: Latitude
       Value: 40.6943
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "10483947-37de-4c88-a027-74277dcf9672"
-    - ID: 99844067-9947-4734-9767-c0ab6cf7d7b5
+    - ID: "99844067-9947-4734-9767-c0ab6cf7d7b5"
       Hint: Country
       Value: United States
-    - ID: b9c7ce64-f3b6-462d-a701-9eb60d23b678
+    - ID: "b9c7ce64-f3b6-462d-a701-9eb60d23b678"
       Hint: City
       Value: Brooklyn
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T015041Z
-    - ID: e0f4c8ff-fcd6-4d57-b5b1-82df7ee361b4
+    - ID: "e0f4c8ff-fcd6-4d57-b5b1-82df7ee361b4"
       Hint: State
       Value: NY
-    - ID: f887a107-69a1-41d1-8240-b4a271f68d0b
+    - ID: "f887a107-69a1-41d1-8240-b4a271f68d0b"
       Hint: Name
       Value: Downtown branch
-    - ID: f8f69634-036e-4d6e-9972-aee8043ca69b
+    - ID: "f8f69634-036e-4d6e-9972-aee8043ca69b"
       Hint: Address1
       Value: 123 Court Street
-DB: master

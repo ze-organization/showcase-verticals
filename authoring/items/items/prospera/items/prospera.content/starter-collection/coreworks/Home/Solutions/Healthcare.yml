@@ -5,35 +5,35 @@ Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Solutions/Healthcare"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{19641C92-913C-47E5-85DB-8EC3B4873682}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "solutions-healthcare@1"
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{552F367A-5502-4C4A-8B32-E5F1E3A750C9}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2cfaab75-b27e-4a17-9625-3e2bd79bde05"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "7cc49c55-cbc5-4268-9be5-01784aff2c26"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Healthcare
   Versions:
   - Version: 1
     Fields:
-    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
         <r xmlns:p="p" xmlns:s="s"
@@ -75,41 +75,40 @@ Languages:
               s:par="ImagePosition=%7B40347FB7-7E75-4F26-9465-8068F6F8C6A8%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BEC0FE324-2E57-4514-8EBC-110E82FB7EB7%7D" />
           </d>
         </r>
-    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+    - ID: "1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da"
       Hint: Title
       Value: Healthcare
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T154614Z
-    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+    - ID: "3dd13bc9-0029-47ac-9c14-9e4cdf07417f"
       Hint: SitemapPriority
       Value: 0.7
-    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+    - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
       Value: "Healthcare hub: people, articles, and services as insertable types."
-    - ID: 4926c0f4-360a-4c27-ae1e-2353db686a6f
+    - ID: "4926c0f4-360a-4c27-ae1e-2353db686a6f"
       Hint: ChangeFrequency
       Value: monthly
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: healthcare
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "126268b6-9a8a-4c03-ab67-20cf05ef8de1"
-    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+    - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
-    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+    - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
       Value: Healthcare — Showcase
-    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+    - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Solutions
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215059Z
-DB: master

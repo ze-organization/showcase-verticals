@@ -5,10 +5,10 @@ Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/layout/row-splitter"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 037fe404-dd19-4bf7-8e30-4dadf68b27b0
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: "row-splitter"
-- ID: 069a8361-b1cd-437c-8c32-a3be78941446
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
   Hint: Placeholders
   Value: |
     {28D448AB-61C3-4596-9CD4-ECD7F56AF3A1}
@@ -19,52 +19,51 @@ SharedFields:
     {0214ED11-A337-4FB4-B2CF-AFBAA02E2565}
     {A27A9F24-0969-4011-9EF2-4F99C0FAD777}
     {16F29B1B-C67A-430C-A304-F4136D854CD3}
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/c844b72c77bd4ca5ad2c860579e1309b.ashx?thn=1&db=master&v=2"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "row-splitter@1"
-- ID: a77e8568-1ab3-44f1-a664-b7c37ec7810d
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{BAB81A84-9647-4456-AB5B-541196035D16}"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ee3a862c-d332-4a01-bf17-9dbfa09d1f52"
-- ID: e829c217-5e94-4306-9c48-2634b094fdc2
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "375ef521-b3ab-4d57-a819-8032f99bf7b5"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Row Splitter
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222202Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d0ee5df1-292d-4741-9ff8-70d0e6c6531c"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T232007Z
-DB: master

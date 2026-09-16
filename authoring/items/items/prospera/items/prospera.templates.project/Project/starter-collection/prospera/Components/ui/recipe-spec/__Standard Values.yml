@@ -5,69 +5,68 @@ Template: "53b661fe-6620-4717-a956-fa4880c2d965"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/recipe-spec/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "recipe-spec@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cd90a1de-61e2-4a12-b3d0-e9cd82327b5f"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 13f21fd2-7beb-4981-917b-0879f25eea7e
+    - ID: "13f21fd2-7beb-4981-917b-0879f25eea7e"
       Hint: Title
       Value: Citrus Highball
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T020326Z
-    - ID: 30a2e1f3-76a2-4b20-9b34-514ec9ab9b54
+    - ID: "30a2e1f3-76a2-4b20-9b34-514ec9ab9b54"
       Hint: Serves
       Value: 1
-    - ID: 45e6ba74-65b4-4d8f-8a11-815f481b4e48
+    - ID: "45e6ba74-65b4-4d8f-8a11-815f481b4e48"
       Hint: Garnish
       Value: Lime wedge
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5b0dc740-e498-4332-812b-554cc54be8c3
+    - ID: "5b0dc740-e498-4332-812b-554cc54be8c3"
       Hint: Difficulty
       Value: Easy
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 74587411-020b-462d-94ac-4921b1833895
+    - ID: "74587411-020b-462d-94ac-4921b1833895"
       Hint: Equipment
       Value: |
         Highball glass
         Bar spoon
         Jigger
-    - ID: 76af62f1-9d3f-4350-9da1-bbc95982f233
+    - ID: "76af62f1-9d3f-4350-9da1-bbc95982f233"
       Hint: Method
       Value: <p>Fill the glass with ice. Add the spirit, top with sparkling water, and stir once. Squeeze in the lime wedges and serve.</p>
-    - ID: 8446a34b-f446-4b4a-975b-97b3174a4918
+    - ID: "8446a34b-f446-4b4a-975b-97b3174a4918"
       Hint: GlassType
       Value: Highball
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "0b797fcb-a5d8-4043-8792-dfe0187f9eeb"
-    - ID: b8d952b2-99ba-4977-8cf2-c3abb0d6d248
+    - ID: "b8d952b2-99ba-4977-8cf2-c3abb0d6d248"
       Hint: PrepTimeMinutes
       Value: 5
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T020326Z
-    - ID: ed1a9f8f-6f07-48ea-b13e-413e9787baf0
+    - ID: "ed1a9f8f-6f07-48ea-b13e-413e9787baf0"
       Hint: Ingredients
       Value: |
         50 ml citrus spirit
         100 ml sparkling water
         2 lime wedges
-DB: master

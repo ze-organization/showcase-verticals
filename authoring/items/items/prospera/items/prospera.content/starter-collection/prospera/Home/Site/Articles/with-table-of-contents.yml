@@ -5,78 +5,77 @@ Template: "b21f64d6-57d8-471f-95de-d737b0fab9e5"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/with-table-of-contents"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 03614ba4-2f0a-44f7-bd37-10d66ed70fc2
+- ID: "03614ba4-2f0a-44f7-bd37-10d66ed70fc2"
   Hint: Image
   Value: |
     <image mediaid="{F7C9B631-EF3E-4FEA-A630-E6670BE37B7D}" />
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{025DE7CB-A07F-48FE-9BC9-BAC77AAA4F95}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "article-with-toc-sample@1"
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{255BE965-DADC-4D14-A113-EC89FB600C26}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e1adaa48-4b25-4044-aa58-9c4b6ab90114"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "c783a29c-f669-43bb-a7cb-f9b61c40cabc"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: "Headings that navigate: Article with a table of contents"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1a8d3a0f-1565-43fb-aafb-2ab123971b53
+    - ID: "1a8d3a0f-1565-43fb-aafb-2ab123971b53"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T211637Z
-    - ID: 37e8d3e8-3cf8-4dac-b01c-83a06766c4ec
+    - ID: "37e8d3e8-3cf8-4dac-b01c-83a06766c4ec"
       Hint: ShortDescription
       Value: A second Article type exists because the default layout is different — a table of contents built from the body headings — not because the SEO fields changed.
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "with-table-of-contents"
-    - ID: 4e7826b0-b57c-4103-a4cd-a37f46e2d868
+    - ID: "4e7826b0-b57c-4103-a4cd-a37f46e2d868"
       Hint: JsonLd
       Value: |
         {"@context":"https://schema.org","@type":"Article","headline":"Headings that navigate: Article with a table of contents","author":{"@type":"Person","name":"Maya Chen"}}
-    - ID: 6b3572e7-e170-4677-b65f-13cc5cef76f9
+    - ID: "6b3572e7-e170-4677-b65f-13cc5cef76f9"
       Hint: Eyebrow
       Value: Authoring
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ef8e7add-b644-461b-8298-f9f57d046699"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c6a80648-d02d-47cb-97a8-99c14ea1a8b6
+    - ID: "c6a80648-d02d-47cb-97a8-99c14ea1a8b6"
       Hint: Title
       Value: "Headings that navigate: Article with a table of contents"
-    - ID: cd287e6b-7bdc-48d1-9c82-f6646a9682c8
+    - ID: "cd287e6b-7bdc-48d1-9c82-f6646a9682c8"
       Hint: Content
       Value: |
         <div class="ck-content"><p>Most new stories should still be <strong>Insert → Article</strong>. Add this type when the page should already ship a table of contents beside the body, without authors placing extra renderings.</p><h2>What the table of contents reads</h2><p>Entries come from the page <code>Content</code> field only. Headings in dropped placeholder blocks are ignored. Paragraphs never appear in the list.</p><h3>Heading levels</h3><p>Both <code>h2</code> and <code>h3</code> become entries, in document order. Nested <code>h3</code> rows indent under the previous section so the outline stays readable.</p><h3>Click, do not hash</h3><p>Choosing a row scrolls the matching heading into view. The URL does not gain a fragment the address bar stays the page path.</p><h2>Same shell as Article</h2><p>Lead image, share rail, title, dek, and the two drop zones stay. The only layout change is the body: table of contents on the left, rich text on the right. On small screens the list stacks above the body.</p><h2>When to insert this type</h2><p>Use <strong>Article with Table of Contents</strong> for long editorial pieces whose body is already structured with headings. Short news or promo stories can stay on Article.</p><h3>Insert under Articles</h3><p>The listing is still a marketing Page. After this type is pushed, set the listing item’s insert options so authors see both Article and Article with Table of Contents — not a blank Page.</p></div>
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260915T232901Z
-    - ID: da2aa3ab-367e-4ac2-9971-4746eb2a88ee
+    - ID: "da2aa3ab-367e-4ac2-9971-4746eb2a88ee"
       Hint: MetaDescription
       Value: "A second Article insert type for long pieces: table of contents from Content headings, same fields and drop zones as Article."
-    - ID: ebb1653d-425e-4794-bb20-735adb953cba
+    - ID: "ebb1653d-425e-4794-bb20-735adb953cba"
       Hint: MetaTitle
       Value: Headings that navigate — Showcase
-DB: master

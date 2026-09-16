@@ -5,50 +5,49 @@ Template: "62ca7490-fa37-462d-b1e5-cf9f37557a37"
 Path: "/sitecore/content/starter-collection/prospera/Data/Rankings/ranking-row-branches"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "ranking-row-branches@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8cd29ebb-a83c-49cf-be50-9089943cd427"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "d6f3ec05-38a7-49a1-bf57-42647df040f6"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Branches
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T165908Z
-    - ID: 2650038d-ecd1-4d26-8136-02d4caae7626
+    - ID: "2650038d-ecd1-4d26-8136-02d4caae7626"
       Hint: SecondaryLabel
       Value: In person
-    - ID: 3afc6125-7ecf-450f-9c6f-d3083ed9afcd
+    - ID: "3afc6125-7ecf-450f-9c6f-d3083ed9afcd"
       Hint: Stat1
       Value: 4.8
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7e4f9538-ad5c-4fc6-b48d-33c2d03e48e9"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d87c4430-d8fa-46bd-b531-31ea6f96cdcc
+    - ID: "d87c4430-d8fa-46bd-b531-31ea6f96cdcc"
       Hint: Name
       Value: Branches
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T165908Z
-    - ID: de2460d5-3f04-4d65-a361-82a9b1eb546e
+    - ID: "de2460d5-3f04-4d65-a361-82a9b1eb546e"
       Hint: Total
       Value: 4.8
-DB: master

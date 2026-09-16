@@ -5,52 +5,51 @@ Template: "fa4f2d72-d19e-4a83-8263-e1ac7eade403"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/matrix/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {978BF33B-D655-445F-A65D-8FFD045CE4AE}
     {D2E4180D-4283-4A88-AFB2-BF291D73DC35}
     {03D65600-0287-4CA4-B34B-FA9BCC30CCF6}
     {1C554FCD-A3D7-4732-B9B6-8F453A49E503}
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: matrix@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5f04c069-4df8-49a2-a660-dfd33519f4ef"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 21a944af-bd8e-45c7-b068-72f4aaf59ad9
+    - ID: "21a944af-bd8e-45c7-b068-72f4aaf59ad9"
       Hint: AspectsLabel
       Value: Aspects
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T015304Z
-    - ID: 2a71dc09-56b6-4645-a4f2-cf4b19c5ca0c
+    - ID: "2a71dc09-56b6-4645-a4f2-cf4b19c5ca0c"
       Hint: Description
       Value: Compare approaches across common aspects.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 73b2000a-aa3a-4298-b911-12fd4e916084
+    - ID: "73b2000a-aa3a-4298-b911-12fd4e916084"
       Hint: Title
       Value: Comparison matrix
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "42020bef-4628-46fc-bc25-85420edd12ca"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T015305Z
-DB: master

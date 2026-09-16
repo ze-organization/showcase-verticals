@@ -5,72 +5,71 @@ Template: "d3f30f92-67ac-486c-9d20-ac0b52c8cf51"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/layout/Presentation Parameters/column-splitter Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "column-splitter@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7dddf36e-29b0-4648-83ae-7327a81179b4"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 070e12d6-a220-4e21-914c-2a5d269efa42
+    - ID: "070e12d6-a220-4e21-914c-2a5d269efa42"
       Hint: TabletColumns
       Value: "{A799B290-78FE-463A-9C65-B82C40A9C4D9}"
-    - ID: 07374825-93ea-4b65-b7cd-1516d26352c2
+    - ID: "07374825-93ea-4b65-b7cd-1516d26352c2"
       Hint: ColorScheme
       Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
-    - ID: 078453b9-18b9-452c-bad8-3e4e18f19697
+    - ID: "078453b9-18b9-452c-bad8-3e4e18f19697"
       Hint: LaptopColumns
       Value: "{9437B140-9D2C-424D-82BA-0F2C69CCD969}"
-    - ID: 101a2637-6b33-4a9d-aa63-d147e40ff547
+    - ID: "101a2637-6b33-4a9d-aa63-d147e40ff547"
       Hint: Distribution
       Value: "{E3D65736-4E8E-448A-9084-3C41E32FCA1B}"
-    - ID: 23605eab-7207-4edf-84a5-256f3ac56455
+    - ID: "23605eab-7207-4edf-84a5-256f3ac56455"
       Hint: Position
       Value: "{31BD6CC7-658A-49FF-AAC0-69CC3198D414}"
-    - ID: 2411796c-7105-4852-90f3-eacf3b21c7e8
+    - ID: "2411796c-7105-4852-90f3-eacf3b21c7e8"
       Hint: ColumnCount
       Value: "{9E1654B8-93D6-4609-9309-EFCB850D9D71}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T014110Z
-    - ID: 4d8241b3-1a10-4066-909e-e5addb07a59d
+    - ID: "4d8241b3-1a10-4066-909e-e5addb07a59d"
       Hint: BackgroundIntensity
       Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6dcd6e40-1e18-4a2a-981c-9ee73293d556
+    - ID: "6dcd6e40-1e18-4a2a-981c-9ee73293d556"
       Hint: MaxWidth
       Value: "{C368140B-9ED5-41A5-BD5D-8885DA08FDDA}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "638418ea-59c7-49d8-aee4-721f5e863f74"
-    - ID: 9de22d59-3912-464a-92e4-0008a01a74f4
+    - ID: "9de22d59-3912-464a-92e4-0008a01a74f4"
       Hint: PaddingY
       Value: "{76DA7548-ADA6-412C-A20B-8829D7A32B66}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d0e36731-5494-4d0c-bd42-eb3fa1098ebc
+    - ID: "d0e36731-5494-4d0c-bd42-eb3fa1098ebc"
       Hint: Gap
       Value: "{404B14BD-C15A-4DD1-98DF-E03E723C86BC}"
-    - ID: d3ef57a7-8672-4bf7-92b9-ec62a608caec
+    - ID: "d3ef57a7-8672-4bf7-92b9-ec62a608caec"
       Hint: MobileColumns
       Value: "{254A296A-55ED-4759-92C3-C04C47B99271}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T014110Z
-    - ID: fc40ce4b-8e57-4278-ac82-ac9d0b59cb49
+    - ID: "fc40ce4b-8e57-4278-ac82-ac9d0b59cb49"
       Hint: Alignment
       Value: "{A5F5DBAF-9EEC-41E9-B261-CC27F2906111}"
-DB: master

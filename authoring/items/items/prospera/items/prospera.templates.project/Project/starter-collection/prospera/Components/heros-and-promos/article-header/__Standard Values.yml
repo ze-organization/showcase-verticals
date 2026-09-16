@@ -5,45 +5,44 @@ Template: "f4920152-0d72-40a6-9531-1df7c02f3703"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/article-header/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "article-header@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d68fcf06-3b60-404e-9c01-6c7c0200bf2c"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 07dd5ec3-2b15-4a6b-82fd-1774300cbb57
+    - ID: "07dd5ec3-2b15-4a6b-82fd-1774300cbb57"
       Hint: Created
       Value: March 15, 2026
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T013814Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 7ee9a9c1-e23b-4707-b9e0-9d4d44c5eebe
+    - ID: "7ee9a9c1-e23b-4707-b9e0-9d4d44c5eebe"
       Hint: Subtitle
       Value: <p>A deep dive into the architecture and design decisions behind the launch.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "34784632-fa02-4308-b550-d05b507fde44"
-    - ID: a5baee60-6f8d-4b98-b6d5-1b0b741c626f
+    - ID: "a5baee60-6f8d-4b98-b6d5-1b0b741c626f"
       Hint: Title
       Value: How we built the new experience platform
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T013815Z
-DB: master

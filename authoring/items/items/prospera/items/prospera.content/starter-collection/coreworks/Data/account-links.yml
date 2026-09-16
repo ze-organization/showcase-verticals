@@ -5,47 +5,46 @@ Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
 Path: "/sitecore/content/starter-collection/coreworks/Data/account-links"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "account-links-content@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "39b36a84-1bfd-404b-9a15-579a446010c5"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "33724b07-7fa4-440c-8747-c63d5d557265"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Account Links
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223440Z
-    - ID: 7d07c454-b927-452a-860f-85a087e8b176
+    - ID: "7d07c454-b927-452a-860f-85a087e8b176"
       Hint: Items
       Value: |
         {9061BD1D-130C-4ED9-AD47-B51177CE0B9D}
         {E2A4A43F-D5D7-4278-9128-9553001B829F}
         {784B746E-96C0-43D2-BB58-246A518613E2}
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f212b643-d194-4640-8fdf-cc0dce6f86b8"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T214823Z
-    - ID: de709d94-2f09-4fa0-b6d8-07c91fd864a8
+    - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: Your account
-DB: master

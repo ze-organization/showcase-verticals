@@ -5,43 +5,42 @@ Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/destination-details-aside"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "destination-details-aside-{*}"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9617f2a8-3fc6-437a-9eff-bc6dc7779a2a"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "394b3608-f6af-42d4-a128-5ef72d81fb68"
-  - ID: 87871ff5-1965-46d6-884f-01d6a0b9c4c1
+  - ID: "87871ff5-1965-46d6-884f-01d6a0b9c4c1"
     Hint: Description
     Value: <p>Aside slot beside the destination body.</p>
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T232559Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2d11abdf-de1e-4a19-8417-aaa59a545c91"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260903T232559Z
-DB: master

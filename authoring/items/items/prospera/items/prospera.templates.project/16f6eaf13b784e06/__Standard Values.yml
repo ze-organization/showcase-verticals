@@ -5,63 +5,62 @@ Template: "0ca8b175-5470-4ae2-b33b-6a13f9e2a967"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/Presentation Parameters/countdown-banner Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "countdown-banner@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d74870f1-2e63-4251-8bfa-b12ace0f72d0"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215409Z
-    - ID: 2cf50bd7-0f97-4805-a5a9-62df96688de2
+    - ID: "2cf50bd7-0f97-4805-a5a9-62df96688de2"
       Hint: Alignment
       Value: "{FA719AD0-E923-41E9-9657-A161AE28317A}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 70250012-8e7c-4d42-bde2-1ca0f7092301
+    - ID: "70250012-8e7c-4d42-bde2-1ca0f7092301"
       Hint: ColorScheme
       Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "bba1e702-5e95-444e-bd00-0eb2b031819c"
-    - ID: 9377edfe-2a7e-4811-95b8-a479d2200a72
+    - ID: "9377edfe-2a7e-4811-95b8-a479d2200a72"
       Hint: CtaColorScheme
       Value: "{DD8BDA7A-EA00-4268-9E1D-6BAB283D7E51}"
-    - ID: 9764dcb5-bd6e-4600-97dc-48a093a6f992
+    - ID: "9764dcb5-bd6e-4600-97dc-48a093a6f992"
       Hint: BackgroundPosition
       Value: "{54F4B6DA-A7A5-4E54-9240-613E1F5D9401}"
-    - ID: 9e82df27-d4ed-453a-9487-79437ed98167
+    - ID: "9e82df27-d4ed-453a-9487-79437ed98167"
       Hint: BackgroundScrim
       Value: "{0743AD31-06DB-417C-971B-BC7DBCFB14BB}"
-    - ID: b70676d0-d1ec-427b-94c6-535cee0eb973
+    - ID: "b70676d0-d1ec-427b-94c6-535cee0eb973"
       Hint: CtaSize
       Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
-    - ID: b714fd22-32a0-442a-90ae-a7213b1bdae9
+    - ID: "b714fd22-32a0-442a-90ae-a7213b1bdae9"
       Hint: CtaVariant
       Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c5ae4317-2dc6-49fe-82db-0ad8869ab996
+    - ID: "c5ae4317-2dc6-49fe-82db-0ad8869ab996"
       Hint: CtaIconName
       Value: "{24583023-13E0-4CF9-A1C2-8E0C23AA9CB2}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260814T203503Z
-    - ID: f89a6771-a216-44af-81a6-573eb5aab8ea
+    - ID: "f89a6771-a216-44af-81a6-573eb5aab8ea"
       Hint: Size
       Value: "{2C0BB40D-9B7D-404E-A2C6-B84ED0ED9E12}"
-DB: master

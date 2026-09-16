@@ -5,84 +5,83 @@ Template: "59a05bd1-44e2-400d-8671-9683466a5b16"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/articles-list-grid Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "articles-list-grid@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2cf8ae32-5b87-4f4d-b19c-8430e3c02ee3"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214804Z
-    - ID: 27fe3433-1a20-4eda-8537-7ac9ed1aef9d
+    - ID: "27fe3433-1a20-4eda-8537-7ac9ed1aef9d"
       Hint: PaddingY
       Value: "{9C4BA83F-F8C1-4280-983C-92B215E0FA79}"
-    - ID: 2e58515f-69dc-4a40-921a-8e0d25dd0ead
+    - ID: "2e58515f-69dc-4a40-921a-8e0d25dd0ead"
       Hint: HeadingLayout
       Value: "{C0A0424D-04F3-458F-B709-3E3200CB325F}"
-    - ID: 36a685f2-c18c-427f-a6f6-e63808c82806
+    - ID: "36a685f2-c18c-427f-a6f6-e63808c82806"
       Hint: HeadingSize
       Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
-    - ID: 370b6bdd-76a0-47ad-b636-11a726bfbe94
+    - ID: "370b6bdd-76a0-47ad-b636-11a726bfbe94"
       Hint: Padding
       Value: "{C31EF12D-8559-440F-A19A-E87977B9933A}"
-    - ID: 44e30333-79d4-4349-a2b8-ffcce0dc74f1
+    - ID: "44e30333-79d4-4349-a2b8-ffcce0dc74f1"
       Hint: CardVariant
       Value: "{319B6E8B-790A-481E-A152-FA085A40BCD9}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 55b248dd-9361-4bcd-9511-e7c8ca6f0566
+    - ID: "55b248dd-9361-4bcd-9511-e7c8ca6f0566"
       Hint: ColorScheme
       Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
-    - ID: 5a2ee0e3-d697-4ab9-895e-08db252a6b6f
+    - ID: "5a2ee0e3-d697-4ab9-895e-08db252a6b6f"
       Hint: BackgroundIntensity
       Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6fd659e4-1563-4c4e-9015-6a19577056d9
+    - ID: "6fd659e4-1563-4c4e-9015-6a19577056d9"
       Hint: ColumnsMd
       Value: "{46628FF0-524A-4C99-9F63-2CE431C70F3B}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e7a98c8f-51ae-4994-998b-ce60bd3d0d0f"
-    - ID: 9b8c609a-3d16-426c-9542-e82670c9a7db
+    - ID: "9b8c609a-3d16-426c-9542-e82670c9a7db"
       Hint: FeaturedFirst
       Value: "{8DE88818-5607-4567-9396-ACB90E781267}"
-    - ID: a596dcce-ffe9-4ab4-96ad-48a932ede6f1
+    - ID: "a596dcce-ffe9-4ab4-96ad-48a932ede6f1"
       Hint: ColumnsLg
       Value: "{563D8E09-EF56-4510-B5AD-6E627A81281A}"
-    - ID: b0eb9295-330e-4786-97c5-ffedd43d8a9b
+    - ID: "b0eb9295-330e-4786-97c5-ffedd43d8a9b"
       Hint: MaxWidth
       Value: "{1D56C84F-0F79-4EEB-8796-37D00CFA6462}"
-    - ID: b37dbdb1-9dc7-4c39-9b6d-055e42eb8160
+    - ID: "b37dbdb1-9dc7-4c39-9b6d-055e42eb8160"
       Hint: GridPattern
       Value: "{C34E2B85-2122-42FA-99F1-FAC9D14957AD}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c8dd4095-a166-4de7-99db-41c52a9d63e9
+    - ID: "c8dd4095-a166-4de7-99db-41c52a9d63e9"
       Hint: Gap
       Value: "{03AF4E38-CA6D-427C-99E1-D5074C15253F}"
-    - ID: d7c2952b-c32e-4f7a-bede-6e3a358807cc
+    - ID: "d7c2952b-c32e-4f7a-bede-6e3a358807cc"
       Hint: Elevation
       Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
-    - ID: d84ad22b-8dd8-4f7c-94b2-7b97cc039e6f
+    - ID: "d84ad22b-8dd8-4f7c-94b2-7b97cc039e6f"
       Hint: OverlapTop
       Value: "{1E496A19-90A5-4308-8064-BB707683C7BC}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260814T203451Z
-    - ID: dd130f97-f10c-479e-9d48-90dde5e9d151
+    - ID: "dd130f97-f10c-479e-9d48-90dde5e9d151"
       Hint: ColumnsSm
       Value: "{59FD4B47-039A-417B-842E-51CAC34AE3DB}"
-DB: master

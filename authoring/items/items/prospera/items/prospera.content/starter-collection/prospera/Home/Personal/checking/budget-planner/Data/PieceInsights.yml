@@ -5,51 +5,50 @@ Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/budget-planner/Data/PieceInsights"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "personal-checking-budget-planner@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d71bcb15-9870-45a7-88ad-2641676edeff"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "f01ae375-f450-4b0a-acba-596f7cf290fe"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: PieceInsights
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T193259Z
-    - ID: 3749bc4d-27b2-4f03-a4b2-3fa6caf890d1
+    - ID: "3749bc4d-27b2-4f03-a4b2-3fa6caf890d1"
       Hint: Description
       Value: <p>See last month grouped by merchant after it has moved.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "44cf00bf-29cd-483a-b31f-5a6edcace374"
-    - ID: b376f791-9d7c-43e4-8b36-51a958eb4c7a
+    - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Insights
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T193301Z
-    - ID: eeafe96f-4d61-4e1d-a55f-2a28005cdeb8
+    - ID: "eeafe96f-4d61-4e1d-a55f-2a28005cdeb8"
       Hint: IconName
       Value: chart
-    - ID: f5712a6f-019b-408a-9f92-1445842c3d8e
+    - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
         <link linktype="external" url="/Features/spending-insights" text="Spending insights" />
-DB: master

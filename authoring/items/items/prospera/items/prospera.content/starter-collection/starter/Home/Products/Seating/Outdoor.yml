@@ -5,39 +5,39 @@ Template: "1f218c4d-98ed-49b2-9eff-486b7e539d31"
 Path: "/sitecore/content/starter-collection/starter/Home/Products/Seating/Outdoor"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E3C873F7-E58D-4854-8C33-301E6A7661EF}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "product-subcategory-outdoor@1"
-- ID: 2ea21d8a-d92d-41b6-a541-a12a6153b139
+- ID: "2ea21d8a-d92d-41b6-a541-a12a6153b139"
   Hint: Image
   Value: |
     <image mediaid="{A0B80015-B81A-4909-9223-BE205B145D97}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{1012633A-6A9E-420C-9379-29CEA1009939}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ff848daf-6204-4b47-a305-130dc33cfd89"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "972d15a2-5084-4064-97af-6e38bdd895c8"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Outdoor
   Versions:
   - Version: 1
     Fields:
-    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
         <r xmlns:p="p" xmlns:s="s"
@@ -86,41 +86,40 @@ Languages:
               s:par="CtaKind=%7B20567DCD-96E6-4E42-9574-FF7A5E155AFB%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B48428BEA-96FB-4D20-8ACC-1A22B4C18DC7%7D" />
           </d>
         </r>
-    - ID: 1cfbb845-61ea-477a-a308-bee6a022e765
+    - ID: "1cfbb845-61ea-477a-a308-bee6a022e765"
       Hint: Title
       Value: Outdoor
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T190356Z
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Outdoor
-    - ID: 4eb3789b-f5ae-4e11-ae09-654a7ed5a9c1
+    - ID: "4eb3789b-f5ae-4e11-ae09-654a7ed5a9c1"
       Hint: ChangeFrequency
       Value: weekly
-    - ID: 6622fd5d-faa4-4d74-a8e2-a1d9c45d6f6d
+    - ID: "6622fd5d-faa4-4d74-a8e2-a1d9c45d6f6d"
       Hint: MetaDescription
       Value: Outdoor subcategory under Seating. Insert Product here for another outdoor SKU.
-    - ID: 83394768-3f44-4eff-a9f9-6a7fd361f771
+    - ID: "83394768-3f44-4eff-a9f9-6a7fd361f771"
       Hint: ShortDescription
       Value: Pieces meant for a porch, a terrace, a room with weather.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ef5bceb2-cf2c-49cb-9deb-c73ea62653e0"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cd7638d3-d506-40ef-a808-00b38d6a0657
+    - ID: "cd7638d3-d506-40ef-a808-00b38d6a0657"
       Hint: IncludeInSitemap
       Value: true
-    - ID: d5e0e4a6-fcfa-4f75-bde8-0fd27178a87e
+    - ID: "d5e0e4a6-fcfa-4f75-bde8-0fd27178a87e"
       Hint: Eyebrow
       Value: Seating
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T161017Z
-    - ID: fff9d465-0d7a-42e6-96dc-a46c2cd07718
+    - ID: "fff9d465-0d7a-42e6-96dc-a46c2cd07718"
       Hint: MetaTitle
       Value: Outdoor seating — Showcase
-DB: master

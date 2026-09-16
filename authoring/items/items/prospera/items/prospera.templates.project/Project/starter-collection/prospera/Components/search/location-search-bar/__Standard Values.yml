@@ -5,48 +5,47 @@ Template: "f0b7cb2c-08b8-4808-86b8-dc6749d1f782"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/location-search-bar/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "location-search-bar@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7b80ddb9-9a10-42dc-acb8-aadddbe298a9"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 152d2d86-e958-482d-8569-db29c07f58ad
+    - ID: "152d2d86-e958-482d-8569-db29c07f58ad"
       Hint: RadiusLabel
       Value: Within
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T015119Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 886d12a5-a014-48c6-8f91-e830733c58ff
+    - ID: "886d12a5-a014-48c6-8f91-e830733c58ff"
       Hint: SubmitLabel
       Value: Search
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "247fc22a-d085-4feb-84e5-c7a5c915b952"
-    - ID: a196aa35-6320-4a4f-a8f4-774d9ec7bb40
+    - ID: "a196aa35-6320-4a4f-a8f4-774d9ec7bb40"
       Hint: UseMyLocationLabel
       Value: Use my location
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c6d82611-a76f-46db-a95a-423e5b5d7b5b
+    - ID: "c6d82611-a76f-46db-a95a-423e5b5d7b5b"
       Hint: InputPlaceholder
       Value: ZIP or city
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T015119Z
-DB: master

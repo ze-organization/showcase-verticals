@@ -5,55 +5,54 @@ Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/joint/Data/Saver"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "personal-checking-joint@1"
-- ID: 3640dde1-90f4-4a80-bf90-a200ed994a0e
+- ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
     <image mediapath="/theme-photos/feat-goals.jpg" alt="Couple reviewing labeled savings jars for a trip and a home repair" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3d8267ec-bead-4ffe-b229-d48650c3fe5e"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "c06587e0-ba0c-4f98-abf5-7b63f1e2eeb2"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Saver
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T193305Z
-    - ID: 483a85dd-866b-4b15-bcea-43ee116af6f0
+    - ID: "483a85dd-866b-4b15-bcea-43ee116af6f0"
       Hint: Eyebrow
       Value: "High-yield savings"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "18652a2b-c892-477b-991e-df05a0a1550e"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d5996290-9a0a-43be-a1f4-654341a56976
+    - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
         <link linktype="external" url="/Personal/savings/high-yield" text="Start saving together" />
-    - ID: d70f1669-c2e0-48af-9657-47efed02956f
+    - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: "<p>Talk money with facts. Save together, label a shared goal, and track the balance on high-yield savings.</p><ul><li><strong>A published sample rate.</strong> Illustrative 4.15% APY on the savings page — not a teaser and not a live lock.</li><li><strong>Always flexible in this demo.</strong> Move money to and from everyday checking. A CD is the product with a term.</li><li><strong>Household goals.</strong> Name a balance for a trip, a repair, or a down payment without opening a second checking type.</li></ul>"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T193325Z
-    - ID: e2198777-25e9-4721-9225-15b08808d5dd
+    - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: Fund the next thing together.
-DB: master

@@ -5,47 +5,46 @@ Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/shared-debit/Data/How"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "features-shared-debit@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "921c8dc2-a352-4726-b692-46d49d265fa8"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "ee4a03fc-8af9-43d0-9129-f0076d04d20c"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: How
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T180909Z
-    - ID: 6c269cbb-4f09-4531-9816-b3266829b8f3
+    - ID: "6c269cbb-4f09-4531-9816-b3266829b8f3"
       Hint: Body
       Value: <p>Shared debit is for a caregiver, a neighbor running an errand, or a household helper — not a second joint owner. Joint checking is the product when two adults should both own the account.</p><p>Money comes from a labeled savings goal or an allowance you move from everyday checking. If the labeled balance is empty, the card should decline in this demonstration. ATM cash can be blocked.</p><p><small>Prospera Bank, N.A., Member FDIC. Equal Housing Lender. Annual percentage yields (APY), annual percentage rates (APR), and fees shown on this site are illustrative for a demonstration and are not live offers.</small></p>
-    - ID: 70947c7a-7248-46a5-b46e-2e22164f2d91
+    - ID: "70947c7a-7248-46a5-b46e-2e22164f2d91"
       Hint: Eyebrow
       Value: How it works
-    - ID: 867c53fc-2dec-4d64-8175-33d33c51d5c4
+    - ID: "867c53fc-2dec-4d64-8175-33d33c51d5c4"
       Hint: Title
       Value: The owner stays on the file
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8d12f9c3-52f6-4439-9997-ac26ebc19da3"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T180911Z
-DB: master

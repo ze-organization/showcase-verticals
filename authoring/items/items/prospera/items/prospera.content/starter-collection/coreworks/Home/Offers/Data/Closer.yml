@@ -5,51 +5,50 @@ Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Offers/Data/Closer"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: offers@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e719ea4d-4cea-4201-8ac6-f2ca5aa2b333"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "56d689bc-eab1-4a34-81a4-67a1c482623e"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Closer
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192847Z
-    - ID: 2cde99a6-c15a-4cf6-8013-01ef56c2e5c0
+    - ID: "2cde99a6-c15a-4cf6-8013-01ef56c2e5c0"
       Hint: Description
       Value: <p>A short form. Mention the offer.</p>
-    - ID: 33f19f4d-9b3b-4726-9039-760657e7a6c5
+    - ID: "33f19f4d-9b3b-4726-9039-760657e7a6c5"
       Hint: Eyebrow
       Value: Next
-    - ID: 5476fe86-73c2-45a2-a9c8-40c681ddf8cf
+    - ID: "5476fe86-73c2-45a2-a9c8-40c681ddf8cf"
       Hint: Link
       Value: |
         <link linktype="external" url="/Get-Started" text="Get started" />
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1f8be6c6-d06c-4143-9d14-2c97d26f9907"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T192851Z
-    - ID: ffbdfe03-f223-4437-a867-986da7f40122
+    - ID: "ffbdfe03-f223-4437-a867-986da7f40122"
       Hint: Title
       Value: "Ready to use a code?"
-DB: master

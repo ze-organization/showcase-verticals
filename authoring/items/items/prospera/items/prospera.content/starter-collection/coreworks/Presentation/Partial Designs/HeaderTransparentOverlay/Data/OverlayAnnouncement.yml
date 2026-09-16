@@ -5,50 +5,49 @@ Template: "780e3368-6db9-411d-8212-d6ba4a7b34d0"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/HeaderTransparentOverlay/Data/OverlayAnnouncement"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "header-transparent-overlay@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4703e833-5098-4b1b-8d9e-3646f402a26b"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "3755ced7-7853-4b98-a1b4-8e1906214516"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: OverlayAnnouncement
   Versions:
   - Version: 1
     Fields:
-    - ID: 001dd393-96c5-490b-924a-b0f25cd9efd8
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260911T223315Z
-    - ID: 27c6393c-c743-4318-bebc-a43b4cff7c9b
+    - ID: "27c6393c-c743-4318-bebc-a43b4cff7c9b"
       Hint: Description
       Value: <p>Standard lead is 4–6 weeks. Send a drawing for a capability reply.</p>
-    - ID: 52752ae1-0d49-4d6d-bc72-487d3ceba080
+    - ID: "52752ae1-0d49-4d6d-bc72-487d3ceba080"
       Hint: Title
       Value: Now quoting Q4 cell time
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "08ac3e1e-7993-4dcc-96cc-29f394ac79c4"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bf340f9d-f68f-4d08-9384-2ed9b139a8af
+    - ID: "bf340f9d-f68f-4d08-9384-2ed9b139a8af"
       Hint: Link
       Value: 
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T223730Z
-DB: master

@@ -5,31 +5,31 @@ Template: "8cba3388-5944-43d2-8827-02704751704c"
 Path: "/sitecore/content/starter-collection/starter/Home/Locations/Data/AllLocations"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: locations@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d70fa3af-e1bb-461c-b5ce-b50ef717c50a"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "b6af056e-c31a-431f-8c2d-cab78f0678cb"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: AllLocations
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T161731Z
-    - ID: 362a3df3-a791-4991-b7e8-47927dd7d4b1
+    - ID: "362a3df3-a791-4991-b7e8-47927dd7d4b1"
       Hint: Locations
       Value: |
         {1EF98ACF-5C55-4CB3-9CB6-148BF0CFACC5}
@@ -47,17 +47,16 @@ Languages:
         {389014F3-8773-4E68-805D-326010194952}
         {DDB11122-295B-44A5-9882-F529C4B062F6}
         {C6A0555A-ABCA-41C5-AA1A-DE2482D417E9}
-    - ID: 41d09add-5552-4477-adda-c7ee07627e47
+    - ID: "41d09add-5552-4477-adda-c7ee07627e47"
       Hint: Lead
       Value: <p>Fifteen sample locations on one map. Filter by ZIP or city, or open a region for a tighter view.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e9333bd7-ca90-4320-bee7-fba1ff0b97c7"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T161732Z
-DB: master

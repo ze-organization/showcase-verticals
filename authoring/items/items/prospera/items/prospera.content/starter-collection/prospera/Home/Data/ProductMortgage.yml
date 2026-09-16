@@ -5,61 +5,60 @@ Template: "590320c0-1570-423b-a9bd-7f7b414decfc"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/ProductMortgage"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 1efa60e6-a01d-4c02-82bc-c07bf453dd61
+- ID: "1efa60e6-a01d-4c02-82bc-c07bf453dd61"
   Hint: Image1
   Value: |
     <image mediaid="{06F073FD-790E-4716-94B3-B18281E12C9D}" alt="House keys and a slim folder on a kitchen counter" />
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "homepage-demo@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a6e9f859-c13e-490b-a655-0f72b81409c3"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "144ecda0-852f-486c-add9-2cd5b856eff8"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: ProductMortgage
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T170144Z
-    - ID: 48bb977a-e8b7-4ac4-b939-ad762bf363e9
+    - ID: "48bb977a-e8b7-4ac4-b939-ad762bf363e9"
       Hint: CtaLabel
       Value: See mortgage
-    - ID: 6df9f9ac-10a7-4b43-bf23-b2eddb7420f4
+    - ID: "6df9f9ac-10a7-4b43-bf23-b2eddb7420f4"
       Hint: Price
       Value: 6.375
-    - ID: 895e330a-7fe2-4dbb-a3c5-dce0ee81ed08
+    - ID: "895e330a-7fe2-4dbb-a3c5-dce0ee81ed08"
       Hint: Title
       Value: "30-year mortgage"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "86c0b3d8-baf2-49e3-b2ef-69af748c7900"
-    - ID: a0b1cbad-9910-4704-9f3f-8f15e28f711d
+    - ID: "a0b1cbad-9910-4704-9f3f-8f15e28f711d"
       Hint: Sku
       Value: "MTG-01"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T174151Z
-    - ID: de8117cc-bf50-4b44-a5bf-b74f71e76249
+    - ID: "de8117cc-bf50-4b44-a5bf-b74f71e76249"
       Hint: ShortDescription
       Value: Illustrative 6.375% APR. Purchase or refinance. Not a live lock.
-    - ID: e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8
+    - ID: "e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8"
       Hint: Link
       Value: |
         <link linktype="external" url="/Products/Lending/thirty-year-mortgage" text="See mortgage" />
-DB: master

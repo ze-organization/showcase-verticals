@@ -5,39 +5,39 @@ Template: "eae24d74-7ee3-48fd-8180-d7f7b410a762"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Americas/Mexico"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C70D7A59-7256-4799-A961-4179E53D166B}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "destination-country-mexico@1"
-- ID: 7e19d2fb-6f7d-48b4-afa8-1a15b74ce7a8
+- ID: "7e19d2fb-6f7d-48b4-afa8-1a15b74ce7a8"
   Hint: Image
   Value: |
     <image mediaid="{BFB7DD1B-201E-4D78-A253-FF5CF8B39E76}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{3749E077-0A04-4040-8C57-F2D2C7B8BA1A}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2c8ec245-65a0-4206-a86a-9abc8977cc11"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "238239da-80b7-425d-8259-d92d478d511a"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Mexico
   Versions:
   - Version: 1
     Fields:
-    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
         <r xmlns:p="p" xmlns:s="s"
@@ -86,41 +86,40 @@ Languages:
               s:par="DynamicPlaceholderId=6&amp;FieldNames=%7B359D274B-603C-4C97-9E0B-083BBFF7816C%7D" />
           </d>
         </r>
-    - ID: 07171916-7b74-434a-a74f-8f8114eac7cd
+    - ID: "07171916-7b74-434a-a74f-8f8114eac7cd"
       Hint: MetaDescription
       Value: Mexico country hub. Insert Destination under this type.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T190929Z
-    - ID: 3f65a50c-84ae-42f5-826a-c9fa5052cbb4
+    - ID: "3f65a50c-84ae-42f5-826a-c9fa5052cbb4"
       Hint: ChangeFrequency
       Value: weekly
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Mexico
-    - ID: 767a5b23-3492-4065-af13-1c65de7789c9
+    - ID: "767a5b23-3492-4065-af13-1c65de7789c9"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 877b86e5-cf25-4cac-b724-cff39136caa7
+    - ID: "877b86e5-cf25-4cac-b724-cff39136caa7"
       Hint: ShortDescription
       Value: Oaxaca is the sample city under this country.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f5a20fd5-4527-4c00-8911-da12df18681a"
-    - ID: 9fb9c6d7-cef8-4688-a146-3917fb7bb031
+    - ID: "9fb9c6d7-cef8-4688-a146-3917fb7bb031"
       Hint: Eyebrow
       Value: Americas
-    - ID: a3f88e72-f509-47f3-96f7-c2fe37c88111
+    - ID: "a3f88e72-f509-47f3-96f7-c2fe37c88111"
       Hint: Title
       Value: Mexico
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d161e126-7b2b-442a-83a3-921e8ddc6934
+    - ID: "d161e126-7b2b-442a-83a3-921e8ddc6934"
       Hint: MetaTitle
       Value: Mexico destinations — Showcase
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215039Z
-DB: master

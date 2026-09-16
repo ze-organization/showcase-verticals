@@ -5,54 +5,53 @@ Template: "e016b71f-a842-4b13-b861-c806e1733eac"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/Presentation Parameters/hero-carousel Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "hero-carousel@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1a2da070-fa27-4e01-ad40-19fb186955a3"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 04da366e-569f-4b5f-8d70-8f0f0373ac78
+    - ID: "04da366e-569f-4b5f-8d70-8f0f0373ac78"
       Hint: AutoplayInterval
       Value: "{83626AB5-B27F-4339-A59B-2917825C5B09}"
-    - ID: 1369d15e-9a26-430b-ab46-d42c45ee3257
+    - ID: "1369d15e-9a26-430b-ab46-d42c45ee3257"
       Hint: Loop
       Value: 1
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220159Z
-    - ID: 26bf85c6-5cba-4621-9d77-d78cc7cd299e
+    - ID: "26bf85c6-5cba-4621-9d77-d78cc7cd299e"
       Hint: IndicatorPlacement
       Value: "{1FA9B456-098A-4A2E-99B3-5F355F5365B8}"
-    - ID: 26d8dc52-de16-4cb2-b233-87d4e1937083
+    - ID: "26d8dc52-de16-4cb2-b233-87d4e1937083"
       Hint: Transition
       Value: "{483D5583-32C7-41E3-9302-5142ED24673F}"
-    - ID: 2cdc6ea5-18a3-4b87-ac21-6e9dea59a3c1
+    - ID: "2cdc6ea5-18a3-4b87-ac21-6e9dea59a3c1"
       Hint: ShowIndicators
       Value: 1
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "24f3d920-4850-4e1b-a47d-3274b6ea6c8a"
-    - ID: 9e92a245-1adf-4a06-8689-b83dbe067b25
+    - ID: "9e92a245-1adf-4a06-8689-b83dbe067b25"
       Hint: ShowArrows
       Value: 1
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260814T203605Z
-DB: master

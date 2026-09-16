@@ -5,44 +5,43 @@ Template: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
 Path: "/sitecore/content/starter-collection/starter/Home/FAQs/Data/Faq4"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: faqs@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1812572a-28a2-44bd-ac91-e351a33bc10f"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "5338ae3c-3bdd-4e1b-8ff7-bdf332130319"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Faq4
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T154517Z
-    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+    - ID: "53e9802a-066c-458d-80e7-a3982c8a2bb7"
       Hint: Title
       Value: "Where do icon names come from on a Landing?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "aea26d1c-b44a-47c4-95a9-21bd0b33abb6"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T154518Z
-    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+    - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>Type a name from the showcase icon vocabulary (play, shield, chart, users). Page templates cannot bind enumHandle the way component fields can.</p>
-DB: master

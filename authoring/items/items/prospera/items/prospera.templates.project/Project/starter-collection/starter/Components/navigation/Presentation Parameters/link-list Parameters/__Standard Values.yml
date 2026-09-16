@@ -5,60 +5,59 @@ Template: "9d991a37-d0af-4b24-bfda-e954e23f1992"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/Presentation Parameters/link-list Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "link-list@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "17132d00-4f1e-4fbd-a1e4-636672c1e247"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220518Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5d4e21be-a311-43e3-ad2b-fdd0379e7945
+    - ID: "5d4e21be-a311-43e3-ad2b-fdd0379e7945"
       Hint: SeparatorGlyph
       Value: "{C51D5F9E-0EAC-457C-A589-1EC6697E5460}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6497f5fd-8d49-4b7b-8138-2a18e929606a
+    - ID: "6497f5fd-8d49-4b7b-8138-2a18e929606a"
       Hint: ItemStyle
       Value: "{3A6A6958-1357-4371-B8C0-C8E9CC6F19BD}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "431f2c85-89f1-40c0-8761-a3ca036a10b7"
-    - ID: 94e97821-2b0c-4b1a-a48f-4ea8465c37be
+    - ID: "94e97821-2b0c-4b1a-a48f-4ea8465c37be"
       Hint: Columns
       Value: "{8D2C3F9C-3EA1-412D-A9E9-59F2D69512EE}"
-    - ID: 9b66bc1f-829b-44c3-b7c6-88d8b09602cc
+    - ID: "9b66bc1f-829b-44c3-b7c6-88d8b09602cc"
       Hint: LinkColorScheme
       Value: "{F3E5BA23-DED6-4466-96D9-C7BF24FB4C41}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce04f26d-6829-4508-9b31-59929ad5b06f
+    - ID: "ce04f26d-6829-4508-9b31-59929ad5b06f"
       Hint: ListMarker
       Value: "{2A5F43F3-AF28-432A-98AA-CCFD8EAA0B97}"
-    - ID: d1b0d14b-1d41-4f83-9fb2-643a40034a80
+    - ID: "d1b0d14b-1d41-4f83-9fb2-643a40034a80"
       Hint: HeadingColor
       Value: "{7B2DA977-5D35-4279-811A-E7A74EE1C5B0}"
-    - ID: d7bf02d7-f58f-4660-b2c1-263a82b1b251
+    - ID: "d7bf02d7-f58f-4660-b2c1-263a82b1b251"
       Hint: RowSeparators
       Value: "{B9FCA1BA-C652-4253-9F72-7C6178A27B07}"
-    - ID: d85804d9-600b-4caf-92a8-5ab78d51270c
+    - ID: "d85804d9-600b-4caf-92a8-5ab78d51270c"
       Hint: RowSize
       Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260814T203610Z
-DB: master

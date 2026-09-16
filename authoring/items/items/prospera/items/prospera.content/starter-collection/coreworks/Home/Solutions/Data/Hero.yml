@@ -5,59 +5,58 @@ Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Solutions/Data/Hero"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: solutions@1
-- ID: 94cfbee5-7a7d-49df-b5d4-b6653f3125fb
+- ID: "94cfbee5-7a7d-49df-b5d4-b6653f3125fb"
   Hint: Image
   Value: |
     <image mediaid="{E083A801-EB5D-4224-82CC-F0E809DD1F15}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "24ab03b6-ed9d-4c7a-9a38-d8ee88e9f901"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "70d03a79-b2b2-4776-8097-c2379b7a51bf"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Hero
   Versions:
   - Version: 1
     Fields:
-    - ID: 078384e4-add9-401f-a0cb-704f8e3fbf30
+    - ID: "078384e4-add9-401f-a0cb-704f8e3fbf30"
       Hint: Eyebrow
       Value: By industry
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T154601Z
-    - ID: 28ac333a-404d-41e9-a936-9c1589ff306e
+    - ID: "28ac333a-404d-41e9-a936-9c1589ff306e"
       Hint: PrimaryAction
       Value: |
         <link linktype="external" url="/Case-Studies" text="Read case studies" />
-    - ID: 75d2bf57-757a-4180-b4a5-d2c8d759792a
+    - ID: "75d2bf57-757a-4180-b4a5-d2c8d759792a"
       Hint: Title
       Value: Same catalog. Different floor.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3f45b4b8-de7b-421a-88dd-8f8f04383559"
-    - ID: b5eaa4fe-ac2c-43d6-9994-991b27300a73
+    - ID: "b5eaa4fe-ac2c-43d6-9994-991b27300a73"
       Hint: SecondaryAction
       Value: |
         <link linktype="external" url="/Get-Started" text="Get started" />
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215059Z
-    - ID: ededbaae-dbeb-4f3a-b3f0-a9860801ae8d
+    - ID: "ededbaae-dbeb-4f3a-b3f0-a9860801ae8d"
       Hint: Subtitle
       Value: Retail, financial services, and healthcare share Page — not a vertical template each.
-DB: master

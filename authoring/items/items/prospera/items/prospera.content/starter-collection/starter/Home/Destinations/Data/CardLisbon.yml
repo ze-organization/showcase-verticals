@@ -5,67 +5,66 @@ Template: "c5983974-fd79-4b87-84dc-0496923bcf42"
 Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Data/CardLisbon"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: destinations@1
-- ID: bc687277-431e-48bc-97d1-cd23cf8eaf06
+- ID: "bc687277-431e-48bc-97d1-cd23cf8eaf06"
   Hint: Image
   Value: |
     <image mediaid="{41D1244A-A342-4D59-9EEB-96E241B1B86C}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "05dac832-bbe3-48bd-aee2-3e66a41913ff"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "832f35f2-4820-41e5-81c2-e35225dedafc"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: CardLisbon
   Versions:
   - Version: 1
     Fields:
-    - ID: 1009f3bb-c85e-4932-8743-3baaa3adfd31
+    - ID: "1009f3bb-c85e-4932-8743-3baaa3adfd31"
       Hint: TripDuration
       Value: 4 nights
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T224538Z
-    - ID: 347b30ad-a374-4293-9df0-7791081d5846
+    - ID: "347b30ad-a374-4293-9df0-7791081d5846"
       Hint: Label
       Value: Coastal
-    - ID: 516b35d6-f27f-42a9-80c1-c0086fa366ed
+    - ID: "516b35d6-f27f-42a9-80c1-c0086fa366ed"
       Hint: Description
       Value: <p>Trams, tiles, and a table by the water at the end of the day.</p>
-    - ID: 782a7f51-6152-422c-af0a-8d2b8597af43
+    - ID: "782a7f51-6152-422c-af0a-8d2b8597af43"
       Hint: Link
       Value: |
         <link linktype="external" url="/Destinations/lisbon" text="View destination" />
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4782d121-c45f-423a-9a02-91c73fbcb24d"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cb387afe-f959-438c-8fd7-9ae6d86d4587
+    - ID: "cb387afe-f959-438c-8fd7-9ae6d86d4587"
       Hint: Title
       Value: Lisbon
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260903T224543Z
-    - ID: debff4c1-494c-4530-9dd2-f0389a3c3468
+    - ID: "debff4c1-494c-4530-9dd2-f0389a3c3468"
       Hint: StartingPrice
       Value: from $1,140
-    - ID: e7ffa9eb-9642-489f-b39a-a5aa9cbcd84d
+    - ID: "e7ffa9eb-9642-489f-b39a-a5aa9cbcd84d"
       Hint: Country
       Value: Portugal
-    - ID: f81ed8c9-1772-4786-9faf-15bb0f6d9732
+    - ID: "f81ed8c9-1772-4786-9faf-15bb0f6d9732"
       Hint: Continent
       Value: Europe
-DB: master

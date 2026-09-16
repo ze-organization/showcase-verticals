@@ -5,48 +5,47 @@ Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/StripField"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "homepage-demo@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "46eb36a3-468a-4cf3-a9a6-c76b1a1145ba"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "386d0110-fc11-47b4-8749-3f68b4385352"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: StripField
   Versions:
   - Version: 1
     Fields:
-    - ID: 169f5a27-b677-418f-be85-bca86ee122a0
+    - ID: "169f5a27-b677-418f-be85-bca86ee122a0"
       Hint: IconName
       Value: support
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260911T230614Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "01e2c41f-9ff8-4a18-b94f-c64317ebd3df"
-    - ID: a832315c-75e1-4920-8831-0f44c6daaaa8
+    - ID: "a832315c-75e1-4920-8831-0f44c6daaaa8"
       Hint: Title
       Value: Field service
-    - ID: ba63fec8-8a4d-485b-86c2-4a054ae9c794
+    - ID: "ba63fec8-8a4d-485b-86c2-4a054ae9c794"
       Hint: Link
       Value: |
         <link linktype="external" url="/Services" text="Field service" />
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T230637Z
-DB: master

@@ -5,48 +5,47 @@ Template: "577c9f0d-7f10-4f6b-81cf-74eb30484015"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/TabShip"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "homepage-demo@1"
-- ID: 5ac689aa-7178-4173-bbcb-5321f4b783fc
+- ID: "5ac689aa-7178-4173-bbcb-5321f4b783fc"
   Hint: PanelImage
   Value: |
     <image mediapath="/theme/hub-02.jpg" alt="Packaging line with staged metal parts" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b8e0074b-1a1a-4b5e-be03-21a20ac895a2"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "d7f467a3-cd19-4390-a0a0-3dd06b3d5981"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: TabShip
   Versions:
   - Version: 1
     Fields:
-    - ID: 18a588ed-56c5-4392-8eb9-64d0c1651d30
+    - ID: "18a588ed-56c5-4392-8eb9-64d0c1651d30"
       Hint: Content
       Value: <p>Closed guards, a signed traveler, and a ship window you can put on a schedule.</p>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260911T230621Z
-    - ID: 2a579fa5-cac3-4aaa-b34d-638adcae8184
+    - ID: "2a579fa5-cac3-4aaa-b34d-638adcae8184"
       Hint: Label
       Value: Ship
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b02a475b-f5e8-425f-8910-9deea788add3"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T230638Z
-DB: master

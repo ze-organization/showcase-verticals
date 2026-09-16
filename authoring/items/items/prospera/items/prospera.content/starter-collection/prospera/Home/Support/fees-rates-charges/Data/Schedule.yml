@@ -5,47 +5,46 @@ Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/fees-rates-charges/Data/Schedule"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "support-fees-rates-charges@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a4588930-7dfe-4952-95bf-667b3472cb45"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "2072236b-bcf8-440b-8be6-284bac5c8d43"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Schedule
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T180929Z
-    - ID: 6c269cbb-4f09-4531-9816-b3266829b8f3
+    - ID: "6c269cbb-4f09-4531-9816-b3266829b8f3"
       Hint: Body
       Value: "<ul><li><strong>Everyday checking.</strong> Sample monthly maintenance $0 with qualifying activity. See the product page for what qualifies.</li><li><strong>High-yield savings.</strong> 4.15% APY illustrative.</li><li><strong>Certificate of deposit (12 month).</strong> 3.85% APY illustrative. Early withdrawal reduces earnings.</li><li><strong>IRA savings.</strong> 3.00% APY illustrative. Not tax advice.</li><li><strong>Rewards Visa.</strong> Illustrative 1.5% cash back on eligible spend. $0 annual fee in this demonstration.</li><li><strong>Foreign transaction fee from us.</strong> $0 on debit and Rewards Visa. ATM owners may still charge.</li><li><strong>Shared debit daily cap.</strong> $200 illustrative.</li></ul><h2>Business</h2><ul><li><strong>Business checking monthly fee.</strong> Not advertised as $0 on the product hub. Ask a banker; restated here only when Rates &amp; fees says so.</li></ul><p>Lending APRs (mortgage, HELOC) stay on those product pages and on /Pricing until that tree is revisited.</p><p><small>Prospera Bank, N.A., Member FDIC. Equal Housing Lender. Annual percentage yields (APY), annual percentage rates (APR), and fees shown on this site are illustrative for a demonstration and are not live offers.</small></p>"
-    - ID: 70947c7a-7248-46a5-b46e-2e22164f2d91
+    - ID: "70947c7a-7248-46a5-b46e-2e22164f2d91"
       Hint: Eyebrow
       Value: Illustrative schedule
-    - ID: 867c53fc-2dec-4d64-8175-33d33c51d5c4
+    - ID: "867c53fc-2dec-4d64-8175-33d33c51d5c4"
       Hint: Title
       Value: Personal
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2f3f5c01-ac8b-48b0-8e5e-c399d9738cf0"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T180930Z
-DB: master

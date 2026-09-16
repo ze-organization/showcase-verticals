@@ -5,48 +5,47 @@ Template: "01ebfb57-e8c4-4d77-826e-27f67d8a0f19"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/versus-item/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "versus-item@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5a482313-65e2-4e3f-9c2d-f806ba73746f"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021104Z
-    - ID: 4334380f-0545-42a0-ab8e-9e4c7286ef00
+    - ID: "4334380f-0545-42a0-ab8e-9e4c7286ef00"
       Hint: PartyBName
       Value: Party B
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5de532e2-cf21-4fa3-98ac-e69185314c4c
+    - ID: "5de532e2-cf21-4fa3-98ac-e69185314c4c"
       Hint: Status
       Value: upcoming
-    - ID: 7e5ab938-7f9a-4361-af6e-3a7ce2f0bd4f
+    - ID: "7e5ab938-7f9a-4361-af6e-3a7ce2f0bd4f"
       Hint: CenterValue
       Value: "18:00"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "16045da4-3931-4007-b3a5-d3425197b2fd"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T021104Z
-    - ID: f98045bb-f118-429c-b7a3-24360665e677
+    - ID: "f98045bb-f118-429c-b7a3-24360665e677"
       Hint: PartyAName
       Value: Party A
-DB: master

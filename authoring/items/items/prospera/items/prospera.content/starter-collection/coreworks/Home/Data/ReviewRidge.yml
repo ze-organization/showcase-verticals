@@ -5,54 +5,53 @@ Template: "fd048ce3-fb9b-40b5-90c4-9118f1cb6ac3"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/ReviewRidge"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "homepage-demo@1"
-- ID: 99a4db26-3bbf-4ea7-893b-b20b2b8c4506
+- ID: "99a4db26-3bbf-4ea7-893b-b20b2b8c4506"
   Hint: AuthorImage
   Value: |
     <image mediapath="/theme/person-03.jpg" alt="Portrait of Priya Shah" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "606fc02a-6743-4a15-8665-1ab755fe23be"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "2c71f048-ac56-4222-8d12-9afca80e2183"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: ReviewRidge
   Versions:
   - Version: 1
     Fields:
-    - ID: 040f9a18-db38-41b1-ba35-d45825e91b77
+    - ID: "040f9a18-db38-41b1-ba35-d45825e91b77"
       Hint: AuthorName
       Value: Priya Shah
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260911T230629Z
-    - ID: 7bb29e06-2515-4ca1-b687-0a751b0c8750
+    - ID: "7bb29e06-2515-4ca1-b687-0a751b0c8750"
       Hint: Rating
       Value: 5
-    - ID: 837e17fa-abe5-4077-8dd0-4d3d808b1167
+    - ID: "837e17fa-abe5-4077-8dd0-4d3d808b1167"
       Hint: Quote
       Value: <p>Second plant, same traveler. The probe record showed up with the lot.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "20e66d5c-0b9b-4da4-8830-dd61e4c844df"
-    - ID: a528f0b4-7c7e-4251-a985-17304c252d22
+    - ID: "a528f0b4-7c7e-4251-a985-17304c252d22"
       Hint: AuthorRole
       Value: Quality, Ridge
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T230638Z
-DB: master

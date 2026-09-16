@@ -5,92 +5,91 @@ Template: "840dbdff-5e2c-4ed7-9003-84b801d4ed12"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Offers/partner-onboarding"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{60EEEA7E-2D15-4F1D-A4CC-58AEE116124F}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "offer-partner-onboarding@1"
-- ID: 364fae90-8b5d-4408-bc53-3b2bd6a7c0f0
+- ID: "364fae90-8b5d-4408-bc53-3b2bd6a7c0f0"
   Hint: Image
   Value: |
     <image mediaid="{4D428E1B-DDEF-4A4C-A3FE-62713DA3FB64}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{7552334E-DD6B-4CA0-8EDA-49047741B3FC}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "aeb1b48d-534d-4d91-bfcf-5ceeaed9cda7"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "3ae5008a-896f-462d-91da-e1b86d789653"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Partner onboarding credit
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192852Z
-    - ID: 2a90b97c-a913-46db-bef7-3f39c0662ee4
+    - ID: "2a90b97c-a913-46db-bef7-3f39c0662ee4"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 3fa135a4-60a5-4e27-9c1a-5aec8b79fad0
+    - ID: "3fa135a4-60a5-4e27-9c1a-5aec8b79fad0"
       Hint: Title
       Value: Partner onboarding credit
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "partner-onboarding"
-    - ID: 5baa8cc4-c037-4389-a3b4-657085108ab0
+    - ID: "5baa8cc4-c037-4389-a3b4-657085108ab0"
       Hint: OfferText
       Value: Waived setup on the first landing
-    - ID: 5fdced8b-9465-4a1b-87ca-f1437a0ec236
+    - ID: "5fdced8b-9465-4a1b-87ca-f1437a0ec236"
       Hint: Content
       Value: <p>The landing stays Landing. This URL is the Offer. Mention the code on Get Started.</p>
-    - ID: 76e8f913-6169-4bb9-ad57-26295422b28f
+    - ID: "76e8f913-6169-4bb9-ad57-26295422b28f"
       Hint: Terms
       Value: <p>One waived setup per partner. Sample catalog only.</p>
-    - ID: 81b53c73-aabc-44e4-8f8c-386b363e867e
+    - ID: "81b53c73-aabc-44e4-8f8c-386b363e867e"
       Hint: StartDate
       Value: 1 Jan 2026
-    - ID: 824368c9-9e43-49dc-b52c-41031df71072
+    - ID: "824368c9-9e43-49dc-b52c-41031df71072"
       Hint: ShortDescription
       Value: For technology and channel partners inserting their first Landing.
-    - ID: 8c0d5b76-1b5a-4e15-a068-ce2170d591b4
+    - ID: "8c0d5b76-1b5a-4e15-a068-ce2170d591b4"
       Hint: MetaTitle
       Value: Partner onboarding credit — Offers
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c69b4b84-c642-4a74-ae15-abcc98bb9017"
-    - ID: 9f70d0ec-147d-487f-bbfa-fda69b29e314
+    - ID: "9f70d0ec-147d-487f-bbfa-fda69b29e314"
       Hint: PromoCode
       Value: PARTNER1
-    - ID: afce7f9c-a86e-4126-8494-106489e21d40
+    - ID: "afce7f9c-a86e-4126-8494-106489e21d40"
       Hint: EndDate
       Value: 31 Dec 2026
-    - ID: b4c5cdb0-3f15-41bc-98ef-f4eb44224860
+    - ID: "b4c5cdb0-3f15-41bc-98ef-f4eb44224860"
       Hint: Eyebrow
       Value: Partners
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215050Z
-    - ID: ea5811ab-dafa-4529-a555-f64f0ff51b2e
+    - ID: "ea5811ab-dafa-4529-a555-f64f0ff51b2e"
       Hint: CtaLink
       Value: |
         <link linktype="external" url="/Partners" text="See partners" />
-    - ID: eef84a68-6a5f-4c8d-bbf3-9ffcddc6167d
+    - ID: "eef84a68-6a5f-4c8d-bbf3-9ffcddc6167d"
       Hint: MetaDescription
       Value: Waived setup on the first landing. Code PARTNER1.
-DB: master

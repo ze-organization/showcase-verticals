@@ -5,58 +5,57 @@ Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Contact/Data/CardSofia"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 1f47a59f-ca3d-4cea-b933-6780bf00fb97
+- ID: "1f47a59f-ca3d-4cea-b933-6780bf00fb97"
   Hint: Image
   Value: |
     <image mediapath="/theme-photos/pdp-01.jpg" alt="Portrait of Sofia Lang" />
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: contact@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d68b78fa-f6f9-47d2-858c-ce4939f5bfde"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "61b31c4c-6456-4d7f-9b95-c5741f729d3f"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: CardSofia
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T193233Z
-    - ID: 430cd7a4-03fc-4f77-89bb-df04e2706973
+    - ID: "430cd7a4-03fc-4f77-89bb-df04e2706973"
       Hint: Eyebrow
       Value: Advice
-    - ID: 49d7a53b-1265-4071-b2ad-f3784ef43300
+    - ID: "49d7a53b-1265-4071-b2ad-f3784ef43300"
       Hint: FullName
       Value: Sofia Lang
-    - ID: 6a697dca-a367-4f12-8bd3-47ea39922ea8
+    - ID: "6a697dca-a367-4f12-8bd3-47ea39922ea8"
       Hint: Link
       Value: |
         <link linktype="external" url="/People/sofia-lang" text="View profile" />
-    - ID: 8a44e378-7fc6-4280-8d29-4f3db2b3dbe9
+    - ID: "8a44e378-7fc6-4280-8d29-4f3db2b3dbe9"
       Hint: Role
       Value: Wealth Advisor
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9a5876c9-fea8-4684-97fd-29f11253d9b5"
-    - ID: 9e4ff79c-581f-4123-82ac-223ccb723aa7
+    - ID: "9e4ff79c-581f-4123-82ac-223ccb723aa7"
       Hint: Bio
       Value: <p>Plans that sit next to checking and the operating account.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T012945Z
-DB: master

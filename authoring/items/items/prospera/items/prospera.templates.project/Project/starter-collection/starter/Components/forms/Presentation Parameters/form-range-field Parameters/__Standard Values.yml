@@ -5,48 +5,47 @@ Template: "abe1529a-0cc7-413b-8416-ad6e08dd0a5d"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/Presentation Parameters/form-range-field Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "form-range-field@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e388cfc3-b76a-45c9-9fa5-35684aca6f4d"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0a109ae1-44e9-4935-a5bd-4a44dcb42feb
+    - ID: "0a109ae1-44e9-4935-a5bd-4a44dcb42feb"
       Hint: Size
       Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
-    - ID: 0f3ab6fb-2d3c-4a40-94bd-6ccadd7c3ed5
+    - ID: "0f3ab6fb-2d3c-4a40-94bd-6ccadd7c3ed5"
       Hint: LabelOrientation
       Value: "{B0323460-A3E0-4711-97FD-ABEF68D74829}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215906Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 76ea45b2-2dd0-45bd-b243-93f0498b8498
+    - ID: "76ea45b2-2dd0-45bd-b243-93f0498b8498"
       Hint: Width
       Value: "{21695A61-D6FA-4C9E-858F-6B0B4E14DDFF}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "587c984f-e42c-4097-bcb0-ddb2aaab4d50"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260814T203559Z
-    - ID: ee42208d-58dd-4239-b048-a7b57d844090
+    - ID: "ee42208d-58dd-4239-b048-a7b57d844090"
       Hint: Mode
       Value: "{2906450F-E04F-469C-9E80-0917EF1116CF}"
-DB: master

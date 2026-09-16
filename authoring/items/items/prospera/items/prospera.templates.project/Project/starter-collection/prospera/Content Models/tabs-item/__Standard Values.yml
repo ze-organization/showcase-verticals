@@ -5,50 +5,49 @@ Template: "457f7dd7-44c8-4637-8ce9-183e5fa795e9"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/tabs-item/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "tabs-item@1"
-- ID: 40b2229a-d776-4f70-88d2-9349c5a2c790
+- ID: "40b2229a-d776-4f70-88d2-9349c5a2c790"
   Hint: PanelImage
   Value: |
     <image src="/theme-photos/hub-01.jpg" alt="Tab panel image" />
-- ID: 83bde95a-b286-4322-94ef-b9e522befb22
+- ID: "83bde95a-b286-4322-94ef-b9e522befb22"
   Hint: TriggerImage
   Value: |
     <image src="/theme-photos/home-hero.jpg" alt="Tab trigger image" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "bdd515ba-eef6-4438-be59-ce8957b1b208"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021007Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 82eb23b1-1ac0-4c89-8172-a2f682ba8670
+    - ID: "82eb23b1-1ac0-4c89-8172-a2f682ba8670"
       Hint: Content
       Value: "<p>Replace this with the rich-text body shown when this tab is selected.</p>"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5679276a-0bbc-4b4b-bdd2-4015f3bfcb34"
-    - ID: 8d3e7b48-0ed6-4165-8dfa-a19918aae122
+    - ID: "8d3e7b48-0ed6-4165-8dfa-a19918aae122"
       Hint: Label
       Value: Overview
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T021007Z
-DB: master

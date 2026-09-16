@@ -5,69 +5,68 @@ Template: "e4b6e6ca-b21a-4ea9-967c-d34febe7316e"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/recipe-spec/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "recipe-spec@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1027f66d-e4f0-4e9e-9faf-c796ff252d4a"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 221cc729-80df-4e5c-a72c-7f02e8f99a88
+    - ID: "221cc729-80df-4e5c-a72c-7f02e8f99a88"
       Hint: Equipment
       Value: |
         Highball glass
         Bar spoon
         Jigger
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222007Z
-    - ID: 3e3ba1e9-c217-4413-a5a7-c2876fbb0273
+    - ID: "3e3ba1e9-c217-4413-a5a7-c2876fbb0273"
       Hint: Ingredients
       Value: |
         50 ml citrus spirit
         100 ml sparkling water
         2 lime wedges
-    - ID: 41e177ba-64f3-4c63-ba3f-65dc669324ed
+    - ID: "41e177ba-64f3-4c63-ba3f-65dc669324ed"
       Hint: Method
       Value: <p>Fill the glass with ice. Add the spirit, top with sparkling water, and stir once. Squeeze in the lime wedges and serve.</p>
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 66d96999-5d03-4dcf-86df-342e8e9314e0
+    - ID: "66d96999-5d03-4dcf-86df-342e8e9314e0"
       Hint: Garnish
       Value: Lime wedge
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "32ebcdfc-d9c6-43fe-9441-a2cff4ab24e5"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d0f711c5-e28c-4d37-81a2-def96ed68661
+    - ID: "d0f711c5-e28c-4d37-81a2-def96ed68661"
       Hint: PrepTimeMinutes
       Value: 5
-    - ID: d1e2aaca-eafc-4a36-a91d-88bbdeb051b4
+    - ID: "d1e2aaca-eafc-4a36-a91d-88bbdeb051b4"
       Hint: Serves
       Value: 1
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222008Z
-    - ID: da3a2b5e-20ff-46a4-b266-2e54bd17bda7
+    - ID: "da3a2b5e-20ff-46a4-b266-2e54bd17bda7"
       Hint: Title
       Value: Citrus Highball
-    - ID: db01d9e4-e335-4459-9a21-80ce17c5d6bd
+    - ID: "db01d9e4-e335-4459-9a21-80ce17c5d6bd"
       Hint: GlassType
       Value: Highball
-    - ID: fcfcb142-9d35-49b2-9fca-0e048eba4992
+    - ID: "fcfcb142-9d35-49b2-9fca-0e048eba4992"
       Hint: Difficulty
       Value: Easy
-DB: master

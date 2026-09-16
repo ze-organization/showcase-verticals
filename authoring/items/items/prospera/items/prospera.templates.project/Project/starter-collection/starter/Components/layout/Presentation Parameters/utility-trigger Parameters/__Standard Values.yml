@@ -5,54 +5,53 @@ Template: "fc27bf89-3472-4ea1-bb58-ac7702086d7d"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/Presentation Parameters/utility-trigger Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "utility-trigger@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "05dea7fc-db5a-4370-a5c8-8fd998758340"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 074a43fb-e01f-4f71-993c-89f9033632ee
+    - ID: "074a43fb-e01f-4f71-993c-89f9033632ee"
       Hint: PanelLayout
       Value: "{4D6F92D4-09F1-4F0B-ADF9-259AA0BA0886}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223137Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "083245ca-a5ac-4027-b729-abf934dbe4b9"
-    - ID: a2e3c30b-0070-49b3-a909-dfa8eeacd478
+    - ID: "a2e3c30b-0070-49b3-a909-dfa8eeacd478"
       Hint: ColorScheme
       Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bb65ea93-6b71-40ba-9995-49265eeb096f
+    - ID: "bb65ea93-6b71-40ba-9995-49265eeb096f"
       Hint: PanelBackground
       Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
-    - ID: c22c7ccc-c6b5-411a-85a1-02bf19fc2e32
+    - ID: "c22c7ccc-c6b5-411a-85a1-02bf19fc2e32"
       Hint: PanelBackgroundIntensity
       Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
-    - ID: d408ade9-5e27-4622-a88a-1f276d15645a
+    - ID: "d408ade9-5e27-4622-a88a-1f276d15645a"
       Hint: TriggerStyle
       Value: "{28FAC717-91B3-45CC-A349-D67CF2FC4626}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223137Z
-    - ID: f78dd984-eed3-43b6-af74-1ac09b8ee7ac
+    - ID: "f78dd984-eed3-43b6-af74-1ac09b8ee7ac"
       Hint: IconName
       Value: "{24583023-13E0-4CF9-A1C2-8E0C23AA9CB2}"
-DB: master
