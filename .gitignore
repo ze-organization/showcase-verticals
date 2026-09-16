@@ -1,6 +1,9 @@
 ﻿# may contain OAuth secrets, do not commit
 .sitecore/user.json
 
+# Local scai / SitecoreAI CLI profile (org-specific — use the .example)
+sitecoreai.cli.json
+
 # NuGet cache for Sitecore CLI
 .sitecore/package-cache/
 

@@ -1,0 +1,29 @@
+{
+  "defaultEnvProfile": "default",
+  "envProfiles": {
+    "default": {
+      "allowWrite": true,
+      "site": "<your-site-name>",
+      "siteCollection": "<your-site-collection>",
+      "organizationId": "<org_...>",
+      "projectId": "<project-id>",
+      "environmentId": "<cm-environment-id>",
+      "environmentType": "cm",
+      "editingHostEnvironmentIds": [],
+      "host": "<your-cm-host>.sitecorecloud.io",
+      "authority": "https://auth.sitecorecloud.io",
+      "automationClient": {
+        "clientId": "<automation-client-id>",
+        "name": "<automation-client-name>"
+      }
+    }
+  },
+  "modules": ["authoring/items/**/*.module.json"],
+  "serialization": {
+    "defaultMaxRelativeItemPathLength": 100,
+    "defaultModuleRelativeSerializationPath": "items"
+  },
+  "settings": {
+    "telemetryEnabled": false
+  }
+}
