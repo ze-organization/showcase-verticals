@@ -1,0 +1,15 @@
+{
+  "defaultEnvProfile": "prospera",
+  "envProfiles": {
+    "prospera": {
+      "allowWrite": false,
+      "site": "starter",
+      "siteCollection": "starter-collection",
+      "deployTokenExpiresIn": 86400,
+      "deployTokenLastUpdated": "2026-09-16T22:53:09.068Z"
+    }
+  },
+  "settings": {
+    "telemetryEnabled": true
+  }
+}

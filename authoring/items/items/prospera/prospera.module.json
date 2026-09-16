@@ -1,0 +1,63 @@
+{
+  "$schema": "../../../../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.prospera",
+  "description": "Prospera site/org serialized items. Paths seeded from prospera-showcase recipes (site=starter, collection=starter-collection). Adjust after first `dotnet sitecore ser pull` against the live CM if roots differ.",
+  "items": {
+    "includes": [
+      {
+        "name": "prospera.content",
+        "path": "/sitecore/content/starter-collection",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.templates",
+        "path": "/sitecore/templates/Project/starter",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.templates.collection",
+        "path": "/sitecore/templates/Project/starter-collection",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.templates.branches",
+        "path": "/sitecore/templates/Branches/Project/starter",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.renderings",
+        "path": "/sitecore/Layout/Renderings/Project/starter",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.placeholderSettings",
+        "path": "/sitecore/Layout/Placeholder Settings/Project/starter",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.settings",
+        "path": "/sitecore/system/Settings/Project/starter",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.media",
+        "path": "/sitecore/media library/Project/starter-collection",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "prospera.media.default",
+        "path": "/sitecore/media library/Project/Default",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}
