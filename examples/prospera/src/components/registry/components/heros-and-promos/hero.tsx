@@ -45,10 +45,10 @@ import {
 } from "@/lib/registry/media-playback";
 import {
   isEnabled,
+  parseActionTokens,
   parseBoolParam,
   parseButtonSize,
   parseButtonVariant,
-  parseColorScheme,
   parseDefaultOnCheckbox,
   parseOverlayColorScheme,
   parseOverlayMobilePosition,
@@ -139,9 +139,11 @@ const bridgeToEnvelope = (props: HeroVariantProps): HeroBlockProps => {
     EyebrowColorScheme: props.eyebrowColorScheme,
     PrimaryActionVariant: props.primaryActionVariant,
     PrimaryActionColorScheme: props.primaryActionColorScheme,
+    PrimaryActionFontColor: props.primaryActionFontColor,
     PrimaryActionShowArrow: toParamString(props.primaryActionShowArrow),
     SecondaryActionVariant: props.secondaryActionVariant,
     SecondaryActionColorScheme: props.secondaryActionColorScheme,
+    SecondaryActionFontColor: props.secondaryActionFontColor,
     SecondaryActionShowArrow: toParamString(props.secondaryActionShowArrow),
     ActionSize: props.actionSize,
     OverlayEnabled: toParamString(props.overlayEnabled),
@@ -222,18 +224,11 @@ function resolveHeroLayout(
       params?.PrimaryActionVariant,
       "default",
     ),
-    primaryActionColorScheme: parseColorScheme(
-      params?.PrimaryActionColorScheme,
-      "primary",
-    ),
+    ...parseActionTokens(params),
     primaryActionShowArrow: isEnabled(params?.PrimaryActionShowArrow),
     secondaryActionVariant: parseButtonVariant(
       params?.SecondaryActionVariant,
       "outline",
-    ),
-    secondaryActionColorScheme: parseColorScheme(
-      params?.SecondaryActionColorScheme,
-      "neutral",
     ),
     secondaryActionShowArrow: isEnabled(params?.SecondaryActionShowArrow),
   };

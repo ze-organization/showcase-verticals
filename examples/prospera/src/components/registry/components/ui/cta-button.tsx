@@ -10,9 +10,11 @@ import {
 } from "@/components/registry/primitives/editables/link";
 import { cn } from "@/lib/registry/cn";
 import {
+  buttonColorScheme,
   headingColorClass,
   isEnabled,
   parseButtonVariant,
+  parseColorScheme,
   parseHeadingColor,
 } from "@/lib/registry/param-parsers";
 import type { CmsProps } from "@/lib/registry/sitecore";
@@ -429,6 +431,9 @@ export function CtaButton({
   const resolvedSize = resolveButtonSize(size);
 
   const normalizedVariant = parseButtonVariant(variant);
+  const resolvedColorScheme = buttonColorScheme(
+    parseColorScheme(colorScheme, "primary"),
+  );
 
   // `iconName` is the leading `icon-name@1` icon; `icon` overrides the
   // trailing arrow glyph.
@@ -455,7 +460,7 @@ export function CtaButton({
         link={link}
         arrowIcon={arrowIcon}
         leadingIcon={leadingIcon}
-        colorScheme={colorScheme}
+        colorScheme={resolvedColorScheme}
         fontColorClass={fontColorClass}
         composedClassName={composedClassName}
         id={id}
@@ -473,7 +478,7 @@ export function CtaButton({
         id={id}
         variant={normalizedVariant}
         size={resolvedSize}
-        colorScheme={colorScheme}
+        colorScheme={resolvedColorScheme}
         asChild={asChild}
         className={composedClassName}
         {...buttonProps}
@@ -490,7 +495,7 @@ export function CtaButton({
   }
 
   const linkClassName = cn(
-    resolveLinkSlotClassName(normalizedVariant, colorScheme),
+    resolveLinkSlotClassName(normalizedVariant, resolvedColorScheme),
     fontColorClass,
   );
 
@@ -499,7 +504,7 @@ export function CtaButton({
       id={id}
       variant={normalizedVariant}
       size={resolvedSize}
-      colorScheme={colorScheme}
+      colorScheme={resolvedColorScheme}
       className={composedClassName}
       asChild
       {...buttonProps}

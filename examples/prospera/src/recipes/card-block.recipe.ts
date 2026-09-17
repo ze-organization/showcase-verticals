@@ -390,6 +390,16 @@ export const cardBlockRecipe = {
       },
     },
     {
+      name: "PrimaryActionFontColor",
+      shape: "enum",
+      default: "default",
+      sitecore: {
+        enumHandle: "heading-color@1",
+        hint: "Primary action label color, independent of PrimaryActionColorScheme. Default keeps the scheme's paired text.",
+        sortOrder: 755,
+      },
+    },
+    {
       name: "PrimaryActionShowArrow",
       shape: "boolean",
       sitecore: {
@@ -421,6 +431,16 @@ export const cardBlockRecipe = {
         enumHandle: "color-scheme@1",
         hint: "Secondary action button scheme. Independent of CardColorScheme.",
         sortOrder: 850,
+      },
+    },
+    {
+      name: "SecondaryActionFontColor",
+      shape: "enum",
+      default: "default",
+      sitecore: {
+        enumHandle: "heading-color@1",
+        hint: "Secondary action label color, independent of SecondaryActionColorScheme. Default keeps the scheme's paired text.",
+        sortOrder: 855,
       },
     },
     {

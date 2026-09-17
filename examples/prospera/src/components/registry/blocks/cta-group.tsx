@@ -53,12 +53,16 @@ export interface CtaGroupProps {
   primarySize?: ButtonSizeProp;
   /** Color scheme passed to the primary CTA Button. Defaults to `"primary"`. */
   primaryColorScheme?: ButtonColorSchemeProp;
+  /** Primary label color override (`heading-color@1` / FontColor). */
+  primaryFontColor?: string;
   /** Visual variant for the secondary CTA. Defaults to `"outline"`. */
   secondaryVariant?: ButtonVariantProp;
   /** Size token for the secondary CTA. Defaults to `"default"`. */
   secondarySize?: ButtonSizeProp;
   /** Color scheme passed to the secondary CTA Button. */
   secondaryColorScheme?: ButtonColorSchemeProp;
+  /** Secondary label color override (`heading-color@1` / FontColor). */
+  secondaryFontColor?: string;
   /**
    * Append a trailing arrow (→) after the primary CTA label. Accepts a
    * Sitecore string-boolean. Routed into the Link's `after` slot rather
@@ -98,9 +102,11 @@ export function CtaGroup({
   primaryVariant = "default",
   primarySize = "default",
   primaryColorScheme,
+  primaryFontColor,
   secondaryVariant = "outline",
   secondarySize = "default",
   secondaryColorScheme,
+  secondaryFontColor,
   primaryShowArrow,
   secondaryShowArrow,
   isEditing,
@@ -140,6 +146,7 @@ export function CtaGroup({
           variant={primaryButtonVariant}
           size={primarySize}
           colorScheme={primaryColorScheme}
+          fontColor={primaryFontColor}
           className={cn(wantsPrimaryArrow && "group")}
         >
           <Link
@@ -159,6 +166,7 @@ export function CtaGroup({
           variant={secondaryButtonVariant}
           size={secondarySize}
           colorScheme={secondaryColorScheme}
+          fontColor={secondaryFontColor}
           className={cn(wantsSecondaryArrow && "group")}
         >
           <Link

@@ -24,7 +24,11 @@ import {
 } from "@/components/registry/primitives/editables/text";
 import { cn } from "@/lib/registry/cn";
 import { mediaFitClass } from "@/lib/registry/media-fit";
-import { isEnabled } from "@/lib/registry/param-parsers";
+import {
+  isEnabled,
+  parseActionTokens,
+  parseColorScheme,
+} from "@/lib/registry/param-parsers";
 import { type CmsProps, Placeholder } from "@/lib/registry/sitecore";
 import { Button, type CtaButtonSize } from "./cta-button";
 
@@ -420,6 +424,8 @@ export interface CardBlockProps extends CmsProps {
    * (the common case). Defaults to `primary`.
    */
   primaryActionColorScheme?: CardBlockColorScheme;
+  /** Primary action label color (`heading-color@1`). */
+  primaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the primary action label. */
   primaryActionShowArrow?: string | boolean;
   secondaryAction?: LinkSource;
@@ -429,6 +435,8 @@ export interface CardBlockProps extends CmsProps {
    * reads as a calmer companion next to the main CTA.
    */
   secondaryActionColorScheme?: CardBlockColorScheme;
+  /** Secondary action label color (`heading-color@1`). */
+  secondaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the secondary action label. */
   secondaryActionShowArrow?: string | boolean;
   /**
@@ -479,12 +487,14 @@ function ActionLink({
   action,
   style,
   colorScheme,
+  fontColor,
   showArrow,
   size,
 }: {
   action: LinkSource | undefined;
   style: CardBlockActionStyle;
   colorScheme?: CardBlockColorScheme;
+  fontColor?: string;
   showArrow?: string | boolean;
   size?: CtaButtonSize;
 }) {
@@ -495,7 +505,12 @@ function ActionLink({
       // `default` is the one scheme a button can't paint — it means
       // "inherit", which for a CTA is "keep the caller's own default"
       // rather than a role, so hand back nothing.
-      colorScheme={colorScheme === "default" ? undefined : colorScheme}
+      colorScheme={
+        colorScheme === "default"
+          ? undefined
+          : parseColorScheme(colorScheme, "primary")
+      }
+      fontColor={fontColor}
       showArrow={showArrow}
       size={size}
     />
@@ -549,10 +564,12 @@ export function CardBlock({
   primaryAction,
   primaryActionVariant,
   primaryActionColorScheme = "primary",
+  primaryActionFontColor,
   primaryActionShowArrow,
   secondaryAction,
   secondaryActionVariant,
   secondaryActionColorScheme = "neutral",
+  secondaryActionFontColor,
   secondaryActionShowArrow,
   actionSize,
   actionPlacement = "start",
@@ -560,6 +577,12 @@ export function CardBlock({
 }: CardBlockProps) {
   const primaryActionStyle = primaryActionVariant ?? "default";
   const secondaryActionStyle = secondaryActionVariant ?? "outline";
+  const actionTokens = parseActionTokens({
+    primaryActionColorScheme,
+    primaryActionFontColor,
+    secondaryActionColorScheme,
+    secondaryActionFontColor,
+  });
   const isIconMedia = mediaBleed === "icon";
   const hasActions =
     primaryAction != null || secondaryAction != null || isEditing;
@@ -648,14 +671,16 @@ export function CardBlock({
             <ActionLink
               action={primaryAction}
               style={primaryActionStyle}
-              colorScheme={primaryActionColorScheme}
+              colorScheme={actionTokens.primaryActionColorScheme}
+              fontColor={actionTokens.primaryActionFontColor}
               showArrow={primaryActionShowArrow}
               size={actionSize}
             />
             <ActionLink
               action={secondaryAction}
               style={secondaryActionStyle}
-              colorScheme={secondaryActionColorScheme}
+              colorScheme={actionTokens.secondaryActionColorScheme}
+              fontColor={actionTokens.secondaryActionFontColor}
               showArrow={secondaryActionShowArrow}
               size={actionSize}
             />

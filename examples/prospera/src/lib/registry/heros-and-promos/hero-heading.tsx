@@ -180,6 +180,7 @@ function HeroHeadingActions({
           asChild
           variant={primaryButtonVariant}
           colorScheme={buttonColorScheme(heading.primaryActionColorScheme)}
+          fontColor={heading.primaryActionFontColor}
           size={heading.actionSize}
           className={cn(wantsPrimaryArrow && "group")}
         >
@@ -197,6 +198,7 @@ function HeroHeadingActions({
           asChild
           variant={secondaryButtonVariant}
           colorScheme={buttonColorScheme(heading.secondaryActionColorScheme)}
+          fontColor={heading.secondaryActionFontColor}
           size={heading.actionSize}
           className={cn(wantsSecondaryArrow && "group")}
         >

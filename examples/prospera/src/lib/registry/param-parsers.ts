@@ -126,17 +126,79 @@ export function parseDefaultOnCheckbox(
 }
 
 /**
+ * Optional GUID → enum-token lookup. `withSitecore` registers the
+ * droplist registry here so parsers can resolve Layout Service GUIDs
+ * (`{F9DAC70B-…}`) even when a custom map skipped the params walk.
+ */
+type EnumGuidResolver = (guid: string) => string | undefined;
+
+let enumGuidResolver: EnumGuidResolver | undefined;
+
+const ENUM_GUID_RE =
+  /^\{?[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}\}?$/;
+
+/** Wire the droplist registry into every enum parser. Idempotent. */
+export function registerEnumGuidResolver(resolver: EnumGuidResolver): void {
+  enumGuidResolver = resolver;
+}
+
+function resolveEnumGuid(value: string): string {
+  if (!enumGuidResolver || !ENUM_GUID_RE.test(value)) return value;
+  return enumGuidResolver(value) ?? value;
+}
+
+/**
+ * Coerce a rendering param or field into a plain string before
+ * `.trim()`. Preview Layout Service often hands Droplink enums as
+ * objects (`{ value }`, `{ name, displayName }`) or `guid|name`.
+ */
+export function coerceParamString(value: unknown): string | undefined {
+  let current = unwrapJssValue(value);
+  current = unwrapJssValue(current);
+  if (current == null || current === "") return undefined;
+  if (typeof current === "string") {
+    const name = current.includes("|")
+      ? current.slice(current.lastIndexOf("|") + 1)
+      : current;
+    const trimmed = name.trim();
+    if (!trimmed) return undefined;
+    const resolved = resolveEnumGuid(trimmed);
+    return resolved.length > 0 ? resolved : undefined;
+  }
+  if (typeof current === "number" || typeof current === "boolean") {
+    return String(current);
+  }
+  if (typeof current === "object") {
+    const obj = current as Record<string, unknown>;
+    for (const key of ["name", "displayName", "id"]) {
+      const named = obj[key];
+      if (typeof named === "string" && named) {
+        const resolved = resolveEnumGuid(named);
+        return resolved.length > 0 ? resolved : named;
+      }
+    }
+  }
+  return undefined;
+}
+
+function normalizeEnumParam(value: unknown): string | undefined {
+  const raw = coerceParamString(value);
+  if (!raw) return undefined;
+  return raw.trim().toLowerCase();
+}
+
+/**
  * Parse a value as the shared `color-scheme@1` enum (the `SurfaceTone`
  * set), falling back to an explicit default when the value is empty,
  * unknown, or out of the allowed set. Mirrors `isSurfaceTone` but
  * returns the typed value instead of a guard.
  */
 export function parseColorScheme(
-  value: string | undefined,
+  value: unknown,
   fallback: SurfaceTone,
 ): SurfaceTone {
-  if (!value) return fallback;
-  const normalized = value.trim().toLowerCase();
+  const normalized = normalizeEnumParam(value);
+  if (!normalized) return fallback;
   return isSurfaceTone(normalized) ? (normalized as SurfaceTone) : fallback;
 }
 
@@ -157,11 +219,11 @@ const BUTTON_VARIANT_VALUES: ReadonlySet<ButtonVariantValue> = new Set([
 
 /** Parse a value as the shared `button-variant@1` enum. */
 export function parseButtonVariant(
-  value: string | undefined,
+  value: unknown,
   fallback: ButtonVariantValue = "default",
 ): ButtonVariantValue {
-  if (!value) return fallback;
-  const normalized = value.trim().toLowerCase();
+  const normalized = normalizeEnumParam(value);
+  if (!normalized) return fallback;
   return BUTTON_VARIANT_VALUES.has(normalized as ButtonVariantValue)
     ? (normalized as ButtonVariantValue)
     : fallback;
@@ -515,14 +577,63 @@ const HEADING_COLOR_VALUES: ReadonlySet<HeadingColorValue> = new Set([
  * matching solid surface (see the `color-roles` skill).
  */
 export function parseHeadingColor(
-  value: string | undefined,
+  value: unknown,
   fallback: HeadingColorValue = "default",
 ): HeadingColorValue {
-  if (!value) return fallback;
-  const normalized = value.trim().toLowerCase();
+  const normalized = normalizeEnumParam(value);
+  if (!normalized) return fallback;
   return HEADING_COLOR_VALUES.has(normalized as HeadingColorValue)
     ? (normalized as HeadingColorValue)
     : fallback;
+}
+
+/**
+ * Shared primary/secondary CTA token parse. Components that expose
+ * `PrimaryActionColorScheme`, `PrimaryActionFontColor`,
+ * `SecondaryActionColorScheme`, and `SecondaryActionFontColor` (Sitecore
+ * `color-scheme@1` + `heading-color@1`) should run raw params through
+ * this so Droplink GUIDs / objects become design-token names.
+ *
+ * Accepts either PascalCase layout-service keys or the camelCase
+ * `withSitecore` convention names.
+ */
+export type ActionColorTokens = {
+  primaryActionColorScheme: SurfaceTone;
+  primaryActionFontColor: HeadingColorValue;
+  secondaryActionColorScheme: SurfaceTone;
+  secondaryActionFontColor: HeadingColorValue;
+};
+
+type ActionTokenSource = {
+  primaryActionColorScheme?: unknown;
+  primaryActionFontColor?: unknown;
+  secondaryActionColorScheme?: unknown;
+  secondaryActionFontColor?: unknown;
+  PrimaryActionColorScheme?: unknown;
+  PrimaryActionFontColor?: unknown;
+  SecondaryActionColorScheme?: unknown;
+  SecondaryActionFontColor?: unknown;
+};
+
+export function parseActionTokens(
+  source: ActionTokenSource | null | undefined,
+): ActionColorTokens {
+  return {
+    primaryActionColorScheme: parseColorScheme(
+      source?.primaryActionColorScheme ?? source?.PrimaryActionColorScheme,
+      "primary",
+    ),
+    primaryActionFontColor: parseHeadingColor(
+      source?.primaryActionFontColor ?? source?.PrimaryActionFontColor,
+    ),
+    secondaryActionColorScheme: parseColorScheme(
+      source?.secondaryActionColorScheme ?? source?.SecondaryActionColorScheme,
+      "neutral",
+    ),
+    secondaryActionFontColor: parseHeadingColor(
+      source?.secondaryActionFontColor ?? source?.SecondaryActionFontColor,
+    ),
+  };
 }
 
 const HEADING_COLOR_CLASS: Record<HeadingColorValue, string> = {

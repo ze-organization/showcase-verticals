@@ -7,7 +7,7 @@
       {
         "name": "prospera.content",
         "path": "/sitecore/content/starter-collection",
-        "allowedPushOperations": "CreateUpdateAndDelete",
+        "allowedPushOperations": "CreateOnly",
         "scope": "itemAndDescendants"
       },
       {
@@ -49,7 +49,7 @@
       {
         "name": "prospera.media.project",
         "path": "/sitecore/media library/Project",
-        "allowedPushOperations": "CreateUpdateAndDelete",
+        "allowedPushOperations": "CreateOnly",
         "scope": "itemAndDescendants"
       }
     ]

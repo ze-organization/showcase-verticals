@@ -1,4 +1,5 @@
 import { type ComponentType, cache, type JSX, useMemo } from "react";
+import { registerEnumGuidResolver } from "@/lib/registry/param-parsers";
 import type { ComponentProps } from "@/lib/registry/sitecore-types";
 import { applyWildcardBindings } from "@/lib/registry/wildcard/bindings";
 import type { WildcardItemState } from "@/lib/registry/wildcard/use-wildcard-item";
@@ -322,6 +323,7 @@ export function registerDroplistValues(
     if (typeof name !== "string" || name.length === 0) continue;
     droplistRegistry.set(normalizeGuid(guid), name);
   }
+  registerEnumGuidResolver((guid) => droplistRegistry.get(normalizeGuid(guid)));
 }
 
 /**

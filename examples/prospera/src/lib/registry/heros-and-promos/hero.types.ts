@@ -191,12 +191,16 @@ export interface HeroHeadingOptions {
   primaryActionVariant?: ButtonVariantValue;
   /** Primary CTA color scheme (shared `color-scheme@1`). */
   primaryActionColorScheme?: SurfaceTone;
+  /** Primary CTA label color (shared `heading-color@1`). */
+  primaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the primary CTA label. */
   primaryActionShowArrow?: boolean;
   /** Secondary CTA visual treatment. Defaults to `outline`. */
   secondaryActionVariant?: ButtonVariantValue;
   /** Secondary CTA color scheme (shared `color-scheme@1`). */
   secondaryActionColorScheme?: SurfaceTone;
+  /** Secondary CTA label color (shared `heading-color@1`). */
+  secondaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the secondary CTA label. */
   secondaryActionShowArrow?: boolean;
   /** Size applied to BOTH CTAs (shared `size@1`). */
@@ -252,12 +256,16 @@ export type HeroParams = ComponentProps["params"] & {
   PrimaryActionVariant?: string;
   /** Primary CTA color scheme (shared `color-scheme@1`). */
   PrimaryActionColorScheme?: string;
+  /** Primary CTA label color (shared `heading-color@1`). */
+  PrimaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the primary CTA label. */
   PrimaryActionShowArrow?: string;
   /** Secondary CTA treatment (shared `button-variant@1`). */
   SecondaryActionVariant?: string;
   /** Secondary CTA color scheme (shared `color-scheme@1`). */
   SecondaryActionColorScheme?: string;
+  /** Secondary CTA label color (shared `heading-color@1`). */
+  SecondaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the secondary CTA label. */
   SecondaryActionShowArrow?: string;
   /** Size applied to BOTH CTAs (shared `size@1`). */
@@ -368,12 +376,16 @@ export interface HeroVariantProps {
   primaryActionVariant?: string;
   /** Primary CTA color scheme (shared `color-scheme@1`). */
   primaryActionColorScheme?: string;
+  /** Primary CTA label color (shared `heading-color@1`). */
+  primaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the primary CTA label. */
   primaryActionShowArrow?: string | boolean;
   /** Secondary CTA treatment (shared `button-variant@1`). Defaults `outline`. */
   secondaryActionVariant?: string;
   /** Secondary CTA color scheme (shared `color-scheme@1`). */
   secondaryActionColorScheme?: string;
+  /** Secondary CTA label color (shared `heading-color@1`). */
+  secondaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the secondary CTA label. */
   secondaryActionShowArrow?: string | boolean;
   /** Size applied to BOTH CTAs (shared `size@1`). */

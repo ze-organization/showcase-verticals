@@ -248,6 +248,17 @@ export const heroRecipe = {
       },
     },
     {
+      name: "PrimaryActionFontColor",
+      shape: "enum",
+      default: "default",
+      sitecore: {
+        enumHandle: "heading-color@1",
+        hint: "Primary CTA label color, independent of PrimaryActionColorScheme. Default keeps the scheme's paired text.",
+        section: "Action",
+        sortOrder: 322,
+      },
+    },
+    {
       name: "PrimaryActionShowArrow",
       shape: "boolean",
       default: "false",
@@ -278,6 +289,17 @@ export const heroRecipe = {
         hint: "Color scheme of the secondary CTA button.",
         section: "Action",
         sortOrder: 340,
+      },
+    },
+    {
+      name: "SecondaryActionFontColor",
+      shape: "enum",
+      default: "default",
+      sitecore: {
+        enumHandle: "heading-color@1",
+        hint: "Secondary CTA label color, independent of SecondaryActionColorScheme. Default keeps the scheme's paired text.",
+        section: "Action",
+        sortOrder: 342,
       },
     },
     {

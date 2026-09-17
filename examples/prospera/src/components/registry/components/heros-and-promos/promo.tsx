@@ -61,6 +61,7 @@ import {
   type ButtonSizeValue,
   type ButtonVariantValue,
   isEnabled,
+  parseActionTokens,
   parseBoolParam,
   parseButtonSize,
   parseButtonVariant,
@@ -268,12 +269,16 @@ export interface BannerVariantProps extends CmsProps {
    * `surfaceTone`. Defaults to `primary`.
    */
   primaryActionColorScheme?: PromoColorScheme;
+  /** Primary CTA label color (`heading-color@1`). */
+  primaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the primary CTA label. */
   primaryActionShowArrow?: string | boolean;
   /** Visual variant for the secondary CTA button. */
   secondaryActionVariant?: string;
   /** Color scheme of the secondary CTA button. */
   secondaryActionColorScheme?: PromoColorScheme;
+  /** Secondary CTA label color (`heading-color@1`). */
+  secondaryActionFontColor?: string;
   /** Append a trailing arrow (→) after the secondary CTA label. */
   secondaryActionShowArrow?: string | boolean;
   /** Size token shared by BOTH CTA buttons (`size@1`). */
@@ -526,9 +531,11 @@ interface PromoShellProps {
   actionSize: ButtonSizeValue;
   primaryVariant: ButtonVariantValue;
   primaryColorScheme: PromoColorScheme;
+  primaryFontColor?: string;
   primaryShowArrow?: boolean;
   secondaryVariant: ButtonVariantValue;
   secondaryColorScheme: PromoColorScheme;
+  secondaryFontColor?: string;
   secondaryShowArrow?: boolean;
   id?: string;
   styles?: string;
@@ -693,9 +700,11 @@ function PromoCopyBlock({
   actionSize,
   primaryVariant,
   primaryColorScheme,
+  primaryFontColor,
   primaryShowArrow,
   secondaryVariant,
   secondaryColorScheme,
+  secondaryFontColor,
   secondaryShowArrow,
   title,
   description,
@@ -713,9 +722,11 @@ function PromoCopyBlock({
   | "actionSize"
   | "primaryVariant"
   | "primaryColorScheme"
+  | "primaryFontColor"
   | "primaryShowArrow"
   | "secondaryVariant"
   | "secondaryColorScheme"
+  | "secondaryFontColor"
   | "secondaryShowArrow"
   | "title"
   | "link"
@@ -790,10 +801,12 @@ function PromoCopyBlock({
         primaryVariant={primaryVariant}
         primarySize={actionSize}
         primaryColorScheme={buttonColorScheme(primaryColorScheme)}
+        primaryFontColor={primaryFontColor}
         primaryShowArrow={primaryShowArrow}
         secondaryVariant={secondaryVariant}
         secondarySize={actionSize}
         secondaryColorScheme={buttonColorScheme(secondaryColorScheme)}
+        secondaryFontColor={secondaryFontColor}
         secondaryShowArrow={secondaryShowArrow}
       />
     </div>
@@ -959,9 +972,11 @@ function PromoShell({
   actionSize,
   primaryVariant,
   primaryColorScheme,
+  primaryFontColor,
   primaryShowArrow,
   secondaryVariant,
   secondaryColorScheme,
+  secondaryFontColor,
   secondaryShowArrow,
   id,
   styles,
@@ -1045,9 +1060,11 @@ function PromoShell({
       actionSize={actionSize}
       primaryVariant={primaryVariant}
       primaryColorScheme={primaryColorScheme}
+      primaryFontColor={primaryFontColor}
       primaryShowArrow={primaryShowArrow}
       secondaryVariant={secondaryVariant}
       secondaryColorScheme={secondaryColorScheme}
+      secondaryFontColor={secondaryFontColor}
       secondaryShowArrow={secondaryShowArrow}
       title={title}
       description={description}
@@ -1186,22 +1203,22 @@ function PromoShell({
  * so every variant shares one wiring.
  */
 function resolveMediaVariantStyle(props: BannerVariantProps) {
+  const actionTokens = parseActionTokens(props);
   return {
     tone: parseColorScheme(props.surfaceTone, "none"),
     titleClass: titleSizeClass(props.titleSize),
     textAlign: parseTextAlign(props.layout, props.contentAlign),
     actionSize: parseButtonSize(props.actionSize),
     primaryVariant: parseButtonVariant(props.primaryActionVariant, "default"),
-    primaryScheme: parseColorScheme(props.primaryActionColorScheme, "primary"),
+    primaryScheme: actionTokens.primaryActionColorScheme,
+    primaryFontColor: actionTokens.primaryActionFontColor,
     primaryShowArrow: isEnabled(props.primaryActionShowArrow),
     secondaryVariant: parseButtonVariant(
       props.secondaryActionVariant,
       "outline",
     ),
-    secondaryScheme: parseColorScheme(
-      props.secondaryActionColorScheme,
-      "neutral",
-    ),
+    secondaryScheme: actionTokens.secondaryActionColorScheme,
+    secondaryFontColor: actionTokens.secondaryActionFontColor,
     secondaryShowArrow: isEnabled(props.secondaryActionShowArrow),
     secondaryLink:
       props.secondaryAction != null && !isEmptySource(props.secondaryAction)
@@ -1233,9 +1250,11 @@ function commonShellProps(
     actionSize: style.actionSize,
     primaryVariant: style.primaryVariant,
     primaryColorScheme: style.primaryScheme,
+    primaryFontColor: style.primaryFontColor,
     primaryShowArrow: style.primaryShowArrow,
     secondaryVariant: style.secondaryVariant,
     secondaryColorScheme: style.secondaryScheme,
+    secondaryFontColor: style.secondaryFontColor,
     secondaryShowArrow: style.secondaryShowArrow,
     backgroundScrim: parseSectionBackgroundScrim(props.backgroundScrim),
     backgroundPosition: parseSectionBackgroundPosition(
