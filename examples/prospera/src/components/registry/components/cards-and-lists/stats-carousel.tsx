@@ -2,6 +2,8 @@
 
 import { type ReactNode, useCallback, useMemo } from "react";
 import {
+  ComposedItemCarousel,
+  ComposedSpotlightFallback,
   FeatureSpotlightLayout,
   ItemCarousel,
   type ItemCarouselButtonShape,
@@ -11,6 +13,7 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  ensureCarouselOverflow,
   resolveNavigationLayoutParam,
   resolveSlideEmphasisParam,
 } from "@/components/registry/blocks";
@@ -235,16 +238,43 @@ function StatsCarouselInner({
   const hasItems = items.length > 0;
   const placeholderKey = "cards-stats-{*}";
 
-  if (layoutVariant === "feature-spotlight" && items.length > 0) {
+  if (layoutVariant === "feature-spotlight") {
+    if (items.length > 0) {
+      return (
+        <FeatureSpotlightLayout
+          colorScheme={colorScheme}
+          backgroundIntensity={backgroundIntensity}
+          paddingY={paddingY}
+          maxWidth={maxWidth}
+          items={items}
+          getKey={(stat) => stat.id}
+          renderItem={renderStat}
+          title={title}
+          lead={lead}
+          eyebrow={eyebrow}
+          cta={ctaLink}
+          reversed={reversed}
+          hideAccentLine={hideAccentLine}
+          ariaLabel="Stats"
+          emptyStateMessage={
+            typeof emptyStateMessage === "string" ? emptyStateMessage : "Stats"
+          }
+          className={cn("component stats stats-carousel", className?.trimEnd())}
+          id={id}
+          dataSlot="stats-carousel"
+        />
+      );
+    }
     return (
-      <FeatureSpotlightLayout
+      <ComposedSpotlightFallback
+        placeholderKey={placeholderKey}
+        rendering={rendering}
+        fallback={children}
+        emptyStateMessage={emptyStateMessage}
         colorScheme={colorScheme}
         backgroundIntensity={backgroundIntensity}
         paddingY={paddingY}
         maxWidth={maxWidth}
-        items={items}
-        getKey={(stat) => stat.id}
-        renderItem={renderStat}
         title={title}
         lead={lead}
         eyebrow={eyebrow}
@@ -252,13 +282,12 @@ function StatsCarouselInner({
         reversed={reversed}
         hideAccentLine={hideAccentLine}
         ariaLabel="Stats"
-        emptyStateMessage={
-          typeof emptyStateMessage === "string" ? emptyStateMessage : "Stats"
-        }
         className={cn("component stats stats-carousel", className?.trimEnd())}
         id={id}
         dataSlot="stats-carousel"
-      />
+      >
+        Stats
+      </ComposedSpotlightFallback>
     );
   }
 
@@ -303,11 +332,42 @@ function StatsCarouselInner({
       ) : (
         <ListingFallback
           heading={carouselHeading}
+          headingPlacement={headingPlacement}
           placeholderKey={placeholderKey}
           rendering={rendering}
           fallback={children}
           composedClassName="space-y-4"
           emptyStateMessage={emptyStateMessage}
+          composedOwnsHeading
+          wrapComposed={(nodes) => (
+            <ComposedItemCarousel
+              nodes={nodes}
+              ariaLabel="Stats"
+              heading={carouselHeading}
+              headingPlacement={headingPlacement}
+              resultControls={resultControls}
+              opts={{ align: "start" }}
+              layoutOptions={ensureCarouselOverflow(
+                slidesByBreakpoint,
+                nodes.length,
+              )}
+              controlOptions={{
+                navigation: navigation && nodes.length > 1,
+                buttonPlacement: "outer",
+                navigationLayout:
+                  resolveNavigationLayoutParam(navigationLayout),
+                buttonStyle: navigationButtonStyle,
+                buttonShape: navigationButtonShape,
+                slideEmphasis: resolveSlideEmphasisParam(slideEmphasis),
+                pagination: paginationStyle !== "none",
+                autoplay: {
+                  enabled: autoplay,
+                  delay: Math.max(1000, autoplayDelayMs),
+                  loop,
+                },
+              }}
+            />
+          )}
         >
           Stats
         </ListingFallback>

@@ -2,6 +2,8 @@
 
 import { type ReactNode, useCallback, useMemo } from "react";
 import {
+  ComposedItemCarousel,
+  ComposedSpotlightFallback,
   FeatureSpotlightLayout,
   ItemCarousel,
   type ItemCarouselButtonShape,
@@ -12,11 +14,13 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  ensureCarouselOverflow,
   resolveNavigationLayoutParam,
   resolveSlideEmphasisParam,
 } from "@/components/registry/blocks";
 import {
   CarouselPreviewStrip,
+  ComposedCarouselPreviewStrip,
   flatItemThumb,
   useCarouselPreviewStrip,
 } from "@/components/registry/blocks/carousel-preview-strip";
@@ -373,39 +377,67 @@ function LocationsCarouselInner({
   const previewStrip = useCarouselPreviewStrip();
   const showPreviewStrip = layoutVariant === "with-preview";
 
-  if (layoutVariant === "feature-spotlight" && items.length > 0) {
+  const hasItems = itemsWithDistance.length > 0;
+  const placeholderKey = "cards-locations-{*}";
+
+  if (layoutVariant === "feature-spotlight") {
+    if (items.length > 0) {
+      return (
+        <LocationsMapProvider items={itemsWithDistance}>
+          <FeatureSpotlightLayout
+            colorScheme={colorScheme}
+            backgroundIntensity={backgroundIntensity}
+            paddingY={paddingY}
+            maxWidth={maxWidth}
+            items={itemsWithDistance}
+            getKey={(loc) => loc.id}
+            renderItem={renderLocation}
+            title={title}
+            lead={lead}
+            cta={ctaLink}
+            reversed={reversed}
+            hideAccentLine={hideAccentLine}
+            ariaLabel="Locations"
+            emptyStateMessage={
+              typeof emptyStateMessage === "string"
+                ? emptyStateMessage
+                : "Locations"
+            }
+            className={className}
+            id={id}
+            entityName="locations"
+            dataSlot="locations-carousel"
+          />
+        </LocationsMapProvider>
+      );
+    }
     return (
       <LocationsMapProvider items={itemsWithDistance}>
-      <FeatureSpotlightLayout
-        colorScheme={colorScheme}
-        backgroundIntensity={backgroundIntensity}
-        paddingY={paddingY}
-        maxWidth={maxWidth}
-        items={itemsWithDistance}
-        getKey={(loc) => loc.id}
-        renderItem={renderLocation}
-        title={title}
-        lead={lead}
-        cta={ctaLink}
-        reversed={reversed}
-        hideAccentLine={hideAccentLine}
-        ariaLabel="Locations"
-        emptyStateMessage={
-          typeof emptyStateMessage === "string"
-            ? emptyStateMessage
-            : "Locations"
-        }
-        className={className}
-        id={id}
-        entityName="locations"
-        dataSlot="locations-carousel"
-      />
+        <ComposedSpotlightFallback
+          placeholderKey={placeholderKey}
+          rendering={rendering}
+          fallback={children}
+          emptyStateMessage={emptyStateMessage}
+          colorScheme={colorScheme}
+          backgroundIntensity={backgroundIntensity}
+          paddingY={paddingY}
+          maxWidth={maxWidth}
+          title={title}
+          lead={lead}
+          cta={ctaLink}
+          reversed={reversed}
+          hideAccentLine={hideAccentLine}
+          ariaLabel="Locations"
+          className={className}
+          id={id}
+          entityName="locations"
+          dataSlot="locations-carousel"
+        >
+          Locations
+        </ComposedSpotlightFallback>
       </LocationsMapProvider>
     );
   }
-
-  const hasItems = itemsWithDistance.length > 0;
-  const placeholderKey = "cards-locations-{*}";
 
   // SXA injects the per-placement digit suffix. Mirror the same shape
   // locations-list-grid uses so a map block dropped into either rendering
@@ -484,11 +516,53 @@ function LocationsCarouselInner({
       ) : (
         <ListingFallback
           heading={carouselHeading}
+          headingPlacement={headingPlacement}
           placeholderKey={placeholderKey}
           rendering={rendering}
           fallback={children}
           composedClassName="space-y-4"
           emptyStateMessage={emptyStateMessage}
+          composedOwnsHeading
+          wrapComposed={(nodes) => (
+            <>
+              <ComposedItemCarousel
+                setApi={showPreviewStrip ? previewStrip.setApi : undefined}
+                nodes={nodes}
+                ariaLabel="Locations"
+                heading={carouselHeading}
+                headingPlacement={headingPlacement}
+                resultControls={resultControls}
+                opts={{ align: "start" }}
+                layoutOptions={ensureCarouselOverflow(
+                  slidesByBreakpoint,
+                  nodes.length,
+                )}
+                controlOptions={{
+                  navigation: navigation && nodes.length > 1,
+                  buttonPlacement: "outer",
+                  navigationLayout:
+                    resolveNavigationLayoutParam(navigationLayout),
+                  buttonStyle: navigationButtonStyle,
+                  buttonShape: navigationButtonShape,
+                  slideEmphasis: resolveSlideEmphasisParam(slideEmphasis),
+                  pagination: paginationStyle !== "none",
+                  autoplay: {
+                    enabled: autoplay,
+                    delay: Math.max(1000, autoplayDelayMs),
+                    loop,
+                  },
+                }}
+              />
+              {showPreviewStrip ? (
+                <ComposedCarouselPreviewStrip
+                  nodes={nodes}
+                  activeIndex={previewStrip.activeIndex}
+                  onSelect={previewStrip.scrollTo}
+                  ariaLabel="Locations"
+                />
+              ) : null}
+            </>
+          )}
         >
           Locations
         </ListingFallback>

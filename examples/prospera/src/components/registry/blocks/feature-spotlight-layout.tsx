@@ -30,7 +30,9 @@ import { useCallback, useEffect, useState } from "react";
 
 import { Eyebrow } from "@/components/registry/blocks/eyebrow";
 import {
+  composedSlideKey,
   EmptyHint,
+  ListingFallback,
   ListingSectionRoot,
 } from "@/components/registry/blocks/listing-section";
 import AccentLine from "@/components/registry/graphics/icons/accent-line/accent-line";
@@ -402,6 +404,53 @@ export function FeatureSpotlightLayout<T>({
         </div>
       </div>
     </ListingSectionRoot>
+  );
+}
+
+/**
+ * Composed-mode FeatureSpotlight: placeholder children become the
+ * dual-carousel items. Curated/search still use FeatureSpotlightLayout
+ * directly with typed items; this is the empty-items branch so dropped
+ * cards keep the editorial pane + synced carousels.
+ */
+export function ComposedSpotlightFallback({
+  rendering,
+  placeholderKey,
+  fallback,
+  emptyStateMessage,
+  children,
+  ...spotlight
+}: {
+  rendering?: unknown;
+  placeholderKey: string;
+  fallback?: ReactNode;
+  emptyStateMessage?: TextSource;
+  children: ReactNode;
+} & Omit<
+  FeatureSpotlightLayoutProps<ReactNode>,
+  "items" | "getKey" | "renderItem" | "emptyStateMessage"
+>) {
+  const emptyLabel =
+    typeof emptyStateMessage === "string" ? emptyStateMessage : undefined;
+  return (
+    <ListingFallback
+      placeholderKey={placeholderKey}
+      rendering={rendering}
+      fallback={fallback}
+      composedOwnsHeading
+      emptyStateMessage={emptyStateMessage}
+      wrapComposed={(nodes) => (
+        <FeatureSpotlightLayout
+          {...spotlight}
+          items={nodes}
+          getKey={composedSlideKey}
+          renderItem={(node) => node}
+          emptyStateMessage={emptyLabel}
+        />
+      )}
+    >
+      {children}
+    </ListingFallback>
   );
 }
 

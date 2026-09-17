@@ -4,6 +4,7 @@ import type { UseEmblaCarouselType } from "embla-carousel-react";
 import type React from "react";
 import {
   type CSSProperties,
+  isValidElement,
   useEffect,
   useMemo,
   useRef,
@@ -192,6 +193,44 @@ export interface ItemCarouselControlOptions {
     delay?: number;
     loop?: boolean;
   };
+}
+
+/**
+ * Keep at least a sliver of the next slide in view whenever the item
+ * count would otherwise fill the viewport exactly (N cards at
+ * `SlidesPerView=N` reads as a static grid).
+ */
+export function ensureCarouselOverflow(
+  layout: ItemCarouselLayoutOptions,
+  count: number,
+): ItemCarouselLayoutOptions {
+  if (count < 2) return layout;
+  const maxVisible = count - 0.4;
+  const capSlides = (slides: number) => Math.min(slides, maxVisible);
+  const slidesPerView =
+    typeof layout.slidesPerView === "number"
+      ? capSlides(layout.slidesPerView)
+      : layout.slidesPerView;
+  if (!layout.breakpoints) {
+    return { ...layout, slidesPerView };
+  }
+  return {
+    ...layout,
+    slidesPerView,
+    breakpoints: Object.fromEntries(
+      Object.entries(layout.breakpoints).map(([width, cfg]) => [
+        width,
+        { ...cfg, slidesPerView: capSlides(cfg.slidesPerView) },
+      ]),
+    ),
+  };
+}
+
+function composedCarouselKey(node: React.ReactNode, index: number): string {
+  if (isValidElement(node) && node.key != null) {
+    return String(node.key);
+  }
+  return `composed-${index}`;
 }
 
 export interface ItemCarouselProps<TItem> {
@@ -1357,5 +1396,26 @@ export function ItemCarousel<TItem>({
         />
       ) : null}
     </div>
+  );
+}
+
+/**
+ * Wrap composed placeholder children as carousel slides. Pass as
+ * ListingFallback `wrapComposed` so dropped cards still ride Embla
+ * instead of stacking.
+ */
+export function ComposedItemCarousel({
+  nodes,
+  ...props
+}: {
+  nodes: React.ReactNode[];
+} & Omit<ItemCarouselProps<React.ReactNode>, "items" | "getKey" | "renderItem">) {
+  return (
+    <ItemCarousel
+      items={nodes}
+      getKey={composedCarouselKey}
+      renderItem={(node) => node}
+      {...props}
+    />
   );
 }

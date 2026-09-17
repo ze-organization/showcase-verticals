@@ -14,6 +14,7 @@ export * from "./chat-thread";
 export * from "./cta-group";
 export * from "./facet-list";
 export {
+  ComposedSpotlightFallback,
   FeatureSpotlightLayout,
   type FeatureSpotlightLayoutProps,
 } from "./feature-spotlight-layout";

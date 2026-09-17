@@ -2,6 +2,8 @@
 
 import { type ReactNode, useCallback, useMemo } from "react";
 import {
+  ComposedItemCarousel,
+  ComposedSpotlightFallback,
   FeatureSpotlightLayout,
   ItemCarousel,
   type ItemCarouselButtonShape,
@@ -12,11 +14,13 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  ensureCarouselOverflow,
   resolveNavigationLayoutParam,
   resolveSlideEmphasisParam,
 } from "@/components/registry/blocks";
 import {
   CarouselPreviewStrip,
+  ComposedCarouselPreviewStrip,
   flatItemThumb,
   useCarouselPreviewStrip,
 } from "@/components/registry/blocks/carousel-preview-strip";
@@ -324,16 +328,48 @@ function DestinationsCarouselInner({
   const hasItems = items.length > 0;
   const placeholderKey = "cards-destinations-{*}";
 
-  if (layoutVariant === "feature-spotlight" && items.length > 0) {
+  if (layoutVariant === "feature-spotlight") {
+    if (items.length > 0) {
+      return (
+        <FeatureSpotlightLayout
+          colorScheme={colorScheme}
+          backgroundIntensity={backgroundIntensity}
+          paddingY={paddingY}
+          maxWidth={maxWidth}
+          items={items}
+          getKey={(destination) => destination.id}
+          renderItem={renderDestination}
+          title={title}
+          lead={lead}
+          eyebrow={eyebrow}
+          cta={ctaLink}
+          reversed={reversed}
+          hideAccentLine={hideAccentLine}
+          ariaLabel="Destinations"
+          emptyStateMessage={
+            typeof emptyStateMessage === "string"
+              ? emptyStateMessage
+              : "Destinations"
+          }
+          className={cn(
+            "component destinations destinations-carousel",
+            className?.trimEnd(),
+          )}
+          id={id}
+          dataSlot="destinations-carousel"
+        />
+      );
+    }
     return (
-      <FeatureSpotlightLayout
+      <ComposedSpotlightFallback
+        placeholderKey={placeholderKey}
+        rendering={rendering}
+        fallback={children}
+        emptyStateMessage={emptyStateMessage}
         colorScheme={colorScheme}
         backgroundIntensity={backgroundIntensity}
         paddingY={paddingY}
         maxWidth={maxWidth}
-        items={items}
-        getKey={(destination) => destination.id}
-        renderItem={renderDestination}
         title={title}
         lead={lead}
         eyebrow={eyebrow}
@@ -341,18 +377,15 @@ function DestinationsCarouselInner({
         reversed={reversed}
         hideAccentLine={hideAccentLine}
         ariaLabel="Destinations"
-        emptyStateMessage={
-          typeof emptyStateMessage === "string"
-            ? emptyStateMessage
-            : "Destinations"
-        }
         className={cn(
           "component destinations destinations-carousel",
           className?.trimEnd(),
         )}
         id={id}
         dataSlot="destinations-carousel"
-      />
+      >
+        Destinations
+      </ComposedSpotlightFallback>
     );
   }
 
@@ -414,11 +447,57 @@ function DestinationsCarouselInner({
       ) : (
         <ListingFallback
           heading={carouselHeading}
+          headingPlacement={headingPlacement}
           placeholderKey={placeholderKey}
           rendering={rendering}
           fallback={children}
           composedClassName="space-y-4"
           emptyStateMessage={emptyStateMessage}
+          composedOwnsHeading
+          wrapComposed={(nodes) => (
+            <>
+              <ComposedItemCarousel
+                setApi={showPreviewStrip ? previewStrip.setApi : undefined}
+                nodes={nodes}
+                ariaLabel="Destinations"
+                heading={carouselHeading}
+                headingPlacement={headingPlacement}
+                resultControls={resultControls}
+                opts={{ align: "start" }}
+                layoutOptions={ensureCarouselOverflow(
+                  slidesByBreakpoint,
+                  nodes.length,
+                )}
+                controlOptions={{
+                  navigation:
+                    navigation === undefined
+                      ? nodes.length > 1
+                      : navigation && nodes.length > 1,
+                  buttonPlacement: "outer",
+                  navigationLayout:
+                    resolveNavigationLayoutParam(navigationLayout),
+                  buttonStyle: navigationButtonStyle,
+                  buttonShape: navigationButtonShape,
+                  slideEmphasis: resolveSlideEmphasisParam(slideEmphasis),
+                  pagination: paginationStyle !== "none",
+                  autoplay: {
+                    enabled: autoplay,
+                    delay: Math.max(1000, autoplayDelayMs),
+                    loop,
+                  },
+                }}
+                itemInnerClassName="h-full"
+              />
+              {showPreviewStrip ? (
+                <ComposedCarouselPreviewStrip
+                  nodes={nodes}
+                  activeIndex={previewStrip.activeIndex}
+                  onSelect={previewStrip.scrollTo}
+                  ariaLabel="Destinations"
+                />
+              ) : null}
+            </>
+          )}
         >
           Destinations
         </ListingFallback>

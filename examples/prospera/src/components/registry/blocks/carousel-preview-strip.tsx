@@ -1,7 +1,14 @@
 "use client";
 
 import type { UseEmblaCarouselType } from "embla-carousel-react";
-import { useCallback, useEffect, useRef, useState } from "react";
+import {
+  isValidElement,
+  type ReactNode,
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+} from "react";
 import { Button } from "@/components/registry/primitives/core/button";
 import { NextImage } from "@/components/registry/primitives/editables/image";
 import { cn } from "@/lib/registry/cn";
@@ -158,5 +165,33 @@ export function CarouselPreviewStrip<TItem>({
         );
       })}
     </div>
+  );
+}
+
+/** Numbered preview chips for composed carousel children (no image URL). */
+export function ComposedCarouselPreviewStrip({
+  nodes,
+  activeIndex,
+  onSelect,
+  ariaLabel,
+}: {
+  nodes: ReactNode[];
+  activeIndex: number;
+  onSelect: (index: number) => void;
+  ariaLabel?: string;
+}) {
+  return (
+    <CarouselPreviewStrip
+      items={nodes.map((node, index) => ({ node, index }))}
+      getKey={(item) =>
+        isValidElement(item.node) && item.node.key != null
+          ? String(item.node.key)
+          : `composed-${item.index}`
+      }
+      getThumb={(item) => ({ label: String(item.index + 1) })}
+      activeIndex={activeIndex}
+      onSelect={onSelect}
+      ariaLabel={ariaLabel}
+    />
   );
 }

@@ -6,6 +6,7 @@ import {
   ItemListing,
   ListingFallback,
   ListingSection,
+  wrapComposedByListVariant,
   parseBandHeadingPlacement,
   ResultControls,
   type ResultControlsProps,
@@ -457,6 +458,7 @@ function StatsListGridInner({
             rendering={rendering}
             fallback={children}
             composedClassName={layoutClassName}
+            wrapComposed={wrapComposedByListVariant(layoutVariant)}
             emptyStateMessage={emptyStateMessage}
           >
             Stats
@@ -501,6 +503,7 @@ function StatsListGridInner({
           rendering={rendering}
           fallback={children}
           composedClassName={layoutClassName}
+          wrapComposed={wrapComposedByListVariant(layoutVariant)}
           emptyStateMessage={emptyStateMessage}
         >
           Stats

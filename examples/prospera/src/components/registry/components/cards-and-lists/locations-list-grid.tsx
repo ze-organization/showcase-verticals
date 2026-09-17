@@ -8,6 +8,7 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  wrapComposedByListVariant,
 } from "@/components/registry/blocks";
 import {
   Compact as LocationCardCompact,
@@ -338,6 +339,7 @@ function LocationsListGridInner({
       rendering={rendering}
       fallback={children}
       composedClassName={listLayoutClassName}
+      wrapComposed={wrapComposedByListVariant(layoutVariant)}
       emptyStateMessage={emptyStateMessage}
     >
       Locations

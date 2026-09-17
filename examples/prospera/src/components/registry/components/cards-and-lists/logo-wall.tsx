@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import { composedChildNodes } from "@/components/registry/blocks/listing-section";
 import { TypographyH2 } from "@/components/registry/primitives/core/typography";
 import { ArrowLink } from "@/components/registry/primitives/editables/arrow-link";
 import {
@@ -31,7 +32,11 @@ import {
 } from "@/lib/registry/section-surface";
 import { resolvedPlaceholderName } from "@/lib/registry/placeholder-children";
 import { renderingHasComposedChildren } from "@/lib/registry/search/use-resolved-list-items";
-import { type CmsProps, Placeholder } from "@/lib/registry/sitecore";
+import {
+  type CmsProps,
+  type ComponentRendering,
+  Placeholder,
+} from "@/lib/registry/sitecore";
 
 /**
  * `logo-wall` — a strip or grid of partner / sponsor / client /
@@ -119,22 +124,37 @@ const GRID_COLUMNS_CLASS: Record<3 | 4 | 5 | 6, string> = {
   6: "lg:grid-cols-6",
 };
 
+const STRIP_COMPOSED_CLASS =
+  "flex flex-wrap items-center justify-center gap-2 [&>*]:shrink-0";
+
 function LogoWallCompose({
   items,
   rendering,
   empty,
   children,
+  composedClassName,
 }: {
   items: LogoWallItem[];
   isEditing?: boolean;
   rendering?: CmsProps["rendering"];
   empty: ReactNode;
   children: ReactNode;
+  /** Layout around composed logo-item children (strip row / grid / rows). */
+  composedClassName?: string;
 }) {
   if (items.length > 0 && !renderingHasComposedChildren(rendering)) {
     return children;
   }
   if (rendering) {
+    const envelope = rendering as ComponentRendering;
+    const { nodes } = composedChildNodes(
+      envelope,
+      "logo-wall",
+      envelope.params?.DynamicPlaceholderId,
+    );
+    if (nodes.length > 0) {
+      return <div className={composedClassName}>{nodes}</div>;
+    }
     return (
       <Placeholder
         name={resolvedPlaceholderName(rendering, "logo-wall-{*}")}
@@ -296,6 +316,7 @@ export function Strip({
         items={items}
         isEditing={isEditing}
         rendering={rendering}
+        composedClassName={STRIP_COMPOSED_CLASS}
         empty={
           <p className="py-8 text-center text-muted-foreground text-sm">
             Logo wall — drop Logo Item renderings into the placeholder
@@ -317,7 +338,7 @@ export function Strip({
             </div>
           </div>
         ) : (
-          <ul className="flex flex-wrap items-center justify-center gap-2">
+          <ul className={STRIP_COMPOSED_CLASS}>
             {tiles("logo")}
           </ul>
         )}
@@ -357,6 +378,10 @@ export function Grid({
         items={items}
         isEditing={isEditing}
         rendering={rendering}
+        composedClassName={cn(
+          "grid grid-cols-2 items-center gap-2 md:grid-cols-3",
+          GRID_COLUMNS_CLASS[columns],
+        )}
         empty={
           <p className="py-8 text-center text-muted-foreground text-sm">
             Logo wall — drop Logo Item renderings into the placeholder
@@ -422,6 +447,7 @@ export function RecognitionRows({
         items={items}
         isEditing={isEditing}
         rendering={rendering}
+        composedClassName="flex flex-col divide-y divide-border"
         empty={
           <p className="py-8 text-center text-muted-foreground text-sm">
             Logo wall — drop Logo Item renderings into the placeholder

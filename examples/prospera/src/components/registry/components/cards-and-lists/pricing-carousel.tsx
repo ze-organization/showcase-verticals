@@ -2,6 +2,8 @@
 
 import { type ReactNode, useCallback, useMemo } from "react";
 import {
+  ComposedItemCarousel,
+  ComposedSpotlightFallback,
   FeatureSpotlightLayout,
   ItemCarousel,
   type ItemCarouselButtonShape,
@@ -11,6 +13,7 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  ensureCarouselOverflow,
   resolveNavigationLayoutParam,
   resolveSlideEmphasisParam,
 } from "@/components/registry/blocks";
@@ -218,34 +221,62 @@ function PricingCarouselInner({
   const hasItems = items.length > 0;
   const placeholderKey = "cards-pricing-{*}";
 
-  if (layoutVariant === "feature-spotlight" && items.length > 0) {
+  if (layoutVariant === "feature-spotlight") {
+    if (items.length > 0) {
+      return (
+        <FeatureSpotlightLayout
+          colorScheme={colorScheme}
+          backgroundIntensity={backgroundIntensity}
+          paddingY={paddingY}
+          maxWidth={maxWidth}
+          items={items}
+          getKey={(plan) => plan.id}
+          renderItem={renderPricing}
+          title={title}
+          lead={lead}
+          cta={ctaLink}
+          reversed={reversed}
+          hideAccentLine={hideAccentLine}
+          ariaLabel="Pricing plans"
+          emptyStateMessage={
+            typeof emptyStateMessage === "string"
+              ? emptyStateMessage
+              : "Pricing plans"
+          }
+          className={cn(
+            "component pricing pricing-carousel",
+            className?.trimEnd(),
+          )}
+          id={id}
+          dataSlot="pricing-carousel"
+        />
+      );
+    }
     return (
-      <FeatureSpotlightLayout
+      <ComposedSpotlightFallback
+        placeholderKey={placeholderKey}
+        rendering={rendering}
+        fallback={children}
+        emptyStateMessage={emptyStateMessage}
         colorScheme={colorScheme}
         backgroundIntensity={backgroundIntensity}
         paddingY={paddingY}
         maxWidth={maxWidth}
-        items={items}
-        getKey={(plan) => plan.id}
-        renderItem={renderPricing}
         title={title}
         lead={lead}
         cta={ctaLink}
         reversed={reversed}
         hideAccentLine={hideAccentLine}
         ariaLabel="Pricing plans"
-        emptyStateMessage={
-          typeof emptyStateMessage === "string"
-            ? emptyStateMessage
-            : "Pricing plans"
-        }
         className={cn(
           "component pricing pricing-carousel",
           className?.trimEnd(),
         )}
         id={id}
         dataSlot="pricing-carousel"
-      />
+      >
+        Pricing plans
+      </ComposedSpotlightFallback>
     );
   }
 
@@ -290,12 +321,43 @@ function PricingCarouselInner({
       ) : (
         <ListingFallback
           heading={carouselHeading}
+          headingPlacement={headingPlacement}
           placeholderKey={placeholderKey}
           rendering={rendering}
           fallback={children}
           composedClassName="space-y-4"
           emptyStateMessage={emptyStateMessage}
           emptyClassName="flex min-h-[120px] items-center justify-center rounded-(--card-radius,var(--radius-lg)) border border-border border-dashed bg-muted/30 text-muted-foreground text-sm"
+          composedOwnsHeading
+          wrapComposed={(nodes) => (
+            <ComposedItemCarousel
+              nodes={nodes}
+              ariaLabel="Pricing plans"
+              heading={carouselHeading}
+              headingPlacement={headingPlacement}
+              resultControls={resultControls}
+              opts={{ align: "start" }}
+              layoutOptions={ensureCarouselOverflow(
+                slidesByBreakpoint,
+                nodes.length,
+              )}
+              controlOptions={{
+                navigation: navigation && nodes.length > 1,
+                buttonPlacement: "outer",
+                navigationLayout:
+                  resolveNavigationLayoutParam(navigationLayout),
+                buttonStyle: navigationButtonStyle,
+                buttonShape: navigationButtonShape,
+                slideEmphasis: resolveSlideEmphasisParam(slideEmphasis),
+                pagination: paginationStyle !== "none",
+                autoplay: {
+                  enabled: autoplay,
+                  delay: Math.max(1000, autoplayDelayMs),
+                  loop,
+                },
+              }}
+            />
+          )}
         >
           No pricing plans
         </ListingFallback>

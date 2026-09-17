@@ -7,6 +7,7 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  wrapComposedByListVariant,
 } from "@/components/registry/blocks";
 import {
   Default as FeatureCardDefault,
@@ -330,6 +331,7 @@ function FeaturesListGridInner({
           rendering={rendering}
           fallback={children}
           composedClassName={layoutClassName}
+          wrapComposed={wrapComposedByListVariant(layoutVariant)}
           emptyStateMessage={emptyStateMessage}
         >
           Features

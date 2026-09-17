@@ -1,6 +1,6 @@
 "use client";
 
-import type { ReactNode } from "react";
+import { isValidElement, type ReactNode } from "react";
 import {
   BAND_INLINE_HEADING_GRID_CLASS,
   parseBandHeadingPlacement,
@@ -146,6 +146,87 @@ export function composedChildNodes(
 }
 
 /**
+ * Stable key for a composed placeholder child mounted as a carousel
+ * slide. Prefers the React key {@link composedChildNodes} already
+ * stamped from the child's uid.
+ */
+export function composedSlideKey(node: ReactNode, index: number): string {
+  if (isValidElement(node) && node.key != null) {
+    return String(node.key);
+  }
+  return `composed-${index}`;
+}
+
+/**
+ * Featured 2+1 split for composed placeholder children. Card variants
+ * stay whatever the author dropped; the layout chrome matches curated
+ * FeaturedLayout (hero col-span-2, up to three sidebar cells).
+ */
+export function wrapComposedFeaturedSplit(nodes: ReactNode[]): ReactNode {
+  const [featured, ...rest] = nodes;
+  if (!featured) return null;
+  return (
+    <div className="grid gap-6 lg:grid-cols-3">
+      <div className="min-w-0 lg:col-span-2">{featured}</div>
+      <ul className="grid list-none grid-cols-1 gap-4 ps-0 sm:grid-cols-2 lg:grid-cols-1">
+        {rest.slice(0, 3).map((node, index) => (
+          <li key={composedSlideKey(node, index)} className="min-w-0">
+            {node}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+/**
+ * Featured-list 7/5 split for composed children: lead cell beside an
+ * uncapped divider-separated stack. Matches curated FeaturedListLayout.
+ */
+export function wrapComposedFeaturedList(nodes: ReactNode[]): ReactNode {
+  const [featured, ...rest] = nodes;
+  if (!featured) return null;
+  return (
+    <div className="grid gap-8 lg:grid-cols-12">
+      <div className="min-w-0 lg:col-span-7 [&>*]:h-full">{featured}</div>
+      <ul className="m-0 list-none divide-y divide-border ps-0 lg:col-span-5">
+        {rest.map((node, index) => (
+          <li
+            key={composedSlideKey(node, index)}
+            className="min-w-0 py-3 first:pt-0 last:pb-0"
+          >
+            {node}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+/** Fifty-fifty: first two composed children in a 2-col grid. */
+export function wrapComposedFiftyFifty(nodes: ReactNode[]): ReactNode {
+  return (
+    <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
+      {nodes.slice(0, 2).map((node, index) => (
+        <div key={composedSlideKey(node, index)} className="min-w-0">
+          {node}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+/** wrapComposed for list-grid variants that need more than a className. */
+export function wrapComposedByListVariant(
+  layoutVariant: string,
+): ((nodes: ReactNode[]) => ReactNode) | undefined {
+  if (layoutVariant === "featured") return wrapComposedFeaturedSplit;
+  if (layoutVariant === "featured-list") return wrapComposedFeaturedList;
+  if (layoutVariant === "fifty-fifty") return wrapComposedFiftyFifty;
+  return undefined;
+}
+
+/**
  * No-items body for a cards-and-lists listing: the section heading
  * (Eyebrow / Title / Lead) followed by either the composed placeholder
  * slot or the empty-state hint.
@@ -171,6 +252,7 @@ export function ListingFallback({
   children,
   isEditing,
   wrapComposed,
+  composedOwnsHeading,
 }: {
   /** SectionHeading config — same object the items branch hands to
    * `ItemCarousel` / `ItemListing`. Omit for headingless listings. */
@@ -202,6 +284,12 @@ export function ListingFallback({
    * slides, featured split). Default: a `div` with `composedClassName`.
    */
   wrapComposed?: (nodes: ReactNode[]) => ReactNode;
+  /**
+   * When true, `wrapComposed` owns heading chrome (carousel header-nav
+   * row, inline heading placement). ListingFallback still wraps the
+   * empty/editing tray so Title / Lead stay visible on a fresh drop.
+   */
+  composedOwnsHeading?: boolean;
 }) {
   const sitecore = useSitecore() as {
     page?: { mode?: { isEditing?: boolean } };
@@ -254,6 +342,7 @@ export function ListingFallback({
     );
   }
   if (!heading) return body;
+  if (composedOwnsHeading && nodes.length > 0) return body;
   if (parseBandHeadingPlacement(headingPlacement) === "inline") {
     return (
       <div className={BAND_INLINE_HEADING_GRID_CLASS}>

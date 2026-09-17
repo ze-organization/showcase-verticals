@@ -8,6 +8,7 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  wrapComposedByListVariant,
 } from "@/components/registry/blocks";
 import {
   Default as ReviewCardDefault,
@@ -287,6 +288,7 @@ function ReviewsListGridInner({
           rendering={rendering}
           fallback={children}
           composedClassName={layoutClassName}
+          wrapComposed={wrapComposedByListVariant(layoutVariant)}
           emptyStateMessage={emptyStateMessage}
         >
           Reviews

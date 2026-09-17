@@ -8,6 +8,7 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  wrapComposedByListVariant,
 } from "@/components/registry/blocks";
 import { CardNavigate } from "@/components/registry/blocks/card-navigate";
 import {
@@ -351,6 +352,7 @@ function PersonListGridInner({
           rendering={rendering}
           fallback={children}
           composedClassName={layoutClassName}
+          wrapComposed={wrapComposedByListVariant(layoutVariant)}
           emptyStateMessage={emptyStateMessage}
         >
           People

@@ -2,6 +2,8 @@
 
 import { type ReactNode, useCallback, useMemo } from "react";
 import {
+  ComposedItemCarousel,
+  ComposedSpotlightFallback,
   FeatureSpotlightLayout,
   ItemCarousel,
   type ItemCarouselButtonShape,
@@ -12,11 +14,13 @@ import {
   ListingFallback,
   ListingSection,
   type ResultControlsProps,
+  ensureCarouselOverflow,
   resolveNavigationLayoutParam,
   resolveSlideEmphasisParam,
 } from "@/components/registry/blocks";
 import {
   CarouselPreviewStrip,
+  ComposedCarouselPreviewStrip,
   flatItemThumb,
   useCarouselPreviewStrip,
 } from "@/components/registry/blocks/carousel-preview-strip";
@@ -307,16 +311,48 @@ function ArticlesCarouselInner({
     spaceBetween,
   ]);
 
-  if (layoutVariant === "feature-spotlight" && items.length > 0) {
+  if (layoutVariant === "feature-spotlight") {
+    if (items.length > 0) {
+      return (
+        <FeatureSpotlightLayout
+          colorScheme={colorScheme}
+          backgroundIntensity={backgroundIntensity}
+          paddingY={paddingY}
+          maxWidth={maxWidth}
+          items={items}
+          getKey={(item) => item.id}
+          renderItem={renderArticle}
+          title={title}
+          lead={lead}
+          eyebrow={eyebrow}
+          cta={ctaLink}
+          reversed={reversed}
+          hideAccentLine={hideAccentLine}
+          ariaLabel="Articles"
+          emptyStateMessage={
+            typeof emptyStateMessage === "string"
+              ? emptyStateMessage
+              : "Articles"
+          }
+          className={cn(
+            "component articles articles-carousel",
+            className?.trimEnd(),
+          )}
+          id={id}
+          dataSlot="articles-carousel"
+        />
+      );
+    }
     return (
-      <FeatureSpotlightLayout
+      <ComposedSpotlightFallback
+        placeholderKey={placeholderKey}
+        rendering={rendering}
+        fallback={children}
+        emptyStateMessage={emptyStateMessage}
         colorScheme={colorScheme}
         backgroundIntensity={backgroundIntensity}
         paddingY={paddingY}
         maxWidth={maxWidth}
-        items={items}
-        getKey={(item) => item.id}
-        renderItem={renderArticle}
         title={title}
         lead={lead}
         eyebrow={eyebrow}
@@ -324,16 +360,15 @@ function ArticlesCarouselInner({
         reversed={reversed}
         hideAccentLine={hideAccentLine}
         ariaLabel="Articles"
-        emptyStateMessage={
-          typeof emptyStateMessage === "string" ? emptyStateMessage : "Articles"
-        }
         className={cn(
           "component articles articles-carousel",
           className?.trimEnd(),
         )}
         id={id}
         dataSlot="articles-carousel"
-      />
+      >
+        Articles
+      </ComposedSpotlightFallback>
     );
   }
 
@@ -394,11 +429,56 @@ function ArticlesCarouselInner({
       ) : (
         <ListingFallback
           heading={carouselHeading}
+          headingPlacement={headingPlacement}
           placeholderKey={placeholderKey}
           rendering={rendering}
           fallback={children}
           composedClassName="space-y-4"
           emptyStateMessage={emptyStateMessage}
+          composedOwnsHeading
+          wrapComposed={(nodes) => (
+            <>
+              <ComposedItemCarousel
+                setApi={showPreviewStrip ? previewStrip.setApi : undefined}
+                nodes={nodes}
+                ariaLabel="Articles"
+                heading={carouselHeading}
+                headingPlacement={headingPlacement}
+                resultControls={resultControls}
+                opts={{ align: "start" }}
+                orientation={
+                  layoutVariant === "vertical-split" ? "vertical" : "horizontal"
+                }
+                layoutOptions={ensureCarouselOverflow(
+                  slidesByBreakpoint,
+                  nodes.length,
+                )}
+                controlOptions={{
+                  navigation: navigation && nodes.length > 1,
+                  buttonPlacement: "outer",
+                  navigationLayout:
+                    resolveNavigationLayoutParam(navigationLayout),
+                  buttonStyle: navigationButtonStyle,
+                  buttonShape: navigationButtonShape,
+                  slideEmphasis: resolveSlideEmphasisParam(slideEmphasis),
+                  pagination: paginationStyle !== "none",
+                  autoplay: {
+                    enabled: autoplay,
+                    delay: Math.max(1000, autoplayDelayMs),
+                    loop,
+                  },
+                }}
+              />
+              {showPreviewStrip ? (
+                <ComposedCarouselPreviewStrip
+                  nodes={nodes}
+                  activeIndex={previewStrip.activeIndex}
+                  onSelect={previewStrip.scrollTo}
+                  ariaLabel="Articles"
+                />
+              ) : null}
+            </>
+          )}
         >
           Articles
         </ListingFallback>
