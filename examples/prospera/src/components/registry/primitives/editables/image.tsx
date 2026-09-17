@@ -347,8 +347,14 @@ export function NextImage({
   // `unoptimized` prop overrides the host heuristic. This is what lets
   // next.config scope remotePatterns to first-party hosts without 404ing
   // unknown brand URLs. (fill/sizes/priority are next/image-only.)
+  //
+  // Pages live-patches the `<img>` inside field chrome when an author
+  // changes media or switches an A/B datasource. `next/image` rewrites
+  // src to `/_next/image?url=…`, so those patches never paint until a
+  // full canvas reload. Stay on the SDK `<img>` while editing.
   const renderUnoptimized =
-    unoptimized ?? !isTrustedImageHost(resolveImageSrc(value));
+    Boolean(isEditing) ||
+    (unoptimized ?? !isTrustedImageHost(resolveImageSrc(value)));
   if (renderUnoptimized) {
     // Forward `loading` / `decoding` (native `<img>` attrs, carried in
     // `rest` off `ComponentProps<typeof NextJsImage>`) onto the bare
