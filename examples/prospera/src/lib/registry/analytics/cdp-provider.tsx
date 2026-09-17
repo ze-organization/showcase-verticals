@@ -278,7 +278,6 @@ async function dispatchToSdk(
           mobile,
           firstName,
           lastName,
-          title,
           city,
           country,
           dob,
@@ -294,7 +293,6 @@ async function dispatchToSdk(
           mobile?: string;
           firstName?: string;
           lastName?: string;
-          title?: string;
           city?: string;
           country?: string;
           dob?: string;
@@ -310,14 +308,34 @@ async function dispatchToSdk(
             : email
               ? [{ id: email, provider: "email" }]
               : [];
+        // Cloud SDK identity() does not infer channel/currency; if they
+        // are omitted they never reach the payload and Edge returns
+        // 400 "[channel] is a required field for IDENTITY events".
+        // Official example: https://doc.sitecore.com/sdk/en/developers/latest/cloud-sdk/identity-events.html
+        const language =
+          typeof document !== "undefined"
+            ? document.documentElement.lang
+                ?.split("-")[0]
+                ?.toUpperCase() || "EN"
+            : "EN";
+        const page =
+          typeof window !== "undefined"
+            ? window.location.pathname
+                .split("/")
+                .filter(Boolean)
+                .pop() || "Home Page"
+            : "Home Page";
         await events.identity({
+          channel: "WEB",
+          currency: "USD",
+          language,
+          page,
           identifiers: resolvedIdentifiers,
           ...(email ? { email } : {}),
           ...(phone ? { phone } : {}),
           ...(mobile ? { mobile } : {}),
           ...(firstName ? { firstName } : {}),
           ...(lastName ? { lastName } : {}),
-          ...(title ? { title } : {}),
           ...(city ? { city } : {}),
           ...(country ? { country } : {}),
           ...(dob ? { dob } : {}),
