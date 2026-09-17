@@ -120,8 +120,8 @@ function parseDrawerSide(value: string | undefined): "start" | "end" {
 /**
  * `breakpoint-visibility@1` → viewport gate on the whole rendering.
  * `all` (default) keeps it visible at every breakpoint; `mobile-only`
- * hides it at `md`+ (`md:hidden`) so a hamburger placement can sit
- * beside a desktop nav strip that appears at `md`. Unknown/empty values
+ * hides it at `lg`+ (`lg:hidden`) so a hamburger placement can sit
+ * beside a desktop nav strip that appears at `lg`. Unknown/empty values
  * alias to `all`, so a placement that never set the param renders
  * byte-identically to before.
  */
@@ -159,12 +159,12 @@ function useMobileMenuChrome(
   const accessibleTitle = titleText ?? MENU_A11Y_FALLBACK;
   const triggerLabel = props.fields?.TriggerLabel?.value ?? "Open menu";
   // `VisibleAt` (breakpoint-visibility@1) gates the whole rendering by
-  // viewport width — `mobile-only` hides it at `md`+. Default `all`
+  // viewport width — `mobile-only` hides it at `lg`+. Default `all`
   // emits no class, keeping existing placements byte-identical.
   const visibleAt = parseVisibleAt(params.VisibleAt);
   const rootClassName = cn(
     "mobile-menu",
-    visibleAt === "mobile-only" && "md:hidden",
+    visibleAt === "mobile-only" && "lg:hidden",
     styles,
   );
   const triggerIcon = params.IconName;
@@ -186,9 +186,9 @@ function useMobileMenuChrome(
   );
   const placeholderName = `mobile-menu-${ph}`;
   // Composed nav renderings ship desktop-first responsive classes —
-  // main-nav's strip is `hidden md:flex`, which inside THIS panel (a
+  // main-nav's strip is `hidden lg:flex`, which inside THIS panel (a
   // mobile drawer/overlay/sheet) left the menu completely EMPTY below
-  // the `md` breakpoint. The panel is its own viewport-independent
+  // the `lg` breakpoint. The panel is its own viewport-independent
   // context, so force nested nav strips visible and stack them
   // vertically. Two-class arbitrary variants outweigh the strip's
   // single-class `hidden`, no `!important` needed.

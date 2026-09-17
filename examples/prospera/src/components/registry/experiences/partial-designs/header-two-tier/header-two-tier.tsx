@@ -45,7 +45,7 @@ export function Default() {
           Standard variant's bordered strip — that is what makes the two
           rows read as distinct rows rather than one taller bar. */}
       <div
-        className="hidden bg-muted text-sm md:block"
+        className="hidden bg-muted text-sm lg:block"
         data-slot="header-utility-tier"
       >
         <div className="container mx-auto flex items-center justify-between gap-4 px-4 py-2">
@@ -73,8 +73,8 @@ export function Default() {
             Showcase
           </a>
         </HeaderStart>
-        <HeaderNav className="hidden md:flex">
-          <ul className="flex h-full flex-wrap items-center justify-start gap-5">
+        <HeaderNav className="hidden lg:flex">
+          <ul className="flex h-full flex-nowrap items-center justify-start gap-5">
             {navItems.map((item) => (
               <li key={item.label}>
                 <a
@@ -87,7 +87,7 @@ export function Default() {
             ))}
           </ul>
         </HeaderNav>
-        <HeaderEnd className="hidden md:flex">
+        <HeaderEnd className="hidden lg:flex">
           <a
             href="/Get-Started"
             className="rounded-md bg-primary px-4 py-2 font-medium text-primary-foreground text-sm hover:bg-primary/90"
@@ -95,7 +95,7 @@ export function Default() {
             Get started
           </a>
         </HeaderEnd>
-        <div className="flex items-center text-muted-foreground text-sm md:hidden">
+        <div className="flex items-center text-muted-foreground text-sm lg:hidden">
           ☰
         </div>
       </HeaderInner>

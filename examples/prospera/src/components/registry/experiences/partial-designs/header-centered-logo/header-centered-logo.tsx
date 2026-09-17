@@ -34,7 +34,7 @@ export function Default() {
         >
           Showcase
         </a>
-        <HeaderEnd className="absolute end-4 top-1/2 hidden -translate-y-1/2 gap-4 md:flex">
+        <HeaderEnd className="absolute end-4 top-1/2 hidden -translate-y-1/2 gap-4 lg:flex">
           <span className="text-muted-foreground text-sm">EN ▾</span>
           <a
             href="/account"
@@ -43,12 +43,12 @@ export function Default() {
             Log in
           </a>
         </HeaderEnd>
-        <div className="absolute end-4 top-1/2 flex -translate-y-1/2 items-center text-muted-foreground text-sm md:hidden">
+        <div className="absolute end-4 top-1/2 flex -translate-y-1/2 items-center text-muted-foreground text-sm lg:hidden">
           ☰
         </div>
       </div>
       {/* Nav row: centered on a bordered row below the brand. */}
-      <div className="hidden border-t md:block">
+      <div className="hidden border-t lg:block">
         <div className="container mx-auto flex items-center justify-center gap-6 px-4">
           <ul className="flex flex-wrap items-center justify-center gap-5">
             {navItems.map((item) => (

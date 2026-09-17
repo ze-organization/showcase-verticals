@@ -110,9 +110,9 @@ export const mobileMenuRecipe = {
     },
     {
       // Viewport gate on the whole rendering. `all` (default) keeps it
-      // visible at every breakpoint; `mobile-only` hides it at `md`+
-      // (md:hidden) so the hamburger shows only on small viewports and a
-      // desktop nav strip in a sibling slot can take over above `md`.
+      // visible at every breakpoint; `mobile-only` hides it at `lg`+
+      // (lg:hidden) so the hamburger shows only on small viewports and a
+      // desktop nav strip in a sibling slot can take over above `lg`.
       // A hamburger is almost always the first/last thing in a row, never
       // stacked — this lets one placement serve mobile without doubling
       // up on desktop.
@@ -121,7 +121,7 @@ export const mobileMenuRecipe = {
       default: "all",
       sitecore: {
         enumHandle: "breakpoint-visibility@1",
-        hint: "When the hamburger is visible. `all` (default) shows it at every breakpoint; `mobile-only` hides it at the `md` breakpoint and up (md:hidden) so it shows only on small viewports.",
+        hint: "When the hamburger is visible. `all` (default) shows it at every breakpoint; `mobile-only` hides it at the `lg` breakpoint and up (lg:hidden) so it shows only on small viewports.",
         sortOrder: 410,
       },
     },

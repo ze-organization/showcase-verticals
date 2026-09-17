@@ -480,7 +480,7 @@ export function Logo({ params, fields, isEditing }: ImageBlockProps) {
   const imageEl = (
     <BareImage
       value={image ?? fields?.Image}
-      className="h-9 w-auto max-w-[12rem] object-contain"
+      className="h-9 w-auto max-w-[12rem] shrink-0 object-contain"
       loading="eager"
       decoding="async"
       isEditing={editing}
@@ -505,7 +505,7 @@ export function Logo({ params, fields, isEditing }: ImageBlockProps) {
   return (
     <div
       className={cn(
-        "component image image-logo inline-flex min-h-9 min-w-8 w-auto items-center",
+        "component image image-logo inline-flex min-h-9 min-w-8 w-auto shrink-0 items-center",
         styles?.trimEnd(),
       )}
       id={id ?? undefined}

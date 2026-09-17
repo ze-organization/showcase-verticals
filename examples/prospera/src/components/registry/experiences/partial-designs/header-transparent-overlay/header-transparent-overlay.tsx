@@ -39,8 +39,8 @@ export function Default() {
               Showcase
             </a>
           </HeaderStart>
-          <HeaderNav className="hidden md:flex">
-            <ul className="flex h-full flex-wrap items-center justify-start gap-5">
+          <HeaderNav className="hidden lg:flex">
+            <ul className="flex h-full flex-nowrap items-center justify-start gap-5">
               {navItems.map((item) => (
                 <li key={item.label}>
                   <a
@@ -53,7 +53,7 @@ export function Default() {
               ))}
             </ul>
           </HeaderNav>
-          <HeaderEnd className="hidden md:flex">
+          <HeaderEnd className="hidden lg:flex">
             <a
               href="/get-started"
               className="inline-flex h-8 items-center rounded-md border border-theme-white/40 px-3 text-sm text-theme-white transition-colors hover:border-theme-white"
@@ -61,7 +61,7 @@ export function Default() {
               Get started
             </a>
           </HeaderEnd>
-          <div className="flex items-center text-sm text-theme-white md:hidden">
+          <div className="flex items-center text-sm text-theme-white lg:hidden">
             ☰
           </div>
         </HeaderInner>

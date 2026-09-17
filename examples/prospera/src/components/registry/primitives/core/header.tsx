@@ -53,7 +53,11 @@ function HeaderStart({ className, ...props }: React.ComponentProps<"div">) {
     <div
       data-slot="header-start"
       className={cn(
-        "max-lg:order-0 max-lg:min-w-0 max-lg:flex-1 lg:flex-[1_1]",
+        // Logo column is content-sized and never shrinks. `min-w-0` +
+        // `flex-1` used to let this slot collapse under the nav strip,
+        // so the wordmark overflowed into the first nav item. Grow on
+        // small viewports only, to push the hamburger to the inline end.
+        "flex shrink-0 items-center max-lg:grow",
         className,
       )}
       {...props}
@@ -77,8 +81,9 @@ function HeaderNav({
       data-slot="header-nav"
       data-orientation={orientation}
       className={cn(
-        !isVertical &&
-          "max-lg:order-0 max-lg:me-auto max-lg:w-2/3 lg:flex-[4_1]",
+        // Remaining space after the logo / end cluster. A forced
+        // `w-2/3` used to starve the logo column on tablet widths.
+        !isVertical && "min-w-0 flex-1",
         isVertical && "w-full",
         className,
       )}
@@ -92,7 +97,7 @@ function HeaderNav({
           className={cn(
             isVertical
               ? "flex w-full flex-col flex-nowrap items-stretch gap-0.5"
-              : "flex h-full flex-wrap justify-start gap-5",
+              : "flex h-full flex-nowrap justify-start gap-5",
           )}
         >
           {children}
@@ -117,8 +122,7 @@ function HeaderEnd({
       data-slot="header-end"
       data-orientation={orientation}
       className={cn(
-        !isVertical &&
-          "flex items-center justify-end max-lg:order-0 max-lg:shrink-0 lg:flex-[1_1]",
+        !isVertical && "flex shrink-0 items-center justify-end",
         isVertical && "flex w-full flex-row flex-wrap items-center gap-2",
         className,
       )}
@@ -158,7 +162,7 @@ function HeaderInner({
       <div
         data-slot="header-inner"
         className={cn(
-          "container relative mx-auto flex min-h-(--header-height,4rem) flex-wrap items-center gap-3 px-4 lg:gap-5",
+          "container relative mx-auto flex min-h-(--header-height,4rem) flex-nowrap items-center gap-3 px-4 lg:gap-5",
           className,
         )}
         {...props}
@@ -186,7 +190,7 @@ function HeaderInner({
       <div
         data-slot="header-inner"
         className={cn(
-          "container relative mx-auto flex min-h-(--header-height,4rem) flex-wrap items-center gap-3 px-4 lg:gap-5",
+          "container relative mx-auto flex min-h-(--header-height,4rem) flex-nowrap items-center gap-3 px-4 lg:gap-5",
           className,
         )}
         {...props}
@@ -211,7 +215,7 @@ function HeaderInner({
           />
         </div>
         {navChild ? (
-          <div className="max-lg:order-3 max-lg:hidden max-lg:w-full lg:order-0 lg:block lg:min-w-0 lg:flex-[4_1]">
+          <div className="max-lg:hidden lg:min-w-0 lg:flex-1">
             {navChild}
           </div>
         ) : null}

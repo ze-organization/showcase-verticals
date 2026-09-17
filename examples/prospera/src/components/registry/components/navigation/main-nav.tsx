@@ -267,7 +267,7 @@ function MainNavStrip({
     <nav
       aria-label="Main"
       className={cn(
-        "main-nav hidden items-center md:flex",
+        "main-nav hidden items-center lg:flex",
         // Mega panels span the strip: the nav is the positioning
         // context their `absolute inset-x-0` resolves against.
         panelMode === "mega" && "relative",
@@ -311,7 +311,7 @@ function MainNavStrip({
  *     arbitrary renderings (RichText, LinkLists, MegaMenu, Buttons).
  *     Wins over `Groups` when both are set.
  *
- * Hidden below `md` breakpoint (`hidden md:flex`); the Header shell
+ * Hidden below `lg` breakpoint (`hidden lg:flex`); the Header shell
  * surfaces a mobile-only slot for mobile-menu renderings instead.
  * Mobile-menu patterns are a separate rendering family — this
  * component intentionally does not collapse to a hamburger.

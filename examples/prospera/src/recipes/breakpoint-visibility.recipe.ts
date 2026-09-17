@@ -8,14 +8,14 @@ import type { EnumerationRecipe } from "@sitecoreai-labs/sitecoreai-cli/recipe";
  * Gates the rendering's visibility by viewport width. A hamburger is
  * almost always the first or last thing in a row (never stacked), so a
  * placement can pin the mobile menu to small viewports only and let a
- * desktop nav strip take over above the `md` breakpoint:
+ * desktop nav strip take over above the `lg` breakpoint:
  *
  *   all          visible at every breakpoint (the recipe default —
  *                the placement's own container decides responsive
  *                visibility, unchanged behavior).
- *   mobile-only  hidden at `md` and up (`md:hidden`) — shows only on
+ *   mobile-only  hidden at `lg` and up (`lg:hidden`) — shows only on
  *                small viewports, so the same placement can sit beside a
- *                desktop nav that appears at `md`+.
+ *                desktop nav that appears at `lg`+.
  *
  * No `default` literal value in the enum — the recipe's `default`
  * carries the fallback (`all`).
@@ -27,7 +27,7 @@ export const breakpointVisibilityEnumRecipe = {
   name: "BreakpointVisibility",
   displayName: "Breakpoint Visibility",
   description:
-    "Gate a rendering's visibility by viewport width. `all` (default) keeps it visible at every breakpoint; `mobile-only` hides it at the `md` breakpoint and up (md:hidden) so it shows only on small viewports.",
+    "Gate a rendering's visibility by viewport width. `all` (default) keeps it visible at every breakpoint; `mobile-only` hides it at the `lg` breakpoint and up (lg:hidden) so it shows only on small viewports.",
   location: { scope: "site", folder: ["Layout"] },
   default: "all",
   values: [

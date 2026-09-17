@@ -41,8 +41,8 @@ export function Default() {
             Showcase
           </a>
         </HeaderStart>
-        <HeaderNav className="hidden md:flex" />
-        <HeaderEnd className="hidden gap-3 md:flex">
+        <HeaderNav className="hidden lg:flex" />
+        <HeaderEnd className="hidden gap-3 lg:flex">
           <span className="flex items-center gap-2 rounded-md border px-3 py-1.5 text-muted-foreground text-sm">
             <span aria-hidden>⌕</span>
             Search

@@ -106,8 +106,8 @@ const OVERLAY_EDITING_BAR_CLASS = "static bg-theme-black";
  *   header-utility-start-{*}             TwoTier only, and only when filled
  *   header-utility-end-{*}               TwoTier only, and only when filled
  *
- * The desktop/mobile flip happens at the `md` Tailwind breakpoint via
- * `hidden md:flex` / `flex md:hidden` — slot contents stay
+ * The desktop/mobile flip happens at the `lg` Tailwind breakpoint via
+ * `hidden lg:flex` / `flex lg:hidden` — slot contents stay
  * viewport-agnostic. Announcement / unused utility slots are not
  * mounted, so Pages does not paint empty drop chrome on the Standard
  * header used by page templates.
@@ -242,17 +242,17 @@ function CenteredInlineBar({
 }: ShellBarContext & { menuPlacementParam: string | undefined }) {
   const menuPlacement = parseHeaderMenuPlacement(menuPlacementParam);
   const menuCluster = (
-    <div className="flex min-w-0 items-center gap-2 md:gap-4">
-      <HeaderNav className="hidden md:flex">
+    <div className="flex min-w-0 items-center gap-2 lg:gap-4">
+      <HeaderNav className="hidden lg:flex">
         <Placeholder name={`header-nav-${ph}`} rendering={rendering} />
       </HeaderNav>
-      <div className="flex items-center md:hidden">
+      <div className="flex items-center lg:hidden">
         <Placeholder name={`header-mobile-${ph}`} rendering={rendering} />
       </div>
     </div>
   );
   const actionsCluster = (
-    <HeaderEnd className="hidden md:flex">
+    <HeaderEnd className="hidden lg:flex">
       <Placeholder name={`header-end-${ph}`} rendering={rendering} />
     </HeaderEnd>
   );
@@ -349,7 +349,7 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
   const mobileLeads =
     params.MobilePlacement?.trim().toLowerCase() === "inline-start";
   const mobileSlot = (
-    <div className="flex items-center md:hidden">
+    <div className="flex items-center lg:hidden">
       <Placeholder name={`header-mobile-${ph}`} rendering={rendering} />
     </div>
   );
@@ -380,7 +380,7 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
   );
   const utilityRow =
     utilityStart || utilityEnd ? (
-      <div className="hidden border-b md:block">
+      <div className="hidden border-b lg:block">
         <div className="container mx-auto flex items-center justify-between px-4 py-2">
           {utilityStart ? (
             <div className="flex items-center gap-2">{utilityStart}</div>
@@ -409,12 +409,12 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
             cluster (desktop) / mobile menu (mobile) pinned inline-end. */}
         <div className="container relative mx-auto flex min-h-16 items-center justify-center px-4 py-3">
           <Placeholder name={`header-start-${ph}`} rendering={rendering} />
-          <HeaderEnd className="absolute end-4 top-1/2 hidden -translate-y-1/2 md:flex">
+          <HeaderEnd className="absolute end-4 top-1/2 hidden -translate-y-1/2 lg:flex">
             <Placeholder name={`header-end-${ph}`} rendering={rendering} />
           </HeaderEnd>
           <div
             className={cn(
-              "absolute top-1/2 flex -translate-y-1/2 items-center md:hidden",
+              "absolute top-1/2 flex -translate-y-1/2 items-center lg:hidden",
               mobileLeads ? "start-4" : "end-4",
             )}
           >
@@ -422,7 +422,7 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
           </div>
         </div>
         {/* Nav row: centered on a bordered row below the brand. */}
-        <div className="hidden border-t md:block">
+        <div className="hidden border-t lg:block">
           <div className="container mx-auto flex items-center justify-center gap-6 px-4">
             <Placeholder name={`header-nav-${ph}`} rendering={rendering} />
           </div>
@@ -458,7 +458,7 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
       utilityStart || utilityEnd ? (
         <div
           className={cn(
-            "hidden text-sm md:block",
+            "hidden text-sm lg:block",
             // Falls back to the tier's historical `bg-muted` only when the
             // scheme resolves to nothing (`default` / `none`), so a band
             // with no opinion still reads as a distinct row.
@@ -491,10 +491,10 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
         <HeaderStart>
           <Placeholder name={`header-start-${ph}`} rendering={rendering} />
         </HeaderStart>
-        <HeaderNav className="hidden md:flex">
+        <HeaderNav className="hidden lg:flex">
           <Placeholder name={`header-nav-${ph}`} rendering={rendering} />
         </HeaderNav>
-        <HeaderEnd className="hidden md:flex">
+        <HeaderEnd className="hidden lg:flex">
           <Placeholder name={`header-end-${ph}`} rendering={rendering} />
         </HeaderEnd>
         {mobileLeads ? null : mobileSlot}
@@ -535,10 +535,10 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
         <HeaderStart>
           <Placeholder name={`header-start-${ph}`} rendering={rendering} />
         </HeaderStart>
-        <HeaderNav className="hidden md:flex">
+        <HeaderNav className="hidden lg:flex">
           <Placeholder name={`header-nav-${ph}`} rendering={rendering} />
         </HeaderNav>
-        <HeaderEnd className="hidden md:flex">
+        <HeaderEnd className="hidden lg:flex">
           <Placeholder name={`header-end-${ph}`} rendering={rendering} />
         </HeaderEnd>
         {mobileLeads ? null : mobileSlot}
