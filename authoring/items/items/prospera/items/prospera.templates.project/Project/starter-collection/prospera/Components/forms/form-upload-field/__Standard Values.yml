@@ -5,48 +5,47 @@ Template: "06d8ec7c-7f02-4cda-b615-c91279f51b9c"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-upload-field/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "form-upload-field@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8329b896-b19a-4d56-ab36-fd658607149b"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0257b4ce-9d78-4dc7-a85f-56a958aaa1ad
+    - ID: "0257b4ce-9d78-4dc7-a85f-56a958aaa1ad"
       Hint: Label
       Value: Upload
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T014740Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 57e6a411-087f-4b64-97a6-efdc507a9b4e
+    - ID: "57e6a411-087f-4b64-97a6-efdc507a9b4e"
       Hint: Name
       Value: file
-    - ID: 5bbd6a32-73c9-43f8-96d9-5f99f8b0be8e
+    - ID: "5bbd6a32-73c9-43f8-96d9-5f99f8b0be8e"
       Hint: ButtonText
       Value: Choose file
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6180a9d5-8bda-49eb-9032-d14a5972c1cf
+    - ID: "6180a9d5-8bda-49eb-9032-d14a5972c1cf"
       Hint: Required
       Value: 1
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8302c2f8-3953-4dd8-8a74-3cd3f73d80f2"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T014740Z
-DB: master

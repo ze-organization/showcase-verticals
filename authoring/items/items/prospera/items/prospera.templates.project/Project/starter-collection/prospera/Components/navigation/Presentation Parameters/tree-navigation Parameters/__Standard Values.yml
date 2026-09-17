@@ -5,45 +5,44 @@ Template: "ee9245ab-b9b3-4146-a565-57ca55cc503a"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/navigation/Presentation Parameters/tree-navigation Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "tree-navigation@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "53cc8081-7e02-474c-b85a-03f175af0a75"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0c92d754-c31f-4b8c-b92d-e37156c31cdc
+    - ID: "0c92d754-c31f-4b8c-b92d-e37156c31cdc"
       Hint: RowSeparators
       Value: 1
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021046Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1d84217a-c292-4cf1-a72e-c80c0652bf9b"
-    - ID: a8d780a5-ef38-467a-bcc2-0f6d6108140d
+    - ID: "a8d780a5-ef38-467a-bcc2-0f6d6108140d"
       Hint: LinkColorScheme
       Value: "{E92EE345-1B2F-404E-85F4-0DF9E8B9D320}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ca86029d-8929-40b1-871a-81e448d5105a
+    - ID: "ca86029d-8929-40b1-871a-81e448d5105a"
       Hint: ShowActiveMarker
       Value: 1
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T021046Z
-DB: master

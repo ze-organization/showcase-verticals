@@ -5,44 +5,43 @@ Template: "bb31c233-9d6d-4770-a51f-0480122201db"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Data/CityCarousel"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: destinations@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9bbcc33c-273d-4a2f-94cc-5622b4a137e6"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "c7251605-003b-4f7e-8b5e-0a9e11ec4111"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: CityCarousel
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T190917Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9ce0be5b-787f-44e6-b2bd-ca7862d714d6"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T190923Z
-    - ID: dcac1c20-58d0-4ef8-a44f-175eb694f909
+    - ID: "dcac1c20-58d0-4ef8-a44f-175eb694f909"
       Hint: Lead
       Value: <p>Kyoto, Lisbon, and Oaxaca — the sample Destination pages.</p>
-    - ID: f522c5c0-1754-478e-9f9a-48f4d579b259
+    - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: Three cities
-DB: master

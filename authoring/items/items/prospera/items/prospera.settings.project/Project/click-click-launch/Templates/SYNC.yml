@@ -5,7 +5,7 @@ Template: "1b2dfd3b-f2f2-4f40-a75c-f6c2490919c4"
 Path: "/sitecore/system/Settings/Project/click-click-launch/Templates/SYNC"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 41ac536a-923a-43f9-ac87-f3993f638125
+- ID: "41ac536a-923a-43f9-ac87-f3993f638125"
   Hint: Tenant Modules
   Value: |
     {7B81B847-1891-43B2-BC13-5047A62EC32A}
@@ -19,10 +19,10 @@ SharedFields:
     {02CD7086-1F87-41EC-B40F-B92C1226895B}
     {1B0A98C0-1801-44A0-85F2-845694FEAFF3}
     {D315A501-6503-4545-A5D8-B9FECBA1097D}
-- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 10
-- ID: c262443b-653d-461d-96c8-7cfaa0ef2b2d
+- ID: "c262443b-653d-461d-96c8-7cfaa0ef2b2d"
   Hint: Site Modules
   Value: |
     {5A2F6A6F-3028-4210-AAD3-82C1365C4802}
@@ -41,171 +41,170 @@ SharedFields:
     {D7EEAF4D-2B58-4029-B141-844221565EF0}
     {1F35559F-2140-4774-8BC1-525BB722BAA2}
     {ADB64750-B11D-4D17-A203-091E22263D03}
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{5F6F8FCA-1C11-4BA3-862E-DD9306AB7B81}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3562402b-40ce-4428-9dc0-9cb7a137cac7"
 Languages:
-- Language: da
+- Language: "da"
   Fields:
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Grundlæggende site
   Versions:
   - Version: 1
     Fields:
-    - ID: 82e64b52-0b8a-4a38-8c78-530c5493814e
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
       Hint: Name
       Value: Basis
-    - ID: 9f437e68-a84d-48ae-8ce1-a3e26c0b5e64
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
       Hint: Description
       Value: Et eksempel på et enkelt website med startside, underside, navigation og footer
-- Language: de-DE
+- Language: "de-DE"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "c3236142-0ed6-4167-a536-0ac0656e0302"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: "Basis-Seite"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250528T062757Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\Admin
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: 82e64b52-0b8a-4a38-8c78-530c5493814e
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
       Hint: Name
       Value: Grundlegend
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ff57aeff-72a9-438c-a2e2-e09aaaf24fd3"
-    - ID: 9f437e68-a84d-48ae-8ce1-a3e26c0b5e64
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
       Hint: Description
       Value: Ein Beispiel für eine einfache Website mit Startseite, Unterseite, Navigation und Fußzeile
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20250528T062757Z
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20220610T074910Z
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: 82e64b52-0b8a-4a38-8c78-530c5493814e
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
       Hint: Name
       Value: SYNC
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "282460dc-d1d9-4ce2-a0cd-db0adf3cb2f8"
-    - ID: 9f437e68-a84d-48ae-8ce1-a3e26c0b5e64
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
       Hint: Description
       Value: "A clean, bold, product-focused site template with a homepage, subpage, navigation, and footer."
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\richard.seal@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20250714T142635Z
-    - ID: da855368-e5f2-4932-ae55-7f8b08a5a205
+    - ID: "da855368-e5f2-4932-ae55-7f8b08a5a205"
       Hint: Content
       Value: |
         [{"name":"Pages","content":"Home, Product Page"},{"name":"Components","content":"SXA components"},{"name":"Integrations","content":"Personalization and Analytics"}]
-- Language: ja-JP
+- Language: "ja-JP"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "c3236142-0ed6-4167-a536-0ac0656e0302"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: 基本サイト
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250528T062757Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\Admin
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: 82e64b52-0b8a-4a38-8c78-530c5493814e
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
       Hint: Name
       Value: ベーシック
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ff57aeff-72a9-438c-a2e2-e09aaaf24fd3"
-    - ID: 9f437e68-a84d-48ae-8ce1-a3e26c0b5e64
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
       Hint: Description
       Value: ホームページ、サブページ、ナビゲーション、フッターのあるシンプルなWebサイトの例
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20250528T062757Z
-- Language: zh-CN
+- Language: "zh-CN"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "c3236142-0ed6-4167-a536-0ac0656e0302"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: 基本站点
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250528T062757Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\Admin
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: 82e64b52-0b8a-4a38-8c78-530c5493814e
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
       Hint: Name
       Value: 基本
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ff57aeff-72a9-438c-a2e2-e09aaaf24fd3"
-    - ID: 9f437e68-a84d-48ae-8ce1-a3e26c0b5e64
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
       Hint: Description
       Value: 带有主页、子页、导航和页脚的简单站点示例
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20250528T062757Z
-DB: master

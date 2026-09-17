@@ -5,35 +5,35 @@ Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/rewards-visa"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D830851D-43EC-4BCB-B960-C013BA2AE260}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "personal-cards-rewards-visa@1"
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{CB369FF5-EE51-4378-817A-64496BE0D280}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "67976ac8-6964-456d-8861-ddb47e74496a"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "83875071-9557-464b-8051-4234059c668a"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Rewards Visa
   Versions:
   - Version: 1
     Fields:
-    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
         <r xmlns:p="p" xmlns:s="s"
@@ -229,38 +229,37 @@ Languages:
               s:par="DynamicPlaceholderId=27&amp;FieldNames=%7BD408B0E3-4B5A-46AA-97F0-5A053D9F9A79%7D" />
           </d>
         </r>
-    - ID: 127dc4a9-ca7c-4096-a268-16536ea17a39
+    - ID: "127dc4a9-ca7c-4096-a268-16536ea17a39"
       Hint: Eyebrow
       Value: Cards
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T193157Z
-    - ID: 27f1e6f7-b1c6-4708-905b-90a2de32939f
+    - ID: "27f1e6f7-b1c6-4708-905b-90a2de32939f"
       Hint: Title
       Value: Rewards Visa
-    - ID: 3d07e93c-ab9d-451f-9b49-e83d76f755ba
+    - ID: "3d07e93c-ab9d-451f-9b49-e83d76f755ba"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "rewards-visa"
-    - ID: 5f5c4ed3-2cc1-49cf-8db8-8d8d735e481b
+    - ID: "5f5c4ed3-2cc1-49cf-8db8-8d8d735e481b"
       Hint: MetaTitle
       Value: Rewards Visa — Prospera
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "625cc573-743e-41e9-98f1-f5af082b3901"
-    - ID: a2ffeaa0-6cba-461d-a2b1-28331f5dd95f
+    - ID: "a2ffeaa0-6cba-461d-a2b1-28331f5dd95f"
       Hint: MetaDescription
       Value: Prospera Rewards Visa. Illustrative 1.5% cash back, no annual fee, and virtual card numbers. Apply Now.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bf399ac3-28f6-447a-aa15-a6a9a9e38aec
+    - ID: "bf399ac3-28f6-447a-aa15-a6a9a9e38aec"
       Hint: SitemapPriority
       Value: 0.8
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T193216Z
-DB: master

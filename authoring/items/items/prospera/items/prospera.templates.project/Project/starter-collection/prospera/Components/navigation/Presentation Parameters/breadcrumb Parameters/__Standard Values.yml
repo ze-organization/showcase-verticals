@@ -5,51 +5,50 @@ Template: "c9c178fe-08b9-44ed-8466-5a41c2f27e09"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/navigation/Presentation Parameters/breadcrumb Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: breadcrumb@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cd1060e6-0a62-4706-9823-f06a6365b665"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T015524Z
-    - ID: 44ff489e-8894-4943-8341-25a3da0ede3a
+    - ID: "44ff489e-8894-4943-8341-25a3da0ede3a"
       Hint: ShowHome
       Value: 1
-    - ID: 45d5c138-4a02-49a4-bf2c-8d8dfa549c21
+    - ID: "45d5c138-4a02-49a4-bf2c-8d8dfa549c21"
       Hint: TrailStyle
       Value: "{1F4565E4-DC7E-4D1A-BA7C-0E60FF2A744B}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "91749e8d-66a5-45aa-a1ab-6438a7f365a8"
-    - ID: a600fb72-d0b3-41b9-a1d0-c8b86cc963a5
+    - ID: "a600fb72-d0b3-41b9-a1d0-c8b86cc963a5"
       Hint: HomeLabel
       Value: Home
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cc6fa12f-9d7c-48f6-8cdb-90d131dc7981
+    - ID: "cc6fa12f-9d7c-48f6-8cdb-90d131dc7981"
       Hint: ShowCurrentPage
       Value: 1
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T015524Z
-    - ID: eda2f1a7-c8b8-4b0a-a5c6-06834331d4d9
+    - ID: "eda2f1a7-c8b8-4b0a-a5c6-06834331d4d9"
       Hint: Separator
       Value: "{080A5DB5-0373-4FEE-81F9-8CA229728CB4}"
-DB: master

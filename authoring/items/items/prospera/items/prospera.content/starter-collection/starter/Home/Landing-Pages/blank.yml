@@ -5,66 +5,65 @@ Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
 Path: "/sitecore/content/starter-collection/starter/Home/Landing-Pages/blank"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{08398D4B-C726-42E6-8D57-2CF5349801C2}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "blank-landing-sample@1"
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{F89ACF33-BA5B-4549-8C1F-020C531BAB9B}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "45f86087-e284-4a16-bac9-8fc93cbc3c9e"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "a1284289-0e3d-4a8e-9f24-22686ee2b64c"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Blank landing
   Versions:
   - Version: 1
     Fields:
-    - ID: 127dc4a9-ca7c-4096-a268-16536ea17a39
+    - ID: "127dc4a9-ca7c-4096-a268-16536ea17a39"
       Hint: Eyebrow
       Value: Blank canvas
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T154530Z
-    - ID: 27f1e6f7-b1c6-4708-905b-90a2de32939f
+    - ID: "27f1e6f7-b1c6-4708-905b-90a2de32939f"
       Hint: Title
       Value: Compose this landing
-    - ID: 3d07e93c-ab9d-451f-9b49-e83d76f755ba
+    - ID: "3d07e93c-ab9d-451f-9b49-e83d76f755ba"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: blank
-    - ID: 5f5c4ed3-2cc1-49cf-8db8-8d8d735e481b
+    - ID: "5f5c4ed3-2cc1-49cf-8db8-8d8d735e481b"
       Hint: MetaTitle
       Value: Compose this landing — Showcase
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4220c294-ff80-48af-aa11-0a4004d2972b"
-    - ID: a2ffeaa0-6cba-461d-a2b1-28331f5dd95f
+    - ID: "a2ffeaa0-6cba-461d-a2b1-28331f5dd95f"
       Hint: MetaDescription
       Value: Sample blank landing. Header and footer are in place; drop components into the main Container.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bf399ac3-28f6-447a-aa15-a6a9a9e38aec
+    - ID: "bf399ac3-28f6-447a-aa15-a6a9a9e38aec"
       Hint: SitemapPriority
       Value: 0.5
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T154531Z
-DB: master

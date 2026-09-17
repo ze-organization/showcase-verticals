@@ -5,31 +5,31 @@ Template: "8cba3388-5944-43d2-8827-02704751704c"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/EMEA/Data/EmeaLocations"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "locations-emea@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "79877de3-a085-40bf-b803-644d8294ac3b"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "afb5e0fa-8b4b-4dc9-9f85-59ff6acca6e9"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: EmeaLocations
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192015Z
-    - ID: 362a3df3-a791-4991-b7e8-47927dd7d4b1
+    - ID: "362a3df3-a791-4991-b7e8-47927dd7d4b1"
       Hint: Locations
       Value: |
         {DB4FD3C9-A9F4-475C-8405-E291AB7BC315}
@@ -37,20 +37,19 @@ Languages:
         {DCDC6AC6-B342-4D46-8BC6-4A00087A8DDA}
         {A5204D29-D5CC-47F9-8E83-CAF4CFCE6B0D}
         {63FB8B04-6FEE-48A1-B675-01803E32D5BB}
-    - ID: 41d09add-5552-4477-adda-c7ee07627e47
+    - ID: "41d09add-5552-4477-adda-c7ee07627e47"
       Hint: Lead
       Value: <p>Five locations from London to Johannesburg. Radius search uses OpenStreetMap geocoding.</p>
-    - ID: 4687723b-091b-4b30-9ba4-c2d55ba4c7cb
+    - ID: "4687723b-091b-4b30-9ba4-c2d55ba4c7cb"
       Hint: Title
       Value: EMEA
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "92c7e0f8-7a95-47bb-8a4c-70c362719945"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T214752Z
-DB: master

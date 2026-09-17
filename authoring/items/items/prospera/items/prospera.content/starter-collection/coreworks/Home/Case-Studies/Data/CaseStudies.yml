@@ -5,47 +5,46 @@ Template: "5a2378a0-30af-4b39-9326-1b3b56e3bd37"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Case-Studies/Data/CaseStudies"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "case-studies@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e96a6500-bfc7-47db-bc2b-cafa703b12ef"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "14caf187-a3e7-4049-acf3-e0d0538325e6"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: CaseStudies
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T154457Z
-    - ID: 3c144bf5-49f9-454f-ba35-35f7b81543dd
+    - ID: "3c144bf5-49f9-454f-ba35-35f7b81543dd"
       Hint: Lead
       Value: <p>Three Case Study pages. Insert → Case Study under this listing for another story.</p>
-    - ID: 4e41e21a-a92e-49b2-abd0-991e7a14c1cd
+    - ID: "4e41e21a-a92e-49b2-abd0-991e7a14c1cd"
       Hint: Title
       Value: Case Studies
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3cff720c-3745-406a-a605-49dec615ae8b"
-    - ID: a362d4c0-e2a3-42d2-a5e0-f308a66968b4
+    - ID: "a362d4c0-e2a3-42d2-a5e0-f308a66968b4"
       Hint: Eyebrow
       Value: Proof
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T154503Z
-DB: master

@@ -5,45 +5,44 @@ Template: "d17d9468-ee1e-4d38-931d-3faae56ff4f1"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Offers/Data/CardWorkshop"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: offers@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6d92aae1-90c6-4b5f-9e35-25d48e1b7c1d"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "299383d0-66d7-4885-ad47-579c77c19e9f"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: CardWorkshop
   Versions:
   - Version: 1
     Fields:
-    - ID: 1c59f5d9-7a26-483d-81f2-fa3acc349425
+    - ID: "1c59f5d9-7a26-483d-81f2-fa3acc349425"
       Hint: OfferText
       Value: Hold a seat before the public list
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192849Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ba4bd3c7-d6c6-436a-9631-37c9bfcc72b1"
-    - ID: a154261e-cf8f-489d-9d27-46f9e95ecfdf
+    - ID: "a154261e-cf8f-489d-9d27-46f9e95ecfdf"
       Hint: Link
       Value: |
         <link linktype="external" url="/Offers/workshop-early" text="View offer" />
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T192851Z
-DB: master

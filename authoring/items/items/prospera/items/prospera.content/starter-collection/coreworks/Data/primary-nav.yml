@@ -5,45 +5,44 @@ Template: "eb6be187-d5f8-41d5-a283-29a32f383762"
 Path: "/sitecore/content/starter-collection/coreworks/Data/primary-nav"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "primary-nav-content@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "eac6df9a-cc7e-4f01-b962-5a0c34b9e76b"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "2670dd88-86d3-4a6f-b3f5-27ac235dd57d"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Primary Nav
   Versions:
   - Version: 1
     Fields:
-    - ID: 19a1c4f8-cf26-459d-9d01-a9c87e8dfa2e
+    - ID: "19a1c4f8-cf26-459d-9d01-a9c87e8dfa2e"
       Hint: Items
       Value: |
         {A6B99857-DDC9-4C4D-BD06-33554B9568E7}
         {14C24928-651B-4FF4-B400-710B06B2B5B8}
         {3C88D8B9-A7CB-4F13-8380-1FA25CF7E0D9}
         {257417FD-85F3-456F-B827-22DEB63ADA11}
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223552Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "449f375e-cf9d-404d-b007-7182546952f7"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T220216Z
-DB: master

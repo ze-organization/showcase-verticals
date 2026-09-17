@@ -5,84 +5,83 @@ Template: "cb928367-2d0c-4d68-a2f1-a5b34c3067bd"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/Presentation Parameters/news-details Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "news-details@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d8b88c06-8190-49e9-b07d-0760ba47360c"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0baf3bb7-4ea1-4b40-8d1e-60a6f4389119
+    - ID: "0baf3bb7-4ea1-4b40-8d1e-60a6f4389119"
       Hint: HeadingColor
       Value: "{7B2DA977-5D35-4279-811A-E7A74EE1C5B0}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260908T181855Z
-    - ID: 4168b6a0-8b53-4555-906c-480364bdc46a
+    - ID: "4168b6a0-8b53-4555-906c-480364bdc46a"
       Hint: MaxWidth
       Value: "{5678C06E-3BAE-4DAF-97B8-4303062ACFDF}"
-    - ID: 4fdca934-4f7b-46fc-8f8a-69a63cdd676c
+    - ID: "4fdca934-4f7b-46fc-8f8a-69a63cdd676c"
       Hint: Layout
       Value: "{F6845E6F-B4DB-4C6F-986A-2DA411AB314C}"
-    - ID: 51dc42be-4b2f-4f97-9203-4bd85728cd33
+    - ID: "51dc42be-4b2f-4f97-9203-4bd85728cd33"
       Hint: Alignment
       Value: "{FA719AD0-E923-41E9-9657-A161AE28317A}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5cfeb477-ddc0-4d3e-84f1-74a0be44ae1c
+    - ID: "5cfeb477-ddc0-4d3e-84f1-74a0be44ae1c"
       Hint: ProseLeading
       Value: "{D3FC3795-117D-4A71-9423-5049ACB68C2B}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 61ffc2dd-8327-4b74-8292-ec887da1205a
+    - ID: "61ffc2dd-8327-4b74-8292-ec887da1205a"
       Hint: ColorScheme
       Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
-    - ID: 83726518-2f66-4988-b5a2-cf47b5c2b9d4
+    - ID: "83726518-2f66-4988-b5a2-cf47b5c2b9d4"
       Hint: MediaShape
       Value: "{69885AC8-8982-4147-A74E-EE4D76D7AD7B}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b8810d6a-672d-41ab-b79b-9d958d9eccc6"
-    - ID: 9193cf7a-bbbc-4c4e-adfb-69ceeaebd68e
+    - ID: "9193cf7a-bbbc-4c4e-adfb-69ceeaebd68e"
       Hint: MediaFit
       Value: "{5A995AAF-84E3-4E91-B1F5-BCF019928387}"
-    - ID: b4281c9b-f9cf-47c9-a057-734e12f0b972
+    - ID: "b4281c9b-f9cf-47c9-a057-734e12f0b972"
       Hint: HeadingSize
       Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c43c045e-a2f5-48dd-9baa-77cb21f06f03
+    - ID: "c43c045e-a2f5-48dd-9baa-77cb21f06f03"
       Hint: MediaAspect
       Value: "{4F1F0512-96FF-4E9E-9854-10593C750C6D}"
-    - ID: d219ca9b-454e-4343-af31-fecda8687ef6
+    - ID: "d219ca9b-454e-4343-af31-fecda8687ef6"
       Hint: ImagePosition
       Value: "{EE4F4FE4-D5DF-4EA2-A36D-1828D009E05B}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T181855Z
-    - ID: d9ea371e-baf0-40a7-a1bd-0ff181172134
+    - ID: "d9ea371e-baf0-40a7-a1bd-0ff181172134"
       Hint: ProseSize
       Value: "{4C1DE664-2FCE-487C-8F67-3C9B89625344}"
-    - ID: e1714900-b6c5-4197-8673-0bd6666cec3b
+    - ID: "e1714900-b6c5-4197-8673-0bd6666cec3b"
       Hint: PaddingY
       Value: "{295A5038-66A8-4D33-BDDF-B7CDA0AD0B71}"
-    - ID: e72659c9-cf58-47f1-9714-afb12f735d4c
+    - ID: "e72659c9-cf58-47f1-9714-afb12f735d4c"
       Hint: TitleWeight
       Value: "{1E73B506-F9CD-4DC3-9422-8E81D28965FD}"
-    - ID: eae8aca1-fe08-4617-ae13-9b46e0505899
+    - ID: "eae8aca1-fe08-4617-ae13-9b46e0505899"
       Hint: HeadingAnimation
       Value: "{B945973A-CB0A-4E1F-A9B9-F589F2DBD98C}"
-    - ID: fcc2ced2-8a0b-4c5d-9d52-fe059a041dc8
+    - ID: "fcc2ced2-8a0b-4c5d-9d52-fe059a041dc8"
       Hint: BackgroundIntensity
       Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
-DB: master

@@ -5,487 +5,486 @@ Template: "0a9ea996-212e-467c-9fcb-95d77c239866"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/search-controls-bar/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "search-controls-bar@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "02beb81a-4961-4232-85df-abef7e89379d"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: الترتيب حسب
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "13a60595-8ef4-49b6-9087-42ee23c0c84e"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: بحث
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: عوامل التصفية
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: الترتيب حسب
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151955Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "0b18aff3-e5d7-4b78-a018-42acdcfa7a69"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151956Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: بحث
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: عوامل التصفية
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Sortér efter
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "568fcf6c-e52a-436f-b002-af38f64d6a23"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Søg
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filtre
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Sortieren nach
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "63278430-94ff-4438-981e-36917404e022"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Suchen
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filter
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Sortieren nach
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151955Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7f765bd0-6a20-406f-9e1d-5ae773fbab86"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151956Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Suchen
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filter
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Sort by
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222312Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1efe111f-7363-4058-b143-547f5f67535d"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222312Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Search
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filters
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Ordenar por
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5dd66744-590e-4ee7-b95c-8df9221eb58e"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Buscar
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filtros
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Ordenar por
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151955Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "51f5e248-205f-4137-9175-561108831a5f"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151956Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Buscar
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filtros
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Trier par
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "953a7246-f07a-4a24-89fb-929a83a89b73"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Rechercher
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filtres
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Trier par
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151955Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "44756760-1719-420f-9b7a-3207987ec69c"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151956Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Rechercher
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filtres
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: Ordina per
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "24b6e10e-997b-4d6e-b24f-88647b0a5db4"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: Cerca
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: Filtri
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: 並び替え
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c363423e-444c-4a99-a8c6-d0b4fa834d1a"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: 検索
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: フィルター
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: 排序方式
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "897105eb-cfa8-4afd-84f0-0fa26996d5e1"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: 搜索
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: 筛选
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1d59274f-7c1b-41ea-a152-0ac3c633a441
+    - ID: "1d59274f-7c1b-41ea-a152-0ac3c633a441"
       Hint: SortLabel
       Value: 排序方式
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222313Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ab19aa40-4dbb-4b80-baea-7d346e75e329"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222314Z
-    - ID: e0205731-19f6-4cfc-a4be-5be12a6eed2d
+    - ID: "e0205731-19f6-4cfc-a4be-5be12a6eed2d"
       Hint: SearchPlaceholder
       Value: 搜尋
-    - ID: e3ec42a5-f071-4614-a4e0-538981cd9035
+    - ID: "e3ec42a5-f071-4614-a4e0-538981cd9035"
       Hint: FiltersButtonLabel
       Value: 篩選
-DB: master

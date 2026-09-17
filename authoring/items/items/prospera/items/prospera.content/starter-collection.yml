@@ -5,10 +5,10 @@ Template: "125dbb05-e7aa-4dbc-ae38-f7ef24fd5826"
 Path: "/sitecore/content/starter-collection"
 BranchID: "2d3805b9-3089-44f3-b952-d45c44add7f8"
 SharedFields:
-- ID: 102b58da-2a86-4953-b3cd-c9f91256b657
+- ID: "102b58da-2a86-4953-b3cd-c9f91256b657"
   Hint: PlaceholderSettingsFolder
   Value: "{74E3863A-E1B8-4DD4-A7D8-62F7488F9828}"
-- ID: 1230d2cb-4948-4d43-8a3b-b39978f6f1b3
+- ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules
   Value: |
     {7B81B847-1891-43B2-BC13-5047A62EC32A}
@@ -22,57 +22,56 @@ SharedFields:
     {02CD7086-1F87-41EC-B40F-B92C1226895B}
     {1B0A98C0-1801-44A0-85F2-845694FEAFF3}
     {D315A501-6503-4545-A5D8-B9FECBA1097D}
-- ID: 800dc4ed-0846-45ba-b112-19902af240f6
+- ID: "800dc4ed-0846-45ba-b112-19902af240f6"
   Hint: SharedMediaLibrary
   Value: "{0DE9B454-0444-40A3-B38D-9D47A28443B8}"
-- ID: 853b245f-53e4-4ebe-bab5-299f9de314b6
+- ID: "853b245f-53e4-4ebe-bab5-299f9de314b6"
   Hint: RenderingsFolder
   Value: "{2D3BA8ED-F3FC-424C-BFE7-A5FD497F1DA3}"
-- ID: 85a7501a-86d9-4243-9075-0b727c3a6db4
+- ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
   Value: Starter Collection
-- ID: 9c596379-f8d4-45d1-a064-cdf1ede2e7c7
+- ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
   Value: "{E56D37D4-26F6-431B-B3CC-9016820C990B}"
-- ID: b6953f8b-56d3-4c90-a6db-885786711e4a
+- ID: "b6953f8b-56d3-4c90-a6db-885786711e4a"
   Hint: SettingsFolder
   Value: "{4627B619-74A4-40B4-841C-8333C407066C}"
-- ID: c5dbb136-3299-4835-a8ce-bca8b49ba3fa
+- ID: "c5dbb136-3299-4835-a8ce-bca8b49ba3fa"
   Hint: BranchesFolder
   Value: "{94AE69EB-DFEE-4E16-98F8-DBAE428A8FCB}"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "047bfb71-ec5a-45ab-a340-1ee73f59bb9b"
-- ID: e90a4413-c111-4951-9b6a-00c4ce7fb289
+- ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{442D3E56-FB03-46FE-A8F6-CA371F4F8156}"
-- ID: f6d8a61c-2f84-4401-bd24-52d2068172bc
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{8453C078-6D17-4817-9230-91654AFE69C6}"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T213217Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "bfc87f17-13ea-4e06-8a05-bef0e8430f8e"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T213221Z
-DB: master

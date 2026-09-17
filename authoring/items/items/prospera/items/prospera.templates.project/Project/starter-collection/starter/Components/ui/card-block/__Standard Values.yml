@@ -5,541 +5,540 @@ Template: "a3489b92-0122-4c69-b45a-4006a9c20a26"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/card-block/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "card-block@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "593b07ad-7112-4493-a37c-fcfd9391e330"
-- ID: ec30fb28-44ef-4053-9582-bb74d0129661
+- ID: "ec30fb28-44ef-4053-9582-bb74d0129661"
   Hint: Media
   Value: |
     <image mediaid="{38951F66-9245-45C9-B169-400BFA5AAE7D}" />
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215018Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>ملاحظة تذييل اختيارية — استبدلها أو احذفها عند الإدراج.</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: عنوان البطاقة
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>يوضع محتوى البطاقة هنا.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: عنوان فرعي قصير يظهر أسفل العنوان.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "153cff00-74c6-42b4-8daa-5e0fcc8e1057"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151733Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>ملاحظة تذييل اختيارية — استبدلها أو احذفها عند الإدراج.</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: عنوان البطاقة
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>يوضع محتوى البطاقة هنا.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: عنوان فرعي قصير يظهر أسفل العنوان.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "87637881-c647-404a-8b11-32274d3164c8"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151734Z
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215018Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>Valgfri sidefodsnote – erstat eller fjern ved placering.</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Kortoverskrift
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>Kortets indhold vises her.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: Kort underoverskrift, der vises under titlen.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "119c709a-2b37-4fc0-a570-d642b0b78f02"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215018Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>Optionale Fußzeilennotiz – beim Platzieren ersetzen oder entfernen.</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Kartenüberschrift
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>Hier steht der Inhalt der Karte.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: Kurze Unterüberschrift unter dem Titel.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "95849104-43ee-48fb-bc69-9aa96565b741"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151733Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>Optionale Fußzeilennotiz – beim Platzieren ersetzen oder entfernen.</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Kartenüberschrift
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>Hier steht der Inhalt der Karte.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: Kurze Unterüberschrift unter dem Titel.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "499a38bb-35eb-4897-ac1d-ac33a135246c"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151734Z
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215018Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5606f19d-5260-47a3-916a-0b0cf33b79e9
+    - ID: "5606f19d-5260-47a3-916a-0b0cf33b79e9"
       Hint: SecondaryAction
       Value: |
         <link text="More details" linktype="external" url="/" />
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>Optional footer note — replace or clear at placement.</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Card heading
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>Card body content goes here.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: Short subheading shown under the title.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1af2ff44-da70-40a6-9460-7aa7e33b33cb"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d1fcc7f9-7224-4c33-a2a6-a6c21951c440
+    - ID: "d1fcc7f9-7224-4c33-a2a6-a6c21951c440"
       Hint: PrimaryAction
       Value: |
         <link text="Learn more" linktype="external" url="/" />
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215018Z
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215018Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: "<p>Nota de pie de página opcional: reemplázala o elimínala al colocarla.</p>"
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Título de la tarjeta
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>El contenido de la tarjeta va aquí.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: Subtítulo breve que se muestra debajo del título.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c6769ca6-d786-4ee7-ac7d-2ed3439a9cea"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151733Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: "<p>Nota de pie de página opcional: reemplázala o elimínala al colocarla.</p>"
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Título de la tarjeta
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>El contenido de la tarjeta va aquí.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: Subtítulo breve que se muestra debajo del título.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "605ff870-616d-4d9c-a9e9-1304d562d128"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151734Z
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215018Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: "<p>Note de pied de page facultative — remplacez-la ou supprimez-la lors du placement.</p>"
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Titre de la carte
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>Le contenu de la carte s'affiche ici.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: "Court sous-titre affiché sous le titre."
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c3ae3ef5-9253-4550-85a1-8e78bdac1a6b"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151733Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: "<p>Note de pied de page facultative — remplacez-la ou supprimez-la lors du placement.</p>"
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Titre de la carte
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>Le contenu de la carte s'affiche ici.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: "Court sous-titre affiché sous le titre."
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a83b75d3-0fe2-4361-a338-782bd38e0f59"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151734Z
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215018Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: "<p>Nota a piè di pagina facoltativa: sostituiscila o rimuovila al momento del posizionamento.</p>"
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: Titolo della scheda
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>Qui va il contenuto della scheda.</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: Breve sottotitolo mostrato sotto il titolo.
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "02024393-a30c-4532-be60-534d76167a46"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215019Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>任意のフッター注記です。配置時に置き換えるか削除してください。</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: カードの見出し
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>ここにカードの本文が入ります。</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: タイトルの下に表示される短いサブ見出し。
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "67f3b44d-c442-466a-8d0c-b1973918b897"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215019Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>可选的页脚注释——放置时可替换或清除。</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: 卡片标题
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>卡片正文内容显示在此处。</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: 显示在标题下方的简短副标题。
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6331f7d5-e229-4a4a-86b3-d6a16b536f12"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215019Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 63bb40a1-f175-4254-9c65-8e67aaec006b
+    - ID: "63bb40a1-f175-4254-9c65-8e67aaec006b"
       Hint: Footer
       Value: <p>可選的頁尾註釋——放置時可替換或清除。</p>
-    - ID: 85aff6fe-c24a-4862-b742-70ab53120faf
+    - ID: "85aff6fe-c24a-4862-b742-70ab53120faf"
       Hint: Title
       Value: 卡片標題
-    - ID: 8c354df8-77f2-447b-90a6-b4a68b693e0e
+    - ID: "8c354df8-77f2-447b-90a6-b4a68b693e0e"
       Hint: Content
       Value: <p>卡片正文內容顯示於此處。</p>
-    - ID: 8c3a94f8-247e-403f-8fce-64375b0437ed
+    - ID: "8c3a94f8-247e-403f-8fce-64375b0437ed"
       Hint: Description
       Value: 顯示在標題下方的簡短副標題。
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5d401b44-e35e-4a60-ab73-40e29485f04a"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215019Z
-DB: master

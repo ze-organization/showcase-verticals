@@ -5,42 +5,42 @@ Template: "da6c7443-70ad-4d4b-abd4-07e7c99cd0f2"
 Path: "/sitecore/content/starter-collection/starter/Home/Products/Seating"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{1F218C4D-98ED-49B2-9EFF-486B7E539D31}"
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E3C873F7-E58D-4854-8C33-301E6A7661EF}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "product-category-seating@1"
-- ID: 977856be-18c8-4db3-a2db-cccf885b8f6e
+- ID: "977856be-18c8-4db3-a2db-cccf885b8f6e"
   Hint: Image
   Value: |
     <image mediaid="{53B15DA3-600E-4D10-BBC0-190BFDCEE77E}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{78FC5327-CC0A-4E82-BF75-6FAB7D78768F}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "032efe1c-4261-4151-8e5b-a9053f05c29a"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "87100edc-463f-4f6f-a832-2729057b98fc"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Seating
   Versions:
   - Version: 1
     Fields:
-    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
         <r xmlns:p="p" xmlns:s="s"
@@ -89,44 +89,43 @@ Languages:
               s:par="CtaKind=%7B20567DCD-96E6-4E42-9574-FF7A5E155AFB%7D&amp;DynamicPlaceholderId=6&amp;FieldNames=%7B48428BEA-96FB-4D20-8ACC-1A22B4C18DC7%7D" />
           </d>
         </r>
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T190337Z
-    - ID: 2d1592c5-ab7a-40f1-a28b-1b9d729555ab
+    - ID: "2d1592c5-ab7a-40f1-a28b-1b9d729555ab"
       Hint: MetaDescription
       Value: Seating category with an Outdoor subcategory. Insert a Subcategory or a Product under this hub.
-    - ID: 3db1ecd4-8367-46f0-94f2-a04b2b6ee645
+    - ID: "3db1ecd4-8367-46f0-94f2-a04b2b6ee645"
       Hint: ChangeFrequency
       Value: weekly
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Seating
-    - ID: 4f2229fd-8d38-4064-9076-9e01cd64657e
+    - ID: "4f2229fd-8d38-4064-9076-9e01cd64657e"
       Hint: MetaTitle
       Value: Seating — Showcase
-    - ID: 570f7142-a939-44cd-8c24-15851cfb5cc2
+    - ID: "570f7142-a939-44cd-8c24-15851cfb5cc2"
       Hint: Eyebrow
       Value: Products
-    - ID: 6a60cf2d-36b3-44b5-81be-fa984d8ee093
+    - ID: "6a60cf2d-36b3-44b5-81be-fa984d8ee093"
       Hint: Title
       Value: Seating
-    - ID: 6bf9cea3-b4b5-427f-929a-c76b00095256
+    - ID: "6bf9cea3-b4b5-427f-929a-c76b00095256"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9c7b9b7e-1cb4-48e5-9b3b-8681f6bb1d6e"
-    - ID: b785fe09-1a66-4d48-953c-26614fe3651f
+    - ID: "b785fe09-1a66-4d48-953c-26614fe3651f"
       Hint: SitemapPriority
       Value: 0.7
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d5deb2fd-3e93-4d06-982e-9f6f62d0a425
+    - ID: "d5deb2fd-3e93-4d06-982e-9f6f62d0a425"
       Hint: ShortDescription
       Value: Chairs built to stay in the room, including outdoor.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T161014Z
-DB: master

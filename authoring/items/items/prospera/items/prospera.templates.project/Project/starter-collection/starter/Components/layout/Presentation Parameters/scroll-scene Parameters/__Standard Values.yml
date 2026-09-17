@@ -5,51 +5,50 @@ Template: "53fcbd72-58e3-4f94-a7e0-44e6c5549257"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/Presentation Parameters/scroll-scene Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "scroll-scene@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4b5d20de-7a31-40c9-8c78-24758a2cae22"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 009d28e6-738d-425a-aef8-b367db7192e3
+    - ID: "009d28e6-738d-425a-aef8-b367db7192e3"
       Hint: BackgroundScrim
       Value: "{0743AD31-06DB-417C-971B-BC7DBCFB14BB}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222214Z
-    - ID: 3abf757f-6cf9-484b-9ca5-6da0a5f8bbff
+    - ID: "3abf757f-6cf9-484b-9ca5-6da0a5f8bbff"
       Hint: ColorStops
       Value: neutral,primary,accent
-    - ID: 48323398-8dba-4a0c-be59-8812c7fd72c4
+    - ID: "48323398-8dba-4a0c-be59-8812c7fd72c4"
       Hint: StickyBackground
       Value: 1
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a5eb2338-a9e4-4dfc-bd00-2344f754dc73"
-    - ID: 9fb718b4-e35c-4ef7-8606-a4bc6e2f3e11
+    - ID: "9fb718b4-e35c-4ef7-8606-a4bc6e2f3e11"
       Hint: TransitionMs
       Value: 600
-    - ID: b60c8a5d-1ee5-4a1b-98ad-a2d635ce64e1
+    - ID: "b60c8a5d-1ee5-4a1b-98ad-a2d635ce64e1"
       Hint: BackgroundPosition
       Value: "{54F4B6DA-A7A5-4E54-9240-613E1F5D9401}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222214Z
-DB: master

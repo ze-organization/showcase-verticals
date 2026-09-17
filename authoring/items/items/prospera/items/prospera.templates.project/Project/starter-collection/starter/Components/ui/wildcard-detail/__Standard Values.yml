@@ -5,491 +5,490 @@ Template: "f4e372c0-ebc8-4fad-a2be-0efe992dd6c6"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/wildcard-detail/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "wildcard-detail@1"
-- ID: 79888ba7-ae67-4cb9-a0dc-2758902fd236
+- ID: "79888ba7-ae67-4cb9-a0dc-2758902fd236"
   Hint: Image
   Value: |
     <image mediaid="{9F3DCF21-B1EC-4A12-B42A-996F791F18E9}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e2b88d67-fcf9-4923-94e3-380d99decf61"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: عنوان العنصر
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>نص احتياطي. عندما يُطابق مقطع عنوان URL عنصر محتوى ضمن جذر المصدر، تحل حقول ذلك العنصر محل هذا المحتوى.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "778d84e3-ddde-4ce0-9ba7-56cb1de339cd"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: ملخص داعم قصير لهذا العنصر.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: عنوان العنصر
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152054Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>نص احتياطي. عندما يُطابق مقطع عنوان URL عنصر محتوى ضمن جذر المصدر، تحل حقول ذلك العنصر محل هذا المحتوى.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6a7fc804-717c-4fab-a2bb-a149b43345ce"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: ملخص داعم قصير لهذا العنصر.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152054Z
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Elementtitel
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: "<p>Reserveindhold. Når en URL-slug matcher et indholdselement under kilderoden, erstatter det elements felter dette indhold.</p>"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "cfeb3c9e-013f-4cd7-b206-8ac98d631ab6"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Et kort understøttende resumé af dette element.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Elementtitel
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: "<p>Fallback-Text. Wenn ein URL-Slug auf ein Inhaltselement unterhalb des Quellstamms verweist, ersetzen dessen Felder diesen Inhalt.</p>"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "41ec0316-5377-4c48-ace4-98641e2e26b5"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Eine kurze ergänzende Zusammenfassung zu diesem Element.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Elementtitel
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152054Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: "<p>Fallback-Text. Wenn ein URL-Slug auf ein Inhaltselement unterhalb des Quellstamms verweist, ersetzen dessen Felder diesen Inhalt.</p>"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "056b6edd-fd4b-4720-bb9f-7c7c0f7bd2cf"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Eine kurze ergänzende Zusammenfassung zu diesem Element.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152054Z
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Item title
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223310Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>Fallback body copy. When a URL slug resolves to a content item under the Source Root, that item's fields replace this authored content.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "467e85cd-aa85-49bf-8ae5-63db68a63d8e"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: A short supporting summary for this item.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223311Z
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Título del elemento
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>Texto de respaldo. Cuando un slug de URL se resuelve en un elemento de contenido bajo la raíz de origen, los campos de ese elemento sustituyen este contenido.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "10435025-619b-4e04-b336-ae33194ad3f9"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Un breve resumen de apoyo para este elemento.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Título del elemento
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152054Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>Texto de respaldo. Cuando un slug de URL se resuelve en un elemento de contenido bajo la raíz de origen, los campos de ese elemento sustituyen este contenido.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b5353eab-c8a0-466f-8138-ad03ddbe1564"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Un breve resumen de apoyo para este elemento.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152054Z
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Titre de l'élément
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>Texte de repli. Lorsqu'un slug d'URL correspond à un élément de contenu sous la racine source, les champs de cet élément remplacent ce contenu.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3cdba2ce-d31a-48e8-bfe7-0accd5e41ed1"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Un bref résumé d'appui pour cet élément.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Titre de l'élément
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152054Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>Texte de repli. Lorsqu'un slug d'URL correspond à un élément de contenu sous la racine source, les champs de cet élément remplacent ce contenu.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2a26b79a-6cb8-4b6e-8d16-c694d889cbe2"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Un bref résumé d'appui pour cet élément.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152055Z
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Titolo dell'elemento
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>Testo di riserva. Quando uno slug URL corrisponde a un elemento di contenuto sotto la radice di origine, i campi di quell'elemento sostituiscono questo contenuto.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5e011ea9-52e2-45e0-b297-c4052756dabe"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Un breve riepilogo di supporto per questo elemento.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: アイテムのタイトル
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>フォールバック本文。URLスラッグがソースルート配下のコンテンツアイテムに解決されると、そのアイテムのフィールドがこの本文を置き換えます。</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7709a219-faa1-4f16-b96c-528ff40749c5"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: このアイテムの短い補足要約。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: 条目标题
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223311Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>后备正文。当 URL 别名解析到源根目录下的内容项时，该内容项的字段将替换此处的内容。</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e7d1d256-c6ef-4177-87ed-19594bfec86a"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: 该条目的简短补充摘要。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: 項目標題
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T223312Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: <p>後備內文。當 URL 別名解析到來源根目錄下的內容項目時，該項目的欄位將取代此處的內容。</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d10e909d-62cd-4eac-b341-d68eed05003b"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: 該項目的簡短補充摘要。
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223312Z
-DB: master

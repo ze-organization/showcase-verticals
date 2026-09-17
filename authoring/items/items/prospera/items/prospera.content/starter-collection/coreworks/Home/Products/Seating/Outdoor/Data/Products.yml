@@ -5,44 +5,43 @@ Template: "5d03f5d4-cd26-4c9b-ad3d-226ee5db945d"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Seating/Outdoor/Data/Products"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "product-subcategory-outdoor@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a8265d93-16a1-4020-84e2-b858c6aade1c"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "5808b3f5-09fc-4a96-98b2-2c544d3999d0"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Products
   Versions:
   - Version: 1
     Fields:
-    - ID: 0478e8ee-f031-49b3-aeb6-ddffca51fba7
+    - ID: "0478e8ee-f031-49b3-aeb6-ddffca51fba7"
       Hint: Title
       Value: In outdoor
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T190358Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4333c834-10bd-42b7-99aa-bd94e9babad4"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T190402Z
-    - ID: e80696df-fc1a-4c07-907b-9b1d2ef5e3ab
+    - ID: "e80696df-fc1a-4c07-907b-9b1d2ef5e3ab"
       Hint: Lead
       Value: <p>The Harbor Lounge Chair is the sample SKU under this fold.</p>
-DB: master

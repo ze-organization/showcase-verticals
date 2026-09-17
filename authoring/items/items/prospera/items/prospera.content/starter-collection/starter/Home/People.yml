@@ -5,35 +5,35 @@ Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/starter/Home/People"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{639262EC-F035-4047-AF6C-232D8928976D}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: people@1
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{A8AB96FE-BE11-4492-A333-27F9DD5CFC01}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a40810c1-9479-4cf9-8b09-76c4b7dbdad1"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "316a9506-3c46-48ec-90b2-128e40b99da4"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: People
   Versions:
   - Version: 1
     Fields:
-    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
         <r xmlns:p="p" xmlns:s="s"
@@ -96,38 +96,37 @@ Languages:
               s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BD5F20F03-6BB8-48EE-A93A-F58AD909492F%7D" />
           </d>
         </r>
-    - ID: 1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da
+    - ID: "1f2c11a0-23ce-4c6c-9344-e9dda3e1c2da"
       Hint: Title
       Value: People
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T224911Z
-    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+    - ID: "3dd13bc9-0029-47ac-9c14-9e4cdf07417f"
       Hint: SitemapPriority
       Value: 0.8
-    - ID: 3f960792-8ea2-46b4-a3da-c2c054de00ff
+    - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
       Value: Sample people pages for the starter site — staff, specialists, and guides share one Person type.
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: People
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ea24d02a-56f1-4ea6-b958-7ef5d660cb46"
-    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+    - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
-    - ID: a017d3ba-792b-48d6-8c77-5ff52120244e
+    - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
       Value: People — Showcase
-    - ID: b0f658e7-b2da-40e4-9824-75f89bf092d6
+    - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Team
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260908T161006Z
-DB: master

@@ -5,61 +5,60 @@ Template: "c5983974-fd79-4b87-84dc-0496923bcf42"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Americas/Data/CardMexico"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "destination-region-americas@1"
-- ID: bc687277-431e-48bc-97d1-cd23cf8eaf06
+- ID: "bc687277-431e-48bc-97d1-cd23cf8eaf06"
   Hint: Image
   Value: |
     <image mediaid="{C3B208FF-6337-4E82-AAAB-25B5D1B4A4DA}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "145c38c7-982c-4a0e-b8f8-a2604e32b299"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "95b2e03d-f9a2-42da-b57a-b02f5f13b8e8"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: CardMexico
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T190927Z
-    - ID: 347b30ad-a374-4293-9df0-7791081d5846
+    - ID: "347b30ad-a374-4293-9df0-7791081d5846"
       Hint: Label
       Value: Country
-    - ID: 516b35d6-f27f-42a9-80c1-c0086fa366ed
+    - ID: "516b35d6-f27f-42a9-80c1-c0086fa366ed"
       Hint: Description
       Value: <p>Oaxaca is the sample city. Insert another Destination under Mexico.</p>
-    - ID: 782a7f51-6152-422c-af0a-8d2b8597af43
+    - ID: "782a7f51-6152-422c-af0a-8d2b8597af43"
       Hint: Link
       Value: |
         <link linktype="external" url="/Destinations/Americas/Mexico" text="Browse Mexico" />
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "92646a91-e9f8-47e4-ae32-e00a7d0be906"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cb387afe-f959-438c-8fd7-9ae6d86d4587
+    - ID: "cb387afe-f959-438c-8fd7-9ae6d86d4587"
       Hint: Title
       Value: Mexico
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215038Z
-    - ID: e7ffa9eb-9642-489f-b39a-a5aa9cbcd84d
+    - ID: "e7ffa9eb-9642-489f-b39a-a5aa9cbcd84d"
       Hint: Country
       Value: Mexico
-    - ID: f81ed8c9-1772-4786-9faf-15bb0f6d9732
+    - ID: "f81ed8c9-1772-4786-9faf-15bb0f6d9732"
       Hint: Continent
       Value: Americas
-DB: master

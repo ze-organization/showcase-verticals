@@ -5,529 +5,528 @@ Template: "1f09f695-f21e-4aac-a0b8-0694678c64c6"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/location-search-bar/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "location-search-bar@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "759a34fc-631a-40ea-aca9-3ce7718cb0c7"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: بحث
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: استخدم موقعي
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "43f610ae-0c79-44de-90bf-e1d61657d7ba"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: ضمن
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: الرمز البريدي أو المدينة
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151834Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: بحث
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: استخدم موقعي
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f40b9ed2-2197-4be3-b8b1-2bfbddb50fe6"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: ضمن
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151834Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: الرمز البريدي أو المدينة
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Søg
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Brug min placering
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2fedf19a-e452-4a4b-940f-b11433f7df53"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Inden for
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Postnummer eller by
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Suchen
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Meinen Standort verwenden
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "bc6847e4-f8a9-4363-a661-f6b32d895c66"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Innerhalb von
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: PLZ oder Ort
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151834Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Suchen
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Meinen Standort verwenden
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1bd268cb-91e5-4b4c-9efd-113e62bf02d2"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Innerhalb von
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151834Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: PLZ oder Ort
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Search
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Use my location
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "23ea09f0-17ee-4f25-b474-e512f49c8bf7"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Within
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220607Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: ZIP or city
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Buscar
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Usar mi ubicación
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "fc7cd3d7-1df9-4abf-b902-48d76b81b7e2"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Dentro de
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220609Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Código postal o ciudad
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151834Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Buscar
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Usar mi ubicación
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "434da81f-ef37-45f2-b6df-a6812fd9cc6c"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Dentro de
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151834Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Código postal o ciudad
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Rechercher
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Utiliser ma position
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1b1866f3-8a32-4788-823a-ec2cdca3a323"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Dans un rayon de
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Code postal ou ville
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151834Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Rechercher
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Utiliser ma position
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "bb3babe1-fce8-44bb-8adc-b2cebe0c7440"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Dans un rayon de
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151834Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Code postal ou ville
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: Cerca
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: Usa la mia posizione
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1be0054b-0616-47f8-9a75-f3afc5f037f3"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: Entro
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: CAP o città
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220607Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: 検索
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: 現在地を使用
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "82280d03-bf63-48fa-b6d6-6bcd01f9e6c3"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: 範囲内
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: 郵便番号または市区町村
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220608Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: 搜索
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: 使用我的位置
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5beca450-d300-4a0b-bb72-8c2a963d2a22"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: 范围内
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: 邮编或城市
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220608Z
-    - ID: 2615af46-367c-423b-aebf-0a9b3478184d
+    - ID: "2615af46-367c-423b-aebf-0a9b3478184d"
       Hint: SubmitLabel
       Value: 搜尋
-    - ID: 4a73465e-b507-4754-ac5d-c6083177b74a
+    - ID: "4a73465e-b507-4754-ac5d-c6083177b74a"
       Hint: UseMyLocationLabel
       Value: 使用我的位置
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4c3ccd15-d25e-4106-9e23-a8cf5cd3984b"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: ce85c933-8801-49e9-9df6-950920d07a69
+    - ID: "ce85c933-8801-49e9-9df6-950920d07a69"
       Hint: RadiusLabel
       Value: 範圍內
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220608Z
-    - ID: dd60f7b7-dd14-4046-be87-57a9fddc3b99
+    - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: 郵遞區號或城市
-DB: master

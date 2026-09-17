@@ -5,86 +5,85 @@ Template: "745eb7c5-d8b0-4a77-85bf-c0c0cbb60573"
 Path: "/sitecore/content/starter-collection/starter/Home/Careers/destination-guide"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{707917E1-BE3A-5C81-A20F-22C0BABFDD9F}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "job-destination-guide@1"
-- ID: 6a6caa93-bfb0-4e65-9132-d18b0d7b5746
+- ID: "6a6caa93-bfb0-4e65-9132-d18b0d7b5746"
   Hint: Image
   Value: |
     <image mediaid="{780E91D0-DCAC-47CD-A382-09FA0431E1E5}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{168A60D0-9905-46F4-867A-D95CD4060C56}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1d862967-d3ef-470d-a0b0-7d06d16ee88a"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "839b4057-2933-4f4c-81e6-743321238608"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Destination guide
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192718Z
-    - ID: 4da71bb0-9918-438f-9be6-d310d23eeadc
+    - ID: "4da71bb0-9918-438f-9be6-d310d23eeadc"
       Hint: MetaDescription
       Value: Contract travel role based in Lisbon.
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "destination-guide"
-    - ID: 6a184930-3c8b-4033-8207-0b7eee22bc52
+    - ID: "6a184930-3c8b-4033-8207-0b7eee22bc52"
       Hint: LocationName
       Value: Lisbon
-    - ID: 71410420-c49a-46a5-bb9e-6d326e8d29e4
+    - ID: "71410420-c49a-46a5-bb9e-6d326e8d29e4"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 822e8ac5-7566-48fd-8ed8-e0ae3973e632
+    - ID: "822e8ac5-7566-48fd-8ed8-e0ae3973e632"
       Hint: LocationLink
       Value: |
         <link linktype="external" url="/Destinations/Europe/lisbon" text="Lisbon" />
-    - ID: 85e0552d-cf4c-481d-9f48-221d79c45eb7
+    - ID: "85e0552d-cf4c-481d-9f48-221d79c45eb7"
       Hint: EmploymentType
       Value: Contract
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "394d5d8c-54a6-4d16-bc06-c43419706cef"
-    - ID: 93e4bd64-978b-4a8c-9122-cb137a518981
+    - ID: "93e4bd64-978b-4a8c-9122-cb137a518981"
       Hint: Eyebrow
       Value: Travel
-    - ID: 96102ffc-3095-4755-bff7-680b43a28853
+    - ID: "96102ffc-3095-4755-bff7-680b43a28853"
       Hint: Content
       Value: <p>You write Destination pages. Country and region labels stay denormalized from the parent so cards still work.</p>
-    - ID: ad52e0b0-bd6e-463e-af9a-81dfa4506379
+    - ID: "ad52e0b0-bd6e-463e-af9a-81dfa4506379"
       Hint: Department
       Value: Travel
-    - ID: b402d732-6f87-46b7-9409-6efb75e17e2d
+    - ID: "b402d732-6f87-46b7-9409-6efb75e17e2d"
       Hint: Title
       Value: Destination guide
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bf73055a-4e1d-4359-8726-9773f291a907
+    - ID: "bf73055a-4e1d-4359-8726-9773f291a907"
       Hint: MetaTitle
       Value: Destination guide — Careers
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T192720Z
-    - ID: dec4b30a-2bf0-4ab1-a942-8e63f56fc50d
+    - ID: "dec4b30a-2bf0-4ab1-a942-8e63f56fc50d"
       Hint: ShortDescription
       Value: Itineraries that leave room for the unplanned hour — markets, ferries, a table that was not on the brief.
-DB: master

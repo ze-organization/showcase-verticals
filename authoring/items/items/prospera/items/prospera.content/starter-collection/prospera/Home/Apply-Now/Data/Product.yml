@@ -5,50 +5,49 @@ Template: "3eb18ee5-68e6-4a2f-bee5-76dd3de9cb89"
 Path: "/sitecore/content/starter-collection/prospera/Home/Apply-Now/Data/Product"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "get-started@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9b6e4f42-f5df-49ae-ac9e-2b04faf35e10"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "5972e4d0-b7ce-4190-98b5-2fb827238769"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Product
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021639Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ca485a28-7ae9-4268-8ca0-896a22e63075"
-    - ID: 9ef1728b-3765-45e8-9724-1a1fec3e8ff2
+    - ID: "9ef1728b-3765-45e8-9724-1a1fec3e8ff2"
       Hint: Required
       Value: true
-    - ID: ba0edf03-e892-4dd6-a8e9-0804612abbec
+    - ID: "ba0edf03-e892-4dd6-a8e9-0804612abbec"
       Hint: Placeholder
       Value: Everyday checking, Rewards Visa, mortgage, HELOC, or Business
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cdbc350f-7bfa-44e0-9320-11a421ecfb25
+    - ID: "cdbc350f-7bfa-44e0-9320-11a421ecfb25"
       Hint: Name
       Value: product
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T021639Z
-    - ID: f1fa6c3d-cbe5-46ea-8b4a-757b2161e1f5
+    - ID: "f1fa6c3d-cbe5-46ea-8b4a-757b2161e1f5"
       Hint: Label
       Value: "What are you applying for?"
-DB: master

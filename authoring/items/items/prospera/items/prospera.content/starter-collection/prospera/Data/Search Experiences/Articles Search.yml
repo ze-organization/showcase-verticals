@@ -5,21 +5,21 @@ Template: "a0087a72-8274-46e4-aaf0-5e41bf9390cc"
 Path: "/sitecore/content/starter-collection/prospera/Data/Search Experiences/Articles Search"
 BranchID: "00000000-0000-0000-0000-000000000000"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260816T223737Z
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "0c7dbcc2-1cef-4728-affa-9d71be33b6f0"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c72274ca-e9f5-49b1-8b79-6a2084910145
+    - ID: "c72274ca-e9f5-49b1-8b79-6a2084910145"
       Hint: SearchConfig
       Value: |
         {
@@ -33,7 +33,6 @@ Languages:
             "type": ""
           }
         }
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260816T224114Z
-DB: master

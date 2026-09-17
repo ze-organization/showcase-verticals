@@ -5,7 +5,7 @@ Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
 Path: "/sitecore/templates/Branches/Project/click-click-launch/Alaris/Add Available Renderings/$name"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 715ae6c0-71c8-4744-ab4f-65362d20ad65
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
   Value: |
     {913E30C7-63C2-4A2B-9D44-B2ADAEED6BC2}
@@ -44,29 +44,28 @@ SharedFields:
     {FC274B80-2EF2-4B05-89D4-22FCB1E9CC9C}
     {D890160D-BD57-42EF-9FBD-F9666F385004}
     {EF1A7041-E3AD-49CC-B2EB-CE7CA1C67A2F}
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2256b9e9-0f10-4308-961a-0f2e7d5a77c9"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20171113T104335Z
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "001eaf33-8fb2-43f3-b26f-479fa59116d4"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\richard.seal@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20250528T211021Z
-DB: master

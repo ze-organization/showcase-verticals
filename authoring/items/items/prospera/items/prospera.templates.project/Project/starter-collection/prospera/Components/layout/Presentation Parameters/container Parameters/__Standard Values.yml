@@ -5,54 +5,53 @@ Template: "18de3c04-60d9-46d9-b117-6dbab6657133"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/layout/Presentation Parameters/container Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: container@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a953a795-4372-489a-94e1-641d9ce64133"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T014142Z
-    - ID: 4d551e3b-c939-4ee7-85b3-e2e441b91f4a
+    - ID: "4d551e3b-c939-4ee7-85b3-e2e441b91f4a"
       Hint: ColorScheme
       Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 52dbc2ad-2fe4-4702-b55e-8a9f584ef240
+    - ID: "52dbc2ad-2fe4-4702-b55e-8a9f584ef240"
       Hint: BackgroundIntensity
       Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6ab30d2a-906d-4a8f-9f34-d6815e645ff6
+    - ID: "6ab30d2a-906d-4a8f-9f34-d6815e645ff6"
       Hint: Position
       Value: "{31BD6CC7-658A-49FF-AAC0-69CC3198D414}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "882f1e4a-016f-4d13-ad11-58f9b92b9490"
-    - ID: ae25c4cd-c824-4503-bace-e53c62d51b46
+    - ID: "ae25c4cd-c824-4503-bace-e53c62d51b46"
       Hint: Alignment
       Value: "{62814925-1CA1-4AAE-A149-AE5BCB76F7F9}"
-    - ID: b206b5ca-638b-43e3-a5cf-0003330f8f02
+    - ID: "b206b5ca-638b-43e3-a5cf-0003330f8f02"
       Hint: MaxWidth
       Value: "{ED0822A4-A70F-406C-837C-B16E740BFBFC}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T014142Z
-    - ID: ee100882-31c6-4ada-9d3c-369497c0d0ca
+    - ID: "ee100882-31c6-4ada-9d3c-369497c0d0ca"
       Hint: PaddingY
       Value: "{76DA7548-ADA6-412C-A20B-8829D7A32B66}"
-DB: master

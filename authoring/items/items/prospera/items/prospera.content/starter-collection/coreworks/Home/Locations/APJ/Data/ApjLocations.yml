@@ -5,31 +5,31 @@ Template: "8cba3388-5944-43d2-8827-02704751704c"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/APJ/Data/ApjLocations"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "locations-apj@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "41bc9aab-b05f-43dc-bc1c-18f0be23f961"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "38fd1776-c8fa-4880-93d3-60a0ab17c207"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: ApjLocations
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192007Z
-    - ID: 362a3df3-a791-4991-b7e8-47927dd7d4b1
+    - ID: "362a3df3-a791-4991-b7e8-47927dd7d4b1"
       Hint: Locations
       Value: |
         {56C45C91-0E37-4E14-9ED9-BEB129EFC09A}
@@ -37,20 +37,19 @@ Languages:
         {6911CE7E-A63C-4EC3-A330-C98163F5DB9E}
         {B74B4007-6BE7-4AE2-BA2E-002718A7CEBA}
         {0F4F3095-EE34-4BE1-8831-74D96CFB8497}
-    - ID: 41d09add-5552-4477-adda-c7ee07627e47
+    - ID: "41d09add-5552-4477-adda-c7ee07627e47"
       Hint: Lead
       Value: <p>Five locations from Tokyo to Seoul. Click a pin to highlight the card, or a card to fly the map.</p>
-    - ID: 4687723b-091b-4b30-9ba4-c2d55ba4c7cb
+    - ID: "4687723b-091b-4b30-9ba4-c2d55ba4c7cb"
       Hint: Title
       Value: APJ
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d31da430-8e35-4d99-afde-86126f2ce916"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T214749Z
-DB: master

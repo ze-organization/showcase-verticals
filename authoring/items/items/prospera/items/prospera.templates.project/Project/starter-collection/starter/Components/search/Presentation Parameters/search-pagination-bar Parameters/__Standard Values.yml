@@ -5,42 +5,41 @@ Template: "c0877b2b-c0bb-4694-ae35-c5bfe9c7a6ad"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/Presentation Parameters/search-pagination-bar Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "search-pagination-bar@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d3e22b04-7478-49c3-89ee-8e0dfb4319b8"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222340Z
-    - ID: 47133948-cb66-4450-b150-1b07645b7b0d
+    - ID: "47133948-cb66-4450-b150-1b07645b7b0d"
       Hint: PerPageOptions
       Value: 10,25,50,100
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f5f3e080-70e2-4f3b-8f8d-e5529e5c4dad"
-    - ID: a1ed1f60-64b0-4956-a4c3-b1c0cb609f16
+    - ID: "a1ed1f60-64b0-4956-a4c3-b1c0cb609f16"
       Hint: Alignment
       Value: "{7287829E-D3AF-4002-9317-4ED590775B2C}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222340Z
-DB: master

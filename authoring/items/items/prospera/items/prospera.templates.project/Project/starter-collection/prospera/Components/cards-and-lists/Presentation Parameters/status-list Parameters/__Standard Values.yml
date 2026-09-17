@@ -5,72 +5,71 @@ Template: "c67ff299-9fda-44fd-955c-68490f687e65"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/status-list Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "status-list@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9f80e643-3db3-46bf-8eb6-fdb68af7d9e9"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 074f1768-c42f-40bf-a769-73dd07bc4399
+    - ID: "074f1768-c42f-40bf-a769-73dd07bc4399"
       Hint: PaddingY
       Value: "{845C2122-E1C7-4D34-A4DB-42A9F62AF306}"
-    - ID: 0f3ef8d1-5875-410b-9d4c-c4de101b5831
+    - ID: "0f3ef8d1-5875-410b-9d4c-c4de101b5831"
       Hint: FeaturedFirst
       Value: "{7FB84795-9FD9-4E65-A2BF-3A521E8281C7}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T020848Z
-    - ID: 25f0f887-d7f5-4590-ba85-34923e58baab
+    - ID: "25f0f887-d7f5-4590-ba85-34923e58baab"
       Hint: ColumnsLg
       Value: "{9437B140-9D2C-424D-82BA-0F2C69CCD969}"
-    - ID: 2c7fa508-8e62-4ba1-a89e-ee8685432b21
+    - ID: "2c7fa508-8e62-4ba1-a89e-ee8685432b21"
       Hint: ColumnsSm
       Value: "{254A296A-55ED-4759-92C3-C04C47B99271}"
-    - ID: 2e4529de-8368-4860-ba3c-2dc39a9ebf1d
+    - ID: "2e4529de-8368-4860-ba3c-2dc39a9ebf1d"
       Hint: GridPattern
       Value: "{717B9448-4FDE-4DC7-9F3E-ACA5307467A3}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 69c13b97-3934-454e-95eb-2ad1b06a6c1f
+    - ID: "69c13b97-3934-454e-95eb-2ad1b06a6c1f"
       Hint: HeadingLayout
       Value: "{044F35F6-F95F-474D-9C9A-2FD35000E3BE}"
-    - ID: 73b9ff02-1a85-4b2b-8cd1-09e726bce6a0
+    - ID: "73b9ff02-1a85-4b2b-8cd1-09e726bce6a0"
       Hint: HeadingSize
       Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e38f5478-1d74-4038-ab36-c452a9ac54ba"
-    - ID: 8d70f37e-042d-4307-9377-ec5fb0c53361
+    - ID: "8d70f37e-042d-4307-9377-ec5fb0c53361"
       Hint: BackgroundIntensity
       Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
-    - ID: 9035d675-1abc-48c1-8cac-b810e5ffd776
+    - ID: "9035d675-1abc-48c1-8cac-b810e5ffd776"
       Hint: ColumnsMd
       Value: "{A799B290-78FE-463A-9C65-B82C40A9C4D9}"
-    - ID: a377afca-a90f-4133-bff8-179e8f22c354
+    - ID: "a377afca-a90f-4133-bff8-179e8f22c354"
       Hint: Gap
       Value: "{404B14BD-C15A-4DD1-98DF-E03E723C86BC}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d34827cc-1523-4bdc-8c6c-ec2b07237542
+    - ID: "d34827cc-1523-4bdc-8c6c-ec2b07237542"
       Hint: MaxWidth
       Value: "{1CD27043-2AE3-4B1B-8FBF-D13F0F945700}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T020848Z
-    - ID: f1765a19-da9a-4d0f-aac6-c1932e7e0bc5
+    - ID: "f1765a19-da9a-4d0f-aac6-c1932e7e0bc5"
       Hint: ColorScheme
       Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
-DB: master

@@ -5,82 +5,81 @@ Template: "639262ec-f035-4047-af6c-232d8928976d"
 Path: "/sitecore/content/starter-collection/starter/Home/People/julian-park"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{5245B0CD-8873-43F2-AC6D-75DB470FDBD4}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "person-julian-park@1"
-- ID: 3535f1d3-534c-4170-aa4b-e49aaadfdb26
+- ID: "3535f1d3-534c-4170-aa4b-e49aaadfdb26"
   Hint: Image
   Value: |
     <image mediaid="{4B44EBC4-D718-4D09-9981-6235A08D54F3}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{16340841-1303-45DE-9631-1964B39841C5}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0807c5ad-77cc-4e24-b712-aca142eca30f"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "81512f8f-7ab7-4bb3-8c3a-0182ac9be9e9"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Julian Park
   Versions:
   - Version: 1
     Fields:
-    - ID: 1a9e8c9d-a4bf-4d4b-8e73-9edcc355971a
+    - ID: "1a9e8c9d-a4bf-4d4b-8e73-9edcc355971a"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 1eae6e14-94a1-4241-954e-1ba65d48709e
+    - ID: "1eae6e14-94a1-4241-954e-1ba65d48709e"
       Hint: MetaDescription
       Value: Care lead. Sample Person page for the starter site.
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T224921Z
-    - ID: 3dc1e984-05d0-4e31-8ac4-653f590e3475
+    - ID: "3dc1e984-05d0-4e31-8ac4-653f590e3475"
       Hint: MetaTitle
       Value: Julian Park — Showcase
-    - ID: 3e573f98-f8e5-40d5-9705-b1cb452e2a43
+    - ID: "3e573f98-f8e5-40d5-9705-b1cb452e2a43"
       Hint: FullName
       Value: Julian Park
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "julian-park"
-    - ID: 69073724-dbbb-48e5-adde-f8edd958a0a8
+    - ID: "69073724-dbbb-48e5-adde-f8edd958a0a8"
       Hint: Email
       Value: julian.park@example.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8d9789e5-5952-4a71-92f0-759bfcc7a979"
-    - ID: 92bf16dd-7311-43cc-b499-38f09004cba5
+    - ID: "92bf16dd-7311-43cc-b499-38f09004cba5"
       Hint: Role
       Value: Care Lead
-    - ID: b7ae69ae-5417-48be-902a-fe2a08c2f01a
+    - ID: "b7ae69ae-5417-48be-902a-fe2a08c2f01a"
       Hint: Title
       Value: Julian Park
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cc9a23e4-f316-4d11-833b-fc62172ec536
+    - ID: "cc9a23e4-f316-4d11-833b-fc62172ec536"
       Hint: Phone
       Value: +1 617 555 0198
-    - ID: d177428f-9211-4585-a306-7dd58a6f0cac
+    - ID: "d177428f-9211-4585-a306-7dd58a6f0cac"
       Hint: Eyebrow
       Value: Clinical
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260903T224923Z
-    - ID: ec6e4c54-8f27-41fb-8589-619d705f6533
+    - ID: "ec6e4c54-8f27-41fb-8589-619d705f6533"
       Hint: Bio
       Value: "<p>Julian coordinates intake and follow-up so specialists see the same story the patient already told. Role is a field, not a template — this page is still Person.</p>"
-DB: master

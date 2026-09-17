@@ -5,73 +5,72 @@ Template: "cd7c3c4c-a03a-46e8-91ed-9f13edb16eb0"
 Path: "/sitecore/content/starter-collection/starter/Home/Services/on-site-assessment"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C3CDC733-78FB-404B-8BA3-AC17EC31F178}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "service-on-site-assessment@1"
-- ID: c03b497e-dc8d-43b9-b1bb-4113a66d99f1
+- ID: "c03b497e-dc8d-43b9-b1bb-4113a66d99f1"
   Hint: Image
   Value: |
     <image mediaid="{95B65875-25E3-415A-8A92-57F02687BD4F}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{DF8AE64E-51A4-4ADA-80C5-798DB03992AD}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "eb9eb80b-c8e0-47b6-924a-d13f7e8cd23c"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "55ac6173-8ceb-4a7d-9180-692e2d7e1a88"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: "On-site assessment"
   Versions:
   - Version: 1
     Fields:
-    - ID: 171542b5-bd57-48b8-ba50-447f4848d7ca
+    - ID: "171542b5-bd57-48b8-ba50-447f4848d7ca"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T224632Z
-    - ID: 2cecb24e-31fe-4505-a444-bb1486a55712
+    - ID: "2cecb24e-31fe-4505-a444-bb1486a55712"
       Hint: ShortDescription
       Value: Walk the current experience, name the gaps, leave with a sequenced plan.
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "on-site-assessment"
-    - ID: 5ab9b4f8-baba-4051-a802-9450c8860a6e
+    - ID: "5ab9b4f8-baba-4051-a802-9450c8860a6e"
       Hint: MetaTitle
       Value: "On-site assessment — Showcase"
-    - ID: 80487ecb-bb84-4405-9a5c-5b41ba937585
+    - ID: "80487ecb-bb84-4405-9a5c-5b41ba937585"
       Hint: Title
       Value: "On-site assessment"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9b677822-43df-4f6a-abf3-0e4567a86e65"
-    - ID: 8ffe2de8-5672-4832-85ea-4bc92bb727a6
+    - ID: "8ffe2de8-5672-4832-85ea-4bc92bb727a6"
       Hint: Content
       Value: <p>Two days on site. We sit with authors, click the live tree, and write down where Insert does the wrong thing. The deliverable is a typed IA — which listings stay Page, which children need a type — not a slide deck of principles.</p>
-    - ID: b1d44b31-8456-453f-a018-460637196777
+    - ID: "b1d44b31-8456-453f-a018-460637196777"
       Hint: Eyebrow
       Value: Advisory
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260903T224635Z
-    - ID: e5f56334-83a9-473e-bb86-7173dea1468a
+    - ID: "e5f56334-83a9-473e-bb86-7173dea1468a"
       Hint: MetaDescription
       Value: "Two-day authoring and IA assessment. Sample Service page for the starter site."
-DB: master

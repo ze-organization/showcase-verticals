@@ -5,622 +5,621 @@ Template: "819a7329-90d1-4b0a-b840-494e6f3fd424"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/subscription-banner/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "subscription-banner@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "666f9463-7f02-4258-82cd-e8501115f8b3"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: اشترك
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: البريد الإلكتروني
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "9ce77e5d-636d-4135-93c0-8934416fc4d4"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: ابقَ على اطّلاع
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: حدث خطأ ما. يرجى المحاولة مرة أخرى.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: شكرًا لاشتراكك.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>احصل على تحديثات شهرية حول المكوّنات والوصفات وأطقم البدء الجديدة.</p>
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152030Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: اشترك
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: البريد الإلكتروني
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6b1773b9-cc2e-48b2-b1db-2a50d66786b9"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: ابقَ على اطّلاع
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: حدث خطأ ما. يرجى المحاولة مرة أخرى.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152031Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: شكرًا لاشتراكك.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>احصل على تحديثات شهرية حول المكوّنات والوصفات وأطقم البدء الجديدة.</p>
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: Tilmeld
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: "E-mailadresse"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "500da860-0a4e-4b50-8492-e71c7321952b"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Hold dig opdateret
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Noget gik galt. Prøv igen.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Tak for din tilmelding.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Få månedlige opdateringer om nye komponenter, opskrifter og startpakker.</p>
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: Abonnieren
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: "E-Mail-Adresse"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b9ce4967-2600-40ec-93a1-d63b59fdfde1"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Bleiben Sie auf dem Laufenden
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Danke für Ihr Abonnement.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: "<p>Erhalten Sie monatliche Updates zu neuen Komponenten, Rezepten und Starter-Kits.</p>"
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152031Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: Abonnieren
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: "E-Mail-Adresse"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "651b0971-e48a-4451-9430-ec0d9b6929c7"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Bleiben Sie auf dem Laufenden
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152031Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Danke für Ihr Abonnement.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: "<p>Erhalten Sie monatliche Updates zu neuen Komponenten, Rezepten und Starter-Kits.</p>"
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222916Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: Subscribe
-    - ID: 46b698d4-8f87-4d04-8f52-a9d2fe0d92e8
+    - ID: "46b698d4-8f87-4d04-8f52-a9d2fe0d92e8"
       Hint: EmailPlaceholder
       Value: you@example.com
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5333e66f-07f9-4288-9427-533cf147b9c0
+    - ID: "5333e66f-07f9-4288-9427-533cf147b9c0"
       Hint: SubmitMethod
       Value: "{A84D43EE-DECB-4CE2-AF60-F9EC6B5977FC}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: Email address
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "559e6a79-bc84-4190-88aa-932fe8197a7f"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Stay in the loop
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bbbce356-d785-4e54-b0d1-b2eeac5acbd3
+    - ID: "bbbce356-d785-4e54-b0d1-b2eeac5acbd3"
       Hint: EmailRequired
       Value: 1
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Something went wrong. Please try again.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222916Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Thanks for subscribing.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Get monthly updates on new components, recipes, and starter kits.</p>
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: Suscribirse
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: Correo electrónico
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "58e87721-a435-4084-836a-e44948e9efc5"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Mantente al día
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Algo salió mal. Inténtalo de nuevo.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Gracias por suscribirte.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Recibe actualizaciones mensuales sobre nuevos componentes, recetas y kits de inicio.</p>
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152031Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: Suscribirse
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: Correo electrónico
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a0edc8a2-2e07-4b2c-9bb9-c6cc4ca59234"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Mantente al día
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Algo salió mal. Inténtalo de nuevo.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152031Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Gracias por suscribirte.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Recibe actualizaciones mensuales sobre nuevos componentes, recetas y kits de inicio.</p>
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: S'abonner
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: "Adresse e-mail"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "fc298992-0048-4883-96fc-d492a41995cd"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Restez informé
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Une erreur s'est produite. Veuillez réessayer.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Merci de votre abonnement.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Recevez chaque mois les nouveautés sur les composants, recettes et kits de démarrage.</p>
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T152030Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: S'abonner
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: "Adresse e-mail"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a47a4fbb-6693-4a99-8b01-cd67bdaf91e0"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Restez informé
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Une erreur s'est produite. Veuillez réessayer.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152031Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Merci de votre abonnement.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Recevez chaque mois les nouveautés sur les composants, recettes et kits de démarrage.</p>
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: Iscriviti
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: Indirizzo email
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2775eeca-0c04-4e34-9fa7-36db0e112bdd"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: Resta aggiornato
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: Qualcosa è andato storto. Riprova.
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: Grazie per l'iscrizione.
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Ricevi aggiornamenti mensili su nuovi componenti, ricette e starter kit.</p>
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: 登録する
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: メールアドレス
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3a1b5335-3a30-4417-ad6c-79407bbeb46e"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: 最新情報をお届けします
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: エラーが発生しました。もう一度お試しください。
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: ご登録ありがとうございます。
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>新しいコンポーネント、レシピ、スターターキットの最新情報を毎月お届けします。</p>
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: 订阅
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: 电子邮箱
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "df11a2a8-29c2-403c-ab91-ec6ee310237d"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: 保持关注
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: 出了点问题，请重试。
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: 感谢您的订阅。
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>每月获取有关新组件、配方和入门套件的更新。</p>
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T222917Z
-    - ID: 409d27ca-188b-44ed-9897-1bfef3060a4f
+    - ID: "409d27ca-188b-44ed-9897-1bfef3060a4f"
       Hint: SubmitText
       Value: 訂閱
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 6caa89b1-b462-4b23-8c90-c482c4afe0a4
+    - ID: "6caa89b1-b462-4b23-8c90-c482c4afe0a4"
       Hint: EmailLabel
       Value: 電子郵件地址
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "bd154982-318a-46d1-97a7-6220dca58953"
-    - ID: a900261a-5af9-4dd6-a4a1-5b0b2138e200
+    - ID: "a900261a-5af9-4dd6-a4a1-5b0b2138e200"
       Hint: Title
       Value: 保持關注
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6
+    - ID: "c503bd00-91e0-4ee9-8fe3-7ed234ee9ef6"
       Hint: ErrorMessage
       Value: 發生錯誤，請重試。
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222918Z
-    - ID: e61a2d33-7469-41bc-848c-356c7a816935
+    - ID: "e61a2d33-7469-41bc-848c-356c7a816935"
       Hint: SuccessMessage
       Value: 感謝您的訂閱。
-    - ID: fb5fc2b5-4785-4be3-bb71-f2b9b355cd04
+    - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>每月獲取有關新元件、配方和入門套件的更新。</p>
-DB: master

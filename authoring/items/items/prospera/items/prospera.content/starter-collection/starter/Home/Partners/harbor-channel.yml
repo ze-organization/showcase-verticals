@@ -5,84 +5,83 @@ Template: "f2773dc6-c534-4fe4-a907-be8f25e79a26"
 Path: "/sitecore/content/starter-collection/starter/Home/Partners/harbor-channel"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 11b22934-f15d-4b75-b324-453627bc4c38
+- ID: "11b22934-f15d-4b75-b324-453627bc4c38"
   Hint: Image
   Value: |
     <image mediaid="{4561BDDC-D47B-4360-914C-C133ECF2CE13}" />
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{060446D0-0073-41FD-A7A5-C0B391B1E35C}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "partner-harbor-channel@1"
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{7599A965-2D71-4697-9935-5EE4D55D6E4B}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1a909b10-9a17-4d79-8d67-d55d9875fd31"
-- ID: ef4684b1-dc25-4af4-ad85-937fa6ed2c43
+- ID: "ef4684b1-dc25-4af4-ad85-937fa6ed2c43"
   Hint: Logo
   Value: |
     <image mediaid="{1B87EE2A-C082-4D92-93F7-A1A7EBB9184B}" />
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "660af6da-869d-439c-bc3e-62ed26455fee"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Harbor Channel
   Versions:
   - Version: 1
     Fields:
-    - ID: 1bd3b179-99f0-4215-8fe1-d8451ab04939
+    - ID: "1bd3b179-99f0-4215-8fe1-d8451ab04939"
       Hint: MetaTitle
       Value: Harbor Channel — Partner
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192347Z
-    - ID: 31f3e9a8-78aa-4c23-95e8-4e891d08c170
+    - ID: "31f3e9a8-78aa-4c23-95e8-4e891d08c170"
       Hint: PartnerType
       Value: Channel
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "harbor-channel"
-    - ID: 74dbb6cf-2b10-4f16-a3cc-18435d8a19c5
+    - ID: "74dbb6cf-2b10-4f16-a3cc-18435d8a19c5"
       Hint: ShortDescription
       Value: A reseller that lands Landings and Case Studies without a template tree of their own.
-    - ID: 81064657-7130-44c4-a5ac-9b0a171ac8d9
+    - ID: "81064657-7130-44c4-a5ac-9b0a171ac8d9"
       Hint: Content
       Value: <p>Harbor sells the catalog into care networks. Partner pages stay Partner. Campaigns stay Landing. Proof stays Case Study.</p>
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "0cec23a2-9f1f-4485-831f-7e95bc01a3c4"
-    - ID: 97cceffe-6e96-4db4-bec6-f4267e1c5846
+    - ID: "97cceffe-6e96-4db4-bec6-f4267e1c5846"
       Hint: Website
       Value: |
         <link linktype="external" url="https://example.com" text="Visit Harbor" />
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c438daad-ac16-4321-9ae2-69944a99d894
+    - ID: "c438daad-ac16-4321-9ae2-69944a99d894"
       Hint: MetaDescription
       Value: Channel partner for care networks. Landings and Case Studies, not a template fork.
-    - ID: c69a257e-8510-45d1-b2db-577d85cf4773
+    - ID: "c69a257e-8510-45d1-b2db-577d85cf4773"
       Hint: Title
       Value: Harbor Channel
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260904T192350Z
-    - ID: e6706040-02f0-4ef8-9949-4e6e2e223e0c
+    - ID: "e6706040-02f0-4ef8-9949-4e6e2e223e0c"
       Hint: Eyebrow
       Value: Channel
-    - ID: fbbcff48-543b-494a-b924-ec86685cc462
+    - ID: "fbbcff48-543b-494a-b924-ec86685cc462"
       Hint: IncludeInSitemap
       Value: true
-DB: master

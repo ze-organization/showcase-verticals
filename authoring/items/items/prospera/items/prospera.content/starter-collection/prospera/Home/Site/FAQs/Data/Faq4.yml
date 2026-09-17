@@ -5,48 +5,47 @@ Template: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/FAQs/Data/Faq4"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: faqs@1
-- ID: 9d229aa4-1943-4b81-9e6c-db6d4aa49006
+- ID: "9d229aa4-1943-4b81-9e6c-db6d4aa49006"
   Hint: Image
   Value: |
     <image mediaid="{76B17B0C-03BF-4B9F-A9A0-D167389D3089}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4ca1e136-536b-4249-ac31-ccbbf8facb04"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "5338ae3c-3bdd-4e1b-8ff7-bdf332130319"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Faq4
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T154517Z
-    - ID: 53e9802a-066c-458d-80e7-a3982c8a2bb7
+    - ID: "53e9802a-066c-458d-80e7-a3982c8a2bb7"
       Hint: Title
       Value: "Can two people open checking together?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "97ec39ab-dcf0-44d9-841c-fa4653c088f9"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T012951Z
-    - ID: e7112a0e-d0b6-48c8-97a7-702bf16e51a6
+    - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: "<p>Yes. Joint owners apply on everyday checking via Apply Now. We do not use a separate joint product type. We do not offer an under-16s account on this site.</p>"
-DB: master

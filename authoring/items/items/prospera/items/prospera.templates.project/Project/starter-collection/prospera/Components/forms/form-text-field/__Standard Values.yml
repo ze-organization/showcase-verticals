@@ -5,51 +5,50 @@ Template: "3eb18ee5-68e6-4a2f-bee5-76dd3de9cb89"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-text-field/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "form-text-field@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "006c2d6f-0f14-44d7-9839-48567ccf82c2"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 10e2108a-318f-48a2-8f7a-caa8faffdae8
+    - ID: "10e2108a-318f-48a2-8f7a-caa8faffdae8"
       Hint: Type
       Value: "{FE6346A8-0F06-4F5B-8C2F-1760B76E5F54}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T014720Z
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 87874402-2152-4969-bab4-22c7cad7ee3f
+    - ID: "87874402-2152-4969-bab4-22c7cad7ee3f"
       Hint: AutoComplete
       Value: 1
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5a1fc596-110b-4740-87c8-767584a8d54f"
-    - ID: 9ef1728b-3765-45e8-9724-1a1fec3e8ff2
+    - ID: "9ef1728b-3765-45e8-9724-1a1fec3e8ff2"
       Hint: Required
       Value: 1
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: cdbc350f-7bfa-44e0-9320-11a421ecfb25
+    - ID: "cdbc350f-7bfa-44e0-9320-11a421ecfb25"
       Hint: Name
       Value: field
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T014720Z
-    - ID: f1fa6c3d-cbe5-46ea-8b4a-757b2161e1f5
+    - ID: "f1fa6c3d-cbe5-46ea-8b4a-757b2161e1f5"
       Hint: Label
       Value: Field
-DB: master

@@ -5,51 +5,50 @@ Template: "0f0b504c-ed02-4735-9f6a-17c2887b2559"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/Presentation Parameters/matrix Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: matrix@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3cd6b911-203d-4681-a128-708560640641"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 1ca59773-65ee-459d-a399-3faaf4a98641
+    - ID: "1ca59773-65ee-459d-a399-3faaf4a98641"
       Hint: Size
       Value: "{92F7DC40-9483-46EC-93E3-678731FDD6A9}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T220844Z
-    - ID: 496397eb-3bde-496f-8d8d-da2b0748c4ac
+    - ID: "496397eb-3bde-496f-8d8d-da2b0748c4ac"
       Hint: ColumnLayout
       Value: "{8F0FC82E-D6FC-4AC8-8E32-770488298760}"
-    - ID: 4d933947-39f3-43c9-9a9b-cdce75536506
+    - ID: "4d933947-39f3-43c9-9a9b-cdce75536506"
       Hint: ColorScheme
       Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5be29fc9-3daa-454d-8f15-349a9c04466b
+    - ID: "5be29fc9-3daa-454d-8f15-349a9c04466b"
       Hint: Density
       Value: "{92C432A7-091F-426A-8FF6-8B2788F3D66F}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5fcce71a-bb98-4061-bd87-2e2af00b2fb4"
-    - ID: a4cbda94-022a-46fa-9d72-952296014f77
+    - ID: "a4cbda94-022a-46fa-9d72-952296014f77"
       Hint: ZebraRows
       Value: 1
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220844Z
-DB: master

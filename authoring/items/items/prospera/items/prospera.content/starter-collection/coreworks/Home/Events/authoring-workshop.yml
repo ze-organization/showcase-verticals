@@ -5,86 +5,85 @@ Template: "7c5fa21d-64d5-48a0-821a-01878a69207d"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Events/authoring-workshop"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{022561BA-23E8-4359-8930-98F4D6E9ACB4}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "event-authoring-workshop@1"
-- ID: 800904c8-f829-48d5-809f-4567bd504bcb
+- ID: "800904c8-f829-48d5-809f-4567bd504bcb"
   Hint: Image
   Value: |
     <image mediaid="{C3445A12-0922-4D4F-84B8-3BFC08E59805}" />
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{E10DA0C0-1401-472E-9A1D-F7AB9367CAB8}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "bb9c0c20-4118-447b-bbf7-b37f976fed04"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "4f1eb5bb-ae3c-440f-bdb6-a25a6eb9018c"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Authoring workshop
   Versions:
   - Version: 1
     Fields:
-    - ID: 01dc3172-c4ef-4862-a408-98472f3306a6
+    - ID: "01dc3172-c4ef-4862-a408-98472f3306a6"
       Hint: ShortDescription
       Value: "A half-day on insert options, listings, and when to use Landing versus Page."
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192546Z
-    - ID: 3fc54e5a-003a-456a-9516-906929c8b5a7
+    - ID: "3fc54e5a-003a-456a-9516-906929c8b5a7"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "authoring-workshop"
-    - ID: 57deb7da-e792-4804-8392-d273fd567f80
+    - ID: "57deb7da-e792-4804-8392-d273fd567f80"
       Hint: Venue
       Value: New York Midtown
-    - ID: 851f894a-9a10-48df-ad57-3c1846785417
+    - ID: "851f894a-9a10-48df-ad57-3c1846785417"
       Hint: Title
       Value: Authoring workshop
-    - ID: 8625b1e3-f6d8-4059-bf42-dad631612568
+    - ID: "8625b1e3-f6d8-4059-bf42-dad631612568"
       Hint: MetaDescription
       Value: "Half-day workshop on insert options and listings."
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "25f5cb43-bea8-470e-ab77-b45b43fdc48d"
-    - ID: 8d46d13a-6f40-4822-83e6-6effa7d7b977
+    - ID: "8d46d13a-6f40-4822-83e6-6effa7d7b977"
       Hint: Content
       Value: <p>Bring a listing that still offers Page. We will patch insert options live and leave with a typed child.</p>
-    - ID: 94e8cc70-9e69-40b9-8c01-4a83be16d095
+    - ID: "94e8cc70-9e69-40b9-8c01-4a83be16d095"
       Hint: StartDate
       Value: 12 May 2026
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bd64d34e-0f30-45ba-b08e-ae58ff4789be
+    - ID: "bd64d34e-0f30-45ba-b08e-ae58ff4789be"
       Hint: MetaTitle
       Value: Authoring workshop — Events
-    - ID: c285b78c-24dc-4ace-b4f8-8c0c5c4fe920
+    - ID: "c285b78c-24dc-4ace-b4f8-8c0c5c4fe920"
       Hint: RegistrationAction
       Value: |
         <link linktype="external" url="/Get-Started" text="Register" />
-    - ID: c4e4ef41-a3a4-431c-a37e-f41c3a5df4c0
+    - ID: "c4e4ef41-a3a4-431c-a37e-f41c3a5df4c0"
       Hint: EndDate
       Value: 12 May 2026
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215042Z
-    - ID: f2d3f3c0-20a3-42a4-b07e-adf523b2ad67
+    - ID: "f2d3f3c0-20a3-42a4-b07e-adf523b2ad67"
       Hint: Eyebrow
       Value: Workshop
-DB: master

@@ -5,81 +5,80 @@ Template: "3f4e2595-cb17-414c-948d-02b1e547bb01"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/locations-list-grid Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "locations-list-grid@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "68b11dc0-d3a0-4be3-8a3f-1035b9cb6640"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 06e4995a-641c-4cbf-9d83-14aa7559e3a9
+    - ID: "06e4995a-641c-4cbf-9d83-14aa7559e3a9"
       Hint: HeadingSize
       Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T015219Z
-    - ID: 2d2a2ab4-dc77-41fc-9f30-74a071cd4b64
+    - ID: "2d2a2ab4-dc77-41fc-9f30-74a071cd4b64"
       Hint: BackgroundIntensity
       Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
-    - ID: 38f2eca8-1c3f-4cb7-bfbb-cd2246128579
+    - ID: "38f2eca8-1c3f-4cb7-bfbb-cd2246128579"
       Hint: MaxWidth
       Value: "{1CD27043-2AE3-4B1B-8FBF-D13F0F945700}"
-    - ID: 3f312bd3-24b1-45b8-ba84-69133c1032c7
+    - ID: "3f312bd3-24b1-45b8-ba84-69133c1032c7"
       Hint: ColorScheme
       Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
-    - ID: 44192d88-9de4-45bf-8268-dcf2af99b76b
+    - ID: "44192d88-9de4-45bf-8268-dcf2af99b76b"
       Hint: PaddingY
       Value: "{845C2122-E1C7-4D34-A4DB-42A9F62AF306}"
-    - ID: 45f649d0-9eb4-4e75-859f-d60a3e177026
+    - ID: "45f649d0-9eb4-4e75-859f-d60a3e177026"
       Hint: ColumnsMd
       Value: "{A799B290-78FE-463A-9C65-B82C40A9C4D9}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5466d1f0-744b-4bf8-92fe-0b1f282dec95
+    - ID: "5466d1f0-744b-4bf8-92fe-0b1f282dec95"
       Hint: HeadingLayout
       Value: "{044F35F6-F95F-474D-9C9A-2FD35000E3BE}"
-    - ID: 5d7378fb-a8f0-41e6-8c03-cb72f7bdb9b8
+    - ID: "5d7378fb-a8f0-41e6-8c03-cb72f7bdb9b8"
       Hint: OverlapTop
       Value: "{9A7DB544-D761-4773-AB9B-1F049C563CEA}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a249a682-01bb-4ee7-ba9c-1dd43450880c"
-    - ID: 8e3dc461-4b41-4557-b120-716fd8366146
+    - ID: "8e3dc461-4b41-4557-b120-716fd8366146"
       Hint: Gap
       Value: "{404B14BD-C15A-4DD1-98DF-E03E723C86BC}"
-    - ID: 90d65779-9eaa-4bc9-b0b0-2851faf7d741
+    - ID: "90d65779-9eaa-4bc9-b0b0-2851faf7d741"
       Hint: Padding
       Value: "{F84E40B5-3BEE-4980-8C43-01BCB9B60BAF}"
-    - ID: a38af702-c085-4d92-a323-c407d06b06ab
+    - ID: "a38af702-c085-4d92-a323-c407d06b06ab"
       Hint: ColumnsSm
       Value: "{254A296A-55ED-4759-92C3-C04C47B99271}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c72782e1-0248-49c6-b28c-33d88c3bb4ca
+    - ID: "c72782e1-0248-49c6-b28c-33d88c3bb4ca"
       Hint: GridPattern
       Value: "{717B9448-4FDE-4DC7-9F3E-ACA5307467A3}"
-    - ID: c8dabec2-7f9b-4163-9908-7850107d8a71
+    - ID: "c8dabec2-7f9b-4163-9908-7850107d8a71"
       Hint: FeaturedFirst
       Value: "{7FB84795-9FD9-4E65-A2BF-3A521E8281C7}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T015219Z
-    - ID: dae095c5-0375-483e-a8bf-d06b2e29af29
+    - ID: "dae095c5-0375-483e-a8bf-d06b2e29af29"
       Hint: Elevation
       Value: "{0D9E8818-67AE-435D-8219-56B0A9CD53DE}"
-    - ID: e7dc95b8-c16a-428e-ab9f-f5cda31e6a82
+    - ID: "e7dc95b8-c16a-428e-ab9f-f5cda31e6a82"
       Hint: ColumnsLg
       Value: "{9437B140-9D2C-424D-82BA-0F2C69CCD969}"
-DB: master

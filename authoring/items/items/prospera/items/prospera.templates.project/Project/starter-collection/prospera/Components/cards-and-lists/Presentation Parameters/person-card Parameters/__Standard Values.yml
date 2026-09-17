@@ -5,60 +5,59 @@ Template: "5324e34d-fa56-473c-9629-a1df38db33ff"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/person-card Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "person-card@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ade2c207-5bff-45f2-95b4-bba5233a5b13"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 09c092c6-4c5c-4d22-8975-fff39a0453dd
+    - ID: "09c092c6-4c5c-4d22-8975-fff39a0453dd"
       Hint: MediaAspect
       Value: "{645DF200-AF4A-4687-8124-238C50A85637}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T015803Z
-    - ID: 385c4baa-a68f-4499-87ee-dbf48a514002
+    - ID: "385c4baa-a68f-4499-87ee-dbf48a514002"
       Hint: CardColorScheme
       Value: "{722C6F93-1336-48B3-9FFE-C763021CC53C}"
-    - ID: 424dd4ff-6788-4571-8e88-9a27f0de21fa
+    - ID: "424dd4ff-6788-4571-8e88-9a27f0de21fa"
       Hint: Style
       Value: "{27C78312-10BE-40DB-B10D-910E61BA200F}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2c1ecc2e-6597-4673-aba5-aeefcf6593d8"
-    - ID: aa9cef2c-0f3a-4af8-81a4-e62a7bb0b986
+    - ID: "aa9cef2c-0f3a-4af8-81a4-e62a7bb0b986"
       Hint: ColorBand
       Value: "{EC919147-C887-4834-B861-C8C95AFF2C48}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d5c3d10f-8bdd-40f8-8d11-d1d4401332e7
+    - ID: "d5c3d10f-8bdd-40f8-8d11-d1d4401332e7"
       Hint: Elevation
       Value: "{0D9E8818-67AE-435D-8219-56B0A9CD53DE}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T015803Z
-    - ID: dd5ab8e6-c8e1-4675-bdcd-3fff692bbc29
+    - ID: "dd5ab8e6-c8e1-4675-bdcd-3fff692bbc29"
       Hint: MediaBleed
       Value: "{A418C7C2-EDB1-43F7-AEAF-E1734EFFFAAF}"
-    - ID: e1d6d621-ac26-486f-9e8f-7f99722c5ed9
+    - ID: "e1d6d621-ac26-486f-9e8f-7f99722c5ed9"
       Hint: TitleLinkIcon
       Value: "{D4FB3462-7E14-41C5-A739-A3CA2763807F}"
-    - ID: f86b7d85-d483-4f6b-82c0-5cca50eb2f53
+    - ID: "f86b7d85-d483-4f6b-82c0-5cca50eb2f53"
       Hint: Padding
       Value: "{A2648A34-989D-48B2-878A-898C0359F063}"
-DB: master

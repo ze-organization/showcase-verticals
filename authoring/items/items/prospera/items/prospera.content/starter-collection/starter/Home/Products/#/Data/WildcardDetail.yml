@@ -5,54 +5,53 @@ Template: "f4e372c0-ebc8-4fad-a2be-0efe992dd6c6"
 Path: "/sitecore/content/starter-collection/starter/Home/Products/*/Data/WildcardDetail"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "products-wildcard@1"
-- ID: 79888ba7-ae67-4cb9-a0dc-2758902fd236
+- ID: "79888ba7-ae67-4cb9-a0dc-2758902fd236"
   Hint: Image
   Value: |
     <image mediaid="{45A47FD2-503F-4F7E-ACEE-422829E257D3}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d25468ae-8ced-463f-aa5d-8089c4cdc6ad"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "587a0463-761b-4700-8814-40d138fd4abf"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: WildcardDetail
   Versions:
   - Version: 1
     Fields:
-    - ID: 196028d6-7bea-4f81-8faa-82ebf19a922a
+    - ID: "196028d6-7bea-4f81-8faa-82ebf19a922a"
       Hint: Title
       Value: Catalog product
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260903T224946Z
-    - ID: 674e9738-9135-4288-999f-e2839a76df36
+    - ID: "674e9738-9135-4288-999f-e2839a76df36"
       Hint: Body
       Value: "<p>Fallback copy for editing and unresolved slugs. A matching catalog-product item replaces this at request time.</p>"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c8353888-5c2e-4420-837c-5d789ba70999"
-    - ID: 96f510a1-0a4f-4f11-b678-ef5a1e17d845
+    - ID: "96f510a1-0a4f-4f11-b678-ef5a1e17d845"
       Hint: SourceRoot
       Value: "/sitecore/content/starter-collection/starter/Data/Catalog Products"
-    - ID: b1f4536a-847d-4124-a749-9df93482dc3f
+    - ID: "b1f4536a-847d-4124-a749-9df93482dc3f"
       Hint: Subtitle
       Value: Set Source Root to the Catalog Products data folder. Named PDPs under Products win over this wildcard.
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260903T224948Z
-DB: master

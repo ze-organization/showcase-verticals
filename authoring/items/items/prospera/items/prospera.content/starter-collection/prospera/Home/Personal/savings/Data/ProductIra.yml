@@ -5,61 +5,60 @@ Template: "590320c0-1570-423b-a9bd-7f7b414decfc"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data/ProductIra"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 1efa60e6-a01d-4c02-82bc-c07bf453dd61
+- ID: "1efa60e6-a01d-4c02-82bc-c07bf453dd61"
   Hint: Image1
   Value: |
     <image mediapath="/theme-photos/product-ira.jpg" alt="Customer and banker reviewing a long-term retirement savings plan" />
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "personal-savings@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "658df3c1-a74c-4abd-88a0-b57fe4c7cf80"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "236341b7-3c07-4af9-8a84-78a535c28f0d"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: ProductIra
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T193349Z
-    - ID: 48bb977a-e8b7-4ac4-b939-ad762bf363e9
+    - ID: "48bb977a-e8b7-4ac4-b939-ad762bf363e9"
       Hint: CtaLabel
       Value: See IRA savings
-    - ID: 6df9f9ac-10a7-4b43-bf23-b2eddb7420f4
+    - ID: "6df9f9ac-10a7-4b43-bf23-b2eddb7420f4"
       Hint: Price
       Value: 3.00
-    - ID: 895e330a-7fe2-4dbb-a3c5-dce0ee81ed08
+    - ID: "895e330a-7fe2-4dbb-a3c5-dce0ee81ed08"
       Hint: Title
       Value: IRA savings
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4f7037d0-96f7-4198-9d5a-1023be235a76"
-    - ID: a0b1cbad-9910-4704-9f3f-8f15e28f711d
+    - ID: "a0b1cbad-9910-4704-9f3f-8f15e28f711d"
       Hint: Sku
       Value: "IRA-01"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T193353Z
-    - ID: de8117cc-bf50-4b44-a5bf-b74f71e76249
+    - ID: "de8117cc-bf50-4b44-a5bf-b74f71e76249"
       Hint: ShortDescription
       Value: "Tax-advantaged retirement savings you can discuss with a banker. Illustrative 3.00% APY."
-    - ID: e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8
+    - ID: "e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8"
       Hint: Link
       Value: |
         <link linktype="external" url="/Personal/savings/ira" text="See IRA savings" />
-DB: master

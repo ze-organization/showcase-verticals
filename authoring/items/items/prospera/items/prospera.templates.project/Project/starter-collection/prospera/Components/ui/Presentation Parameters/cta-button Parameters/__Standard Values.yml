@@ -5,48 +5,47 @@ Template: "fcb37b1d-ee86-4d53-b745-c55fbc6f1400"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Presentation Parameters/cta-button Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "cta-button@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "73ec8972-b7d2-4fcd-acd0-78d812684617"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T014221Z
-    - ID: 4e00ed84-6271-4a4a-871d-5aa067262110
+    - ID: "4e00ed84-6271-4a4a-871d-5aa067262110"
       Hint: ColorScheme
       Value: "{F9DAC70B-0DDF-4231-856F-CFDE63708DDC}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 80eafed4-5d4d-47ab-ab8a-676e4256bebf
+    - ID: "80eafed4-5d4d-47ab-ab8a-676e4256bebf"
       Hint: Variant
       Value: "{973EEE8E-BAD4-4D6F-8696-A97630198F36}"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "fbf00176-44e6-42af-b17b-aa4851af48fe"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d8ab41f8-9659-4d84-8209-6de374b06733
+    - ID: "d8ab41f8-9659-4d84-8209-6de374b06733"
       Hint: IconName
       Value: "{451292C3-3FE5-4EBB-A535-3A58461A059D}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T134458Z
-    - ID: dd891a8c-d2c8-442e-be55-7cd69b54808d
+    - ID: "dd891a8c-d2c8-442e-be55-7cd69b54808d"
       Hint: FontColor
       Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
-DB: master

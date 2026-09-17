@@ -5,54 +5,53 @@ Template: "01dfc611-182c-4a63-865d-0dff34bcc05a"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/review-card Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "review-card@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "53130dea-034f-441c-af1d-3d4bb058cf69"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 21f26b07-c019-413d-b424-1912aba5b6df
+    - ID: "21f26b07-c019-413d-b424-1912aba5b6df"
       Hint: MediaBleed
       Value: "{A418C7C2-EDB1-43F7-AEAF-E1734EFFFAAF}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T020339Z
-    - ID: 43c6bd9f-09d6-4f5d-9b19-2aaf0da87f48
+    - ID: "43c6bd9f-09d6-4f5d-9b19-2aaf0da87f48"
       Hint: Style
       Value: "{27C78312-10BE-40DB-B10D-910E61BA200F}"
-    - ID: 501d46a8-8b7b-4be3-a221-442e0564c61f
+    - ID: "501d46a8-8b7b-4be3-a221-442e0564c61f"
       Hint: ColorBand
       Value: "{EC919147-C887-4834-B861-C8C95AFF2C48}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4843c15a-ac96-4ccb-a4f7-c4493dd7330d"
-    - ID: 966547d1-48c7-4131-a486-aed4eba394a6
+    - ID: "966547d1-48c7-4131-a486-aed4eba394a6"
       Hint: Elevation
       Value: "{0D9E8818-67AE-435D-8219-56B0A9CD53DE}"
-    - ID: a5b5f4b1-8b52-4c8e-8b3e-34bff4179760
+    - ID: "a5b5f4b1-8b52-4c8e-8b3e-34bff4179760"
       Hint: Padding
       Value: "{A2648A34-989D-48B2-878A-898C0359F063}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: c111461a-a2e3-4c65-bac9-512e8964a79b
+    - ID: "c111461a-a2e3-4c65-bac9-512e8964a79b"
       Hint: CardColorScheme
       Value: "{722C6F93-1336-48B3-9FFE-C763021CC53C}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T020339Z
-DB: master

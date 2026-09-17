@@ -5,78 +5,77 @@ Template: "745eb7c5-d8b0-4a77-85bf-c0c0cbb60573"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Careers/editor-experience-lead"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{707917E1-BE3A-5C81-A20F-22C0BABFDD9F}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "job-editor-experience@1"
-- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{F9AF8445-3B5D-445D-8168-981D92AE25E0}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4fa32f21-ae07-4235-9045-472642156dee"
 Languages:
-- Language: en
+- Language: "en"
   Fields:
-  - ID: 30e85e5d-e00a-4864-b358-7624d511deb4
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
     Value: "68b7fc93-7cfd-47b1-a2fd-e159131dfcdd"
-  - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Editor experience lead
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260904T192720Z
-    - ID: 4da71bb0-9918-438f-9be6-d310d23eeadc
+    - ID: "4da71bb0-9918-438f-9be6-d310d23eeadc"
       Hint: MetaDescription
       Value: "Full-time authoring role. Remote."
-    - ID: 4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "editor-experience-lead"
-    - ID: 6a184930-3c8b-4033-8207-0b7eee22bc52
+    - ID: "6a184930-3c8b-4033-8207-0b7eee22bc52"
       Hint: LocationName
       Value: Remote
-    - ID: 71410420-c49a-46a5-bb9e-6d326e8d29e4
+    - ID: "71410420-c49a-46a5-bb9e-6d326e8d29e4"
       Hint: IncludeInSitemap
       Value: true
-    - ID: 85e0552d-cf4c-481d-9f48-221d79c45eb7
+    - ID: "85e0552d-cf4c-481d-9f48-221d79c45eb7"
       Hint: EmploymentType
       Value: "Full-time"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d8ff05d2-afb4-409c-869e-58cb4d0979e4"
-    - ID: 93e4bd64-978b-4a8c-9122-cb137a518981
+    - ID: "93e4bd64-978b-4a8c-9122-cb137a518981"
       Hint: Eyebrow
       Value: Authoring
-    - ID: 96102ffc-3095-4755-bff7-680b43a28853
+    - ID: "96102ffc-3095-4755-bff7-680b43a28853"
       Hint: Content
       Value: <p>You own enablement copy, the workshop landing, and the moment an editor hits Insert on a listing that still offers Page.</p>
-    - ID: ad52e0b0-bd6e-463e-af9a-81dfa4506379
+    - ID: "ad52e0b0-bd6e-463e-af9a-81dfa4506379"
       Hint: Department
       Value: Authoring
-    - ID: b402d732-6f87-46b7-9409-6efb75e17e2d
+    - ID: "b402d732-6f87-46b7-9409-6efb75e17e2d"
       Hint: Title
       Value: Editor experience lead
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bf73055a-4e1d-4359-8726-9773f291a907
+    - ID: "bf73055a-4e1d-4359-8726-9773f291a907"
       Hint: MetaTitle
       Value: Editor experience lead — Careers
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260911T215036Z
-    - ID: dec4b30a-2bf0-4ab1-a942-8e63f56fc50d
+    - ID: "dec4b30a-2bf0-4ab1-a942-8e63f56fc50d"
       Hint: ShortDescription
       Value: Insert the type. Ask if the listing is wrong. Make that the default path.
-DB: master

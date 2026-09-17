@@ -5,99 +5,98 @@ Template: "5f33127a-5bc5-43fb-a980-ddcfa1cab4af"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/products-carousel Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "products-carousel@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c539cccb-05c9-48b8-a667-3bf385209b01"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 08f3ac22-cbcb-446a-9f79-ea0c9e9ab06c
+    - ID: "08f3ac22-cbcb-446a-9f79-ea0c9e9ab06c"
       Hint: HeadingLayout
       Value: "{C0A0424D-04F3-458F-B709-3E3200CB325F}"
-    - ID: 097ab6a7-381e-4c40-bab0-6205927811a6
+    - ID: "097ab6a7-381e-4c40-bab0-6205927811a6"
       Hint: Elevation
       Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
-    - ID: 0ee68331-1baa-460d-b8ca-c47b05919cd9
+    - ID: "0ee68331-1baa-460d-b8ca-c47b05919cd9"
       Hint: AutoplayDelayMs
       Value: 6000
-    - ID: 20e64e77-3c3a-4faf-81ec-862887f0b51b
+    - ID: "20e64e77-3c3a-4faf-81ec-862887f0b51b"
       Hint: BackgroundIntensity
       Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221726Z
-    - ID: 273a6bd7-ca8d-4de3-bccf-c5c8c002be49
+    - ID: "273a6bd7-ca8d-4de3-bccf-c5c8c002be49"
       Hint: PaddingY
       Value: "{9C4BA83F-F8C1-4280-983C-92B215E0FA79}"
-    - ID: 44826c62-f130-4343-a12a-90d68971ff89
+    - ID: "44826c62-f130-4343-a12a-90d68971ff89"
       Hint: ColorScheme
       Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 55f0045d-a34c-483d-ba74-5d137e5b8e1f
+    - ID: "55f0045d-a34c-483d-ba74-5d137e5b8e1f"
       Hint: OverlapTop
       Value: "{1E496A19-90A5-4308-8064-BB707683C7BC}"
-    - ID: 56945164-c360-4d0c-9537-f99f8b4d2b53
+    - ID: "56945164-c360-4d0c-9537-f99f8b4d2b53"
       Hint: NavigationButtonShape
       Value: "{318B4C96-6BDB-48BA-8177-A89EB56E282A}"
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 615f07ba-0070-43fc-be14-4f6a259ff9da
+    - ID: "615f07ba-0070-43fc-be14-4f6a259ff9da"
       Hint: HeadingSize
       Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
-    - ID: 72b1e0b4-118f-4481-87b7-53a9233f68b9
+    - ID: "72b1e0b4-118f-4481-87b7-53a9233f68b9"
       Hint: SlidesPerViewMd
       Value: 2
-    - ID: 7eef8678-861d-4178-8212-b602c9fd5737
+    - ID: "7eef8678-861d-4178-8212-b602c9fd5737"
       Hint: CardVariant
       Value: "{8C70331F-13C9-4176-82A3-0094DE2C7DA1}"
-    - ID: 8819ed88-499a-4016-8496-047330fd7b69
+    - ID: "8819ed88-499a-4016-8496-047330fd7b69"
       Hint: SpaceBetween
       Value: 16
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e0e41e0a-a5cb-4a7e-ae82-9fc2962ea0bc"
-    - ID: 8f34f891-dcc6-4df2-9ce2-665faa94f17a
+    - ID: "8f34f891-dcc6-4df2-9ce2-665faa94f17a"
       Hint: NavigationLayout
       Value: "{9077BC66-C8A0-4810-94C3-742C93343243}"
-    - ID: 9051ba9e-e434-41c4-9985-39d91285d29f
+    - ID: "9051ba9e-e434-41c4-9985-39d91285d29f"
       Hint: SlideEmphasis
       Value: "{20A825C4-9409-4B4D-A661-EBB32D464BC1}"
-    - ID: 91a5daaa-8f68-43b2-8be9-8c04ca75c5e3
+    - ID: "91a5daaa-8f68-43b2-8be9-8c04ca75c5e3"
       Hint: NavigationButtonStyle
       Value: "{9D813387-9E06-43FC-8EC4-A5930E24A6A3}"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: bf25c093-fbc4-44be-8766-84ab25181e02
+    - ID: "bf25c093-fbc4-44be-8766-84ab25181e02"
       Hint: MaxWidth
       Value: "{1D56C84F-0F79-4EEB-8796-37D00CFA6462}"
-    - ID: c0aba5ca-84b5-4f6a-9b43-036ac9063cc3
+    - ID: "c0aba5ca-84b5-4f6a-9b43-036ac9063cc3"
       Hint: Padding
       Value: "{C31EF12D-8559-440F-A19A-E87977B9933A}"
-    - ID: cc5beb96-7706-4598-82bc-3c55f85f9ff2
+    - ID: "cc5beb96-7706-4598-82bc-3c55f85f9ff2"
       Hint: Pagination
       Value: "{8DB0BFE4-9AF9-404B-8D94-2CBA17214886}"
-    - ID: d4a11210-2d1d-4831-9d1c-2d6ef1a1f30a
+    - ID: "d4a11210-2d1d-4831-9d1c-2d6ef1a1f30a"
       Hint: SlidesPerViewLg
       Value: 3
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221727Z
-    - ID: ddd758bb-6280-45cc-8f24-5c46b73855e6
+    - ID: "ddd758bb-6280-45cc-8f24-5c46b73855e6"
       Hint: HeadingPlacement
       Value: "{1CE6DA95-C566-4E25-B225-5A9577541FA6}"
-    - ID: dfda0e1f-6309-47dc-8f32-22b98aeeba46
+    - ID: "dfda0e1f-6309-47dc-8f32-22b98aeeba46"
       Hint: SlidesPerViewSm
       Value: 1
-DB: master

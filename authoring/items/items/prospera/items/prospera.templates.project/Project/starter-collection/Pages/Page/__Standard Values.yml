@@ -5,21 +5,21 @@ Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/templates/Project/starter-collection/Pages/Page/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {DBD7829C-5F0B-4093-8FF9-64A6594A92AF}
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
-- ID: 24171bf1-c0e1-480e-be76-4c0a1876f916
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{AD69135B-A282-4CF2-9DB7-91D7630955D7}"
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: page@1
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f6802551-9a8a-44d1-8960-f178f0c05dca"
-- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
     <r xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -28,44 +28,43 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T221320Z
-    - ID: 3dd13bc9-0029-47ac-9c14-9e4cdf07417f
+    - ID: "3dd13bc9-0029-47ac-9c14-9e4cdf07417f"
       Hint: SitemapPriority
       Value: 0.5
-    - ID: 4926c0f4-360a-4c27-ae1e-2353db686a6f
+    - ID: "4926c0f4-360a-4c27-ae1e-2353db686a6f"
       Hint: ChangeFrequency
       Value: weekly
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 85ac234d-319f-48a8-91ba-aebc0c5bfa18
+    - ID: "85ac234d-319f-48a8-91ba-aebc0c5bfa18"
       Hint: TwitterCard
       Value: summary_large_image
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7b5e45ea-59fd-403c-a3c9-a16db95c0f96"
-    - ID: 9abe0d23-4fa0-490a-affb-6731d94314f2
+    - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: 1
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260815T193707Z
-    - ID: f2204d77-f39c-4049-b9b6-424dd97722fd
+    - ID: "f2204d77-f39c-4049-b9b6-424dd97722fd"
       Hint: OgType
       Value: website
-DB: master

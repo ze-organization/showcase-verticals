@@ -5,495 +5,494 @@ Template: "0b4bb014-8912-4acc-826e-7ff733eef8e9"
 Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/accordion-item/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "accordion-item@1"
-- ID: d86a26bc-21c5-43be-88c3-d6bd9718084e
+- ID: "d86a26bc-21c5-43be-88c3-d6bd9718084e"
   Hint: Image
   Value: |
     <image mediaid="{A0FB8DE9-ED5F-4EA6-92B8-C1784C8D78B7}" />
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "633b2340-a40a-4a0e-98e2-cab747a6ab16"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214457Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: ملخص قصير يظهر في زر الصف.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: كيف يعمل هذا؟
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5c3630e3-1c04-421f-bb71-8381bcd6a4e6"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>استبدل هذا بمحتوى النص الذي يظهر عند توسيع هذا الصف.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151707Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: ملخص قصير يظهر في زر الصف.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: كيف يعمل هذا؟
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6d064a79-7350-4725-b76c-2f04f796dedb"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>استبدل هذا بمحتوى النص الذي يظهر عند توسيع هذا الصف.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151708Z
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214457Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: Kort resumé, der vises i rækkens udløser.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "Hvordan fungerer det?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "dade89fc-dc07-48d8-a7ed-4b3f978522fc"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Erstat dette med det indhold, der vises, når rækken foldes ud.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214457Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: "Kurze Zusammenfassung, die im Zeilen-Trigger angezeigt wird."
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "Wie funktioniert das?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3def8db2-da93-4bed-b982-9b241e3a4703"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Ersetzen Sie dies durch den Inhalt, der beim Aufklappen dieser Zeile angezeigt wird.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151707Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: "Kurze Zusammenfassung, die im Zeilen-Trigger angezeigt wird."
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "Wie funktioniert das?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f70efa3b-d198-4c17-8e5b-524618e63410"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Ersetzen Sie dies durch den Inhalt, der beim Aufklappen dieser Zeile angezeigt wird.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151708Z
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 0886b25e-f24c-4e69-9ee6-a7548cee4726
+    - ID: "0886b25e-f24c-4e69-9ee6-a7548cee4726"
       Hint: Link
       Value: |
         <link text="Learn more" linktype="external" url="/" />
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214456Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: Short summary surfaced in the row trigger.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "How does this work?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e03744a4-7dfc-429f-88c3-fdb39df07610"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Replace this with the body content that opens when this row is expanded.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214457Z
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214457Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: Resumen breve que se muestra en el activador de la fila.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "¿Cómo funciona esto?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "79b70b37-f378-494f-9f16-acbb63ae4fe8"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Sustituye esto por el contenido que se muestra al expandir esta fila.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151707Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: Resumen breve que se muestra en el activador de la fila.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "¿Cómo funciona esto?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b800880f-c1af-4910-b466-50ab22b1cf92"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Sustituye esto por el contenido que se muestra al expandir esta fila.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151708Z
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214457Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: Bref résumé affiché dans le déclencheur de la ligne.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "Comment cela fonctionne-t-il ?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5a794204-bfc3-49e4-8630-c350b15e9775"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Remplacez ceci par le contenu affiché lorsque cette ligne est déployée.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151707Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: Bref résumé affiché dans le déclencheur de la ligne.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "Comment cela fonctionne-t-il ?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "59118c23-c98b-4719-b0e6-50a5611fa916"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Remplacez ceci par le contenu affiché lorsque cette ligne est déployée.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151708Z
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214457Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: Breve riepilogo mostrato nel trigger della riga.
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: "Come funziona?"
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "181b3c68-cad5-4384-99f6-9c5938258331"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>Sostituisci questo con il contenuto mostrato quando la riga viene espansa.</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214457Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: 行のトリガーに表示される短い要約。
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: これはどのように機能しますか？
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "45a94337-58c0-47f8-bca2-10886d1d75ff"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>この行を展開したときに表示される本文に置き換えてください。</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214458Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: 显示在行触发器中的简短摘要。
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: 这是如何运作的？
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7078ab23-bee6-4bd9-a694-9a55aca367c2"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>请将此处替换为展开该行时显示的正文内容。</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T214458Z
-    - ID: 44b2fc52-4823-433c-9568-b2e680c6fccc
+    - ID: "44b2fc52-4823-433c-9568-b2e680c6fccc"
       Hint: Description
       Value: 顯示在列觸發器中的簡短摘要。
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1
+    - ID: "8cd23a7d-3a48-4ad0-8d5c-38f2b08e2ce1"
       Hint: Title
       Value: 這是如何運作的？
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c3d988d4-d3f6-4dc3-96c5-1486c67f86da"
-    - ID: a0dbbddf-af54-40f8-a09d-d69b5adf12c8
+    - ID: "a0dbbddf-af54-40f8-a09d-d69b5adf12c8"
       Hint: Content
       Value: <p>請將此處替換為展開該列時顯示的內文內容。</p>
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214458Z
-DB: master

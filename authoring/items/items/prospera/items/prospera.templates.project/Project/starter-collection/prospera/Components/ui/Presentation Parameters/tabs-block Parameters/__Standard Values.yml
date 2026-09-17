@@ -5,48 +5,47 @@ Template: "243a3e47-f79d-46e5-bb5f-82c58ad1aeb0"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Presentation Parameters/tabs-block Parameters/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "tabs-block@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "db9c69f4-81b2-4f00-b3ad-ecc7e09f8dce"
 Languages:
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021018Z
-    - ID: 31a3606b-03b7-4ee8-b29d-64ff08d831c0
+    - ID: "31a3606b-03b7-4ee8-b29d-64ff08d831c0"
       Hint: HeadingAnimation
       Value: "{8D2A5B10-7A18-41B0-B9E5-412DC0C92675}"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e4b030e3-3db8-4d3d-923b-a13364bb6da3"
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d717e3a4-c362-4bfc-896c-b78c8f402a2b
+    - ID: "d717e3a4-c362-4bfc-896c-b78c8f402a2b"
       Hint: HeadingSize
       Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T021018Z
-    - ID: da899968-6544-43fe-bc80-de33a8b16c62
+    - ID: "da899968-6544-43fe-bc80-de33a8b16c62"
       Hint: HeadingLayout
       Value: "{044F35F6-F95F-474D-9C9A-2FD35000E3BE}"
-    - ID: f9f1667f-afc0-4610-a1dc-27a58b676dd5
+    - ID: "f9f1667f-afc0-4610-a1dc-27a58b676dd5"
       Hint: TabsAlignment
       Value: "{A5F5DBAF-9EEC-41E9-B261-CC27F2906111}"
-DB: master

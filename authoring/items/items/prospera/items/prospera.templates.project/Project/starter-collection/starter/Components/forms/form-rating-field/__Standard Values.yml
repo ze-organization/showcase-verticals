@@ -5,493 +5,492 @@ Template: "dc3d264d-eaea-4da7-9155-40b55713e97d"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/form-rating-field/__Standard Values"
 BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: 256ef004-c9b2-4087-a19d-d2649dc52f33
+- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
   Hint: Scai Handle
   Value: "form-rating-field@1"
-- ID: dbbbeca1-21c7-4906-9dd2-493c1efa59a2
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9b887a2f-7ba1-4c93-966a-e73bb411596a"
 Languages:
-- Language: ar
+- Language: "ar"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: كيف تقيّمنا؟
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "e76f6be0-5573-40f9-9e85-6106d7dcebb4"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: من المرجّح جدًا
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215917Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: غير محتمل على الإطلاق
-- Language: ar-SA
+- Language: "ar-SA"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151808Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: كيف تقيّمنا؟
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8cbaea6a-2270-4c7c-b19b-4f7568ea671e"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: من المرجّح جدًا
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151809Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: غير محتمل على الإطلاق
-- Language: da
+- Language: "da"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "Hvordan vil du vurdere os?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8686ae9f-fdbe-4a88-b0e4-acae6c170456"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Yderst sandsynligt
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215917Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Slet ikke sandsynligt
-- Language: de
+- Language: "de"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215915Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "Wie würden Sie uns bewerten?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d55f4094-bc30-4026-a08f-501322a18e64"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Äußerst wahrscheinlich
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215917Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Überhaupt nicht wahrscheinlich
-- Language: de-DE
+- Language: "de-DE"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151808Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "Wie würden Sie uns bewerten?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2b2b3dc4-7978-481a-89a8-42d9f024fde9"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Äußerst wahrscheinlich
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151809Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Überhaupt nicht wahrscheinlich
-- Language: en
+- Language: "en"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215915Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "How would you rate us?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 703e8722-99ea-4fe5-8536-df3d4d30fb38
+    - ID: "703e8722-99ea-4fe5-8536-df3d4d30fb38"
       Hint: Max
       Value: 5
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1db93bd5-a6ba-4c66-b401-f2132268cc28"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Extremely likely
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d52b0882-8561-4e05-ac8a-29538b142693
+    - ID: "d52b0882-8561-4e05-ac8a-29538b142693"
       Hint: Name
       Value: rating
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215915Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Not at all likely
-- Language: es
+- Language: "es"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "¿Cómo nos valorarías?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b0ada4a0-19ee-4216-ade8-4c767d9aff40"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Extremadamente probable
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215917Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Nada probable
-- Language: es-ES
+- Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151808Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "¿Cómo nos valorarías?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "166936f7-e656-410b-96c8-c7c96d534f2a"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Extremadamente probable
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151809Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Nada probable
-- Language: fr
+- Language: "fr"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "Comment nous évalueriez-vous ?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6d0c2c66-26ab-458a-a84a-f4dd98030756"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Extrêmement probable
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215916Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Pas du tout probable
-- Language: fr-FR
+- Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260909T151808Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "Comment nous évalueriez-vous ?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "5dd178de-7873-4e5f-92b1-0cac9b25a509"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Extrêmement probable
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151809Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Pas du tout probable
-- Language: it
+- Language: "it"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: "Come ci valuteresti?"
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "32ab84e0-b655-4d4f-8bb3-520b912b97b0"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: Estremamente probabile
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215916Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: Per niente probabile
-- Language: ja
+- Language: "ja"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: 評価をお聞かせください。
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6b0c0c31-4dc6-41e7-9fa0-d123e0b506b6"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: 非常に高い
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215917Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: まったくそう思わない
-- Language: zh-CN
+- Language: "zh-CN"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: 您对我们的评价如何？
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "10751555-8eb8-4f0a-a08a-710b811c4096"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: 极有可能
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215917Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: 完全不可能
-- Language: zh-TW
+- Language: "zh-TW"
   Versions:
   - Version: 1
     Fields:
-    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260813T215916Z
-    - ID: 31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d
+    - ID: "31c0a9ab-48a1-4485-ad0d-d6f2a0d89b5d"
       Hint: Label
       Value: 您對我們的評價如何？
-    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: 8cdc337e-a112-42fb-bbb4-4143751e123f
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f755c17c-f961-4154-8509-c6f97bd676d7"
-    - ID: 8fe9b7d0-3f63-444d-97f3-d55dc51d3584
+    - ID: "8fe9b7d0-3f63-444d-97f3-d55dc51d3584"
       Hint: EndLabel
       Value: 極有可能
-    - ID: badd9cf9-53e0-4d0c-bcc0-2d784c282f6a
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
-    - ID: d9cf14b1-fa16-4ba6-9288-e8a174d4d522
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215917Z
-    - ID: e233899d-294f-469f-8f34-faf06662eb35
+    - ID: "e233899d-294f-469f-8f34-faf06662eb35"
       Hint: StartLabel
       Value: 完全不可能
-DB: master
