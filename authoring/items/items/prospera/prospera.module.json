@@ -53,15 +53,15 @@
         "scope": "itemAndDescendants",
         "rules": [
           {
-            "path": "/sitecore/media library/Project/starter-collection/prospera/System",
+            "path": "/starter-collection/prospera/System",
             "scope": "ignored"
           },
           {
-            "path": "/sitecore/media library/Project/starter-collection/starter/System",
+            "path": "/starter-collection/starter/System",
             "scope": "ignored"
           },
           {
-            "path": "/sitecore/media library/Project/starter-collection/coreworks/System",
+            "path": "/starter-collection/coreworks/System",
             "scope": "ignored"
           }
         ]
