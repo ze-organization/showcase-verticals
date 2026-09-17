@@ -16,6 +16,7 @@ import {
   resolveChromeSurfaceColor,
   resolveSectionSurfaceClass,
 } from "@/lib/registry/section-surface";
+import { resolvePlaceholderChildren } from "@/lib/registry/placeholder-children";
 import { Placeholder } from "@/lib/registry/sitecore";
 import type { ComponentProps } from "@/lib/registry/sitecore-types";
 
@@ -96,26 +97,28 @@ const OVERLAY_EDITING_BAR_CLASS = "static bg-theme-black";
  * language, mobile menu, etc.) by placing renderings into the slots
  * below.
  *
- * **Seven placeholders, three responsive tiers:**
+ * **Four always-mounted placeholders, plus two optional utility slots:**
  *
- *   header-announcement-{*}              always visible (top strip)
- *   header-utility-start-{*}             desktop only (left of utility row)
- *   header-utility-end-{*}               desktop only (right of utility row)
  *   header-start-{*}                     always visible (logo slot)
  *   header-nav-{*}                       desktop only (main nav strip)
  *   header-end-{*}                       desktop only (right cluster)
  *   header-mobile-{*}                    mobile only (mobile-menu renderings)
+ *   header-utility-start-{*}             TwoTier only, and only when filled
+ *   header-utility-end-{*}               TwoTier only, and only when filled
  *
  * The desktop/mobile flip happens at the `md` Tailwind breakpoint via
  * `hidden md:flex` / `flex md:hidden` — slot contents stay
- * viewport-agnostic. Each placeholder is optional; empty slots render
- * nothing.
+ * viewport-agnostic. Announcement / unused utility slots are not
+ * mounted, so Pages does not paint empty drop chrome on the Standard
+ * header used by page templates.
  *
  * **One VARIANT per arrangement** (see the exports at the bottom):
  *
  *   Standard       one bar: start / nav / end.
- *   TwoTier        slim utility strip on its own tinted top band, brand
- *                  + nav bar below — the two rows read as distinct.
+ *   TwoTier        slim utility strip on its own tinted top band
+ *                  (utility-start / utility-end, when those slots have
+ *                  children), brand + nav bar below — the two rows
+ *                  read as distinct.
  *   CenteredStack  brand row centered on its own line (end cluster /
  *                  mobile menu pinned to the inline end), nav strip
  *                  centered on a bordered row below — the editorial
@@ -186,6 +189,22 @@ function resolveDefaultShellSurface(
       ),
     ) || undefined;
   return { surface, shellStyle: undefined };
+}
+
+/**
+ * Mount a header slot only when it already has children. Empty
+ * `header-announcement` / `header-utility-start` / `header-utility-end`
+ * used to always render, which painted Pages drop chrome on every
+ * Standard page-template header even though those slots were unused.
+ */
+function populatedPlaceholder(
+  rendering: ComponentProps["rendering"],
+  prefix: string,
+  ph: string,
+): ReactNode {
+  const { key, children } = resolvePlaceholderChildren(rendering, prefix, ph);
+  if (children.length === 0) return null;
+  return <Placeholder name={key} rendering={rendering} />;
 }
 
 /** Shared surface + slot context every non-standard shell branch needs. */
@@ -316,8 +335,10 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
     );
   }
 
-  const announcement = (
-    <Placeholder name={`header-announcement-${ph}`} rendering={rendering} />
+  const announcement = populatedPlaceholder(
+    rendering,
+    "header-announcement",
+    ph,
   );
   // `mobile-placement@1` — which inline side the hamburger sits on. The
   // shell used to render `header-mobile-{*}` as the row's LAST child
@@ -347,24 +368,33 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
   // `header-tier-order@1` — which row sits on top in TwoTier. Unknown /
   // unset aliases to `utility-first`, the historical stacking order.
   const navFirst = params.TierOrder?.trim().toLowerCase() === "nav-first";
-  const utilityRow = (
-    <div className="hidden border-b md:block">
-      <div className="container mx-auto flex items-center justify-between px-4 py-2">
-        <div className="flex items-center gap-2">
-          <Placeholder
-            name={`header-utility-start-${ph}`}
-            rendering={rendering}
-          />
-        </div>
-        <div className="flex items-center gap-2">
-          <Placeholder
-            name={`header-utility-end-${ph}`}
-            rendering={rendering}
-          />
+  const utilityStart = populatedPlaceholder(
+    rendering,
+    "header-utility-start",
+    ph,
+  );
+  const utilityEnd = populatedPlaceholder(
+    rendering,
+    "header-utility-end",
+    ph,
+  );
+  const utilityRow =
+    utilityStart || utilityEnd ? (
+      <div className="hidden border-b md:block">
+        <div className="container mx-auto flex items-center justify-between px-4 py-2">
+          {utilityStart ? (
+            <div className="flex items-center gap-2">{utilityStart}</div>
+          ) : (
+            <div />
+          )}
+          {utilityEnd ? (
+            <div className="flex items-center gap-2">{utilityEnd}</div>
+          ) : (
+            <div />
+          )}
         </div>
       </div>
-    </div>
-  );
+    ) : null;
 
   if (barLayout === "centered-stack") {
     return (
@@ -424,34 +454,37 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
     // order is `TierOrder`, so an author can express both the two-tone
     // contrast the arrangement exists for and the nav-on-top masthead
     // that plenty of brands use.
-    const utilityTier = (
-      <div
-        className={cn(
-          "hidden text-sm md:block",
-          // Falls back to the tier's historical `bg-muted` only when the
-          // scheme resolves to nothing (`default` / `none`), so a band
-          // with no opinion still reads as a distinct row.
-          utilitySurface ?? "bg-muted",
-        )}
-        data-slot="header-utility-tier"
-        data-tier-order={navFirst ? "nav-first" : "utility-first"}
-      >
-        <div className="container mx-auto flex items-center justify-between gap-4 px-4 py-2">
-          <div className="flex min-w-0 flex-wrap items-center gap-3">
-            <Placeholder
-              name={`header-utility-start-${ph}`}
-              rendering={rendering}
-            />
-          </div>
-          <div className="flex min-w-0 flex-wrap items-center gap-3">
-            <Placeholder
-              name={`header-utility-end-${ph}`}
-              rendering={rendering}
-            />
+    const utilityTier =
+      utilityStart || utilityEnd ? (
+        <div
+          className={cn(
+            "hidden text-sm md:block",
+            // Falls back to the tier's historical `bg-muted` only when the
+            // scheme resolves to nothing (`default` / `none`), so a band
+            // with no opinion still reads as a distinct row.
+            utilitySurface ?? "bg-muted",
+          )}
+          data-slot="header-utility-tier"
+          data-tier-order={navFirst ? "nav-first" : "utility-first"}
+        >
+          <div className="container mx-auto flex items-center justify-between gap-4 px-4 py-2">
+            {utilityStart ? (
+              <div className="flex min-w-0 flex-wrap items-center gap-3">
+                {utilityStart}
+              </div>
+            ) : (
+              <div />
+            )}
+            {utilityEnd ? (
+              <div className="flex min-w-0 flex-wrap items-center gap-3">
+                {utilityEnd}
+              </div>
+            ) : (
+              <div />
+            )}
           </div>
         </div>
-      </div>
-    );
+      ) : null;
     const primaryTier = (
       <HeaderInner drawer={false}>
         {mobileLeads ? mobileSlot : null}
@@ -523,9 +556,12 @@ const HeaderShell = (props: HeaderProps & { barLayout: HeaderBarLayout }) => {
  * pick a *variant* from the rendering list, so an arrangement hidden
  * behind a param is invisible where they actually choose it.
  *
- *   Standard       start / nav / end bar, optional bordered utility row.
+ *   Standard       start / nav / end bar. Utility / announcement
+ *                  slots are omitted unless they already have children
+ *                  (page templates do not use them).
  *   TwoTier        slim utility strip on its own tinted top band, brand
  *                  + nav bar below — the two rows read as distinct.
+ *                  Populate the utility-start/end slots.
  *   CenteredStack  brand row centered on its own line, nav on a
  *                  bordered row below.
  *   CenteredInline single-row centered-logo masthead; `MenuPlacement`

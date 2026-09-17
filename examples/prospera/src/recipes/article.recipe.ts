@@ -1,5 +1,7 @@
-import type { PageTemplateRecipe } from "@sitecoreai-labs/sitecoreai-cli/recipe";
-import { pageTemplateThumbnail } from "./_wireframe-thumbnail";
+import {
+  pageTemplateThumbnail,
+  type PageTemplateRecipe,
+} from "./_wireframe-thumbnail";
 
 /**
  * Article page template — the insert type under `/Home/Articles`.

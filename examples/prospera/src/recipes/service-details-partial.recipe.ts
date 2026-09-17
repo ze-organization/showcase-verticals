@@ -1,5 +1,7 @@
-import type { PartialDesignRecipe } from "@sitecoreai-labs/sitecoreai-cli/recipe";
-import { partialDesignThumbnail } from "./_wireframe-thumbnail";
+import {
+  partialDesignThumbnail,
+  type PartialDesignRecipe,
+} from "./_wireframe-thumbnail";
 
 /**
  * Service body shell — the third partial on `service-page@1`.

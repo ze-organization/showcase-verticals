@@ -229,7 +229,7 @@ export const taglineBannerRecipe = {
   // `Default` placement.
   variants: [{ name: "Default" }, { name: "Marquee" }],
 
-  placedIn: ["header-announcement-{*}", "headless-main-{*}"],
+  placedIn: ["headless-main-{*}"],
 
   datasource: {
     autoCreate: true,

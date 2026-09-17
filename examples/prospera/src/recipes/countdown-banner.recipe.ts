@@ -229,7 +229,7 @@ export const countdownBannerRecipe = {
     },
   ],
   variants: [{ name: "Default" }],
-  placedIn: ["headless-main-{*}", "header-announcement-{*}"],
+  placedIn: ["headless-main-{*}"],
   datasource: {
     autoCreate: true,
     openPropertiesAfterAdd: false,

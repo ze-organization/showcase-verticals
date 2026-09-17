@@ -16,7 +16,12 @@
     "removeOrphansForRoles": true,
     "removeOrphansForUsers": true,
     "continueOnItemFailure": false,
-    "excludedFields": [],
+    "excludedFields": [
+      {
+        "fieldId": "c7c26117-dbb1-42b2-ab5e-f7223845cca3",
+        "description": "Sitecore auto-generated __Thumbnail; do not serialize"
+      }
+    ],
     "progressiveMetadataPull": false
   },
   "settings": {

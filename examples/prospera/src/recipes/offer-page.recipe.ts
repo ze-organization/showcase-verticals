@@ -1,5 +1,7 @@
-import type { PageDesignRecipe } from "@sitecoreai-labs/sitecoreai-cli/recipe";
-import { pageDesignThumbnail } from "./_wireframe-thumbnail";
+import {
+  pageDesignThumbnail,
+  type PageDesignRecipe,
+} from "./_wireframe-thumbnail";
 
 export const offerPageRecipe = {
   kind: "page-design",

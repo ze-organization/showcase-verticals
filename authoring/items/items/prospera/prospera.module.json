@@ -50,7 +50,21 @@
         "name": "prospera.media.project",
         "path": "/sitecore/media library/Project",
         "allowedPushOperations": "CreateOnly",
-        "scope": "itemAndDescendants"
+        "scope": "itemAndDescendants",
+        "rules": [
+          {
+            "path": "/sitecore/media library/Project/starter-collection/prospera/System",
+            "scope": "ignored"
+          },
+          {
+            "path": "/sitecore/media library/Project/starter-collection/starter/System",
+            "scope": "ignored"
+          },
+          {
+            "path": "/sitecore/media library/Project/starter-collection/coreworks/System",
+            "scope": "ignored"
+          }
+        ]
       }
     ]
   }

@@ -230,7 +230,7 @@ export const alertBannerRecipe = {
     },
   ],
 
-  placedIn: ["header-announcement-{*}", "headless-main-{*}"],
+  placedIn: ["headless-main-{*}"],
 
   /**
    * Per-page Alerts folder is the auto-create target; the site-shared

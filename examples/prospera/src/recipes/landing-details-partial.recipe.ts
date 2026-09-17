@@ -1,5 +1,7 @@
-import type { PartialDesignRecipe } from "@sitecoreai-labs/sitecoreai-cli/recipe";
-import { partialDesignThumbnail } from "./_wireframe-thumbnail";
+import {
+  partialDesignThumbnail,
+  type PartialDesignRecipe,
+} from "./_wireframe-thumbnail";
 
 /**
  * Landing body shell — the third partial on `landing-page@1`.

@@ -1,5 +1,7 @@
-import type { PartialDesignRecipe } from "@sitecoreai-labs/sitecoreai-cli/recipe";
-import { partialDesignThumbnail } from "./_wireframe-thumbnail";
+import {
+  partialDesignThumbnail,
+  type PartialDesignRecipe,
+} from "./_wireframe-thumbnail";
 
 /**
  * Article body shell — the missing third partial on `article-page@1`.

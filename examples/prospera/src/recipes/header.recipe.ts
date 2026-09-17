@@ -9,9 +9,10 @@ import { componentIcons } from "./_component-icons";
  *
  * A pure-placeholder shell — no datasource fields consumed; authors
  * compose every affordance (logo, main-nav, utility triggers, mobile
- * menu) into the seven slots below. One VARIANT per arrangement:
+ * menu) into the slots below. One VARIANT per arrangement:
  *
- *   Standard       — start / nav / end bar, optional bordered utility row.
+ *   Standard       — start / nav / end bar. No announcement or
+ *                    unused utility drop zones.
  *   TwoTier        — slim utility strip on its own tinted top band with
  *                    the brand + nav bar below; the two rows read as
  *                    distinct (populate the utility-start/end slots).
@@ -40,15 +41,14 @@ import { componentIcons } from "./_component-icons";
  * `Default` is the only variant, and the shell consumes NO datasource
  * fields — every affordance is a rendering placed into a slot.
  *
- * **Default's seven placeholders** (three responsive tiers):
+ * **Default's four placeholders** (plus TwoTier utility slots):
  *
- *   header-announcement-{*}   always visible (top strip)
- *   header-utility-start-{*}  desktop only (left of utility row)
- *   header-utility-end-{*}    desktop only (right of utility row)
  *   header-start-{*}          always visible (logo slot)
  *   header-nav-{*}            desktop only (main nav strip)
  *   header-end-{*}            desktop only (right cluster)
  *   header-mobile-{*}         mobile only (mobile-menu renderings)
+ *   header-utility-start-{*}  TwoTier utility strip (left)
+ *   header-utility-end-{*}    TwoTier utility strip (right)
  *
  * `ColorScheme` / `BackgroundIntensity` params follow the shared
  * section-surface vocabulary and tint the shell's bar (`default` keeps
@@ -63,7 +63,7 @@ export const headerRecipe = {
   name: "header",
   displayName: "Header",
   description:
-    "Site header layout shell — a pure-placeholder shell with seven slots (announcement, utility start/end, start, nav, end, mobile) and no datasource fields. Pick the arrangement by VARIANT: Standard (start/nav/end bar), TwoTier (slim utility strip on its own tinted top band with the brand + nav bar below), CenteredStack (brand row centered, nav on a bordered row below), CenteredInline (single-row centered-logo masthead — menu one side, logo centered, actions the other; MenuPlacement picks the menu side), Overlay (floats transparently over the page's first section). Compose content into the slots — typically via the stock header experiences (header-brand-nav, header-two-tier, header-centered-logo, header-utility-bar, header-transparent-overlay).",
+    "Site header layout shell — a pure-placeholder shell with start, nav, end, and mobile slots and no datasource fields. TwoTier also exposes utility-start/end for the tinted utility strip. Pick the arrangement by VARIANT: Standard (start/nav/end bar), TwoTier (slim utility strip on its own tinted top band with the brand + nav bar below), CenteredStack (brand row centered, nav on a bordered row below), CenteredInline (single-row centered-logo masthead — menu one side, logo centered, actions the other; MenuPlacement picks the menu side), Overlay (floats transparently over the page's first section). Compose content into the slots — typically via the stock header experiences (header-brand-nav, header-two-tier, header-centered-logo, header-utility-bar, header-transparent-overlay).",
 
   section: { handle: "layout-section@1" },
 
@@ -209,14 +209,6 @@ export const headerRecipe = {
 
   dynamicPlaceholders: true,
   placeholders: [
-    {
-      key: "header-announcement-{*}",
-      allowedRenderingHandles: [
-        "alert-banner@1",
-        "tagline-banner@1",
-        "countdown-banner@1",
-      ],
-    },
     {
       key: "header-utility-start-{*}",
       allowedRenderingHandles: [
