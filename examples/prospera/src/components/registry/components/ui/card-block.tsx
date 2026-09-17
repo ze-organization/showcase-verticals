@@ -25,6 +25,7 @@ import {
 import { cn } from "@/lib/registry/cn";
 import { mediaFitClass } from "@/lib/registry/media-fit";
 import {
+  buttonColorScheme,
   isEnabled,
   parseActionTokens,
   parseColorScheme,
@@ -502,14 +503,9 @@ function ActionLink({
     <Button
       link={action}
       variant={style}
-      // `default` is the one scheme a button can't paint — it means
-      // "inherit", which for a CTA is "keep the caller's own default"
-      // rather than a role, so hand back nothing.
-      colorScheme={
-        colorScheme === "default"
-          ? undefined
-          : parseColorScheme(colorScheme, "primary")
-      }
+      colorScheme={buttonColorScheme(
+        parseColorScheme(colorScheme, "primary"),
+      )}
       fontColor={fontColor}
       showArrow={showArrow}
       size={size}
