@@ -1,18 +1,14 @@
----
+﻿---
 ID: "c96d2115-bd20-4987-92ad-54e5b2029668"
 Parent: "4982316f-9737-4b7d-b017-ca30981e981a"
 Template: "4982316f-9737-4b7d-b017-ca30981e981a"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/lead-form/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "lead-form@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f666d3bb-1712-4728-b8c9-6d0a29e59d4e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

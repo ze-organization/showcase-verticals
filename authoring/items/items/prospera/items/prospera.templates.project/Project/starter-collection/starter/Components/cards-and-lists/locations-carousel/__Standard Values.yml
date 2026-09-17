@@ -1,21 +1,17 @@
----
+﻿---
 ID: "f88bd6d7-a77b-42f3-998f-256d6a5be1c5"
 Parent: "439d8c1d-6cbe-4965-b16a-b411d1e8b3f2"
 Template: "439d8c1d-6cbe-4965-b16a-b411d1e8b3f2"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/locations-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{B679D558-55BB-4E0E-BA1F-C3CF459D03A7}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "64abbb94-6935-405d-84cb-9c0058a68e4a"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -71,7 +67,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151837Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -99,7 +95,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220622Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -155,7 +151,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151837Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -183,7 +179,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220623Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -239,7 +235,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151837Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -295,7 +291,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151837Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -323,7 +319,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220623Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

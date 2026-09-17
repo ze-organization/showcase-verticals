@@ -1,21 +1,20 @@
----
+﻿---
 ID: "ba46588c-f3cf-4357-a9fe-3d132bc14f37"
 Parent: "cc8de905-80b0-4810-8fb1-42b2e7eeca4a"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/business-account"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "business-account@1"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "74c14a3b-3b21-4378-8558-ef754e0c6979"
+  Value: "59c238aa-f89b-4c17-bf7b-c4ed0a9767ab"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -137,7 +136,7 @@ Languages:
       Value: "business-account"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "759df483-ac94-4b49-8315-17537b6eff50"
+      Value: "bb371399-d710-4bdd-8e7e-c5663b47d26e"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
@@ -153,4 +152,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180818Z
+      Value: 20260917T160811Z

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "b995def3-0d75-475e-aa2e-6997547df770"
 Parent: "1266f2ad-d4ca-415a-80f0-1738005b50c3"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/article-details/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "30a9c7c2-3758-4b4d-846b-9076ba921de0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

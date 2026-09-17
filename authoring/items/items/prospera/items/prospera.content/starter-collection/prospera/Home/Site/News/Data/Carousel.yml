@@ -1,21 +1,17 @@
----
+﻿---
 ID: "33a81062-4717-46e5-ba54-660f4a6586d5"
 Parent: "d9d71d3e-f07f-4a4e-a7bb-11e5206b24bf"
 Template: "242c4a1e-2444-4a8c-95a2-49c579aac1b3"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/Data/Carousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "bfdc525d-ca4f-49b7-8459-fdf96eeec3f3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

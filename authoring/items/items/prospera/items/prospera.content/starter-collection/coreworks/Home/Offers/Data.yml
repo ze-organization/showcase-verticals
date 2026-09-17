@@ -1,9 +1,8 @@
----
+﻿---
 ID: "0f1ef3fe-4350-483c-be92-545a7259b671"
 Parent: "580e0fa0-8e47-4341-851a-fa875da27533"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Offers/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {C81237AD-D2BC-4794-8BBD-6C8DDB5CE916}
     {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
     {D17D9468-EE1E-4D38-931D-3FAAE56FF4F1}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: offers@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d1e6db58-c76e-4c97-8268-2297abce133d"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

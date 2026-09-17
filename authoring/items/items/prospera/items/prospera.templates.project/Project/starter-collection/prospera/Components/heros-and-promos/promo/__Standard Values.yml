@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f1ea7e1c-6b9b-4801-8585-0c84f58f51a2"
 Parent: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/promo/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: promo@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "27364d31-91c7-438d-ac81-9277f98b7386"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "2bcbdda2-6d17-49db-a21c-8888925b9d2e"
 Parent: "15968244-c267-4ab1-9484-205f5683450f"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/Heading/HeadingLayout/center-with-section-divider"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "heading-layout@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "center-with-section-divider"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a0df61fa-8861-4878-bf63-46bf449d3ff5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

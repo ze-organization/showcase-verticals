@@ -1,13 +1,9 @@
----
+﻿---
 ID: "a3cc93d0-ce71-4ff1-82d3-1064909e8608"
 Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/header-start"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "header-start-{*}"
@@ -18,7 +14,7 @@ SharedFields:
   Hint: Allowed Controls
   Value: "{2C0AC7A3-13B8-481A-95CE-19CC0C8AC44B}"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

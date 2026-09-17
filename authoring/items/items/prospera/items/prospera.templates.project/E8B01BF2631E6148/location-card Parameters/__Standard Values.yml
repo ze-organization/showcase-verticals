@@ -1,0 +1,59 @@
+﻿---
+ID: "77c67ab0-d7ce-457c-9444-74084199f71a"
+Parent: "e3daab3d-2063-4c35-a06d-3aaea5a7f361"
+Template: "e3daab3d-2063-4c35-a06d-3aaea5a7f361"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/location-card Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b8dd694e-d6d9-4c0d-9a86-809a82c84325"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23760130-0e4d-4f31-8b50-795373e70de0"
+      Hint: ColorBand
+      Value: "{07FBCE74-3836-499E-A615-280CD2B4F0A8}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T220558Z
+    - ID: "39a6dec0-b567-4551-ba61-9303166cd740"
+      Hint: DistanceUnit
+      Value: "{42F6E7F3-9A46-44FE-A58D-1F032F77006C}"
+    - ID: "526d6ebd-291e-4290-9b01-42c2bb6b047f"
+      Hint: Padding
+      Value: "{E1682301-09FF-4D16-B15E-C148BBD326BC}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "6ac77006-bbab-4e55-9aac-9f58648ef50f"
+      Hint: Style
+      Value: "{E2CB8F23-0D12-472A-9554-E4F7428B1DBD}"
+    - ID: "8bf0a3fd-ff33-4714-ac1b-7ed6795eb5ff"
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcacb332-a4ed-48c2-af5d-d12a36f42271"
+    - ID: "8f671747-5fde-424b-8cc7-ec4bbc50cb66"
+      Hint: TitleLinkIcon
+      Value: "{180C5CB9-ED6E-4D9C-A592-05C3FE32DAC8}"
+    - ID: "abb3d67e-83df-4144-85ed-864188b1d3be"
+      Hint: MediaBleed
+      Value: "{4F41F715-F4B1-4F79-B81C-AE719979CA5C}"
+    - ID: "b8f07c2b-d352-4b05-b822-ec62ad44902e"
+      Hint: CardColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203611Z

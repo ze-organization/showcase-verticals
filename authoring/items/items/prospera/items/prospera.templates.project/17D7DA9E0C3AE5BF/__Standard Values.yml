@@ -1,0 +1,47 @@
+﻿---
+ID: "22e94979-6a3f-45cf-959d-a53974b7b545"
+Parent: "c186292e-54d9-42a5-b78e-810429dc3e9a"
+Template: "c186292e-54d9-42a5-b78e-810429dc3e9a"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/Presentation Parameters/form-textarea-field Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "113823ad-e2a4-4a67-8a6b-e06db3f54dfe"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T220011Z
+    - ID: "3816c60f-e22d-4a7b-b1d3-10f6299126e9"
+      Hint: Rows
+      Value: 4
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "7b211893-c539-4cac-9855-94dc9720468a"
+      Hint: LabelOrientation
+      Value: "{B0323460-A3E0-4711-97FD-ABEF68D74829}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b0841dd-cc49-4f92-b0a6-d0683cc85571"
+    - ID: "b22e88a1-401c-4cfa-ac6d-a186720cc459"
+      Hint: Size
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "baebcdbb-ab0d-49db-b9d7-cb66e2430a60"
+      Hint: Width
+      Value: "{21695A61-D6FA-4C9E-858F-6B0B4E14DDFF}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203602Z

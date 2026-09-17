@@ -1,16 +1,12 @@
----
+﻿---
 ID: "793c36c5-af34-455a-88e6-099bf05f03f8"
 Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/CardVirtual"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "4963a97c-7c3b-4879-82dc-32b83e786cd8"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -52,4 +48,4 @@ Languages:
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Products/virtual-cards" text="How virtual cards work" />
+        <link linktype="internal" id="{1897C34F-1CD1-4545-ABEB-0EA21C6C6805}" anchor="" querystring="" target="" class="" text="How virtual cards work" title="" />

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "4fa786f3-610b-457c-9b7c-1240fd60f10a"
 Parent: "bd6de379-30cf-4464-b015-7d8529a5571f"
 Template: "bd6de379-30cf-4464-b015-7d8529a5571f"
 Path: "/sitecore/templates/Project/starter-collection/Pages/LocationTerritory/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {8476FA45-B849-4D96-B78A-46C3E346B1CF}
     {94E866CA-EB1D-4A98-9C15-341D652C1386}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-territory@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f49dcfa5-9cf9-48dc-9161-9f1dc98faf3d"
@@ -25,7 +21,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

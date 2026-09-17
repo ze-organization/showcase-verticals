@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5dd4f7f6-ce56-48be-90cd-22f2c294076f"
 Parent: "587ae421-b052-43c4-af92-47c21ff3efa0"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/matrix"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: matrix@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f33d802f-2334-4dc5-8371-3aab2c22ee29"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

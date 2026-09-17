@@ -1,21 +1,17 @@
----
+﻿---
 ID: "a2832994-cbc0-4793-a60d-a7af7a9cbe04"
 Parent: "b4dc4bed-cf15-4b55-b175-67d911697bc5"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/high-yield/Data/StepChecking"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-high-yield@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cc1b9ff8-4297-4847-b84a-13ac28295e26"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -34,7 +30,7 @@ Languages:
       Value: <p>Personal or joint everyday checking is the funding account in this demonstration.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1af09745-d212-439d-95a1-5bf91402bfda"
+      Value: "0d3bb40a-0035-4307-b230-2426895aeec5"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Start with checking
@@ -44,11 +40,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193426Z
+      Value: 20260917T162337Z
     - ID: "eeafe96f-4d61-4e1d-a55f-2a28005cdeb8"
       Hint: IconName
       Value: account
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/checking" text="Everyday checking" />
+        <link linktype="internal" id="{8D797D5B-F575-4167-AACF-6646E40EF424}" anchor="" querystring="" target="" class="" text="Everyday checking" title="" />

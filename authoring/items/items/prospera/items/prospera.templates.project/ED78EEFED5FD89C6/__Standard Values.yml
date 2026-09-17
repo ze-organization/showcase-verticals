@@ -1,0 +1,44 @@
+﻿---
+ID: "23b33490-6376-4fa5-a3d3-bac51274d94c"
+Parent: "23a742ca-96b2-4b64-b59a-23a0643409f2"
+Template: "23a742ca-96b2-4b64-b59a-23a0643409f2"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/Presentation Parameters/tree-navigation Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1b00fbce-07f9-4fbc-88d0-129041644993"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T223117Z
+    - ID: "4cd13ae2-ec74-437b-8a24-18933116b587"
+      Hint: LinkColorScheme
+      Value: "{F3E5BA23-DED6-4466-96D9-C7BF24FB4C41}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "826c5b06-5228-4845-ae1f-08e7580d4c67"
+      Hint: ShowActiveMarker
+      Value: 1
+    - ID: "88596efa-a192-483b-b72d-c139f4fa7864"
+      Hint: RowSeparators
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2370f5e9-8aae-4cd7-92d1-a6709bbd763a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260813T223117Z

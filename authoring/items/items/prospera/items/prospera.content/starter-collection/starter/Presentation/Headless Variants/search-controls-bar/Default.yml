@@ -1,18 +1,14 @@
----
+﻿---
 ID: "dcdd0100-11b2-4d25-9af7-5ee2860e86ac"
 Parent: "b8b1cd0e-dd85-4cfc-bd37-de0ca8bdc4f9"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/search-controls-bar/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-controls-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "745d1603-2a58-43ad-9c8f-a9f9feadd585"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

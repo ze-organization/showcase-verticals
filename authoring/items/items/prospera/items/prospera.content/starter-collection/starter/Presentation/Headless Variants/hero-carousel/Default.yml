@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5c4c1512-8946-4578-9926-b49d0b9cb4a5"
 Parent: "d96450a7-73ce-47c2-831a-31728365d4a3"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/hero-carousel/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "hero-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5b9688b2-75a2-4da5-876b-f7d614cea374"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

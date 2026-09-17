@@ -1,21 +1,17 @@
----
+﻿---
 ID: "5b657fdb-f00f-49e5-a0cb-c35ef64a78ad"
 Parent: "940ff170-48e8-495c-962b-a581334ab8ce"
 Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Terms/Data/Body"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: terms@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5b06e591-7525-4af7-8cdb-6705ce3ce1a2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
     - ID: "a141102d-2b8d-4542-a24c-ebcb7de0b798"
       Hint: Body
       Value: |
-        <p>This site is a demonstration of Prospera Bank, N.A., a fictional U.S. nationally chartered bank. Products, rates, people, jobs, and offers are illustrative. Do not treat APY, APR, fees, or roles as a live offer.</p><p>You may browse, search, and submit the demonstration forms. Do not use the site to store production customer data. See <a href="/Privacy">Privacy</a> for cookies and form data. See <a href="/Accessibility">Accessibility</a> for assistive technology.</p><p>Member FDIC. Equal Housing Lender — in this demonstration’s voice. We do not invent license, routing, or certificate numbers.</p>
+        <p>This site is a demonstration of Prospera Bank, N.A., a fictional U.S. nationally chartered bank. Products, rates, people, jobs, and offers are illustrative. Do not treat APY, APR, fees, or roles as a live offer.</p><p>You may browse, search, and submit the demonstration forms. Do not use the site to store production customer data. See <a href="/Site/Privacy">Privacy</a> for cookies and form data. See <a href="/Site/Accessibility">Accessibility</a> for assistive technology.</p><p>Member FDIC. Equal Housing Lender — in this demonstration’s voice. We do not invent license, routing, or certificate numbers.</p>
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

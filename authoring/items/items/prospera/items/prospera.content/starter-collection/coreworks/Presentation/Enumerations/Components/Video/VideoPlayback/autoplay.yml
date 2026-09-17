@@ -1,13 +1,9 @@
----
+﻿---
 ID: "d08f313b-68fd-4a9f-9415-bf4c2a9bfd1a"
 Parent: "8e339812-402d-442a-adb3-e02c9727a8fa"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Video/VideoPlayback/autoplay"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "video-playback@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: autoplay
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "81d25d0b-1ab6-47fa-9827-9f3353520b7e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

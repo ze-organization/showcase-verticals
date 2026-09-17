@@ -1,18 +1,14 @@
----
+﻿---
 ID: "488e0ea8-2853-42aa-98c8-ea3418baff4d"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/visual-tabs"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "visual-tabs@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5550ffbc-2bac-4ab8-bb08-7895aa5f0b4c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

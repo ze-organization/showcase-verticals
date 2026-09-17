@@ -1,13 +1,9 @@
----
+﻿---
 ID: "a799b290-78fe-463a-9c65-b82c40a9c4d9"
 Parent: "2fec97ec-512f-4544-98c4-0f56f2da9eea"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/BreakpointColumns/2"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "breakpoint-columns@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: 2
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "ee33f634-ea26-4c1e-881f-5c4e10d782bf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

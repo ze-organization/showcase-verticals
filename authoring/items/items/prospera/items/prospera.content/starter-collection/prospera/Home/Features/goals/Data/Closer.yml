@@ -1,25 +1,21 @@
----
+﻿---
 ID: "0803076e-7efa-4855-b443-e5a7019e26d2"
 Parent: "bd09c052-b0a9-4d75-9180-cb4cc640782c"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/goals/Data/Closer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-goals@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Advisor walking with a customer through a branch lobby" />
+    <image mediaid="354378fe-933a-4102-8fd5-3f5dab84df62" alt="Branch closer" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "998352c7-410d-4f04-afdc-a708a33b5237"
+  Value: "e7acdd71-2874-497d-b30e-d7ef235c28fe"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Next
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "af5ce6c2-0ccd-4c3b-a6cb-158319d2ec67"
+      Value: "88d01c47-70ad-4117-927e-5333b4abf95e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: <p>Apply Now starts checking and savings. Goals are available after the savings account exists.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180901Z
+      Value: 20260917T041614Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: "Open high-yield savings, then label it."

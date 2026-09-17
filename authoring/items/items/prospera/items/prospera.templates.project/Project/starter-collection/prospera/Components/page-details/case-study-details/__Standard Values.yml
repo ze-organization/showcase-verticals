@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e780825a-fdeb-43a1-84c5-5ecffa0db231"
 Parent: "5606e5bd-ec9d-488a-aca3-a9f6a2194210"
 Template: "5606e5bd-ec9d-488a-aca3-a9f6a2194210"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/case-study-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-study-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "251ee422-3af4-4050-ac53-f7c63c989ab4"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

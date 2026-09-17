@@ -1,0 +1,32 @@
+﻿---
+ID: "18e8118e-4b7a-4e1d-89e2-90c4641b3bf1"
+Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
+Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
+Path: "/sitecore/content/starter-collection/prospera/Home/Data/TrustScamIntel"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T022937Z
+    - ID: "3749bc4d-27b2-4f03-a4b2-3fa6caf890d1"
+      Hint: Description
+      Value: "<p>Not sure if something’s a scam? Upload a screenshot and our AI will flag concerns, such as generic photos or low prices.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72e47edf-1ee9-4701-9000-df5c45ae830e"
+    - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
+      Hint: Title
+      Value: Scam Intelligence.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T022937Z
+    - ID: "eeafe96f-4d61-4e1d-a55f-2a28005cdeb8"
+      Hint: IconName
+      Value: "{FE4A4826-0905-4181-882F-FC2E25F19111}"

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "3d98a417-d6c0-453e-a572-ab1cd4ce36f6"
 Parent: "4bc7754a-6778-4364-aeb8-a6ff74df6799"
 Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Solutions/Healthcare/Data/Intro"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "solutions-healthcare@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e44cedc6-a872-484b-92c2-4202bc909c48"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "ea74af6a-e1de-4e6d-8689-ce2a7df4e6d7"
 Parent: "c964995f-507c-4ee8-8e82-de28eb7105ae"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Search/SearchControlsSurface"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: card
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-controls-surface@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9aaca178-350d-41c1-9c5e-affe66b433b7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

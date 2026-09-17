@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e4f5205b-fadb-4a14-87ab-b13df73d5c9b"
 Parent: "436e59e5-afa1-49c5-a34e-8b41d02dd689"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/cards-and-lists/ranking-row"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,14 +13,11 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{62CA7490-FA37-462D-B1E5-CF9F37557A37}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ranking-row@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6cf6ee76-6aab-4b47-b4a2-015bfd1f948e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,16 +1,12 @@
----
+﻿---
 ID: "964265c9-db49-4828-8338-2f63971397a4"
 Parent: "33305acf-ab7b-4dc4-8c78-4b860b5a0320"
 Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Available Renderings/ui"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/432f37393aa84d96ad5916d487025bcf.ashx?thn=1&db=master&v=2"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__available-renderings__"
 - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
   Value: |
@@ -37,7 +33,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "95c0088e-038b-46b4-a873-afc550040700"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

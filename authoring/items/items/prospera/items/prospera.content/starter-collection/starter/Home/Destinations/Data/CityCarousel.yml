@@ -1,21 +1,17 @@
----
+﻿---
 ID: "b4fffc8b-1de8-4d98-9f04-0b651336ef61"
 Parent: "0b8dd440-a325-452a-bfdc-5341113380e5"
 Template: "bb31c233-9d6d-4770-a51f-0480122201db"
 Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Data/CityCarousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: destinations@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9bbcc33c-273d-4a2f-94cc-5622b4a137e6"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

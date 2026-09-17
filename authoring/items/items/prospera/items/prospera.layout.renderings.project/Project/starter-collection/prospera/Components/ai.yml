@@ -1,21 +1,17 @@
----
+﻿---
 ID: "080b14e7-167e-4b77-b9d9-adbf81eb11fa"
 Parent: "6ba49cdc-befc-4fc2-8adf-d57da827e45b"
 Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/ai"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/11d4148973cc42378d05bddc9895c65b.ashx?thn=1&db=master&v=2"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-section@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f4a515df-1877-4c70-b0df-55b420c06613"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

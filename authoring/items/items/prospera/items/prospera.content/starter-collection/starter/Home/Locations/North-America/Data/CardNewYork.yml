@@ -1,16 +1,12 @@
----
+﻿---
 ID: "bac423d0-7dde-44cb-97c1-8aed8b7c6602"
 Parent: "f770b22d-b9b7-4d52-b8f1-57b82d00e0f0"
 Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
 Path: "/sitecore/content/starter-collection/starter/Home/Locations/North-America/Data/CardNewYork"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-north-america@1"
 - ID: "c4b4278a-c86c-400a-aefe-5c5bfaec9014"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "ec3ff4c3-b0e0-4d67-96bb-bed831da92b1"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "20f8373e-8d13-40fb-bced-a82feb84652d"
 Parent: "2e598b5d-d9a9-4abe-9fdc-69735bf70a2b"
 Template: "2e598b5d-d9a9-4abe-9fdc-69735bf70a2b"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/stats-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{16986568-7609-4150-BE32-A56D42215BEC}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stats-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "df306e2d-a1ca-4908-8b94-4ae766ca6147"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -71,7 +67,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152019Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -99,7 +95,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222609Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -155,7 +151,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152019Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -183,7 +179,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222610Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -239,7 +235,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152019Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -295,7 +291,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152019Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -323,7 +319,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222610Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

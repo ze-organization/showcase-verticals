@@ -1,18 +1,14 @@
----
+﻿---
 ID: "1c2dacd0-e341-4423-ad53-21f7446f19fe"
 Parent: "3a691886-4cc0-47a8-9df8-f57eb92bf1f6"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/reviews-list-grid/GridCard"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "reviews-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a33a654b-51a7-4a21-8137-a40c89d0b05a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

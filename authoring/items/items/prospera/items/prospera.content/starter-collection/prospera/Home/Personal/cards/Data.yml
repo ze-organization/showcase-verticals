@@ -1,9 +1,8 @@
----
+﻿---
 ID: "75351041-749a-499a-bbe6-ebdce3e02ebe"
 Parent: "e1d962ce-ab8c-4561-b90d-d538491263c6"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -19,14 +18,11 @@ SharedFields:
     {590320C0-1570-423B-A9BD-7F7B414DECFC}
     {A3B2B7CF-5E78-493F-AE57-583246702B7C}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e7fe5076-fd35-44e7-95f8-edd070d3ae00"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

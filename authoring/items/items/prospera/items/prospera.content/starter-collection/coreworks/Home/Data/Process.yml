@@ -1,21 +1,17 @@
----
+﻿---
 ID: "895f6bbe-1aed-4e27-8b11-0441f482de26"
 Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
 Template: "368b7b15-54af-417a-9a31-64df77878ccd"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/Process"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ca5a890a-78bb-476c-88db-c59bc06af776"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

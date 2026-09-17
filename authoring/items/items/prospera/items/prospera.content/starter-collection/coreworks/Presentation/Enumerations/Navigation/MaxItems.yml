@@ -1,21 +1,17 @@
----
+﻿---
 ID: "fe3fc91f-42b2-425f-a028-9376ed88eba1"
 Parent: "680d3849-4b5a-4bcb-8075-601b04ee7948"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Navigation/MaxItems"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: auto
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "nav-max-items@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "36b416cb-2eb7-4216-9c58-a12afbfd85a0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

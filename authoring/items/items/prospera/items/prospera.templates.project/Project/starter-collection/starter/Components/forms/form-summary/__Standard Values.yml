@@ -1,18 +1,14 @@
----
+﻿---
 ID: "58b7a584-1e63-4375-9614-062aac6c7716"
 Parent: "ff3a01d1-f5f3-4c31-982e-dad06ec4e50b"
 Template: "ff3a01d1-f5f3-4c31-982e-dad06ec4e50b"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/form-summary/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-summary@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3c1792b2-e194-4b53-bbbf-6cf9a3e713cd"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -74,7 +70,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151812Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -105,7 +101,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215944Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -167,7 +163,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151812Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -198,7 +194,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215943Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -257,7 +253,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151812Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -316,7 +312,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151812Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -347,7 +343,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215944Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

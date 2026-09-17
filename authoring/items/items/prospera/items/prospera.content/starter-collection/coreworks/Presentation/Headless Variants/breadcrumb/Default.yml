@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e2a0e791-c8dc-4652-813c-a35f54aaf03b"
 Parent: "dc59aba4-b7a5-4a4a-8dc0-f57eb05fe5d6"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/breadcrumb/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: breadcrumb@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "41b58b83-8ff1-423f-b5b9-d326f035c5d0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

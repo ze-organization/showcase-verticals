@@ -1,9 +1,8 @@
----
+﻿---
 ID: "8cf5f607-0ed4-4613-8313-bb94f9d3d31f"
 Parent: "9dac427b-c000-4b3d-b0b3-1d386ca61fc4"
 Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
 Path: "/sitecore/content/starter-collection/starter/Home/People/Data/CardJulian"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{D49AE534-BC8D-4569-B896-3C7317BE933B}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: people@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "118d3406-83c8-4e16-b43c-b6825fa479ce"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

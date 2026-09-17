@@ -1,16 +1,12 @@
----
+﻿---
 ID: "94b1e8f7-3c55-40bc-9892-c0e44ae9aec2"
 Parent: "f90f0c1e-4c29-4d71-88af-b70919a57c78"
 Template: "c5983974-fd79-4b87-84dc-0496923bcf42"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Data/CardKyoto"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: destinations@1
 - ID: "bc687277-431e-48bc-97d1-cd23cf8eaf06"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "7da13233-6759-4a43-acf8-b9075aa27bf8"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

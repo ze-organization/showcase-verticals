@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f2a4f233-33de-4d90-8484-0ac1af2c22bf"
 Parent: "22166205-757b-4313-9feb-01c98e690a3b"
 Template: "22166205-757b-4313-9feb-01c98e690a3b"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/offer-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offer-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1d0b992a-b87d-4f5e-9a34-14de58210019"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

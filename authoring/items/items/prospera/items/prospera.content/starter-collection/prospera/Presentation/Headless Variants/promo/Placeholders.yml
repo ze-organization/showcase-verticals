@@ -1,18 +1,14 @@
----
+﻿---
 ID: "c1fe750a-1c8a-46c5-86f0-860c63d1cc9e"
 Parent: "7f9faf7a-f3b5-4eff-beb6-adb883cbbbe4"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/promo/Placeholders"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: promo@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "46255182-501a-499e-a2e8-3dca9c761ed3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

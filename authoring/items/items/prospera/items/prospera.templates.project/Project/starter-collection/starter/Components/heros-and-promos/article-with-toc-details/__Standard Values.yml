@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5c868dd0-8f02-4b3c-ac78-d449e6867335"
 Parent: "d2b15b42-4581-4e03-b3b7-c07096ba5f09"
 Template: "d2b15b42-4581-4e03-b3b7-c07096ba5f09"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/article-with-toc-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-with-toc-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9860825f-71c4-4fba-8db3-febeed0bdc61"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

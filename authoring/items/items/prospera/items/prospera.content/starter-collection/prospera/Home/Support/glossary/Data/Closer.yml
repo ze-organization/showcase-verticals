@@ -1,25 +1,21 @@
----
+﻿---
 ID: "3b34e20e-2484-4435-8b2d-0a6499f6feb5"
 Parent: "7ff88223-c27f-4bbc-b38a-cf396612e105"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/glossary/Data/Closer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-glossary@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Advisor walking with a customer through a branch lobby" />
+    <image mediaid="8c0eb51c-09eb-43e5-bd61-eb6ab1efdeea" alt="Branch closer" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f782bf39-80bd-499b-b836-38d150fc84bf"
+  Value: "8bf8b318-119b-4bad-93f0-a78969063d1d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: "Still stuck?"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "99b18942-95a0-481d-9889-e139facb1ac5"
+      Value: "eb878b14-de0f-466c-9b06-100fbfc92e21"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Contact" text="Contact us" />
+        <link linktype="internal" id="{ED76BD75-6088-4F0E-9BA2-4AD5247F6394}" anchor="" querystring="" target="" class="" text="Contact us" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: <p>Contact if you need a person, not a definition.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180944Z
+      Value: 20260917T041631Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: FAQs and Help are the next stop.

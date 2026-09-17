@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3c723126-1f4d-47e8-8ad6-3a62fea05d44"
 Parent: "1e9397c5-7252-4635-b63a-06d08235e434"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Hero/Hero Heading Layout/compact"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "hero-heading-layout@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: compact
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "fe6d9878-b7b6-4b5e-a433-d1655db7f0cd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

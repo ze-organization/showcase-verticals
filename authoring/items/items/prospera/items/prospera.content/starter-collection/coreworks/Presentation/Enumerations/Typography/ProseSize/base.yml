@@ -1,13 +1,9 @@
----
+﻿---
 ID: "4944eef5-a033-45bd-84ac-2b1d67a89f11"
 Parent: "06104fc0-7a53-47b9-a47f-0e27e6005a98"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Typography/ProseSize/base"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "prose-size@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: base
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "3ba9d10d-d893-4f14-8e88-63fcf0dd03a3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

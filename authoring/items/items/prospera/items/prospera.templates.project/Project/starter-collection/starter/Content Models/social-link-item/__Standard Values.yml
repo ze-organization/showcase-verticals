@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ae7980d1-bd89-486c-b46b-b2e07f4ccb81"
 Parent: "48f614f4-4784-4631-906f-b49ae32bb1e1"
 Template: "48f614f4-4784-4631-906f-b49ae32bb1e1"
 Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/social-link-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-link-item@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c860faa3-401e-4de0-ac32-87bb4671219a"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

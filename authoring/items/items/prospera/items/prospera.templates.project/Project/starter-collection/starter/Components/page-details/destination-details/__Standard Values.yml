@@ -1,18 +1,14 @@
----
+﻿---
 ID: "b17ef413-ab87-4816-9e0a-b9bc52c3ad5a"
 Parent: "bc4edb82-8182-414d-8c48-504709066989"
 Template: "bc4edb82-8182-414d-8c48-504709066989"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/destination-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "861af1b7-4a87-43d1-af23-3902c6bf747b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

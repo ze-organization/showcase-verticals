@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4aff7160-2377-4c0f-ab0a-ac495d0f0943"
 Parent: "4966396f-83c9-456c-8131-f6f14af280df"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Personalization/Instance Scope"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: page
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "instance-scope@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f9e4c242-c9c0-42db-91ee-71bd7ec048c2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

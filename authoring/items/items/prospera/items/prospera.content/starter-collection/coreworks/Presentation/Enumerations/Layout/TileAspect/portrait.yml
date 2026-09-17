@@ -1,13 +1,9 @@
----
+﻿---
 ID: "c8a0946e-4810-4b36-8ede-6896c691c995"
 Parent: "cc0b0f5b-45c3-4f06-a822-1ee2971de8b0"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/TileAspect/portrait"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "tile-aspect@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: portrait
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d43ac51e-6620-4a58-95ee-d46725687c11"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "c0a41f79-17dd-476e-9a9d-49497eda4552"
 Parent: "29fadad6-3a18-4ec3-9a2e-231548c18c0b"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/Card/ColorBand/warning"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "color-band@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: warning
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "98932084-6149-47bc-9d04-9129c0c6de2f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,0 +1,50 @@
+﻿---
+ID: "c245acf0-6684-4872-9cbe-0f4546c4b80a"
+Parent: "6f9c348e-0547-434e-8c3a-e0ae76c3ca19"
+Template: "6f9c348e-0547-434e-8c3a-e0ae76c3ca19"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/logo-wall Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "57735202-77d1-4a9d-aae7-d5d419392ffe"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f7c8123-36fa-4345-9658-96e6ac0bdce1"
+      Hint: Monochrome
+      Value: 1
+    - ID: "21bcd2cf-2589-49de-942b-e651ac0f1d0d"
+      Hint: Size
+      Value: "{7B3BEDC5-7C81-40E4-A180-453BF06BC7E5}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T220748Z
+    - ID: "367c32d1-2067-410c-99f5-fa66ec93c015"
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: "46ce75fd-96c3-4352-9643-57cdca41fa76"
+      Hint: PaddingY
+      Value: "{295A5038-66A8-4D33-BDDF-B7CDA0AD0B71}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8a9046a-c47b-463c-af14-a095c868f447"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "bae3ff75-1e93-401b-adf2-770d2ab8ad09"
+      Hint: Columns
+      Value: "{F08C25B8-0FF0-4C4C-A952-939212FCE463}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203615Z

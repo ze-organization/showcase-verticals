@@ -1,18 +1,14 @@
----
+﻿---
 ID: "02ff0013-81b6-42d1-ac2d-b220f0b8b98a"
 Parent: "b5411475-7687-4052-a716-ade9bf01c319"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/form-range-field/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-range-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cae59f90-57bd-4b37-95ef-de9b108dda01"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "4f118438-5451-4eec-9f7e-2438cfd25b12"
 Parent: "a4166225-e798-42a4-ba0a-0106e546185e"
 Template: "745eb7c5-d8b0-4a77-85bf-c0c0cbb60573"
 Path: "/sitecore/content/starter-collection/starter/Home/Careers/platform-engineer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{0ACECDC6-A5E9-440A-90B1-159A04F21FC1}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-platform-engineer@1"
 - ID: "6a6caa93-bfb0-4e65-9132-d18b0d7b5746"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "51b901af-72af-48be-aac4-fea9d527bd92"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

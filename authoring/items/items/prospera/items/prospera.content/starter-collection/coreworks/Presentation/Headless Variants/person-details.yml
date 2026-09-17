@@ -1,18 +1,14 @@
----
+﻿---
 ID: "7e299c71-6e02-4894-9eed-585c80ca6abd"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/person-details"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "83c5c46d-acf5-4eb5-975c-9ff3989bcfe5"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

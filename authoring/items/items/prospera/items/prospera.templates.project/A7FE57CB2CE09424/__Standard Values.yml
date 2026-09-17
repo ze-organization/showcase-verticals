@@ -1,0 +1,44 @@
+﻿---
+ID: "ecddd11e-23a9-4ce9-86df-9c8aff3c95f7"
+Parent: "e70223ba-45bf-44b1-b166-7053f01267b9"
+Template: "e70223ba-45bf-44b1-b166-7053f01267b9"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/Presentation Parameters/cta-button Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "880ee4c0-139e-496f-bea0-53e8ea20356c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2400ef2d-f179-4122-9e2c-d64c3c499712"
+      Hint: ColorScheme
+      Value: "{FC57A780-FBE6-47E0-B46D-A300EA30216E}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T215419Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5d3479f9-dbb1-4dca-8b50-052e070cee4e"
+      Hint: Variant
+      Value: "{03CBCA9A-D3BF-4CEE-9910-B66FCEC2F3C2}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec2a1545-724f-4b87-a9db-a399b5f77cda"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "bdec1a79-90ca-4664-88ff-9536c1c3fb7b"
+      Hint: IconName
+      Value: "{24583023-13E0-4CF9-A1C2-8E0C23AA9CB2}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203503Z

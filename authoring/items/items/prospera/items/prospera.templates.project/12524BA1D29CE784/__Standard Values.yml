@@ -1,0 +1,56 @@
+﻿---
+ID: "1bc19ac5-703b-4802-9d7e-6b3aab33f38b"
+Parent: "48d03c8b-4faa-4d3e-8d21-1bb84328747d"
+Template: "48d03c8b-4faa-4d3e-8d21-1bb84328747d"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/Presentation Parameters/header Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1af2c281-4e1b-4c2f-b99a-55d9d32d5e99"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ad7efc0-f4fb-41d2-9a38-de49e4bc8633"
+      Hint: UtilityBackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T220044Z
+    - ID: "525a2d22-7cfe-40a6-b4ae-529354baaeb3"
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "58631ac7-1d8e-45b0-ac7d-8b7f153a49e9"
+      Hint: MobilePlacement
+      Value: "{3FC920DA-40A2-4D1D-8306-01F7C8086710}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b548f08c-2be8-491b-b322-78159fc48dca"
+    - ID: "96fc74b0-ab93-4c59-8f7b-03e36536db83"
+      Hint: ColorScheme
+      Value: "{F3E5BA23-DED6-4466-96D9-C7BF24FB4C41}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "ca802808-9dd1-47ef-9437-2fd52c92411a"
+      Hint: UtilityColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203603Z
+    - ID: "ec94df2c-08d7-4008-a80b-fe345ce53bfc"
+      Hint: MenuPlacement
+      Value: "{07AB2C29-6DD8-40AB-85FB-417D12684FA2}"
+    - ID: "ef13b255-6324-4e2d-880c-b69e778592f7"
+      Hint: TierOrder
+      Value: "{A5792166-A3F7-42BF-95CD-73EA1E83C4F5}"

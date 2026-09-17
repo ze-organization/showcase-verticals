@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c7b52613-ac1b-4186-a753-e080de94ec2e"
 Parent: "d1a80c7e-1d0d-4763-9ce9-a7af58c1ba67"
 Template: "b21f64d6-57d8-471f-95de-d737b0fab9e5"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/with-table-of-contents"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "03614ba4-2f0a-44f7-bd37-10d66ed70fc2"
   Hint: Image
@@ -15,14 +14,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{025DE7CB-A07F-48FE-9BC9-BAC77AAA4F95}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-with-toc-sample@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e1adaa48-4b25-4044-aa58-9c4b6ab90114"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -54,7 +50,7 @@ Languages:
       Value: Authoring
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ef8e7add-b644-461b-8298-f9f57d046699"
+      Value: "f6f505a1-dc7d-4910-bd35-b065e6fcab48"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -68,10 +64,10 @@ Languages:
         <div class="ck-content"><p>Most new stories should still be <strong>Insert → Article</strong>. Add this type when the page should already ship a table of contents beside the body, without authors placing extra renderings.</p><h2>What the table of contents reads</h2><p>Entries come from the page <code>Content</code> field only. Headings in dropped placeholder blocks are ignored. Paragraphs never appear in the list.</p><h3>Heading levels</h3><p>Both <code>h2</code> and <code>h3</code> become entries, in document order. Nested <code>h3</code> rows indent under the previous section so the outline stays readable.</p><h3>Click, do not hash</h3><p>Choosing a row scrolls the matching heading into view. The URL does not gain a fragment the address bar stays the page path.</p><h2>Same shell as Article</h2><p>Lead image, share rail, title, dek, and the two drop zones stay. The only layout change is the body: table of contents on the left, rich text on the right. On small screens the list stacks above the body.</p><h2>When to insert this type</h2><p>Use <strong>Article with Table of Contents</strong> for long editorial pieces whose body is already structured with headings. Short news or promo stories can stay on Article.</p><h3>Insert under Articles</h3><p>The listing is still a marketing Page. After this type is pushed, set the listing item’s insert options so authors see both Article and Article with Table of Contents — not a blank Page.</p></div>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232901Z
+      Value: 20260917T163034Z
     - ID: "da2aa3ab-367e-4ac2-9971-4746eb2a88ee"
       Hint: MetaDescription
       Value: "A second Article insert type for long pieces: table of contents from Content headings, same fields and drop zones as Article."
     - ID: "ebb1653d-425e-4794-bb20-735adb953cba"
       Hint: MetaTitle
-      Value: Headings that navigate — Showcase
+      Value: Headings That Navigate — Prospera

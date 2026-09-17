@@ -1,18 +1,14 @@
----
+﻿---
 ID: "9d9badbe-db96-439e-82b3-36a3e5f3cc82"
 Parent: "0170a4fb-50fa-4cdc-832f-d9b752a93296"
 Template: "0170a4fb-50fa-4cdc-832f-d9b752a93296"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-textarea-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-textarea-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f11c94e9-cbe4-4cd1-a9c3-9b2daf8eb24f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "249be232-3ee6-4b07-b8ff-9d19ce95eb8e"
 Parent: "58e3842f-a999-494e-9cc9-59878797a180"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/HighlightTone/destructive"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "highlight-tone@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: destructive
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "6cf0b410-cbdf-46d8-9bb3-082c18550c95"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "cdac8453-eeab-4b89-bfa5-ca2fd991de8f"
 Parent: "976447d2-9c24-4d14-ae47-167fbcb8de37"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/SizeScale/sm"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "size-scale@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: sm
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "33a789bc-7107-4eb2-97ef-1b415092de2c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

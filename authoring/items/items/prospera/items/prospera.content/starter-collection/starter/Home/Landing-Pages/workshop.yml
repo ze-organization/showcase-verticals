@@ -1,9 +1,8 @@
----
+﻿---
 ID: "77c3219e-9b08-49c8-b580-cb123f1aca92"
 Parent: "f0431228-afb3-4496-8951-bff1e73f8d7e"
 Template: "2476972e-b68f-4589-81b0-231550d60e6f"
 Path: "/sitecore/content/starter-collection/starter/Home/Landing-Pages/workshop"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -15,9 +14,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{F94FF91B-8FAC-4FC6-9007-2D11198C1375}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-workshop@1"
 - ID: "6a098f09-1266-41be-a0cc-a57138e25855"
   Hint: Image
   Value: |
@@ -26,7 +22,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d90e9752-b5fc-48df-8c4c-b0cbf4e12c38"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

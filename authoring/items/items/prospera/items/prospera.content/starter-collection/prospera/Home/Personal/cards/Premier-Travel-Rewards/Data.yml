@@ -1,0 +1,52 @@
+﻿---
+ID: "34cfaa47-4a92-4121-85be-1ef20c8463ac"
+Parent: "404ca283-c06a-487d-b05e-ad1f5abbba13"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/Premier-Travel-Rewards/Data"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A9FB99C4-6E31-5714-9293-8F6B2CCC03C7}
+    {5C0D5F4C-B7E7-428D-B156-016964AB8C41}
+    {4B104D00-F5B4-474E-A869-5D2114CB9DB0}
+    {9B855361-0823-4556-931F-C9D859841147}
+    {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
+    {A676167B-B6D6-4990-8C7C-B09A1984D0E5}
+    {5B847AA9-A675-4774-B7EF-818A69F8C5EE}
+    {0513F0BE-18F8-46E2-8DF2-4EF7D35B088D}
+    {B0F18424-5404-472E-989E-902A437A5135}
+    {A3B2B7CF-5E78-493F-AE57-583246702B7C}
+    {788427F8-DA26-49DA-8333-AA6204677D18}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ff405f89-c8d3-4128-a655-bbf943bc35ff"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T193158Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8741430-3c6c-461e-aa7a-6fbd934507c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T150018Z

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "3c88d8b9-a7cb-4f13-8380-1fa25cf7e0d9"
 Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
 Template: "63e85c54-5c8e-4edb-aa7f-563572575cc5"
 Path: "/sitecore/content/starter-collection/coreworks/Data/nav-item-resources"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "nav-item-resources@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "255665c2-ffe8-49f1-86d4-91ff60898fb7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

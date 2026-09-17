@@ -1,18 +1,14 @@
----
+﻿---
 ID: "533bc2ec-de3a-4213-8608-31645138de5c"
 Parent: "3596e184-8667-4383-ad0f-5a9ac1cc8802"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/consent-banner/Modal"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "consent-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "819ee3ed-7a4c-491c-88ef-30c7f118ebec"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

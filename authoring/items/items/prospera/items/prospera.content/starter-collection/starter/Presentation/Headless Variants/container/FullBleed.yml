@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ae3209cc-0fce-40d9-8341-01f7c5170391"
 Parent: "e84a2528-35dc-4b61-a0d5-dabc4cc776da"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/container/FullBleed"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: container@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "46c6ba4e-fc26-40d7-8ca0-31c9a0ac4556"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5930435a-e84c-4647-811a-d8abe0f6c6d6"
 Parent: "b94398fb-32ee-477f-9d05-7b69a88ca301"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/features-list-grid"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5d4b4655-8045-4d73-8410-8b8dc0c828f4"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

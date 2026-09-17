@@ -1,13 +1,9 @@
----
+﻿---
 ID: "84ca1bc7-205a-49e1-9e42-8f3311c30385"
 Parent: "9040af08-a432-4630-853a-98c689d946de"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/PromoImagePosition/below"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "promo-image-position@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: below
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "246b81b9-e53a-457c-ad0b-2ddf79223753"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

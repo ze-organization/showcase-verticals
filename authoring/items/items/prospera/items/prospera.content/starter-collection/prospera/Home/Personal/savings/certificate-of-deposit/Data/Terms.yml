@@ -1,21 +1,17 @@
----
+﻿---
 ID: "de5cc565-a7c1-466a-bb40-6b8e519e0cc3"
 Parent: "8cfdc9c3-e00f-4aac-9ee5-3bc40406a628"
 Template: "9b855361-0823-4556-931f-c9d859841147"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/certificate-of-deposit/Data/Terms"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-cd@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f3217c91-35a5-4fd8-a18e-70163fd7ca60"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

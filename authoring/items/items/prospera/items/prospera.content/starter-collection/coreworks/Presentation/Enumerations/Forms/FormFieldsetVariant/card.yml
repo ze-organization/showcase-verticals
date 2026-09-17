@@ -1,13 +1,9 @@
----
+﻿---
 ID: "ec85b127-e0e4-4cd1-aa2e-5b6b553c1ee5"
 Parent: "87a62f23-98da-4d77-8feb-7dbe10d206ef"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Forms/FormFieldsetVariant/card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-fieldset-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: card
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "234a43d0-6343-40ab-ae25-ac01c7bb8bea"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

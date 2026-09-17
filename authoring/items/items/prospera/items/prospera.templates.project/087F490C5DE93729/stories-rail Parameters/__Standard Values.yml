@@ -1,0 +1,62 @@
+﻿---
+ID: "f4d43821-dbca-4f7a-867e-b0e2b4ec754d"
+Parent: "01ffffb1-b512-4033-acc4-a12ef62cc64c"
+Template: "01ffffb1-b512-4033-acc4-a12ef62cc64c"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/stories-rail Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b26012a7-191f-43f1-a13a-885ee5fc0a29"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0939514d-53f4-49dc-a37b-1a074827211a"
+      Hint: PaddingY
+      Value: "{845C2122-E1C7-4D34-A4DB-42A9F62AF306}"
+    - ID: "108a1e83-9ed9-4cab-8536-3587b4f33b29"
+      Hint: RingColorScheme
+      Value: "{2C3997B3-E927-42FD-8336-298ED8850E70}"
+    - ID: "23547227-3601-4857-a7a5-b634aa8a89d3"
+      Hint: BackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T020906Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "630d0ae4-a06c-4bdd-b279-f0f367427a82"
+      Hint: HeadingLayout
+      Value: "{044F35F6-F95F-474D-9C9A-2FD35000E3BE}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "182c6954-bcf8-4d14-b66b-1e9a004c7f2a"
+    - ID: "a3b3e21c-5e25-400f-8222-d25cbaddee4e"
+      Hint: MaxWidth
+      Value: "{1CD27043-2AE3-4B1B-8FBF-D13F0F945700}"
+    - ID: "aada676a-1a6b-4c3f-b610-daa48d53bfe5"
+      Hint: ThumbSize
+      Value: "{0DC58C8B-A193-49D7-87CA-88676D2D6133}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "bde098da-6547-4764-98f3-d27f3a4f164b"
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "be159178-ef5b-4231-9289-c8ce3f24730e"
+      Hint: HeadingSize
+      Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T020906Z
+    - ID: "e935dbf8-e77d-4434-a9b8-584e41e93ffd"
+      Hint: OverlapTop
+      Value: "{9A7DB544-D761-4773-AB9B-1F049C563CEA}"

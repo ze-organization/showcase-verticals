@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f770b22d-b9b7-4d52-b8f1-57b82d00e0f0"
 Parent: "4dd9e34e-61f1-4842-a73d-0ec16f85b441"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/starter/Home/Locations/North-America/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -17,14 +16,11 @@ SharedFields:
     {8CBA3388-5944-43D2-8827-02704751704C}
     {55FB8DE7-3CF6-5B9F-A49D-E5394E7D5896}
     {10A3D647-7CDA-49DA-9789-C55649A9B40C}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-north-america@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "01f514be-d1d0-481f-91b4-6e42fbee4bcd"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

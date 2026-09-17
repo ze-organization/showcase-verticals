@@ -1,9 +1,8 @@
----
+﻿---
 ID: "57a1389e-2f54-4aa9-828e-6bcef40002d6"
 Parent: "1897c34f-1cd1-4545-abeb-0ea21c6c6805"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/rewards-visa/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -19,14 +18,11 @@ SharedFields:
     {B0F18424-5404-472E-989E-902A437A5135}
     {A3B2B7CF-5E78-493F-AE57-583246702B7C}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards-rewards-visa@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ff405f89-c8d3-4128-a655-bbf943bc35ff"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "60a3b6a8-f0b7-421b-842b-c4591aea1e90"
 Parent: "4c2e14b6-9308-42a7-bf31-236c6e868416"
 Template: "a676167b-b6d6-4990-8c7c-b09a1984d0e5"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/budget-planner/Data/Pieces"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking-budget-planner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "507361ff-8e3d-46b8-9fb6-dff4a124ffbf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

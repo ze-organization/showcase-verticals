@@ -1,9 +1,8 @@
----
+﻿---
 ID: "477ff4cf-dd54-4745-ab79-4188f35efaec"
 Parent: "45359b13-4002-4ca3-bd39-d16f61c3a405"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/heros-and-promos/hero-carousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,9 +13,6 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/5ded62b6c19c4eb8a48260f35ed174ee.ashx?thn=1&db=master&v=2"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "hero-carousel@1"
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{D4C3E831-55B4-4E87-B5C0-B135090E465D}"
@@ -27,7 +23,7 @@ SharedFields:
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true&UsePlaceholderDatasourceContext=true
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

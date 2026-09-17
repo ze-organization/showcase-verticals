@@ -1,25 +1,21 @@
----
+﻿---
 ID: "d89f0612-74fa-4a2f-93fb-c81e06fddfa3"
 Parent: "eb67ecec-0e39-4b5c-8a2a-71c58c68e472"
 Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/Data/CardLaunch"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-pages@1"
 - ID: "c4b4278a-c86c-400a-aefe-5c5bfaec9014"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Desk lamp on a studio table" />
+    <image mediaid="4a1eda23-0526-4f17-8cf1-b3aed7fd6d95" alt="Virtual card for a vendor" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f9ceb16a-f0d3-443a-8048-655facbde377"
+  Value: "19cc1c74-43fa-4d8d-b99e-1c5b889a7767"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -41,18 +37,18 @@ Languages:
       Value: <p>Issue a number for a vendor without sharing the Rewards Visa. Under Personal.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d95cb44-f08b-47d4-82e1-6e69b0cfbbeb"
+      Value: "fcc4d728-7616-45a3-97a7-0e06581643d5"
     - ID: "a832315c-75e1-4920-8831-0f44c6daaaa8"
       Hint: Title
       Value: Virtual cards
     - ID: "ba63fec8-8a4d-485b-86c2-4a054ae9c794"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Products/virtual-cards" text="View landing" />
+        <link linktype="internal" id="{1897C34F-1CD1-4545-ABEB-0EA21C6C6805}" anchor="" querystring="" target="" class="" text="View landing" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012954Z
+      Value: 20260917T041612Z

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "eba844cb-6dff-42eb-b065-1b10273883c3"
 Parent: "d43eb014-d528-4747-bc22-c67703e8ade1"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
 Path: "/sitecore/content/starter-collection/prospera/Dictionary/AiChatUiLabelsComposer/ai-chat-dictate-hint"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-ui-labels-composer@1"
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key
   Value: "ai-chat-dictate-hint"
@@ -559,7 +555,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T224708Z
-- Language: "da"
+- Language: da
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase
@@ -783,7 +779,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T224709Z
-- Language: "en"
+- Language: en
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase

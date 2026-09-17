@@ -1,21 +1,17 @@
----
+﻿---
 ID: "d90f6dee-4fc3-4276-8ed9-9c014959d7dc"
 Parent: "1a21ca50-44a3-4e8a-8e6a-488d7a64fc1e"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Components/AI Chat/AIChatLauncherSize"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: default
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-launcher-size@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "30a4f995-d20e-46ac-adea-0cdb30df4527"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "29b1f3fb-a958-46cd-9465-6f99333fa435"
 Parent: "944e27d1-d29d-4892-b5bb-01e25edcc8a9"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Graphics/IconName/id-card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "icon-name@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "id-card"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "ac234a0a-a67c-49f2-a7d3-e7ad9fc4b0bf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

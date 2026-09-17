@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ec5e1bf7-b241-426c-a5d4-0a2a81050528"
 Parent: "e35c5e39-d14c-49d9-b659-693548e7aa03"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/countdown-banner/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "countdown-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c9589cf2-190d-4bbf-a708-c1c7c047c4dd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

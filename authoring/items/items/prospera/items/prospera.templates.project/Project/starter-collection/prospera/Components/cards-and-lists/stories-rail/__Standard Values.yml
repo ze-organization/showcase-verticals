@@ -1,21 +1,17 @@
----
+﻿---
 ID: "888c4cbd-3f17-49d9-a598-264eb4563fbf"
 Parent: "b9e26fd3-4db1-433f-9dc1-90a7343c6198"
 Template: "b9e26fd3-4db1-433f-9dc1-90a7343c6198"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/stories-rail/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{B0699975-C2C3-451C-93DB-1AF8929450D0}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stories-rail@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b3f7b27c-ba34-4cc0-b9ad-ac843e28a2b2"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

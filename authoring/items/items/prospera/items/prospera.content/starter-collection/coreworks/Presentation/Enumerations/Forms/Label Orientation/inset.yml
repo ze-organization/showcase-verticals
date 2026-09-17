@@ -1,13 +1,9 @@
----
+﻿---
 ID: "b2f25c01-bf3e-4a87-8f9d-c9dd8c967070"
 Parent: "4b1307be-4d4c-45b4-b09e-b140da08b5a2"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Forms/Label Orientation/inset"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "label-orientation@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: inset
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "1b6da72d-132d-480b-982d-811451349256"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

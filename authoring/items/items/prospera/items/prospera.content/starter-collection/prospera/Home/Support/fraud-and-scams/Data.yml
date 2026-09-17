@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f5a0e450-4ff0-47c6-9e8b-74f5bdeb56ef"
 Parent: "58c7bff4-f825-4125-83d9-6216adaafd31"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/fraud-and-scams/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -14,14 +13,11 @@ SharedFields:
     {5B847AA9-A675-4774-B7EF-818A69F8C5EE}
     {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-fraud-and-scams@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b0a9796a-75eb-4e4a-b14d-df0f9dc4718b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

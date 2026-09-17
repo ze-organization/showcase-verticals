@@ -1,9 +1,8 @@
----
+﻿---
 ID: "db48f7f5-de24-4e62-9fb4-963ff6b645dc"
 Parent: "8424dfd1-54d2-4890-9d90-55ef9b3fcc85"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/navigation/link-list"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,9 +13,6 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{8D2F3FA8-6E32-4166-8B3C-967F9A9F1C6A}|{70AC75A7-3B44-4E1A-88CD-72940531D33B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "link-list@1"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -30,7 +26,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "3da0eda2-d442-4d0f-82cf-585d8e25d3af"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

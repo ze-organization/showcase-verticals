@@ -1,13 +1,9 @@
----
+﻿---
 ID: "4e213fd9-19f6-452d-b4c3-18e4457154bf"
 Parent: "e2f917fe-7292-425d-94d2-c731b84bd668"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Forms/Form Field Width/full"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-field-width@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: full
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b4971903-92da-4d6d-84a0-94c087dacebc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

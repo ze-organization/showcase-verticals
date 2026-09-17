@@ -1,21 +1,17 @@
----
+﻿---
 ID: "15e5c785-f431-4670-8d0d-3447e0f53d9b"
 Parent: "a676167b-b6d6-4990-8c7c-b09a1984d0e5"
 Template: "a676167b-b6d6-4990-8c7c-b09a1984d0e5"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/features-list-grid/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{A3B2B7CF-5E78-493F-AE57-583246702B7C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8c670e36-5cc5-4a81-a6c3-b55e6ec95257"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -43,7 +39,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T164153Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -71,7 +67,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T164153Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -99,7 +95,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T164153Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -127,7 +123,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T014524Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -155,7 +151,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T164153Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -183,7 +179,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T164153Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -211,7 +207,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260916T164153Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

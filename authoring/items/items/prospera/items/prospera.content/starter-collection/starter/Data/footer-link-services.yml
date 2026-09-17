@@ -1,21 +1,17 @@
----
+﻿---
 ID: "c2694081-a834-4840-9cde-c794f3ac59d9"
 Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/starter/Data/footer-link-services"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-link-services@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a41f98f2-e506-47f9-94ea-18f96707fa32"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

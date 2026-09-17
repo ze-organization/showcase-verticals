@@ -1,25 +1,21 @@
----
+﻿---
 ID: "3aecffc4-162d-4624-9473-a67182805081"
 Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/SlideJoint"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/card-joint-debit.png" alt="Two Prospera debit cards on a table for joint owners" />
+    <image mediaid="76d81e3f-9b2c-41e3-b767-51847a287337" alt="Navy joint debit card" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f136f776-d026-4daa-bf2c-4748c9d3e75c"
+  Value: "1d2e0725-1f21-42bb-b0b9-248be2ce1fae"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Two adults, one checking product. Both apply; both see the balance.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "871b3385-fc30-4b89-a507-723c4a20efa2"
+      Value: "3174bd8d-b669-4a1e-bbb5-b73ef40248f6"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Joint checking
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193249Z
+      Value: 20260917T162554Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/checking/joint" text="Joint checking" />
+        <link linktype="internal" id="{9CBDF70B-7F4E-4BF6-ABED-382E4F8D7228}" anchor="" querystring="" target="" class="" text="Joint checking" title="" />

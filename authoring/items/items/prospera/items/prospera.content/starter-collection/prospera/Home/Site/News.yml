@@ -1,9 +1,8 @@
----
+﻿---
 ID: "7cc675d3-97d8-4145-ade9-08cec6843eca"
 Parent: "42118861-8e23-499c-bf18-f1bbd4397bd1"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -14,14 +13,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "43b1b269-4704-4975-b8f3-70e3e3a73f79"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -134,19 +130,19 @@ Languages:
       Value: 0.8
     - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
-      Value: Sample news pages for the starter site.
+      Value: Sitecore authoring notes from the Prospera team, covering insert options, hub page design, and content types.
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: News
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c803ca45-3701-48b4-a853-518c8fbf4afa"
+      Value: "889b6ee0-392d-4d89-b567-13004b868778"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
     - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
-      Value: News — Showcase
+      Value: News — Prospera
     - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Desk
@@ -156,4 +152,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195535Z
+      Value: 20260917T163017Z

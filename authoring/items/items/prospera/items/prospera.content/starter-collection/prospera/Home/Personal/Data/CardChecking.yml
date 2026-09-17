@@ -1,16 +1,12 @@
----
+﻿---
 ID: "4c554343-89c8-4ed9-b059-121297d8a21b"
 Parent: "05ef4858-57ae-4258-8e71-76c611693840"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/Data/CardChecking"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: personal@1
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a88aa471-ada0-47d2-8e13-17e7457ec61d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Direct deposit, debit, and bill pay. Joint owners and youth debit sit on this product.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fac856a2-5748-43bb-ac57-d5d10ed1c158"
+      Value: "c1aa5dfa-8ff4-4667-84db-e3dda18cf4b8"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Everyday checking
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203109Z
+      Value: 20260917T162615Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/checking" text="See checking" />
+        <link linktype="internal" id="{8D797D5B-F575-4167-AACF-6646E40EF424}" anchor="" querystring="" target="" class="" text="See checking" title="" />

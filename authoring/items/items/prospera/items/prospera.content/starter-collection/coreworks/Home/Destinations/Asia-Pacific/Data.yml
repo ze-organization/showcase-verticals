@@ -1,9 +1,8 @@
----
+﻿---
 ID: "a2505b59-6baa-4970-b795-1305134f98cd"
 Parent: "1e7ae1f1-2a80-4a41-b236-be1006e22653"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Asia-Pacific/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {2F665441-6541-4322-B01C-38768FE0B2DC}
     {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
     {C5983974-FD79-4B87-84DC-0496923BCF42}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-region-asia-pacific@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8b0d00e3-1084-47ac-97a0-554fde864d37"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

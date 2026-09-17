@@ -1,9 +1,8 @@
----
+﻿---
 ID: "12d30382-b116-4aa9-921b-c61917dc90d5"
 Parent: "76149f5f-9c82-4df3-bbb5-2dc777c84246"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Support/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {A31E56DC-9DE9-4E0D-A920-4DB9CE4CE2A9}
     {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
     {48B0B5B6-F561-4009-A5D4-3A86DE6831AA}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: support@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c1a2e655-eed8-4640-95c0-014b19e61297"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

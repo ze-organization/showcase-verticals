@@ -1,18 +1,14 @@
----
+﻿---
 ID: "a82e57fc-efce-4937-bc33-2cae159c48b6"
 Parent: "b94398fb-32ee-477f-9d05-7b69a88ca301"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/locations-carousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "93934122-7693-4189-88c4-88f74e1e3a6a"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

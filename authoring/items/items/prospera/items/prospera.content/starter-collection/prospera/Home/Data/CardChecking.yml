@@ -1,16 +1,12 @@
----
+﻿---
 ID: "73ec00c5-4015-4695-a67e-583d419bfc7a"
 Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/CardChecking"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a03ef8a8-4983-481a-ac98-ad08b38cf97d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -30,6 +26,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021601Z
@@ -38,7 +37,7 @@ Languages:
       Value: <p>Direct deposit, debit, and bill pay. Sample monthly maintenance is $0 with qualifying activity.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5aaa1537-8642-49ac-8730-3bf4edea4fa0"
+      Value: "4d629332-66a4-4aae-a33d-cdda331894a0"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Everyday checking
@@ -48,8 +47,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203112Z
+      Value: 20260917T013101Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Products/Checking-and-Savings/everyday-checking" text="See checking" />
+        <link linktype="internal" id="8d797d5bf5754167aacf6646e40ef424" anchor="" querystring="" target="" class="" text="Explore Checking" title=""/>

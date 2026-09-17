@@ -1,13 +1,9 @@
----
+﻿---
 ID: "e9382f4e-9f43-4413-97eb-3975d2110eb2"
 Parent: "e65161e0-708f-4fbe-9da6-661e62b887ed"
 Template: "e65161e0-708f-4fbe-9da6-661e62b887ed"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/avatar-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "avatar-item@1"
 - ID: "43609dc7-ecf2-4c43-81ee-0dcd87476ece"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a293a0c6-2b5f-437a-b3d7-38895dcde51c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

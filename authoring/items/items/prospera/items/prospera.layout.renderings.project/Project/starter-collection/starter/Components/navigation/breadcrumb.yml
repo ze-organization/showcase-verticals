@@ -1,9 +1,8 @@
----
+﻿---
 ID: "1df68f67-de7e-4c22-a71d-620bb25f83d8"
 Parent: "15088a6d-12a2-40f8-9404-3ceba8d67716"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/navigation/breadcrumb"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/7fd8a4606879442cbce273a259f317cb.ashx?thn=1&db=master&v=2"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: breadcrumb@1
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{79409B22-4E2B-4D21-AB8A-69FFDA6010CC}"
@@ -21,7 +17,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "bfbf4604-a80a-4fd2-b4e8-8936db0c2bc7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

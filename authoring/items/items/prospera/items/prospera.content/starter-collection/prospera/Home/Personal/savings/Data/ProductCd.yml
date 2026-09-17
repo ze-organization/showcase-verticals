@@ -1,9 +1,8 @@
----
+﻿---
 ID: "ebd68604-436a-41e1-b45b-00a262536159"
 Parent: "fbf85376-7a35-4af5-a8ab-336a224e2ddc"
 Template: "590320c0-1570-423b-a9bd-7f7b414decfc"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data/ProductCd"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,15 +10,12 @@ SharedFields:
 - ID: "1efa60e6-a01d-4c02-82bc-c07bf453dd61"
   Hint: Image1
   Value: |
-    <image mediapath="/theme-photos/product-cd.jpg" alt="Twelve-month certificate folder on a desk beside a circled maturity date" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings@1"
+    <image mediaid="8da50b19-ee59-427b-9838-36f1333041bc" alt="Certificate folder at a table" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "01c06940-2516-40f5-918e-6ab7072e2afa"
+  Value: "d5817d2c-19fb-4ab6-b0f6-08becf2d2e91"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -44,7 +40,7 @@ Languages:
       Value: Certificate of deposit
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1618d1b2-d2a9-4e80-b6da-da0bc2b44786"
+      Value: "9307b7cf-c09d-4eee-8bd7-1c10ee2e9d4f"
     - ID: "a0b1cbad-9910-4704-9f3f-8f15e28f711d"
       Hint: Sku
       Value: "CD-12"
@@ -54,11 +50,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193352Z
+      Value: 20260917T162354Z
     - ID: "de8117cc-bf50-4b44-a5bf-b74f71e76249"
       Hint: ShortDescription
       Value: "Illustrative 3.85% APY on a 12-month term. Early withdrawal reduces earnings."
     - ID: "e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/savings/certificate-of-deposit" text="See CDs" />
+        <link linktype="internal" id="{4A3C54AA-D5AE-405B-B488-5A3B0C176FA7}" anchor="" querystring="" target="" class="" text="See CDs" title="" />

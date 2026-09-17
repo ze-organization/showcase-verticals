@@ -1,21 +1,17 @@
----
+﻿---
 ID: "c54fa7cf-cd8a-499a-a517-a0a15dca18be"
 Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
 Template: "c0638ac2-175c-4913-af92-a5876009f803"
 Path: "/sitecore/content/starter-collection/starter/Data/Products"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e6c32032-3144-4c6e-8c57-8b2a3a1fedd4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

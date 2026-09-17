@@ -1,16 +1,12 @@
----
+﻿---
 ID: "3313fa5a-f592-4a51-9588-80525b9b82b3"
 Parent: "b4dc4bed-cf15-4b55-b175-67d911697bc5"
 Template: "0513f0be-18f8-46e2-8df2-4ef7d35b088d"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/high-yield/Data/MarkFdic"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-high-yield@1"
 - ID: "40333ae0-57fd-4e3d-9f24-a67b6dcac7b3"
   Hint: Logo
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "58b82c65-5c33-4487-8c4f-13b10f09e9df"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

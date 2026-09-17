@@ -1,18 +1,14 @@
----
+﻿---
 ID: "736b53b6-45d0-41ba-bf3f-80610c48ef37"
 Parent: "87ea2348-18fc-46e1-93ed-3eca1304df9d"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/Matrix"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "219cc2b2-3a72-47a0-95e6-1d47337e7ab5"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

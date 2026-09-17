@@ -1,13 +1,9 @@
----
+﻿---
 ID: "74dafee2-6f71-418c-8185-c9c789ce90a2"
 Parent: "70b34059-16d0-47fe-add5-cd3635756b37"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Card/ColorBand/accent"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "color-band@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: accent
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "cccf9a66-0684-4bc6-a0d3-70eb36232228"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

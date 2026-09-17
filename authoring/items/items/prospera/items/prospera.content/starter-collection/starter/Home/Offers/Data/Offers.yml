@@ -1,21 +1,17 @@
----
+﻿---
 ID: "7fb34e7b-9b20-4070-8991-aa66fef30c52"
 Parent: "20d00d39-0d12-4f96-b9b4-3c6d3c205ba0"
 Template: "c81237ad-d2bc-4794-8bbd-6c8ddb5ce916"
 Path: "/sitecore/content/starter-collection/starter/Home/Offers/Data/Offers"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: offers@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "48539e29-46e7-4edb-b404-6597d664a379"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "da551e11-e57a-472c-9a57-88be6d8b26de"
 Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
 Template: "22c2d37e-dc4e-4f41-a56b-f95dc923606d"
 Path: "/sitecore/content/starter-collection/coreworks/Data/Destinations"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f15bdde4-a246-42c6-8c5f-9a7cfda82718"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

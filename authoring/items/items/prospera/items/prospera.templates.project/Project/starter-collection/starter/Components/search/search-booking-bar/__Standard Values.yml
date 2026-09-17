@@ -1,18 +1,14 @@
----
+﻿---
 ID: "7f730136-66f2-40b9-8d94-e57f6c8ebd1d"
 Parent: "2e977bf0-debc-46b1-8695-cbb27a89cb85"
 Template: "2e977bf0-debc-46b1-8695-cbb27a89cb85"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/search-booking-bar/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-booking-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1f792211-c377-4629-91f4-98f6c2c5b114"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -74,7 +70,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151953Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -105,7 +101,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222300Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -167,7 +163,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151953Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -198,7 +194,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222258Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -260,7 +256,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151953Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -322,7 +318,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151954Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -353,7 +349,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222300Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3c07293f-d601-4e22-8b57-5c19589748d2"
 Parent: "f0b722fa-5960-4b97-be10-d9e95ecb014b"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Search/ResultsView/list"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "results-view@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: list
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "deb917de-06e9-43f7-b3e8-d17511d9e994"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

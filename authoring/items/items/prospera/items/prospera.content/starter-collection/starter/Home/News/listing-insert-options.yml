@@ -1,9 +1,8 @@
----
+﻿---
 ID: "df5b9540-792e-4ad7-b1d0-4558a12f4a02"
 Parent: "6d319c5a-e3b0-4fec-922a-abf354feb555"
 Template: "ba3a6fc8-f669-46e9-8a24-0789dac704b7"
 Path: "/sitecore/content/starter-collection/starter/Home/News/listing-insert-options"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{F0DF0297-115E-5A5B-AA25-FB1795464A6C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing-insert@1"
 - ID: "9d42e06e-fa7f-4074-a710-967a3ec57909"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d17ee9c1-28a5-410b-a0c6-932928c02762"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

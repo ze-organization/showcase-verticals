@@ -1,25 +1,21 @@
----
+﻿---
 ID: "17e9e1fc-f33e-4a1e-a94e-bea9e65466e7"
 Parent: "57397e0b-2312-4755-bc10-4d4faf08d6ac"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/business-account/Data/CardTreasury"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "business-account@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Business owner and commercial banker reviewing a plan" />
+    <image mediaid="2f9a14cc-4127-4fa7-adbd-cfae0ad27c27" alt="ACH wires liquidity" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "3e0b0b37-0464-4469-97c3-8ec4c57b1d6c"
+  Value: "04a7dbc5-6d29-4dd6-b4f5-ec76eb10f6fa"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>ACH, wires, and liquidity reporting for a controller who already closes the month.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cff1101a-ddd2-4cd0-ab09-05f67d12a5a4"
+      Value: "74f4d69d-43aa-4080-8777-03aafa5c7b58"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Treasury
@@ -48,7 +44,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180818Z
+      Value: 20260917T041551Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |

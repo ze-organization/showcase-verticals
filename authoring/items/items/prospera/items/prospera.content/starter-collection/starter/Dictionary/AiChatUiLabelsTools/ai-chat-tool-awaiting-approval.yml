@@ -1,13 +1,9 @@
----
+﻿---
 ID: "857c4ccc-d6a7-4053-bce2-568447b9cbed"
 Parent: "ce099087-6f62-4d3f-9839-af322fea99c0"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
 Path: "/sitecore/content/starter-collection/starter/Dictionary/AiChatUiLabelsTools/ai-chat-tool-awaiting-approval"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-ui-labels-tools@1"
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key
   Value: "ai-chat-tool-awaiting-approval"
@@ -559,7 +555,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T230222Z
-- Language: "da"
+- Language: da
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase
@@ -783,7 +779,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T230223Z
-- Language: "en"
+- Language: en
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase

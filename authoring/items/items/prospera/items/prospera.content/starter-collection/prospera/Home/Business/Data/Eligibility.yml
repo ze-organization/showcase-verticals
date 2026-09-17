@@ -1,21 +1,17 @@
----
+﻿---
 ID: "0f0a3cf6-0753-46db-945f-97c28022c45d"
 Parent: "946cdb23-a508-4a62-bcc3-793d24af9218"
 Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/Data/Eligibility"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: business@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "979308c8-7636-4ffc-983b-186ecdb9c1f9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

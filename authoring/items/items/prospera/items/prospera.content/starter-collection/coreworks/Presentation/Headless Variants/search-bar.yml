@@ -1,18 +1,14 @@
----
+﻿---
 ID: "c29435d4-8f4f-4d61-bb25-c85bfaafe83f"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/search-bar"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e00017d2-458a-43ae-b472-c16ad4ab134a"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5ac041c1-3024-4e85-8768-380b6e432a8e"
 Parent: "5a5371b2-3335-4986-a4ab-cacb69bb93c5"
 Template: "5a5371b2-3335-4986-a4ab-cacb69bb93c5"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/landing-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "088209c9-1343-4449-9068-2e2b79a8a84e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

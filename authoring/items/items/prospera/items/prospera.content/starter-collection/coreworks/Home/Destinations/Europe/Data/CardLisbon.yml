@@ -1,16 +1,12 @@
----
+﻿---
 ID: "c4b2aed6-4e5e-477a-951f-390dcac1bf96"
 Parent: "a723d816-ff9c-4aad-b41f-456b37c85d21"
 Template: "c5983974-fd79-4b87-84dc-0496923bcf42"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Europe/Data/CardLisbon"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-region-europe@1"
 - ID: "bc687277-431e-48bc-97d1-cd23cf8eaf06"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "f87e090a-7ec8-439d-a719-182fedda919b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

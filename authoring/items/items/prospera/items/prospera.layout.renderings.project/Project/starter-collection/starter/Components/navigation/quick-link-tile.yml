@@ -1,9 +1,8 @@
----
+﻿---
 ID: "326eac3b-46f5-4724-a0ed-90fe35bb573e"
 Parent: "15088a6d-12a2-40f8-9404-3ceba8d67716"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/navigation/quick-link-tile"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,14 +13,11 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{F975497B-0072-449D-8FC8-9EAE3658C8E3}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "quick-link-tile@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6d31c059-d856-4fc1-a2d5-8f0bf3be752d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

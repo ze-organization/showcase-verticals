@@ -1,9 +1,8 @@
----
+﻿---
 ID: "064f8bd6-fd6d-4946-aebf-25ce1bd67287"
 Parent: "cb29cf02-9d39-4cc0-af50-062b94f939d1"
 Template: "7c5fa21d-64d5-48a0-821a-01878a69207d"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Events/authoring-workshop"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{022561BA-23E8-4359-8930-98F4D6E9ACB4}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "event-authoring-workshop@1"
 - ID: "800904c8-f829-48d5-809f-4567bd504bcb"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "bb9c0c20-4118-447b-bbf7-b37f976fed04"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

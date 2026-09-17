@@ -1,16 +1,12 @@
----
+﻿---
 ID: "2ef96e2e-451e-4cc2-af0a-ff916153cdca"
 Parent: "3d98345e-d460-4438-9360-4446c7fd70e9"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Articles/Data/CardComposablePages"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "92e5db53-5903-46c4-82e0-df7a158be0b5"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{E31ECF9D-FDB9-4163-AF1B-635E0F6FC225}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -52,7 +48,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-04-02T09:00:00Z"
+      Value: "04/02/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: Composable pages without a template explosion

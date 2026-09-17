@@ -1,21 +1,17 @@
----
+﻿---
 ID: "695151f9-a2d5-4177-b955-7a78f42efc8f"
 Parent: "0f1ef3fe-4350-483c-be92-545a7259b671"
 Template: "d17d9468-ee1e-4d38-931d-3faae56ff4f1"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Offers/Data/CardWorkshop"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: offers@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6d92aae1-90c6-4b5f-9e35-25d48e1b7c1d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

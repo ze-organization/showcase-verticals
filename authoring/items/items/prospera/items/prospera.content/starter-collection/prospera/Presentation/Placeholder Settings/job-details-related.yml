@@ -1,13 +1,9 @@
----
+﻿---
 ID: "6cae209c-e389-44cd-ad75-ab75583b97eb"
 Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/job-details-related"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "job-details-related-{*}"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "62958961-7544-476d-b89f-735f99b7c0a4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

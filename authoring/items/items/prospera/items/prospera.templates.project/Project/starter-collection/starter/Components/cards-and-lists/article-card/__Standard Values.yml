@@ -1,18 +1,14 @@
----
+﻿---
 ID: "375b8baa-1234-4152-9d5b-c4d8453e2567"
 Parent: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/article-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5e1f0875-8192-4df5-b4be-b97be8322e2e"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151715Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214646Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151715Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -180,7 +176,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214645Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -236,7 +232,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151715Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -292,7 +288,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151715Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -320,7 +316,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214647Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

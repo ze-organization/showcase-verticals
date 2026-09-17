@@ -1,18 +1,14 @@
----
+﻿---
 ID: "8b6c4a4f-93e8-43b5-8f8f-cb4f4eb1f6cb"
 Parent: "9ade58c7-a896-4b33-9359-5f58e688e776"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/offer-card/Deal"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offer-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e1db7c1e-6970-4710-a4d1-7788df9cc5be"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

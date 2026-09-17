@@ -1,21 +1,17 @@
----
+﻿---
 ID: "6b397916-37f1-4547-a706-51554310b935"
 Parent: "313fd96b-9c90-42bf-af6f-e7d90f5f1eee"
 Template: "ca84d280-d61b-4ee5-9289-b79afc422e43"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/HeaderTwoTier/Data/HeaderCta"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "header-two-tier@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0871f4d2-607f-44cd-84c7-cfd6f3d4389c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

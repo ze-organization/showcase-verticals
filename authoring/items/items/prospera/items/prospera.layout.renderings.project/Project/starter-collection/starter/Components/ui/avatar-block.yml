@@ -1,9 +1,8 @@
----
+﻿---
 ID: "2228510e-34d4-46f6-a960-67677bdfa0d6"
 Parent: "bd31e716-085e-420b-844b-0fbfc166880d"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/ui/avatar-block"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,9 +13,6 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{71CF4F4E-4D1A-483E-BB41-5066BAE26501}|{F7EBB3F8-50CD-4197-B638-490BDE71CEBD}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "avatar-block@1"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -30,7 +26,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a0d1b5ed-f3d6-403f-8f25-80d6e846cad3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

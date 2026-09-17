@@ -1,21 +1,17 @@
----
+﻿---
 ID: "050e29ec-cf54-4a14-a615-ff40b4b24495"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/social"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-section@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "422dec32-7851-4431-97ff-6587493bcbde"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

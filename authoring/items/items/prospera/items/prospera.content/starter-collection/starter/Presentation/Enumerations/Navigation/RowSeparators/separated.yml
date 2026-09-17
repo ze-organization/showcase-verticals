@@ -1,13 +1,9 @@
----
+﻿---
 ID: "2e4383fa-a783-423b-a844-cacd36c37e26"
 Parent: "7699c772-2a52-4640-b23d-493abdad9929"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Navigation/RowSeparators/separated"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "row-separators@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: separated
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "7f8b38c6-d34a-42eb-bb03-491e5eab1055"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

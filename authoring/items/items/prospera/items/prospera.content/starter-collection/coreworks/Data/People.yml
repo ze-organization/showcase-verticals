@@ -1,21 +1,17 @@
----
+﻿---
 ID: "80c84330-870e-4589-96a0-a719c2408c14"
 Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
 Template: "1517c355-0509-48bc-ac71-9dedd06b1486"
 Path: "/sitecore/content/starter-collection/coreworks/Data/People"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "562ac40c-b559-49aa-aceb-46f8009e7317"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

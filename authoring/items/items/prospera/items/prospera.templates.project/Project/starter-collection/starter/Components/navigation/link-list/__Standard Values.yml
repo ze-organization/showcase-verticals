@@ -1,21 +1,17 @@
----
+﻿---
 ID: "19eb65c4-1573-4931-b79d-652ab032fd9c"
 Parent: "45cf5f20-ff8a-470c-850e-f7c1917e2070"
 Template: "45cf5f20-ff8a-470c-850e-f7c1917e2070"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/link-list/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{49B7115D-0044-44AB-8BE8-96F88F2F21DC}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "link-list@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "77954bb1-8615-4827-8fc3-6bfc9cb8bd64"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

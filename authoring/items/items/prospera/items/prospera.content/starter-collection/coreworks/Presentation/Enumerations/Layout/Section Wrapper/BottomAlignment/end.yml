@@ -1,13 +1,9 @@
----
+﻿---
 ID: "a90d86b6-d7c0-41b8-a2f0-2362024b5bbb"
 Parent: "6cec923b-5b3f-46d9-8e02-77fd4be1c4f5"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/Section Wrapper/BottomAlignment/end"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "bottom-alignment@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: end
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "aee7d842-e0c1-474f-8214-46c234830a41"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

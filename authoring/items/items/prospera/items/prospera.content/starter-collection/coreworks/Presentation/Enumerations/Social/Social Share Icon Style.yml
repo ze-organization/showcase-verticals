@@ -1,21 +1,17 @@
----
+﻿---
 ID: "f95c2e5d-c0d9-473e-a8f3-2ee4602abaf1"
 Parent: "2c7f0950-39a9-4210-918b-4c90669d3380"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Social/Social Share Icon Style"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: native
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-share-icon-style@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0d141597-aa67-4858-b049-2ed8cba0fa80"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "7246b8b9-8f92-467a-8e71-688627b3fd6d"
 Parent: "5bbd9736-3932-4f33-bb08-6a0a9e2090bb"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/DestinationCardVariant/compact"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: compact
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "52510cb1-0ea9-4759-b65f-5006db78c649"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

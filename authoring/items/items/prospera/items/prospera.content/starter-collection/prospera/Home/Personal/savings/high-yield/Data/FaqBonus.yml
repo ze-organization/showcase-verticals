@@ -1,21 +1,21 @@
----
+﻿---
 ID: "9be2fa94-9140-4b18-a408-1f796f94a6b5"
 Parent: "b4dc4bed-cf15-4b55-b175-67d911697bc5"
 Template: "788427f8-da26-49da-8333-aa6204677d18"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/high-yield/Data/FaqBonus"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-high-yield@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d9b92eda-ef18-4030-a330-02b549666afd"
+  Value: "4bdc2055-3b0d-44e9-8d86-11b06e7ef5fd"
+- ID: "f0a4c745-69d6-4aec-80c5-8bb1b056cdb4"
+  Hint: Image
+  Value: |
+    <image mediaid="30687ad3-43d5-428b-8f6e-333b32293814" alt="FAQ thumbnail" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -37,11 +37,11 @@ Languages:
       Value: 20260916T193422Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c787c4f6-618f-456f-aa75-ff5749f6322e"
+      Value: "e03ad731-4647-4ff1-8fcc-321ad84d5804"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193426Z
+      Value: 20260917T041611Z

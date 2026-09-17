@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4017495d-61ed-4734-b5d3-44bb279da41e"
 Parent: "8e1ec327-bba4-467d-8b5f-a72e76887c0a"
 Template: "8e1ec327-bba4-467d-8b5f-a72e76887c0a"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/Component Folders/header Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{58E1D951-1210-5995-9C02-6D4323AD81FE}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: header@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a82caa64-1965-47e8-b336-ffa88c21e77d"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

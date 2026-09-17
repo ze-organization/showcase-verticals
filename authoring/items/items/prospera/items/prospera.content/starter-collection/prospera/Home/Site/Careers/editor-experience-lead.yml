@@ -1,9 +1,8 @@
----
+﻿---
 ID: "47420549-40ed-48bb-9753-ddc2d4ac3139"
 Parent: "60ed0333-d1bb-4d37-ac52-a1f6368416d0"
 Template: "745eb7c5-d8b0-4a77-85bf-c0c0cbb60573"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/editor-experience-lead"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,14 +10,15 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{707917E1-BE3A-5C81-A20F-22C0BABFDD9F}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-editor-experience@1"
+- ID: "6a6caa93-bfb0-4e65-9132-d18b0d7b5746"
+  Hint: Image
+  Value: |
+    <image mediaid="9dd8afad-69e0-4557-8d53-0ce66cd909a7" alt="Editor at a desk" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "7dee58db-11b2-4e65-a695-57dad6b03fe8"
+  Value: "b5e9c716-31e2-48fa-8534-07da79f6fcf5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -49,7 +49,7 @@ Languages:
       Value: "Full-time"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "edb8d15d-78f7-4278-a5aa-00d07c933727"
+      Value: "09689c85-c4e1-4e90-8851-c4f33711fcfd"
     - ID: "93e4bd64-978b-4a8c-9122-cb137a518981"
       Hint: Eyebrow
       Value: Authoring
@@ -71,7 +71,7 @@ Languages:
       Value: Editor experience lead — Careers
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232902Z
+      Value: 20260917T041601Z
     - ID: "dec4b30a-2bf0-4ab1-a942-8e63f56fc50d"
       Hint: ShortDescription
       Value: Insert the type. Ask if the listing is wrong. Make that the default path.

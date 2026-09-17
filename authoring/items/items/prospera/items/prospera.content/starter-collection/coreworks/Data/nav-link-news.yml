@@ -1,21 +1,17 @@
----
+﻿---
 ID: "3f508a1b-a3d3-4a1d-9c4a-e8a5a5d50e75"
 Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/coreworks/Data/nav-link-news"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "nav-link-news@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "dbc38080-d940-4fb8-b72d-e9fb7caef4d5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

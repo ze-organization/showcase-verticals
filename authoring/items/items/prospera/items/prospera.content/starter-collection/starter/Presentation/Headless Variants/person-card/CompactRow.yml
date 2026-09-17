@@ -1,18 +1,14 @@
----
+﻿---
 ID: "af773855-f023-4de1-935e-8a1537b144e9"
 Parent: "3de18ca7-aac3-4f21-8ef9-83e0ecc21ec5"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/person-card/CompactRow"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "71c16a00-aa98-4ba2-8486-e0dfec3567f0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,16 +1,12 @@
----
+﻿---
 ID: "5609c6f3-7666-4656-b17a-dc5aac8d9163"
 Parent: "0b8dd440-a325-452a-bfdc-5341113380e5"
 Template: "c5983974-fd79-4b87-84dc-0496923bcf42"
 Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Data/CardOaxaca"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: destinations@1
 - ID: "bc687277-431e-48bc-97d1-cd23cf8eaf06"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "71d568de-a63e-48a2-baf6-fd3ac313fe8c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

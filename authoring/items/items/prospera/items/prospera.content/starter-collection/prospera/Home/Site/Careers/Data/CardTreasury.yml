@@ -1,25 +1,21 @@
----
+﻿---
 ID: "a2bdce5b-a1cb-47b9-8998-171c13227c8b"
 Parent: "c95ee311-56f4-4f25-9afc-4625d34e0b0a"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/Data/CardTreasury"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: careers@1
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Business owner and commercial banker" />
+    <image mediaid="8cfe4dd9-4c4a-4dcd-a385-93a2c7e6dfa3" alt="Treasury conversation" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d4594731-00b2-4f04-af50-5b2d28e6fd32"
+  Value: "78cd8acf-bc50-4d2c-85c0-b6bb8515d2f7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Payables, receivables, and liquidity for operators who already have a controller.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1094f690-d402-44d2-995f-1f940ef015f2"
+      Value: "a6524d53-9ef5-4181-9cda-952dee4677eb"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Treasury specialist
@@ -48,7 +44,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T021627Z
+      Value: 20260917T041600Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |

@@ -1,16 +1,12 @@
----
+﻿---
 ID: "7dc50e97-a8e2-4418-b444-7695b73d7299"
 Parent: "70ff22d1-9511-49e1-bb74-6b8c5245c54d"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Events/Data/CardWorkshop"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: events@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4f2b4436-cb72-4c9b-920e-8fadc63a120e"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{1938FA80-34B7-4285-9C9A-046CD40EA81B}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

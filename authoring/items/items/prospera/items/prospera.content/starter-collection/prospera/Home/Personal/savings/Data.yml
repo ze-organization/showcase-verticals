@@ -1,9 +1,8 @@
----
+﻿---
 ID: "fbf85376-7a35-4af5-a8ab-336a224e2ddc"
 Parent: "79ff18e3-7445-44a4-9969-c8fa72b7afb8"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -19,14 +18,11 @@ SharedFields:
     {590320C0-1570-423B-A9BD-7F7B414DECFC}
     {A3B2B7CF-5E78-493F-AE57-583246702B7C}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "99138780-6415-4810-9d16-a7599e5ef522"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "bd09c052-b0a9-4d75-9180-cb4cc640782c"
 Parent: "a15027f2-b4b7-47d1-994f-ee4be3956992"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/goals/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -14,14 +13,11 @@ SharedFields:
     {5B847AA9-A675-4774-B7EF-818A69F8C5EE}
     {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-goals@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7ee5fbc4-3ce9-4eba-aebd-0a5436e80237"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

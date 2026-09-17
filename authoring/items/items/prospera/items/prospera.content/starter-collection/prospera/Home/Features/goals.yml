@@ -1,21 +1,20 @@
----
+﻿---
 ID: "a15027f2-b4b7-47d1-994f-ee4be3956992"
 Parent: "39aa452b-1ad2-43fc-b289-b5b81a473c1e"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/goals"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-goals@1"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "6512f449-2328-4c63-8f10-5b01f90d042a"
+  Value: "c537ea3e-124e-494a-b236-5e2f2877f645"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -109,7 +108,7 @@ Languages:
       Value: goals
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ad4b80a3-91b3-4036-ab63-9db5bc6cee12"
+      Value: "c5d73a62-874f-49e8-b1bd-8e2861466707"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
@@ -125,4 +124,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180901Z
+      Value: 20260917T160802Z

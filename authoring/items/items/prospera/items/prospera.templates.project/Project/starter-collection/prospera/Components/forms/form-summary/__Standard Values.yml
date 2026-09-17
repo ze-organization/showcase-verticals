@@ -1,18 +1,14 @@
----
+﻿---
 ID: "a0258796-2fed-422c-9fab-5ff5b2485ceb"
 Parent: "dd52f806-b8c9-4c75-b5ba-75c3fee742e1"
 Template: "dd52f806-b8c9-4c75-b5ba-75c3fee742e1"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-summary/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-summary@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1b7abf32-9694-4d1b-879f-783495da2fcd"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

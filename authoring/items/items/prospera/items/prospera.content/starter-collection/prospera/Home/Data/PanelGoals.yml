@@ -1,25 +1,21 @@
----
+﻿---
 ID: "14068533-3b44-4441-a1f0-806266e36cc0"
 Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/PanelGoals"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/high-yield-hero.jpg" alt="Advisor and customer reviewing a personal savings framework booklet in a bank lounge" />
+    <image mediaid="cf23dbcd-5314-42d5-ae7e-1974ee9d7384" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "6fbcc86c-b8b4-4348-a217-f1ad62048eb7"
+  Value: "9ac4d7ed-2726-4ddf-ade5-70431c3ea82c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -30,12 +26,15 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T170138Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "97f19516-440a-4705-b457-cac42c809c9d"
+      Value: "416e5c8e-8996-43ae-a88a-d858c6601e6b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -43,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Products/Checking-and-Savings/high-yield-savings" text="See high-yield savings" />
+        <link linktype="internal" id="{3D6FB5BD-07B6-4256-9DA8-C8D6994E9359}" anchor="" querystring="" target="" class="" text="See high-yield savings" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: "<p>Savings goals sit inside high-yield savings. Name a balance for rent, a repair, or a down payment without opening a second product type. The APY on the savings page is illustrative.</p>"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T200854Z
+      Value: 20260917T013238Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: Label cash you intend to keep.

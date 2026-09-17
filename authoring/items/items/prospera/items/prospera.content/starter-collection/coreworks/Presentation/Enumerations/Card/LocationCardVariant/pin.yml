@@ -1,13 +1,9 @@
----
+﻿---
 ID: "bc48ac83-fb56-430f-b9bf-8332ae6c4663"
 Parent: "80f5ce99-dfc2-4064-a58f-951a71e91c94"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/LocationCardVariant/pin"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: pin
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "6da1b94a-3287-4d1f-b47c-8a6f4d01e7bf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

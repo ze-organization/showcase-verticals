@@ -1,18 +1,14 @@
----
+﻿---
 ID: "362fe670-5963-4501-84ca-0e6592f356a8"
 Parent: "00a9c380-d600-48e9-8822-be7b1e9cc609"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/stats-card/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stats-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "20129cd2-1a16-4ead-abf1-0e20ca31063d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

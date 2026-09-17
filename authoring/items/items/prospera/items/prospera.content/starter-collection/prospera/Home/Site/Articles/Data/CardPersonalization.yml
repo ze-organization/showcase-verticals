@@ -1,25 +1,21 @@
----
+﻿---
 ID: "f65cc69c-6a15-46a7-afbe-fe1828d3ab68"
 Parent: "1a05bacb-f7b2-4524-b24c-d0f7a462835a"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/Data/CardPersonalization"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "cf3811ff-077f-4827-b106-161e677a9bbe"
+  Value: "a59abe03-d3b0-4d89-8532-39a2c00b1392"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Row of related still-life variants" />
+    <image mediaid="cb3487d4-8afa-4d81-b3d1-e36952389f62" alt="Spending categories" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260903T211619Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "82510325-f378-46fb-b732-84f075beb01e"
+      Value: "34e7ae6e-2ab6-4056-9025-0a0fef556ac3"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: <p>Categories on everyday checking show where the month went. Pair with bill pay and the planner.</p>
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Articles/personalization-authors-can-run" text="Read article" />
+        <link linktype="internal" id="{E3588323-10BB-4996-A886-E482B79FBC07}" anchor="" querystring="" target="" class="" text="Read article" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-05-06T09:00:00Z"
+      Value: "05/06/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: Reading spending insights
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012934Z
+      Value: 20260917T050214Z

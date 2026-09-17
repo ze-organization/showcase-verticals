@@ -1,18 +1,14 @@
----
+﻿---
 ID: "987cc103-5314-4d25-82ca-4c206f9b3f21"
 Parent: "c8c01ef2-5518-442e-aa11-5bed5ccbdc32"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/products-carousel/WithPreviewBelow"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "products-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "53d69bbf-b776-40b0-bb2b-bd4df98c1a96"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

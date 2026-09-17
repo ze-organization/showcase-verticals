@@ -1,16 +1,12 @@
----
+﻿---
 ID: "15a4b240-fb23-4a51-95da-23952afe7f1e"
 Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/CardRidge"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ecaf4937-3840-4a86-a0d7-2f8edc40e281"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediapath="/theme/hub-03.jpg" alt="Inspection cell with a granite CMM table" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

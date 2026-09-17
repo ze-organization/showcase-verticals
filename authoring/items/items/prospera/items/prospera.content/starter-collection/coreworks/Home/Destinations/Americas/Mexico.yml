@@ -1,9 +1,8 @@
----
+﻿---
 ID: "9d4da011-3493-4e92-90fb-c2b84030ff63"
 Parent: "b2d9873a-09d1-4372-a79e-563cf3bb659c"
 Template: "eae24d74-7ee3-48fd-8180-d7f7b410a762"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Americas/Mexico"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C70D7A59-7256-4799-A961-4179E53D166B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-country-mexico@1"
 - ID: "7e19d2fb-6f7d-48b4-afa8-1a15b74ce7a8"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "2c8ec245-65a0-4206-a86a-9abc8977cc11"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

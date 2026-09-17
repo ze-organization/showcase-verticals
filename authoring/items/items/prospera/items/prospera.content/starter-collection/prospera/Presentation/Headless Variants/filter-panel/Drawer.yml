@@ -1,18 +1,14 @@
----
+﻿---
 ID: "a86d36b1-481c-40e7-a1d5-981a65c90d5c"
 Parent: "d3633885-26ef-43e3-a350-6371a6bc0344"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/filter-panel/Drawer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "filter-panel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b6662ad6-7d09-4d58-bf22-c74fe592d4db"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

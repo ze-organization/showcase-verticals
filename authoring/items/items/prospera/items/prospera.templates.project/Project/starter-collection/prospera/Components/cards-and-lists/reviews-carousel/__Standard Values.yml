@@ -1,21 +1,17 @@
----
+﻿---
 ID: "2f803ac9-98fa-4301-9b7f-1d20abc53c02"
 Parent: "c4a58b24-9743-48eb-8035-431c2602fb31"
 Template: "c4a58b24-9743-48eb-8035-431c2602fb31"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/reviews-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{92567043-5EF3-4184-B65E-F03F3B51628C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "reviews-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "44da2df2-c27b-4cd0-bdce-1a5dc029b0ec"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

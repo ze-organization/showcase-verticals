@@ -1,9 +1,8 @@
----
+﻿---
 ID: "bb15459f-7655-44a9-83cc-eaac164f8621"
 Parent: "080b14e7-167e-4b77-b9d9-adbf81eb11fa"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/ai/ai-chat-widget"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,9 +13,6 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{E898A9F8-DC63-4838-B965-5190E2129E1A}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-widget@1"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -33,7 +29,7 @@ SharedFields:
   Hint: OtherProperties
   Value: IsAutoDatasourceRendering=true
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

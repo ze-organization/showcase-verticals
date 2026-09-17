@@ -1,13 +1,9 @@
----
+﻿---
 ID: "11ac94f7-6bca-45e3-a015-bd55a75b0dc9"
 Parent: "f1fa45a2-0181-48c5-9383-dbc81bf19087"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Navigation/BreadcrumbSeparator/dot"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "breadcrumb-separator@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: dot
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a7201007-ec35-40b0-8fcf-3e5bdd57c84e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

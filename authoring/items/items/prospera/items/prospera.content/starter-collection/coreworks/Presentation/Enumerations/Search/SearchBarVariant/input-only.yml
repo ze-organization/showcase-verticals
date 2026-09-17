@@ -1,13 +1,9 @@
----
+﻿---
 ID: "55484490-53ad-49fe-a156-f8d4afc12df3"
 Parent: "50d4b4bc-0730-41a3-aede-36b0e18a533b"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Search/SearchBarVariant/input-only"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-bar-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "input-only"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "318bb4b7-a056-484e-bf76-2d99fee199d4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

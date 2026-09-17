@@ -1,21 +1,17 @@
----
+﻿---
 ID: "27a940a2-0358-4456-9109-b62c8445d984"
 Parent: "3df1b8df-d893-45ef-80f2-bc6771b2c551"
 Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
 Path: "/sitecore/content/starter-collection/starter/Home/Solutions/Data/Industries"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: solutions@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2d290483-4af4-4618-a3e0-c2b20bd26ddb"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

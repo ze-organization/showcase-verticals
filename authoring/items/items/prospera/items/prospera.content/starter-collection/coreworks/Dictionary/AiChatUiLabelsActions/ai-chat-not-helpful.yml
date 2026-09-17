@@ -1,13 +1,9 @@
----
+﻿---
 ID: "35413ebc-7711-4272-ace6-0543c1b0242f"
 Parent: "6f6ca0f6-2b85-474a-819d-33cf5a4e2a80"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
 Path: "/sitecore/content/starter-collection/coreworks/Dictionary/AiChatUiLabelsActions/ai-chat-not-helpful"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-ui-labels-actions@1"
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key
   Value: "ai-chat-not-helpful"
@@ -559,7 +555,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T224047Z
-- Language: "da"
+- Language: da
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase
@@ -783,7 +779,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T224048Z
-- Language: "en"
+- Language: en
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase

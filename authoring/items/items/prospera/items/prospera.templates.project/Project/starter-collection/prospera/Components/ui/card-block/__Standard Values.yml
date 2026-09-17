@@ -1,13 +1,9 @@
----
+﻿---
 ID: "8846458a-e3dc-452a-83a0-71d070b10da1"
 Parent: "2cc4d412-d9d5-4914-b40d-193613399a67"
 Template: "2cc4d412-d9d5-4914-b40d-193613399a67"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/card-block/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "card-block@1"
 - ID: "c7a1b045-2844-4935-bdb2-f1057738e1f7"
   Hint: Media
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "fef950e2-f26f-40fc-8ebb-90facc78e140"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

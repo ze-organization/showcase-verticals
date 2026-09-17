@@ -1,16 +1,12 @@
----
+﻿---
 ID: "7ca59762-0d64-40c6-99c3-802f5c97842e"
 Parent: "595328f5-9d60-49f4-8ac4-1f64552de58a"
 Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
 Path: "/sitecore/content/starter-collection/starter/Home/Solutions/Healthcare/Data/Cta"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "solutions-healthcare@1"
 - ID: "cef030a5-43cb-4f99-9a0a-e8d98b750e3e"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "06fd2742-b6c3-4fdd-b4e0-2eae33b06879"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

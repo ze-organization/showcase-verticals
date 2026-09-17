@@ -1,21 +1,17 @@
----
+﻿---
 ID: "94040736-4820-4e74-9c09-34aea1bc653f"
 Parent: "f5344306-0afa-4ee1-a4d3-7e9ac12d118b"
 Template: "4b104d00-f5b4-474e-a869-5d2114cb9db0"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/ira/Data/TrustMarks"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-ira@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "98930a5a-ad75-4a3b-91c7-77cf3dad4191"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

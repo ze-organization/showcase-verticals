@@ -1,13 +1,9 @@
----
+﻿---
 ID: "09d105cf-f7bc-4567-aec2-5c289b3e6be1"
 Parent: "70b34059-16d0-47fe-add5-cd3635756b37"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Card/ColorBand/info"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "color-band@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: info
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "28eb546c-c254-46da-bab3-28d07cab8ed5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

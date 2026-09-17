@@ -1,18 +1,14 @@
----
+﻿---
 ID: "156feb08-a0aa-4199-90e1-64e80549722e"
 Parent: "63dd07e3-d444-4299-b1c0-073cd770a346"
 Template: "63dd07e3-d444-4299-b1c0-073cd770a346"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-step/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-step@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8912b3d5-5cd6-40b2-a42d-d17745eff252"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "05fad60b-d7a5-4464-967c-1fbde43d46c1"
 Parent: "45df18da-0b5e-4d89-9fc8-88938b598eda"
 Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/ai"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/11d4148973cc42378d05bddc9895c65b.ashx?thn=1&db=master&v=2"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-section@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d9c5a903-04d8-43a6-b613-ae3340f9ed12"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

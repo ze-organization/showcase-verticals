@@ -1,21 +1,17 @@
----
+﻿---
 ID: "da1486c4-3ea4-4e92-aaf0-6b8b627bfc78"
 Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/prospera/Data/footer-link-support"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-link-support@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "57dae13a-28e4-4455-a36c-1282c4713b0c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -31,11 +27,11 @@ Languages:
       Value: 20260813T223506Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0727447f-b396-44f8-b736-9ee45a3881a5"
+      Value: "0ad5d8e3-c670-47e5-94cf-8dd1a152991a"
     - ID: "b5d4268a-857f-42e3-aead-31acc948e95b"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Support" text="Help" />
+        <link linktype="internal" id="{74370ECC-44CD-407C-A49F-816ACBB99E48}" anchor="" querystring="" target="" class="" text="Help" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -45,4 +41,4 @@ Languages:
       Value: Help
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T021349Z
+      Value: 20260917T161938Z

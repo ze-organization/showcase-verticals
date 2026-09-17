@@ -1,21 +1,17 @@
----
+﻿---
 ID: "80eace72-257b-4e9c-ae6b-07d3fc1d62a9"
 Parent: "1228ea41-9412-4c2e-adcb-dff77f8b4b3f"
 Template: "1228ea41-9412-4c2e-adcb-dff77f8b4b3f"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/stats-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{B0F18424-5404-472E-989E-902A437A5135}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stats-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8cc23f13-79a5-4619-a681-985f2a418e86"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "bd70de25-096f-4b62-b4de-082ba5eec99e"
 Parent: "6ca1a3fe-76ef-404b-a400-cee3327c5d7d"
 Template: "6ca1a3fe-76ef-404b-a400-cee3327c5d7d"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/subscription-banner/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "subscription-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d05d2660-8fe2-4b4f-91b3-f25aa0636c3e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

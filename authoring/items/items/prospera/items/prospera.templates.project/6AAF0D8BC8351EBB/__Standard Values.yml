@@ -1,0 +1,44 @@
+﻿---
+ID: "52d4d669-432b-4997-b9a0-1ec267fbfe20"
+Parent: "600068ee-3df3-4f82-a373-7cf88fbd0214"
+Template: "600068ee-3df3-4f82-a373-7cf88fbd0214"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/Presentation Parameters/form-text-field Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9597c70e-bdfb-43ee-bc85-1000a5f3e28d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f08766a-af21-425c-9948-e5c36d0251bf"
+      Hint: LabelOrientation
+      Value: "{B0323460-A3E0-4711-97FD-ABEF68D74829}"
+    - ID: "1dbe967c-7fe3-488f-adb7-0700ceae4f4a"
+      Hint: Width
+      Value: "{21695A61-D6FA-4C9E-858F-6B0B4E14DDFF}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T215958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7e9c952-15d5-4dfd-8ce6-83634b243490"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203602Z
+    - ID: "db94417c-34df-496a-9e53-b7b769a244cd"
+      Hint: Size
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"

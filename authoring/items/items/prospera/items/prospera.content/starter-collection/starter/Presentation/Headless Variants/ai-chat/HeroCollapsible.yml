@@ -1,18 +1,14 @@
----
+﻿---
 ID: "d93d975d-102a-49cb-8dc1-a07ef31f50c8"
 Parent: "c328c296-db58-4b97-b535-25405b78dcd5"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/ai-chat/HeroCollapsible"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "748b0f9b-9309-4a8b-be07-62b99f2e2f03"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

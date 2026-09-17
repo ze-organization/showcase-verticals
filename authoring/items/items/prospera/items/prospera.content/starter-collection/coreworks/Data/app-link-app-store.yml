@@ -1,21 +1,17 @@
----
+﻿---
 ID: "ba23a5e7-d079-4740-af36-5b463cc6d8b9"
 Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/coreworks/Data/app-link-app-store"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "app-link-app-store@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "59dd3ab6-504e-45e5-b37e-1efa8d4f64bf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

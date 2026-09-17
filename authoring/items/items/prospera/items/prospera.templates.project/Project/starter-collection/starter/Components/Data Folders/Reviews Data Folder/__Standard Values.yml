@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e8016fcf-78a3-4282-963c-d90af0ec8c41"
 Parent: "fcb9f781-f762-4ff7-9a18-2b6b93e5368c"
 Template: "fcb9f781-f762-4ff7-9a18-2b6b93e5368c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/Reviews Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {FD048CE3-FB9B-40B5-90C4-9118F1CB6AC3}
     {8A8C7527-384C-44F9-A298-A2B7D73DBA62}
     {D7DBAE3F-5368-4764-9A11-AB856E3DE782}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d6e85bbd-6c57-480e-a6fc-ed7278900b9e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

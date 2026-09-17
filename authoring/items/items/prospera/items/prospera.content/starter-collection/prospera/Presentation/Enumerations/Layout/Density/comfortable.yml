@@ -1,13 +1,9 @@
----
+﻿---
 ID: "6b12e8c2-8dd7-46a0-a3e2-bc8947c6088e"
 Parent: "2d53e966-2ef1-4cfb-b0dc-0976f4c64c31"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/Density/comfortable"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: density@1
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: comfortable
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "4c5a6c6c-65b1-4671-9baf-e79ef97e9721"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

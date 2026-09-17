@@ -1,9 +1,8 @@
----
+﻿---
 ID: "28beaf2b-a3d2-48f9-bfe0-fa9dcd180504"
 Parent: "73d6cbe1-c3fc-4406-a3cc-43cc631aadd6"
 Template: "745eb7c5-d8b0-4a77-85bf-c0c0cbb60573"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Careers/platform-engineer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C5AABB1B-E225-42B1-9E23-167231F26E08}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-platform-engineer@1"
 - ID: "6a6caa93-bfb0-4e65-9132-d18b0d7b5746"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "9ab404eb-9602-4ee4-a836-2dbcb7fea459"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

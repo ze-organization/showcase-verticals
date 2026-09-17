@@ -1,9 +1,8 @@
----
+﻿---
 ID: "6911ce7e-a63c-4ec3-a330-c98163f5db9e"
 Parent: "415eede5-4bf8-415b-9cd5-b768ed4d95cf"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/coreworks/Data/Locations/location-card-sydney-circular-quay"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{24F757E3-79C7-4480-8BD8-AFBB7132B941}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-sydney-circular-quay@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2c1f47fd-ff70-4ba5-abcd-286a3188e871"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

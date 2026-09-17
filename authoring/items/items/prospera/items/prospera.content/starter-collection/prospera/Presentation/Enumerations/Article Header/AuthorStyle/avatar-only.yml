@@ -1,13 +1,9 @@
----
+﻿---
 ID: "dcf9a79a-0a23-4d31-85e2-86ead6237184"
 Parent: "61e9f2e3-68ee-40be-8237-8cf085d845cb"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Article Header/AuthorStyle/avatar-only"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "author-style@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "avatar-only"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "62e7ce01-213c-4b47-b7ef-34a20207c245"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

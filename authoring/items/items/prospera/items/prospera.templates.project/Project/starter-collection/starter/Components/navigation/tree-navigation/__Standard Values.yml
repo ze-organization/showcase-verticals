@@ -1,21 +1,17 @@
----
+﻿---
 ID: "2aa8380b-a2d9-4b2c-abab-d9a922a2ffef"
 Parent: "e944f98d-5dbb-4520-97a8-491ef076a86c"
 Template: "e944f98d-5dbb-4520-97a8-491ef076a86c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/tree-navigation/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{63E85C54-5C8E-4EDB-AA7F-563572575CC5}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "tree-navigation@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "35af4a05-ec69-46a3-8ddb-eaa161d29234"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -71,7 +67,7 @@ Languages:
     - ID: "e491b77e-caff-48d5-87b0-51419d008125"
       Hint: Title
       Value: القائمة الرئيسية
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -99,7 +95,7 @@ Languages:
     - ID: "e491b77e-caff-48d5-87b0-51419d008125"
       Hint: Title
       Value: Hovedmenu
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -155,7 +151,7 @@ Languages:
     - ID: "e491b77e-caff-48d5-87b0-51419d008125"
       Hint: Title
       Value: Hauptmenü
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -183,7 +179,7 @@ Languages:
     - ID: "e491b77e-caff-48d5-87b0-51419d008125"
       Hint: Title
       Value: Main Menu
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -239,7 +235,7 @@ Languages:
     - ID: "e491b77e-caff-48d5-87b0-51419d008125"
       Hint: Title
       Value: Menú principal
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -295,7 +291,7 @@ Languages:
     - ID: "e491b77e-caff-48d5-87b0-51419d008125"
       Hint: Title
       Value: Menu principal
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -323,7 +319,7 @@ Languages:
     - ID: "e491b77e-caff-48d5-87b0-51419d008125"
       Hint: Title
       Value: Menu principale
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

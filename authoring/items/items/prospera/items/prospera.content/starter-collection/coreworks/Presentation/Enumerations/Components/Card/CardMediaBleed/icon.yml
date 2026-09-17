@@ -1,13 +1,9 @@
----
+﻿---
 ID: "9de5c412-e993-4700-8739-f6fae6315482"
 Parent: "f03d6c95-ec81-4643-ad55-b8ac3a284af1"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Card/CardMediaBleed/icon"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "card-media-bleed@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: icon
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a3f47c63-2a7b-48db-8292-6a2e63b7332e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "5cd4d55d-aaa2-4cc1-ba4d-4e392f975ac0"
 Parent: "ca490595-d9ea-4c33-856f-cc7d34d22dc5"
 Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
 Path: "/sitecore/content/starter-collection/starter/Home/Support/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: support@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d4034374-4a59-42d3-b5d2-02bf261dd586"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,25 +1,21 @@
----
+﻿---
 ID: "b609691f-53a1-4164-85f3-18d900004bc5"
 Parent: "d9d71d3e-f07f-4a4e-a7bb-11e5206b24bf"
 Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "94cfbee5-7a7d-49df-b5d4-b6653f3125fb"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Advisor walking with a customer through a branch lobby" />
+    <image mediaid="208c770b-efba-4c5b-8ebb-ff92356aa8d9" alt="Branch lobby news" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "7b4dd864-9ea4-4b94-9284-99a3208cafb6"
+  Value: "5e35444a-4495-4e6c-894b-3e66acfb011a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -39,13 +35,13 @@ Languages:
     - ID: "28ac333a-404d-41e9-a936-9c1589ff306e"
       Hint: PrimaryAction
       Value: |
-        <link linktype="external" url="/News/catalog-ships-insertable-types" text="Read the latest" />
+        <link linktype="internal" id="{F19E70C6-53D8-4F63-BE0C-E3FB6FEFA0D4}" anchor="" querystring="" target="" class="" text="Read the latest" title="" />
     - ID: "75d2bf57-757a-4180-b4a5-d2c8d759792a"
       Hint: Title
       Value: What changed this month.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8a1fb599-5494-4de0-8c97-22248e5e49f8"
+      Value: "ea4630b7-b814-412b-80e6-05c19663c79e"
     - ID: "b5eaa4fe-ac2c-43d6-9994-991b27300a73"
       Hint: SecondaryAction
       Value: |
@@ -56,7 +52,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T013001Z
+      Value: 20260917T041601Z
     - ID: "ededbaae-dbeb-4f3a-b3f0-a9860801ae8d"
       Hint: Subtitle
       Value: Illustrative APY, HELOC policy, and branch hours. First card is Featured.

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f936b666-ec17-4f26-9406-6d1110e52b79"
 Parent: "b4a5f356-167c-4649-befb-7a792a56bb8c"
 Template: "94e866ca-eb1d-4a98-9c15-341d652c1386"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/APJ/tokyo-marunouchi"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D2579DCE-BFDD-4BAE-BED9-8590C8585F63}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-tokyo-marunouchi@1"
 - ID: "64043948-ed7e-4969-ada4-abef173e2e23"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b7131b4c-b286-4a1e-9abb-5c1dd917b0cf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

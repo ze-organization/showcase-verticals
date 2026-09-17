@@ -1,18 +1,14 @@
----
+﻿---
 ID: "89915664-95ac-49f4-8646-6963f40a94c9"
 Parent: "70ac75a7-3b44-4e1a-88cd-72940531d33b"
 Template: "70ac75a7-3b44-4e1a-88cd-72940531d33b"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/social-follow-content/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-follow-content@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3a3fedd0-df8f-4f7d-8aac-1f79c82fed26"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

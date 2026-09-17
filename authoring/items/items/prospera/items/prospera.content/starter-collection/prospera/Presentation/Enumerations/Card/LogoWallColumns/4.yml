@@ -1,13 +1,9 @@
----
+﻿---
 ID: "6337ca5e-3b28-47df-bd45-49b311b8ee25"
 Parent: "00300e34-f6a8-4b49-8845-a6f98b58a074"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/LogoWallColumns/4"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "logo-wall-columns@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: 4
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "df9c65b8-ef80-4cdd-a0d8-d9f913b8af2b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

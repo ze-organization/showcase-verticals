@@ -1,18 +1,14 @@
----
+﻿---
 ID: "3f9141db-49dd-4565-88cf-b458b589243b"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/article-with-toc-details"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-with-toc-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "693cb652-3cdc-4a41-a10d-141f9dfcf67f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

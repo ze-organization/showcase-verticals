@@ -1,21 +1,21 @@
----
+﻿---
 ID: "71e2be3d-1c73-4376-8de3-1ab6b1965e34"
 Parent: "f5344306-0afa-4ee1-a4d3-7e9ac12d118b"
 Template: "788427f8-da26-49da-8333-aa6204677d18"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/ira/Data/FaqTax"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-ira@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "7b3150ee-7e5c-4108-b4e7-d3c507334f32"
+  Value: "ac807e3c-5993-41a5-92ed-108ad1f7e2e9"
+- ID: "f0a4c745-69d6-4aec-80c5-8bb1b056cdb4"
+  Hint: Image
+  Value: |
+    <image mediaid="8bb42358-6e10-45a5-a451-9478971a666b" alt="IRA tax FAQ thumbnail" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -37,11 +37,11 @@ Languages:
       Value: 20260916T193438Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "56e0dc71-b661-4b3c-877b-489965a536ab"
+      Value: "92c93f53-eb8e-493a-85d5-c07494c6d910"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193440Z
+      Value: 20260917T041609Z

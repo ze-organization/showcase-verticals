@@ -1,18 +1,14 @@
----
+﻿---
 ID: "4c96da9e-02a8-4f85-ab4b-bd05ce5e145b"
 Parent: "4de0a511-f4ee-4d1c-b1d3-83834b48c64a"
 Template: "4de0a511-f4ee-4d1c-b1d3-83834b48c64a"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/ai-context-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-context-item@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "dd2472ae-c3ae-4654-8d1d-2aec232e852b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

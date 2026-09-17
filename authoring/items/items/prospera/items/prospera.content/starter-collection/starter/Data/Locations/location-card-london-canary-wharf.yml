@@ -1,9 +1,8 @@
----
+﻿---
 ID: "5ff8c987-723c-48cb-b816-7f98ee1b5308"
 Parent: "6120770f-c390-48fc-a672-17b0eada6aa7"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/starter/Data/Locations/location-card-london-canary-wharf"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{EB680469-995E-4534-B729-FFCE0ABAF1E6}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-london-canary-wharf@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2655d30a-d828-447e-adc4-01a57071a3ef"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

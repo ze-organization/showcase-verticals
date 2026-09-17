@@ -1,21 +1,17 @@
----
+﻿---
 ID: "bd993f7e-b5a1-48b5-b71a-a4cc6eb2adac"
 Parent: "89c237c7-138a-4655-9a6d-49a17e2c9a10"
 Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/sole-proprietor/Data/Who"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "business-sole-proprietor@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "02b7f102-84c6-45f9-bbc3-7cf4c2fa7239"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

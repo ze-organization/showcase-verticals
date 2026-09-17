@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5abf089d-6ca9-4856-8337-ebccc74b4f33"
 Parent: "89b5db9c-1057-4354-90b5-daec520c5df9"
 Template: "89b5db9c-1057-4354-90b5-daec520c5df9"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/subscribe-section/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "subscribe-section@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8b830337-58c0-47db-a04a-76030bef92ef"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "9b1789c5-522b-4b5b-9938-3e46425a985b"
 Parent: "065db1f8-4522-4454-8409-c5c5db2d23bc"
 Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
 Path: "/sitecore/content/starter-collection/starter/Home/Case-Studies/Data/Closer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-studies@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0ace281f-a504-4d39-b46e-36d6f62be22b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

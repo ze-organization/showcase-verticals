@@ -1,25 +1,21 @@
----
+﻿---
 ID: "260c6f28-75b9-41b0-b359-750c133f6616"
 Parent: "6f301561-9187-4030-b00e-31d72d8c431e"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Search/Data/CardComposablePages"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-page@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "198cd246-2a20-4519-9d71-cbd19af4e58d"
+  Value: "964c3516-c9ab-4089-9890-a630eb2a5d03"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/home-hero.jpg" alt="Modular blocks on a studio bench" />
+    <image mediaid="cdc18379-f99b-46d6-ac63-73bd0fd3b935" alt="Shared Page template" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260904T193314Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fe2cb745-fc5a-4269-ae18-35e95ced73bf"
+      Value: "498ccfe0-a216-434b-843e-3f13c0db8748"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: <p>One shared Page template for marketing URLs. A dedicated Article template only when insert options and layout actually change.</p>
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Articles/composable-pages" text="Read article" />
+        <link linktype="internal" id="{13FAE353-85B3-4000-8AA7-8E7EB2327CC8}" anchor="" querystring="" target="" class="" text="Read article" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-04-02T09:00:00Z"
+      Value: "04/02/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: Composable pages without a template explosion
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T021747Z
+      Value: 20260917T050146Z

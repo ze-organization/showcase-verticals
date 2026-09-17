@@ -1,9 +1,8 @@
----
+﻿---
 ID: "7c81f3f7-389a-42f7-8b57-0e74dc977f66"
 Parent: "0adabe6c-fe03-4c69-aa93-05b90e36b630"
 Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
 Path: "/sitecore/content/starter-collection/coreworks/Settings/Site Grouping/coreworks"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
@@ -31,12 +30,12 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "a2d4db77-5ff9-4843-8e19-ffd3c2a0f556"
+  Value: "4b8dc8f1-509a-4f16-a655-8dc6f83a4d74"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
   Value: prospera
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -53,11 +52,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d5dcb5ba-10c2-4faa-972e-d02f4b8b2d60"
+      Value: "4d3a5f8b-340f-45c9-9c84-10e8353747c8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260911T215252Z
+      Value: 20260917T010406Z

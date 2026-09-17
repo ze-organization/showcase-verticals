@@ -1,16 +1,12 @@
----
+﻿---
 ID: "ad3fa050-8f63-4510-aee2-53b27e698119"
 Parent: "030d389c-c66d-4797-a445-49d428689526"
 Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Solutions/Financial-Services/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "solutions-financial-services@1"
 - ID: "94cfbee5-7a7d-49df-b5d4-b6653f3125fb"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "32a1a71f-c58e-4c73-bad9-46a60c91a2ed"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

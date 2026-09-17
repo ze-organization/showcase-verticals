@@ -1,13 +1,9 @@
----
+﻿---
 ID: "dd2a55fe-6b18-46c8-9e5a-559ba4c1ce3b"
 Parent: "82e1b139-0e14-46ce-a239-59ebf8ed3b71"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Media/ImageFraming/rounded"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "image-framing@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: rounded
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b94cddfe-e162-42ec-baae-bd3583bca921"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

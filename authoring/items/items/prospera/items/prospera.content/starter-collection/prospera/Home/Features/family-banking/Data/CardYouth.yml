@@ -1,16 +1,12 @@
----
+﻿---
 ID: "1ccd0730-5f07-4030-9796-8c585f4bcecf"
 Parent: "0481d051-2988-4531-b47a-712b82cd287a"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/family-banking/Data/CardYouth"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-family-banking@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "6d47d739-053f-44e6-b370-049f40d9e181"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -52,4 +48,4 @@ Languages:
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Current-Account/youth-debit" text="Youth debit" />
+        <link linktype="internal" id="{A573B372-D9AF-4214-B966-33328324B311}" anchor="" querystring="" target="" class="" text="Youth debit" title="" />

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "30491789-0e09-4e1f-87d4-a37d59152230"
 Parent: "c0ba3ecc-34d8-4cea-9f21-3668452f040f"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/wildcard-detail/Product"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "wildcard-detail@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1d505929-82f4-43bd-8779-f5c0ad2c8270"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

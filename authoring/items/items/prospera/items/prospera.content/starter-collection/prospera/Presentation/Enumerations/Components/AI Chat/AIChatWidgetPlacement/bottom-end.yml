@@ -1,13 +1,9 @@
----
+﻿---
 ID: "44b8c291-cee9-49c5-bc4a-3b16c4ea85cf"
 Parent: "aaf2eddc-a647-4845-a26d-f8e7f471f342"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/AI Chat/AIChatWidgetPlacement/bottom-end"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-widget-placement@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "bottom-end"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b3d9e475-9750-4e03-8039-0315d89f661f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

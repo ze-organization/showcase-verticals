@@ -1,18 +1,14 @@
----
+﻿---
 ID: "23b6eeb8-face-4c3e-9963-ad4cc8cb8f46"
 Parent: "3f0fdfac-565d-402e-a5f6-399987b9016f"
 Template: "3f0fdfac-565d-402e-a5f6-399987b9016f"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/partner-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "partner-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9e5d2c30-f577-4ef7-a590-824f0226aa0b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

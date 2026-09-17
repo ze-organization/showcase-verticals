@@ -1,16 +1,12 @@
----
+﻿---
 ID: "2db6a572-4223-4028-a2ca-e9a9588cec88"
 Parent: "fa7e608c-89da-40a9-999d-93b26ab565ae"
 Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Partners/Data/CardNorthwind"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: partners@1
 - ID: "c4b4278a-c86c-400a-aefe-5c5bfaec9014"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "64211164-6d26-4f67-b27c-1013bde58d48"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

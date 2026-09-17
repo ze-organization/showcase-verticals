@@ -1,21 +1,17 @@
----
+﻿---
 ID: "513d706c-fbe4-4bda-9d88-8729c6ab7c17"
 Parent: "bf8e1e24-a2aa-4ef8-b710-dbcde527dee4"
 Template: "bf8e1e24-a2aa-4ef8-b710-dbcde527dee4"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/products-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{590320C0-1570-423B-A9BD-7F7B414DECFC}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "products-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d56f645a-709b-4d91-8bdb-6aa487261fef"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

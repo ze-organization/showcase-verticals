@@ -1,25 +1,21 @@
----
+﻿---
 ID: "8c409c36-9f77-4bae-a968-338e50e91ada"
 Parent: "946cdb23-a508-4a62-bcc3-793d24af9218"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/Data/CardSole"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: business@1
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Business owner at a worktable" />
+    <image mediaid="e8f0d3fd-4863-4796-9f5e-b4c4406678f0" alt="Sole proprietor worktable" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9e2fd983-d8b9-4950-84f1-f15f41fd5a5c"
+  Value: "d0278b44-dfbf-433d-999c-da503744c14f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Keep household checking and the work account apart if you invoice in your own name.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0476c0ff-dcd1-41a8-8ac9-91abef1ae6e2"
+      Value: "d2485810-29e7-4ce4-b18a-cd67cb3a197a"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Sole proprietor checking
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180320Z
+      Value: 20260917T162657Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Business/sole-proprietor" text="Sole proprietor" />
+        <link linktype="internal" id="{8667F19D-C90D-4B9E-A353-ABE7A74BFA2B}" anchor="" querystring="" target="" class="" text="Sole proprietor" title="" />

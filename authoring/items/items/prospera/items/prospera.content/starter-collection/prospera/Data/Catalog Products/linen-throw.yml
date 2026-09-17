@@ -1,16 +1,12 @@
----
+﻿---
 ID: "5babd88c-d2af-426f-8bc2-a92fbf87e78b"
 Parent: "2b3c044b-e556-4c63-9374-ae0eaec8f9d1"
 Template: "e1f8b936-ff46-4434-9c39-34b91e166885"
 Path: "/sitecore/content/starter-collection/prospera/Data/Catalog Products/linen-throw"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "catalog-product-linen-throw@1"
 - ID: "7ea58df8-8edc-4418-bd12-c8ef45a4a094"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "fc4dc83f-975d-4c17-a158-756344c005f9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

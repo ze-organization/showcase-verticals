@@ -1,25 +1,21 @@
----
+﻿---
 ID: "c5555ec7-b7fb-4fc7-a589-cc8874a21d56"
 Parent: "0547937b-c256-4e17-a8ae-e3860c84df2c"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/Data/CardFaqs"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: support@1
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-01.jpg" alt="Customer and banker reviewing a household budget" />
+    <image mediaid="40da45ed-1862-43de-ac02-2f5bfd50b5bc" alt="FAQ conversation" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d5a2468c-b2f3-46b1-87fd-8f9c855e77b6"
+  Value: "db5e6e4d-b61f-4899-bd3a-195f4de9cb2c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Applying, deposits, rates, and joint checking.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bf76438f-1a8b-42b8-8608-114dc373b2ed"
+      Value: "e065878d-2fd0-47dd-9738-3aaff5ef0152"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: FAQs
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180356Z
+      Value: 20260917T041627Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/FAQs" text="Read FAQs" />
+        <link linktype="internal" id="{86076628-4B3E-4C6F-B6F4-21FA9BC5D8CA}" anchor="" querystring="" target="" class="" text="Read FAQs" title="" />

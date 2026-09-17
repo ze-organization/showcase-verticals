@@ -1,16 +1,12 @@
----
+﻿---
 ID: "c76c967a-dd0f-4c36-a489-ffafe185cd19"
 Parent: "24fe6b6a-ea34-491d-b8bc-8f7faef0af9e"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Case-Studies/Data/CarouselRidge"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-studies@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "86f527e6-53ec-4498-8b72-ad9587fb4e1c"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{79094BAA-5D64-4BB3-9724-B3E339E1C215}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

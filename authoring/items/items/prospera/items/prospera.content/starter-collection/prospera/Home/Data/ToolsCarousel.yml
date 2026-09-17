@@ -1,21 +1,17 @@
----
+﻿---
 ID: "8bcd29f8-d924-4e8a-914c-60423cc8e3db"
 Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
 Template: "6c0b35ad-65d8-4a1b-a847-fad6c35ec3a1"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/ToolsCarousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e4e6483c-47fc-42b7-930c-f9f70ab19c5c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -26,22 +22,26 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T170128Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "df9bb885-768c-4870-b494-734683f3e90f"
+      Value: "c8aca53c-d637-4b58-9aa7-f3735da612e5"
     - ID: "a72610d2-d8b9-4692-8869-06af8915007c"
       Hint: Title
-      Value: Built into your accounts
+      Value: Banking made simple, benefits made for you
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T170148Z
+      Value: 20260917T012811Z
     - ID: "f1a9c988-b737-4d36-9796-21753a1f13c1"
       Hint: Lead
-      Value: <p>Savings goals, virtual cards, bill pay, spending insights, and a Rewards Visa — Prospera names for everyday money tools, not a sixth header item.</p>
+      Value: |
+        <div class="ck-content"><p>Savings goals, virtual cards, bill pay, spending insights, and a Rewards Visa</p></div>

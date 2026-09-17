@@ -1,18 +1,14 @@
----
+﻿---
 ID: "d27aa4ea-167e-4e10-ac6e-fa96dba5f87d"
 Parent: "19c51247-aade-4ccc-8acf-1ea40724c07c"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/person-carousel/FullBleed"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "318bb015-dea8-4d27-9b75-39162f2623b5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

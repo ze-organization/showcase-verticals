@@ -1,21 +1,17 @@
----
+﻿---
 ID: "353214d1-61cf-4359-8db8-3e5cb954aff6"
 Parent: "e7bb0585-74b7-4f0e-ba84-207df7310bda"
 Template: "e7bb0585-74b7-4f0e-ba84-207df7310bda"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/destinations-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{2E7DE4DB-9677-4C2F-A338-9207D2318D10}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destinations-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a5098b98-304f-474e-b75b-e81e3875dad0"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

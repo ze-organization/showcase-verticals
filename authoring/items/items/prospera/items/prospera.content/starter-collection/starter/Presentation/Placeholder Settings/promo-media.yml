@@ -1,13 +1,9 @@
----
+﻿---
 ID: "f167a1c5-fe40-484d-a3df-0b49be5edaab"
 Parent: "59584c63-bc70-405e-92f8-94a3f42a3084"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Placeholder Settings/promo-media"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "promo-media-{*}"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "504c6616-7c13-4ffe-b857-c9b618d4d90c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

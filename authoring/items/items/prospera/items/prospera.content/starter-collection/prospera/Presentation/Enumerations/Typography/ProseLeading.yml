@@ -1,21 +1,17 @@
----
+﻿---
 ID: "8a3fc6c9-6f3b-422c-acac-9e14409df7ef"
 Parent: "9cd9dc0b-3054-4853-9df8-a978a8210f4c"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Typography/ProseLeading"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: default
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "prose-leading@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1ddb3dc5-60d7-4a48-9e1c-c6063ee48447"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e4e7eb6a-c2bc-4fe1-94c0-6d420dbdb3d3"
 Parent: "717dc127-90af-4b1d-ae27-e6148a1a34d9"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/wildcard-experience/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "wildcard-experience@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "784690fd-6f3c-4e9f-b7c7-956472429c5e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

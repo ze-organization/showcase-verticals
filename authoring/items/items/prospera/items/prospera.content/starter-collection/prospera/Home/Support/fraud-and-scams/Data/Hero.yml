@@ -1,21 +1,21 @@
----
+﻿---
 ID: "c6e7e7a8-fa92-4ef3-8f46-c04d3b8c1156"
 Parent: "f5a0e450-4ff0-47c6-9e8b-74f5bdeb56ef"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/fraud-and-scams/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-fraud-and-scams@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "3bb5aa58-1829-4824-845e-483c8b0ddb07"
+  Value: "44d3a9c7-4dcf-4e04-8f6e-f9b3b0f057d1"
+- ID: "e19f6e46-d51b-47b3-bda8-f99b0246d84d"
+  Hint: Image
+  Value: |
+    <image mediaid="b214cc91-23af-4664-abe6-810c4c47d0dd" alt="Lock the card" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -32,21 +32,21 @@ Languages:
     - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
       Hint: PrimaryAction
       Value: |
-        <link linktype="external" url="/Support" text="Help" />
+        <link linktype="internal" id="{74370ECC-44CD-407C-A49F-816ACBB99E48}" anchor="" querystring="" target="" class="" text="Help" title="" />
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Contact" text="Contact us" />
+        <link linktype="internal" id="{ED76BD75-6088-4F0E-9BA2-4AD5247F6394}" anchor="" querystring="" target="" class="" text="Contact us" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5d34c0d2-084b-4859-8d65-32a493e21508"
+      Value: "9ade49b8-883e-4118-b3ee-e267427452ca"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180936Z
+      Value: 20260917T162700Z
     - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
       Hint: Subtitle
       Value: Lock the debit or Rewards Visa from online banking. Call from Help. We do not ask you to move money to a “safe account.” This page is education, not a live detector.

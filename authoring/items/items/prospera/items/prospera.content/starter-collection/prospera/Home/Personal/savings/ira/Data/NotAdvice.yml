@@ -1,25 +1,21 @@
----
+﻿---
 ID: "ed22c4ae-aba8-4ca6-9472-6abfd0546591"
 Parent: "f5344306-0afa-4ee1-a4d3-7e9ac12d118b"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/ira/Data/NotAdvice"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-ira@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/product-ira.jpg" alt="Customer and banker reviewing a long-term retirement savings plan" />
+    <image mediaid="c89c51bb-2446-4e44-9c95-ffa834f78376" alt="Retirement plan, not tax advice" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9afb5a48-de1b-429c-81ff-d64158bd8c41"
+  Value: "2716a4fa-66c3-439f-a0a2-bb4b257bfbbf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Important
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7bcdeb1e-b896-4262-a14d-2a2906368eba"
+      Value: "9f70e17e-e2cb-4a6f-a504-9daa2821493c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Contact" text="Contact" />
+        <link linktype="internal" id="{ED76BD75-6088-4F0E-9BA2-4AD5247F6394}" anchor="" querystring="" target="" class="" text="Contact" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: "<p>Wealth and retirement conversations also live under Services. This page does not replace a planner. Apply Now tells a banker you want the retirement-savings conversation.</p>"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193440Z
+      Value: 20260917T041606Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: This is not tax, legal, or investment advice.

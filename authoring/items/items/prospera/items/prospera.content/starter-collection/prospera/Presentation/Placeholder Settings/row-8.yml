@@ -1,13 +1,9 @@
----
+﻿---
 ID: "9d6706e3-d224-4a4b-885b-bc4855701807"
 Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/row-8"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "row-8-{*}"
@@ -24,7 +20,7 @@ SharedFields:
     {48B1DC5C-F286-41C1-AE75-A6A197DE5A93}
     {3F873459-B9C2-416D-B406-AC21776F5317}
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

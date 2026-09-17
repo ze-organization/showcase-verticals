@@ -1,25 +1,21 @@
----
+﻿---
 ID: "032f1ea9-fff5-4122-88f2-2578e6d86bf3"
 Parent: "2d50311d-26c3-48d3-8da8-246caf0e755c"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/fees-rates-charges/Data/Closer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-fees-rates-charges@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Advisor walking with a customer through a branch lobby" />
+    <image mediaid="0d57be2d-95f4-46de-8937-7304ee28492e" alt="Branch closer" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b39f16d2-82c4-45a3-9f5d-86c09590cc4c"
+  Value: "8ded43bd-7783-4bda-bc2e-e94ac8fa5381"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Applying
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c1e8e67b-35bc-48c6-8cd0-c4d56c051a8e"
+      Value: "03504a75-b623-49b4-a180-6801898e014c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: <p>This schedule does not replace eligibility copy on each account.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180930Z
+      Value: 20260917T041557Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: Read the product page, then Apply Now.

@@ -1,16 +1,12 @@
----
+﻿---
 ID: "fb4a1e98-bf35-4e30-b644-cc7772e9afe1"
 Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
 Template: "f7ebb3f8-50cd-4197-b638-490bde71cebd"
 Path: "/sitecore/content/starter-collection/coreworks/Data/maya-chen"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "author-maya-chen@1"
 - ID: "60699371-f7c4-4bb9-8623-2e06c0ec33de"
   Hint: Avatar
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "8f9717aa-cdb3-44a9-8d4b-22fe86622c02"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

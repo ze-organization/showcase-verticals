@@ -1,13 +1,9 @@
----
+﻿---
 ID: "dd546943-e765-4cee-a7e7-fc7d13c8ee34"
 Parent: "59584c63-bc70-405e-92f8-94a3f42a3084"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Placeholder Settings/column-2"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "column-2-{*}"
@@ -31,7 +27,7 @@ SharedFields:
     {60B4945F-12A1-4883-9DDD-5E17C8773E01}
     {8329A238-AB1D-4F5C-92CC-368D8D57356A}
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

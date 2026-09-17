@@ -1,21 +1,21 @@
----
+﻿---
 ID: "f21b1dac-1815-4b0d-8730-4608acae221a"
 Parent: "d9d71d3e-f07f-4a4e-a7bb-11e5206b24bf"
 Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/Data/Closer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
+- ID: "cef030a5-43cb-4f99-9a0a-e8d98b750e3e"
+  Hint: Image
+  Value: |
+    <image mediaid="ad862472-1bdf-43c7-be77-8319f2660319" alt="Resources shelf" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "40c02edc-0d86-42be-be53-b27746ecee27"
+  Value: "975817a6-55c5-4d7f-ad36-ceef187a39b9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -41,14 +41,14 @@ Languages:
         <link linktype="external" url="/Resources" text="Browse resources" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6dcb1307-7184-44eb-aaf8-69b1345cf582"
+      Value: "ab1ffb57-f8c6-482b-96fb-58cb2627828e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260904T192209Z
+      Value: 20260917T041611Z
     - ID: "ffbdfe03-f223-4437-a867-986da7f40122"
       Hint: Title
       Value: More in Resources

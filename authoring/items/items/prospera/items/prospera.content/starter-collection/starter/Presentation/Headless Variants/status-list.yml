@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f4b92fa5-9c44-4f56-84d3-46b67a3de397"
 Parent: "587ae421-b052-43c4-af92-47c21ff3efa0"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/status-list"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "status-list@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9bf656de-3bcc-4ddb-91e4-a2a79bd121d2"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,4 +1,4 @@
----
+﻿---
 ID: "45177ac3-1750-42dc-9bc7-48d76ba0858a"
 Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
 Template: "125dbb05-e7aa-4dbc-ae38-f7ef24fd5826"
@@ -22,6 +22,9 @@ SharedFields:
     {02CD7086-1F87-41EC-B40F-B92C1226895B}
     {1B0A98C0-1801-44A0-85F2-845694FEAFF3}
     {D315A501-6503-4545-A5D8-B9FECBA1097D}
+- ID: "7d29b525-8118-45c6-a89b-773a6a576ec7"
+  Hint: SharedSites
+  Value: 
 - ID: "800dc4ed-0846-45ba-b112-19902af240f6"
   Hint: SharedMediaLibrary
   Value: "{0DE9B454-0444-40A3-B38D-9D47A28443B8}"
@@ -42,7 +45,7 @@ SharedFields:
   Value: "{94AE69EB-DFEE-4E16-98F8-DBAE428A8FCB}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "047bfb71-ec5a-45ab-a340-1ee73f59bb9b"
+  Value: "9d8318cd-1af4-4554-9836-081639a3e8d6"
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{442D3E56-FB03-46FE-A8F6-CA371F4F8156}"
@@ -50,7 +53,7 @@ SharedFields:
   Hint: __Originator
   Value: "{8453C078-6D17-4817-9230-91654AFE69C6}"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -67,11 +70,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bfc87f17-13ea-4e06-8a05-bef0e8430f8e"
+      Value: "2d17ab23-30bd-484a-ad1c-2bbc9891e650"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260813T213221Z
+      Value: 20260917T134010Z

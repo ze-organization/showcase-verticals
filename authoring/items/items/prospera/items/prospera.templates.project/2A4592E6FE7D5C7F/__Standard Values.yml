@@ -1,0 +1,50 @@
+﻿---
+ID: "a13bc1dc-160d-4693-afc0-316aa05db126"
+Parent: "426a60f0-45bd-41e2-8439-aae300848a7d"
+Template: "426a60f0-45bd-41e2-8439-aae300848a7d"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/feedback/Presentation Parameters/consent-banner Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "68635343-00e2-4230-9b52-b4e44c5fb937"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T215319Z
+    - ID: "350b3ab4-8d6a-4b04-869f-568fa904dcf6"
+      Hint: InstanceScope
+      Value: "{8FE4C9F3-F804-4003-B065-C45E54378C9A}"
+    - ID: "4f058275-5b61-47ed-b9dc-fef95fb5e9de"
+      Hint: TrackEvents
+      Value: 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5628627f-dfd2-46a7-9073-a2d9a81fc5d5"
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74944955-954b-425b-862c-938cd97bcaa1"
+    - ID: "b0278202-f773-4a65-99a7-de82da497dd4"
+      Hint: MaxWidth
+      Value: "{883F888C-908E-415C-B879-062E5AB0FCC6}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203501Z
+    - ID: "e2c17bd0-191c-4bb6-b258-5c365a995ed1"
+      Hint: Overlay
+      Value: 1

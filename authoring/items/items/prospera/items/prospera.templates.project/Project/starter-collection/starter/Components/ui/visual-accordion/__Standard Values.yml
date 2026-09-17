@@ -1,18 +1,14 @@
----
+﻿---
 ID: "de5dd1c1-2f57-4bde-a32e-cdfc98cca9f3"
 Parent: "a31e56dc-9de9-4e0d-a920-4db9ce4ce2a9"
 Template: "a31e56dc-9de9-4e0d-a920-4db9ce4ce2a9"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/visual-accordion/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "visual-accordion@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e699a089-ce4b-4f62-b245-ede9e8d29607"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152050Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223240Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152051Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -180,7 +176,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223239Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -236,7 +232,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152051Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -292,7 +288,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152051Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -320,7 +316,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223241Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

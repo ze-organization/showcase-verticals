@@ -1,18 +1,14 @@
----
+﻿---
 ID: "fb79793e-f777-41da-97bb-5f51e3ddf8f2"
 Parent: "587ae421-b052-43c4-af92-47c21ff3efa0"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/form-summary"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-summary@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "34c3bf93-98f7-4b98-be29-5fc04bf53f36"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "2b6f24a5-9ca8-4ca1-8e94-a8bf29b9c8f4"
 Parent: "3c39d466-39e0-43a2-a127-964f469b33c6"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/header/CenteredInline"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: header@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "02e0a11e-a23b-4c13-a62e-d6bf800be686"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

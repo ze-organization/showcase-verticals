@@ -1,18 +1,14 @@
----
+﻿---
 ID: "6187ef17-878c-4c7e-a729-e660d298233a"
 Parent: "dfbda919-0b2a-4374-8872-0d76c669e85d"
 Template: "dfbda919-0b2a-4374-8872-0d76c669e85d"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/location-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "379f6eca-8c98-42b0-ad6b-b23dc93625c0"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

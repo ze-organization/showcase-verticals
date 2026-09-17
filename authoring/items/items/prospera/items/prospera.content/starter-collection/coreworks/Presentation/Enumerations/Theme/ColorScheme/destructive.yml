@@ -1,13 +1,9 @@
----
+﻿---
 ID: "1254a218-f9a2-4458-9316-5ae6dcc920ae"
 Parent: "aa4f6611-6f78-4d6d-b531-ec9599eafcb2"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Theme/ColorScheme/destructive"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "color-scheme@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: destructive
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "0aa8957f-b5ed-41aa-9ba5-85099f47960a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

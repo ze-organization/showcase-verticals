@@ -1,9 +1,8 @@
----
+﻿---
 ID: "7c795223-d7d8-49da-9c03-8475506a23b4"
 Parent: "3248d628-5da6-442a-afa9-9960552de4b2"
 Template: "1f218c4d-98ed-49b2-9eff-486b7e539d31"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Seating/Outdoor"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C70D7A59-7256-4799-A961-4179E53D166B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-subcategory-outdoor@1"
 - ID: "2ea21d8a-d92d-41b6-a541-a12a6153b139"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d3dfdc98-afdb-4c28-9a4d-67cf2f5c9a43"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

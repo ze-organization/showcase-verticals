@@ -1,25 +1,21 @@
----
+﻿---
 ID: "ff6f478d-3670-4d94-8a85-6acf5e767e1f"
 Parent: "1a05bacb-f7b2-4524-b24c-d0f7a462835a"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/Data/CardAuthoring"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "0f6d4ffc-b550-47b2-b42a-929f137718d4"
+  Value: "c0ce0a5f-8f23-4998-9f3f-8003930104c7"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/pdp-01.jpg" alt="Editor working in a page canvas" />
+    <image mediaid="34bcb23d-b790-4791-b9ad-b71f2397059a" alt="Direct deposit and joint owners" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260903T211618Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5559b75a-885e-4f60-9541-9cf46cf0bce0"
+      Value: "924f33c6-c51a-45a7-a504-0aa23d65ab1f"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: <p>Direct deposit, debit, and bill pay. Joint owners apply together. Illustrative fees.</p>
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Articles/authoring-that-scales" text="Read article" />
+        <link linktype="internal" id="{5A97C00B-5B6E-4606-81DC-FBA5D90A06C7}" anchor="" querystring="" target="" class="" text="Read article" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-04-18T09:00:00Z"
+      Value: "04/18/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: Opening everyday checking
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012934Z
+      Value: 20260917T050220Z

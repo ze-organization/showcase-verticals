@@ -1,23 +1,19 @@
----
+﻿---
 ID: "b259ab2d-4cc6-4ff6-b5e1-54e733f77bec"
 Parent: "499b0b4e-49eb-4973-8ced-b8222094d30a"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Not-Found/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {2B97B80F-3E0A-4C30-BDF9-5865786BE61F}
     {9287BAD6-E065-47D2-9EA1-12080E2679A5}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "not-found@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4af4ecaf-1927-4184-a8e2-af6177ae2fa1"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

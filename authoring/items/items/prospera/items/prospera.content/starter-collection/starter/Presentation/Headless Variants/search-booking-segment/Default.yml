@@ -1,18 +1,14 @@
----
+﻿---
 ID: "af0ed146-4dcd-4be2-9b7b-0f89c36e4f47"
 Parent: "52f8661b-3b95-4985-afbe-5abb97c2ae83"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/search-booking-segment/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-booking-segment@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ad7186a9-2bad-4565-8c69-e56f56021561"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

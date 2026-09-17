@@ -1,25 +1,21 @@
----
+﻿---
 ID: "74ec99f2-7ca7-4a1f-8fec-2471600673e1"
 Parent: "75351041-749a-499a-bbe6-ebdce3e02ebe"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "4fd6c3b5-da68-4e9f-871a-75f2adff934d"
+  Value: "455a6c89-b247-48b1-adba-1d38942b8106"
 - ID: "e19f6e46-d51b-47b3-bda8-f99b0246d84d"
   Hint: Image
   Value: |
-    <image mediaid="{C778A8BB-0FDD-4A26-B1F3-6C96A83702DA}" alt="Prospera Rewards Visa on a linen table beside a grocery receipt and house keys" />
+    <image mediaid="299b8348-079b-43d9-9bed-751ca1e029e4" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -30,27 +26,30 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T193148Z
     - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
       Hint: PrimaryAction
       Value: |
-        <link linktype="external" url="/Personal/cards/rewards-visa" text="Rewards Visa" />
+        <link linktype="internal" id="{1897C34F-1CD1-4545-ABEB-0EA21C6C6805}" anchor="" querystring="" target="" class="" text="Rewards Visa" title="" />
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5d01dcfa-2353-41c2-a05e-86ccd7846dd7"
+      Value: "57281c3a-e198-4371-9073-03368e972a59"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203126Z
+      Value: 20260917T162458Z
     - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
       Hint: Subtitle
       Value: A Rewards Visa for groceries, travel, and bills — not a lifestyle object. Virtual card numbers live on the product page. Everyday checking is the relationship we pair it with.

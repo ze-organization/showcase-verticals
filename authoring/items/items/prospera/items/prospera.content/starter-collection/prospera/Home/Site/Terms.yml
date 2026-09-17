@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c4ddf969-3139-4358-a228-96b3dc365e3c"
 Parent: "42118861-8e23-499c-bf18-f1bbd4397bd1"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Terms"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,14 +10,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: terms@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5c703a33-bb06-4d7a-bca9-a385449c3c02"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -62,7 +58,7 @@ Languages:
       Value: 0.3
     - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
-      Value: Terms of use for this demonstration catalog and sample content.
+      Value: Terms of use for Prospera Bank, N.A.'s website, covering account access, permitted use, and limits on liability.
     - ID: "4926c0f4-360a-4c27-ae1e-2353db686a6f"
       Hint: ChangeFrequency
       Value: yearly
@@ -74,13 +70,13 @@ Languages:
       Value: summary
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "118eab85-a339-40a0-aeb9-a287bf9a8206"
+      Value: "ec493fc3-4569-48b2-bbe3-9f13dcc03195"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
     - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
-      Value: Terms — Showcase
+      Value: Terms of Use — Prospera
     - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Legal
@@ -90,4 +86,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195204Z
+      Value: 20260917T163000Z

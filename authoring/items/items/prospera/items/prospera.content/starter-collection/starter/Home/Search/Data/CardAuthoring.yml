@@ -1,16 +1,12 @@
----
+﻿---
 ID: "b8e94502-06c5-48ee-86c6-d8208170a323"
 Parent: "2dc1bacf-e803-4e8b-9d74-a87a2cc32ce9"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/starter/Home/Search/Data/CardAuthoring"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-page@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0793ed1a-c135-4af3-891f-d19afcf19015"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{0B041F02-624E-4FA9-9CC1-6C6C7671D0C4}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -52,7 +48,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-04-18T09:00:00Z"
+      Value: "04/18/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: "Authoring that scales: insert Article, not rebuild"

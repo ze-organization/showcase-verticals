@@ -1,0 +1,30 @@
+﻿---
+ID: "ec48cc08-1831-43ed-a367-5a2caddde5b6"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
+Path: "/sitecore/content/starter-collection/prospera/Data/nav-link-accounting"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T161322Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "261222e6-c783-4d29-8388-282da9b097e5"
+    - ID: "b5d4268a-857f-42e3-aead-31acc948e95b"
+      Hint: Link
+      Value: |
+        <link linktype="internal" id="a91c8f88f1664e78a071355f125b45b1" anchor="" querystring="" target="" class="" text="Accounting" title=""/>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d23fc9d5-10d5-4a4f-b99e-aac87330a92d"
+      Hint: Title
+      Value: Accounting
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T161322Z

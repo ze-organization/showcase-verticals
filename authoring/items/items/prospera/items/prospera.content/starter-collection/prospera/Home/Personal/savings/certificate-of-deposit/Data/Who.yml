@@ -1,25 +1,21 @@
----
+﻿---
 ID: "deb71df1-7ba6-4a83-b69c-7abb5ef2ae4f"
 Parent: "8cfdc9c3-e00f-4aac-9ee5-3bc40406a628"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/certificate-of-deposit/Data/Who"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-cd@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/product-cd.jpg" alt="Twelve-month certificate folder on a desk beside a circled maturity date" />
+    <image mediaid="7978c77d-aede-4cfc-ae7c-f15b017156d1" alt="Certificate for cash that can wait" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "ec52482a-d810-4618-8e76-b2cc660dcd88"
+  Value: "e37c4f3d-751c-4ed2-bcfd-2f7ac2e9e24b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Who it is for
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "81bcb433-9761-4b05-855d-d767d4a4553f"
+      Value: "c954210c-9d20-41b0-8a73-6d789be84fe6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/savings/ira" text="IRA savings" />
+        <link linktype="internal" id="{154EC6F1-86EE-45BF-B773-9CCD5AFE6203}" anchor="" querystring="" target="" class="" text="IRA savings" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: <p>Households that want a term and a published sample yield — including people who would look for a U.S. CD rather than a UK fixed saver. IRA savings is a separate page if the conversation is retirement.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193407Z
+      Value: 20260917T162403Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: Cash that can wait a year.

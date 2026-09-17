@@ -1,21 +1,17 @@
----
+﻿---
 ID: "da4e4b0e-afa2-4adb-8357-8fe001abc6db"
 Parent: "12d30382-b116-4aa9-921b-c61917dc90d5"
 Template: "af663a81-2143-4eb3-8bb3-0c56cf627282"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Support/Data/StatusAuthoring"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: support@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6de96876-1aee-4f9a-94ec-68610e08ddcc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

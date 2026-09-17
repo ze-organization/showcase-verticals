@@ -1,0 +1,110 @@
+﻿---
+ID: "d7457005-caf8-4c13-8bf8-da0f4c2eb49a"
+Parent: "b96cacb5-6b0c-4e8a-95b9-b7143f42e630"
+Template: "b96cacb5-6b0c-4e8a-95b9-b7143f42e630"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/Presentation Parameters/promo Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d82d077f-e03f-4cb3-bb8e-6a0aa0913833"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02a8db3d-e3be-4090-b5f3-9b82c02f1662"
+      Hint: InstanceScope
+      Value: "{8C5912E3-436E-430E-B734-40126FCB1F8F}"
+    - ID: "059575fa-b95b-42b2-a9e4-7967a5887f6c"
+      Hint: PrimaryActionVariant
+      Value: "{973EEE8E-BAD4-4D6F-8696-A97630198F36}"
+    - ID: "0cc4da4f-f1a1-41c5-98a2-459f97947717"
+      Hint: SecondaryActionVariant
+      Value: "{9450F5E5-C343-46B7-8127-B8295C14C551}"
+    - ID: "150a467f-8e2d-4748-9fae-723eaabfdfc5"
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"
+    - ID: "1bc50425-46af-4b1b-a18c-5ba2b4de63a5"
+      Hint: EyebrowColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "24eea86e-661d-423a-bde6-3b2b159cf605"
+      Hint: VideoPlayback
+      Value: "{1359EAB0-A133-446B-B746-A3240200C388}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T020232Z
+    - ID: "29f92d0b-4a8b-40d5-a636-a1e1515afb6d"
+      Hint: PrimaryActionColorScheme
+      Value: "{F9DAC70B-0DDF-4231-856F-CFDE63708DDC}"
+    - ID: "2ead84d4-e5a2-4028-be48-481e88e6c96e"
+      Hint: SecondaryActionFontColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: "396eb963-311e-4fca-8492-edd1f2733044"
+      Hint: MediaShape
+      Value: "{0D4EA55D-5C88-444A-B372-DEFAABFE4AB5}"
+    - ID: "494c1471-33c8-429d-88e0-74be3f3e49a6"
+      Hint: SurfaceTone
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "576c3c2c-405b-4926-8ad8-377a8a85ed87"
+      Hint: Inset
+      Value: "{7F750B90-5A3F-48E7-A22C-9EA9162AB9C0}"
+    - ID: "580538ad-801a-4d24-8d3b-b6d923c0209a"
+      Hint: BackgroundScrim
+      Value: "{A08DA44E-01A3-424D-ADBE-9339B24B69F0}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "6d66d1e2-7505-4be0-9789-0be2f9d86bc5"
+      Hint: EyebrowStyle
+      Value: "{2B67B11E-8B23-4155-AD30-ECF1C18E51E5}"
+    - ID: "8280d106-69a2-484b-90a0-0b74faf59ce1"
+      Hint: ActionSize
+      Value: "{A05D3897-3264-4DA7-AC11-A21C06665168}"
+    - ID: "87aa85a9-7437-4003-af16-67d2db43bfb2"
+      Hint: SecondarySurfaceTone
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbde9e0f-3ade-40a7-a2a9-eaa62d181c17"
+    - ID: "9d90317c-2a0a-4f25-8521-79641fd26d86"
+      Hint: ImagePosition
+      Value: "{0258E843-2178-43AA-BE12-95601A16DE33}"
+    - ID: "ae537fb9-afb0-4ea9-80cc-b4f6da5cac36"
+      Hint: ContentAlign
+      Value: "{F55A88B3-2557-4278-B886-0228889C622D}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "bc3ee25f-d32b-4636-9b4e-6ac6daf616d7"
+      Hint: BackgroundPosition
+      Value: "{337A3A3A-0BEE-4148-90D3-9ADB0955BEF2}"
+    - ID: "be1af899-49ca-49f8-aa8d-300ccbcf21d7"
+      Hint: SecondaryActionColorScheme
+      Value: "{722C6F93-1336-48B3-9FFE-C763021CC53C}"
+    - ID: "d27afd4a-9709-4a2a-8600-0547f2d9c28f"
+      Hint: MediaFraction
+      Value: "{691068BC-728F-4EAD-9C74-8547E26A0066}"
+    - ID: "d68bc53d-93c1-4807-a259-4f667ad58b15"
+      Hint: Layout
+      Value: "{8AE85B6B-83ED-4C05-9C49-0ACC26134C97}"
+    - ID: "d83649da-a2bc-43c5-bb04-c8d74263f36e"
+      Hint: HeadingAnimation
+      Value: "{8D2A5B10-7A18-41B0-B9E5-412DC0C92675}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T160834Z
+    - ID: "f39e018b-8fff-449b-87b2-149bdee96ae6"
+      Hint: TitleSize
+      Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
+    - ID: "f977f0cb-0289-4604-8a5b-3028e5cc7ad1"
+      Hint: PrimaryActionFontColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: "fbf138d1-bf2e-4ef2-9746-6837ab0b7c90"
+      Hint: ContentVAlign
+      Value: "{AEE318C2-F148-48C2-B074-12790FA31BA5}"

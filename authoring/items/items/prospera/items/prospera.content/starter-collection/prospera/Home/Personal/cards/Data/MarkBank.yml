@@ -1,25 +1,21 @@
----
+﻿---
 ID: "04710d09-51bb-43b9-b77e-635f45cda88a"
 Parent: "75351041-749a-499a-bbe6-ebdce3e02ebe"
 Template: "0513f0be-18f8-46e2-8df2-4ef7d35b088d"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/Data/MarkBank"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards@1"
 - ID: "40333ae0-57fd-4e3d-9f24-a67b6dcac7b3"
   Hint: Logo
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Prospera Bank, N.A." />
+    <image mediaid="bce37280-ffe0-4f4b-a16a-941df4949ad1" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "36158eeb-c47c-4b95-970d-cdc15edab2d9"
+  Value: "6d4057ab-09a9-4b92-aa76-eb56c49b09ca"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -30,6 +26,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T193152Z
@@ -38,11 +37,11 @@ Languages:
       Value: Prospera Bank, N.A.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2c514ee-9957-4c87-9a1e-12f816d30c27"
+      Value: "317c147a-eae1-4e39-8cb8-d97596447b10"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193156Z
+      Value: 20260917T151018Z

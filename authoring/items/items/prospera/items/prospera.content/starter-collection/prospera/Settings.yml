@@ -1,4 +1,4 @@
----
+﻿---
 ID: "bc6ea61b-0700-4efc-a525-2d5e5baef5f9"
 Parent: "d4c417d9-0acf-44f9-aec8-c94730b872bb"
 Template: "c82762f5-b0de-4045-a370-97c47ce0c156"
@@ -49,13 +49,13 @@ SharedFields:
   Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
 - ID: "d0ce707c-342f-4c02-ac0a-edb21346dde4"
   Hint: SupportedLanguages
-  Value: af58419145c9420187405409f4cf8bdd|6b22b4516f0441ff87cb54314e64ca59|8e600682a0574fe58c3cfb9c36e1b5b9|64ffa74e4340429f9ff270bf5dc4ecfc|c5213ab065db43769ffae02124706237
+  Value: 52c5d710223a4d26b6e06bc955de37ee|af58419145c9420187405409f4cf8bdd|d5c9b9ac90ac46ac8a6ffbe109fd5c49|d1a181bbbf49480ba86866eb1ec37714|4e5502c4c95e43ce9eec89d459f039f3
 - ID: "d91bf82c-0e2b-4b79-ae85-e54b9afd5026"
   Hint: Error500Page
   Value: "{F6766922-80D9-4D67-A3CA-C3D85CF0C8F5}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "1fe5779c-3eec-4357-9949-08abe93bbfe7"
+  Value: "5728e31c-1446-43c7-9127-6550566c2ecc"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
   Value: "{E56D37D4-26F6-431B-B3CC-9016820C990B}"
@@ -66,7 +66,7 @@ SharedFields:
   Hint: __Originator
   Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -83,11 +83,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "efdcf1f2-2cd0-41e9-8a41-4367e21eb8c8"
+      Value: "242bdbe3-8fdb-4c2b-96d9-031131780ce3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232801Z
+      Value: 20260917T165406Z

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "af50fafc-d28a-4c2a-bbb4-e760540ea354"
 Parent: "60ed0333-d1bb-4d37-ac52-a1f6368416d0"
 Template: "745eb7c5-d8b0-4a77-85bf-c0c0cbb60573"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/platform-engineer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{B43EFC8E-D19C-4927-8016-D34BD1CD125C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-platform-engineer@1"
 - ID: "6a6caa93-bfb0-4e65-9132-d18b0d7b5746"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "1b7c5795-573b-4bda-81b1-8b4847699c06"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

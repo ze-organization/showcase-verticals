@@ -1,9 +1,8 @@
----
+﻿---
 ID: "8f0ffda6-cc9f-4c81-98d5-5b2c16f369be"
 Parent: "fbf85376-7a35-4af5-a8ab-336a224e2ddc"
 Template: "590320c0-1570-423b-a9bd-7f7b414decfc"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data/ProductIra"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,15 +10,12 @@ SharedFields:
 - ID: "1efa60e6-a01d-4c02-82bc-c07bf453dd61"
   Hint: Image1
   Value: |
-    <image mediapath="/theme-photos/product-ira.jpg" alt="Customer and banker reviewing a long-term retirement savings plan" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings@1"
+    <image mediaid="f9520022-4ac9-4f41-92d7-9cab68a1d700" alt="Kitchen table IRA paperwork" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "658df3c1-a74c-4abd-88a0-b57fe4c7cf80"
+  Value: "0a60dbd2-24a1-4d23-912f-e23b14ceb01b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -44,7 +40,7 @@ Languages:
       Value: IRA savings
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4f7037d0-96f7-4198-9d5a-1023be235a76"
+      Value: "b4c6dbd9-ddfb-4d2f-8ca1-3699b826ec8a"
     - ID: "a0b1cbad-9910-4704-9f3f-8f15e28f711d"
       Hint: Sku
       Value: "IRA-01"
@@ -54,11 +50,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193353Z
+      Value: 20260917T162350Z
     - ID: "de8117cc-bf50-4b44-a5bf-b74f71e76249"
       Hint: ShortDescription
       Value: "Tax-advantaged retirement savings you can discuss with a banker. Illustrative 3.00% APY."
     - ID: "e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/savings/ira" text="See IRA savings" />
+        <link linktype="internal" id="{154EC6F1-86EE-45BF-B773-9CCD5AFE6203}" anchor="" querystring="" target="" class="" text="See IRA savings" title="" />

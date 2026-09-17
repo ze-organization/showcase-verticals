@@ -1,25 +1,21 @@
----
+﻿---
 ID: "ace25a17-14c2-45c4-81fe-cb30190f9a4b"
 Parent: "8cfdc9c3-e00f-4aac-9ee5-3bc40406a628"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/certificate-of-deposit/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-cd@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e4b899ef-0c68-401e-ad5f-bc347aaed196"
+  Value: "46d4c087-3c6b-4d82-ac49-6c511f804415"
 - ID: "e19f6e46-d51b-47b3-bda8-f99b0246d84d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/product-cd.jpg" alt="Twelve-month certificate folder on a desk beside a circled maturity date" />
+    <image mediaid="d73a56f2-2e96-41c9-8708-6c163b3af9a1" alt="Twelve-month certificate" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -36,21 +32,21 @@ Languages:
     - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
       Hint: PrimaryAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Personal/savings" text="All savings" />
+        <link linktype="internal" id="{79FF18E3-7445-44A4-9969-C8FA72B7AFB8}" anchor="" querystring="" target="" class="" text="All savings" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "96b6b43a-ad24-4226-88a1-9ccb4230ba44"
+      Value: "3901fbfc-7520-4701-a41b-eef8a64296f7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193407Z
+      Value: 20260917T162418Z
     - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
       Hint: Subtitle
       Value: "A 12-month CD for cash you do not need this year. Illustrative 3.85% APY. Early withdrawal reduces earnings. Not a live lock."

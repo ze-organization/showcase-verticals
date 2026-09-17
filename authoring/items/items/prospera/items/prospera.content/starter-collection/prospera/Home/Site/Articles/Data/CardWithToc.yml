@@ -1,25 +1,21 @@
----
+﻿---
 ID: "8e580962-05c3-4685-bd22-32038c06dc33"
 Parent: "1a05bacb-f7b2-4524-b24c-d0f7a462835a"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/Data/CardWithToc"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e81a04ef-970c-4ebc-a001-3c38a997d477"
+  Value: "add8ec8e-8346-4935-b58e-3cf168e353b4"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Open notebook with a sketched outline beside a published article" />
+    <image mediaid="3968079c-9650-4ca9-86ac-28fd0f7a1b0d" alt="Personal products walkthrough" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260903T211621Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3a9cf768-4415-4981-a0e2-d66a76afbfd8"
+      Value: "1532f1f1-954c-4d86-8d47-37af4020e0bd"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: <p>Checking, savings, cards, mortgage, and HELOC — a longer walk with headings you can scan.</p>
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Articles/with-table-of-contents" text="Read article" />
+        <link linktype="internal" id="{C7B52613-AC1B-4186-A753-E080DE94EC2E}" anchor="" querystring="" target="" class="" text="Read article" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-06-23T09:00:00Z"
+      Value: "06/23/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: Personal products, in order
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012935Z
+      Value: 20260917T050221Z

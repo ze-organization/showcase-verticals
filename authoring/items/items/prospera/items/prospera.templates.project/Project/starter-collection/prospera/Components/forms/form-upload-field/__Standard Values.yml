@@ -1,18 +1,14 @@
----
+﻿---
 ID: "75eb8845-6f33-46b0-887d-dbe1a4daaa08"
 Parent: "06d8ec7c-7f02-4cda-b615-c91279f51b9c"
 Template: "06d8ec7c-7f02-4cda-b615-c91279f51b9c"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-upload-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-upload-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8329b896-b19a-4d56-ab36-fd658607149b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

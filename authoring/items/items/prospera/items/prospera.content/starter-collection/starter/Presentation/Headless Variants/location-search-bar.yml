@@ -1,18 +1,14 @@
----
+﻿---
 ID: "bc76204f-417a-43c8-9c1a-39cdb8bf3319"
 Parent: "587ae421-b052-43c4-af92-47c21ff3efa0"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/location-search-bar"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-search-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2d3bc179-91ff-4a26-8166-6863424d1ba2"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

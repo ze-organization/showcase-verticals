@@ -1,9 +1,8 @@
----
+﻿---
 ID: "cc17933c-84c1-42d4-a974-3a8e1d204196"
 Parent: "706a31be-3ae9-4b1d-b65d-3d9c0f5ea311"
 Template: "2476972e-b68f-4589-81b0-231550d60e6f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/partner"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -15,9 +14,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{F5944F8E-8906-4B6D-98A4-30EAF5572F7C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-partner@1"
 - ID: "6a098f09-1266-41be-a0cc-a57138e25855"
   Hint: Image
   Value: |
@@ -26,7 +22,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b9c01486-bff5-4e70-a6dc-d629f10e2f70"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -86,7 +82,7 @@ Languages:
       Value: partner
     - ID: "504daf0a-4a90-47af-865f-fa863d3666bd"
       Hint: MetaDescription
-      Value: "Sample partner landing. Fixed six-section shape with field-level personalization in mind."
+      Value: "A landing page for Prospera implementation partners, with account-level personalization and links to case studies and the team."
     - ID: "6bccb0b8-4078-4ac7-a0b4-c01f503290c5"
       Hint: FinalCtaTitle
       Value: Let's map your first account
@@ -107,7 +103,7 @@ Languages:
       Value: <p>We keep one Landing type. Account teams change the fields, not the graph.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6cc5e210-4125-4f35-ab54-a2cf5c905b0b"
+      Value: "199ec175-c398-406e-8190-2581596554c3"
     - ID: "9a475c2c-10ef-4005-8abb-c6520326b8c8"
       Hint: Feature3Description
       Value: <p>Case Studies listing sits next door. Link it from the secondary CTA.</p>
@@ -151,7 +147,7 @@ Languages:
       Value: Sofia Lang
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232909Z
+      Value: 20260917T163022Z
     - ID: "ed5d626a-9c45-4485-af97-e3bfea8d7ef6"
       Hint: Feature1IconName
       Value: users
@@ -166,7 +162,7 @@ Languages:
       Value: Shared catalog
     - ID: "f4ec005d-3148-4f34-9036-031edf269660"
       Hint: MetaTitle
-      Value: Partner program — Showcase
+      Value: Partner Program — Prospera
     - ID: "fa36d514-728d-4b09-b0dd-6fa6774df53d"
       Hint: ShortDescription
       Value: A partner landing with the same six sections. Personalize the headline and proof per account — do not fork the type.

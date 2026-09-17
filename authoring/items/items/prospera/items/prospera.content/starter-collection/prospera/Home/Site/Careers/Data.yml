@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c95ee311-56f4-4f25-9afc-4625d34e0b0a"
 Parent: "60ed0333-d1bb-4d37-ac52-a1f6368416d0"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {A018FECA-B92F-4B23-B6F8-9BD6A43F9617}
     {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
     {10A3D647-7CDA-49DA-9789-C55649A9B40C}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: careers@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c5021bf0-7bbd-4f8f-983b-8825be2dd7c0"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "e7293bdc-d360-43cc-a74c-478928d59fe2"
 Parent: "d2bc9fc2-be89-4bf7-b632-f4462705d8a0"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/Presentation Parameters"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-address-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fb89f8cf-081f-423a-b7d9-509732add5f7"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

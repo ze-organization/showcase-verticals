@@ -1,18 +1,14 @@
----
+﻿---
 ID: "88da8b3f-d50a-497c-ad07-261832efcae3"
 Parent: "587ae421-b052-43c4-af92-47c21ff3efa0"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/versus-list"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "versus-list@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "07d13931-a83d-48da-be83-48ca42d1c2f2"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

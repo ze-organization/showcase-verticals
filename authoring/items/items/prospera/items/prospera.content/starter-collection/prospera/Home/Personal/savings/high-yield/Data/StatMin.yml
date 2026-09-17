@@ -1,21 +1,17 @@
----
+﻿---
 ID: "dd567839-24f4-4196-8652-d84dcf509175"
 Parent: "b4dc4bed-cf15-4b55-b175-67d911697bc5"
 Template: "b0f18424-5404-472e-989e-902a437a5135"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/high-yield/Data/StatMin"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-high-yield@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "de0ee478-7f57-467d-a2e0-c9a5b500a2d7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

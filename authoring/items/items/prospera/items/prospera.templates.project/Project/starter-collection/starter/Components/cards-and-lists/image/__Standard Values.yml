@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3f99cfcb-b121-4808-9e8a-898704bac733"
 Parent: "dd43fa15-df52-47e1-abee-1aac0e6c7550"
 Template: "dd43fa15-df52-47e1-abee-1aac0e6c7550"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/image/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: image@1
 - ID: "55e5f2d4-4e47-4e21-9f0a-a770f3dc4989"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "7cb42f1d-5e11-4cad-b29a-96a43c85d715"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -72,7 +68,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151820Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -100,7 +96,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220358Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -156,7 +152,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151820Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -184,7 +180,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220357Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -240,7 +236,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151820Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -296,7 +292,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151820Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -324,7 +320,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220359Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

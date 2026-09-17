@@ -1,21 +1,17 @@
----
+﻿---
 ID: "3a81b925-e7be-4e6b-a18f-dc33ed596777"
 Parent: "1d7c0854-9899-4b57-8ec2-a36d113bc1fd"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Callout Card/CalloutHeaderStyle"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: start
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "callout-header-style@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5229079c-cf16-4ba9-8af3-02a4356303fe"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

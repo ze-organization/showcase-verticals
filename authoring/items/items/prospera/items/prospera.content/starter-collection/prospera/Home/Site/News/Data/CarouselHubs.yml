@@ -1,25 +1,21 @@
----
+﻿---
 ID: "fc232ff2-3c4f-47e8-9990-ee58c7d9378c"
 Parent: "d9d71d3e-f07f-4a4e-a7bb-11e5206b24bf"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/Data/CarouselHubs"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "1cf24bc0-c0f1-4bf0-b7dd-70a2cb5fa457"
+  Value: "09c25319-e18e-45b7-833b-c0f51de4e947"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-01.jpg" alt="Stacked sections on a page proof" />
+    <image mediaid="a850a0b5-a0ff-4c08-87c9-37e4e85d1142" alt="Midtown later hours" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,14 +34,14 @@ Languages:
       Value: 20260904T192202Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9874c41a-c2d1-48d2-9e32-3d4f81b547cf"
+      Value: "2a6feb38-d3d8-4942-bdd6-95bf71a0d4c0"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: "<p>Walk-in hours expand at New York Midtown.</p>"
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/News/hub-parents-read-as-a-site" text="Read story" />
+        <link linktype="internal" id="{940B92FF-ED2E-4D5D-8860-7A3613AB8A4A}" anchor="" querystring="" target="" class="" text="Read story" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -55,4 +51,4 @@ Languages:
       Value: New York Midtown extends lobby hours
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T013001Z
+      Value: 20260917T041610Z

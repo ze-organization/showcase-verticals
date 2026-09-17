@@ -1,9 +1,8 @@
----
+﻿---
 ID: "386aa504-ccfe-4420-9f62-de06e7e69e14"
 Parent: "b4a5f356-167c-4649-befb-7a792a56bb8c"
 Template: "94e866ca-eb1d-4a98-9c15-341d652c1386"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/APJ/mumbai-bkc"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D2579DCE-BFDD-4BAE-BED9-8590C8585F63}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-mumbai-bkc@1"
 - ID: "64043948-ed7e-4969-ada4-abef173e2e23"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "587cd023-1795-4d46-aaf2-94c630b1f0cb"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

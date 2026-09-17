@@ -1,13 +1,9 @@
----
+﻿---
 ID: "85bf7d86-98eb-4c01-9c2e-f2d9dfb5148e"
 Parent: "01ef7b82-e3be-4d0b-8f98-773f60540dc7"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/RingColor/secondary"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ring-color@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: secondary
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "bac28138-9999-4f0a-bfe7-284534d22735"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

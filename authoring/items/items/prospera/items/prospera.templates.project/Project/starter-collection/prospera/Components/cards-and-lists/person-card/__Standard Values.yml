@@ -1,18 +1,14 @@
----
+﻿---
 ID: "339af21f-56f3-40e4-88a0-7aa18c9fbaf4"
 Parent: "19cfa286-911f-49ed-b074-7013f352e174"
 Template: "19cfa286-911f-49ed-b074-7013f352e174"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/person-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3bb949ee-ddd7-4885-bcc6-1f15a337bfc3"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

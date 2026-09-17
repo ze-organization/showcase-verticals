@@ -1,18 +1,14 @@
----
+﻿---
 ID: "73c721f7-90c3-4ac7-99a1-e2af736e6862"
 Parent: "50117fd6-ba13-404d-b982-86ebeab4f76a"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/mobile-menu/Drawer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "mobile-menu@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a9ab4cdc-3344-4279-a5f8-9c7e0aa79ab3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

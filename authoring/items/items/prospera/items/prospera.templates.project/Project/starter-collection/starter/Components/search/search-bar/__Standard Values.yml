@@ -1,18 +1,14 @@
----
+﻿---
 ID: "eafa380d-5c6a-48b0-8464-7247fad8d429"
 Parent: "8d140ec2-f25c-4539-9fce-101b1299c69d"
 Template: "8d140ec2-f25c-4539-9fce-101b1299c69d"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/search-bar/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "724260b3-127e-4c35-a344-2c4cab53bcbd"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

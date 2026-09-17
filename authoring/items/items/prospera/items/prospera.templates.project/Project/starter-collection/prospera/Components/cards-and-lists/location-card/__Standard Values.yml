@@ -1,18 +1,14 @@
----
+﻿---
 ID: "7480d776-b0c8-46b0-84b8-f0279b410dca"
 Parent: "d7085589-cfb8-49e2-9db6-693bc75890e5"
 Template: "d7085589-cfb8-49e2-9db6-693bc75890e5"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/location-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2e7a2696-e28f-4cdf-b461-ec844ab3bd27"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

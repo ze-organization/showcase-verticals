@@ -1,16 +1,12 @@
----
+﻿---
 ID: "efd9b87c-a7fb-460d-89c5-3a43077b76a2"
 Parent: "ba3a6fc8-f669-46e9-8a24-0789dac704b7"
 Template: "ba3a6fc8-f669-46e9-8a24-0789dac704b7"
 Path: "/sitecore/templates/Project/starter-collection/Pages/News/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{BA3A6FC8-F669-46E9-8A24-0789DAC704B7}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: news@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "039ca0bf-61c7-41e1-afcd-0bdb84e4ded7"
@@ -23,7 +19,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

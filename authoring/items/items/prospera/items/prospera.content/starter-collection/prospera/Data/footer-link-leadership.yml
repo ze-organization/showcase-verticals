@@ -1,21 +1,17 @@
----
+﻿---
 ID: "cacdae14-c37f-4169-8ffd-6e1d715fbf72"
 Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/prospera/Data/footer-link-leadership"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-link-leadership@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "aeda8671-364d-4dbb-bb06-6bf06428da1d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

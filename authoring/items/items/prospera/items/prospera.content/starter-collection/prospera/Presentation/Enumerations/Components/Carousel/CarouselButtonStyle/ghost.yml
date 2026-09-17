@@ -1,13 +1,9 @@
----
+﻿---
 ID: "4f713d47-10ea-474f-8da7-9a19b29c74e6"
 Parent: "7cb0c9ee-39e4-492f-b406-6539ce072d29"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/Carousel/CarouselButtonStyle/ghost"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "carousel-button-style@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: ghost
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d3f693a5-f258-4dc1-b2b8-4ddbf0744b1f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,21 +1,21 @@
----
+﻿---
 ID: "bb6ab853-a55d-4aca-9842-20826a8d8d9b"
 Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Template: "788427f8-da26-49da-8333-aa6204677d18"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/FaqSwitch"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "317b7104-5890-494f-a516-950f49719dda"
+  Value: "9565b144-43c7-4c75-8a70-0c961114a5f9"
+- ID: "f0a4c745-69d6-4aec-80c5-8bb1b056cdb4"
+  Hint: Image
+  Value: |
+    <image mediaid="736e1ab7-6109-4425-b2f4-4c6b3544b925" alt="FAQ thumbnail" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -37,11 +37,11 @@ Languages:
       Value: 20260916T193247Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c32c0e1d-926a-4b0e-a354-1728a562436f"
+      Value: "7e95f51c-95fb-4a9b-87dc-2b988d537400"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193250Z
+      Value: 20260917T041633Z

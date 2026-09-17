@@ -1,23 +1,19 @@
----
+﻿---
 ID: "7db7e009-2f6d-480f-9883-0bfa65d20a21"
 Parent: "63da64e5-39af-482b-b2dc-df0d5cc60539"
 Template: "63da64e5-39af-482b-b2dc-df0d5cc60539"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/Logos Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {A964BCA8-3B5E-4BDF-8D59-4DA0D26A8D60}
     {2069A668-FD76-4944-A9DF-B4F465707AF0}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e174ce40-a67a-4943-9920-81945681cb5f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

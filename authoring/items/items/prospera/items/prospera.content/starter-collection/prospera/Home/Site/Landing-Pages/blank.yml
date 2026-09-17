@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c1f725d7-fefe-4137-86e5-9834bb8e019c"
 Parent: "706a31be-3ae9-4b1d-b65d-3d9c0f5ea311"
 Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/blank"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,14 +10,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D830851D-43EC-4BCB-B960-C013BA2AE260}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "blank-landing-sample@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9dbfc24c-8ebe-4e18-9af7-c50292909ec5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -46,13 +42,13 @@ Languages:
       Value: blank
     - ID: "5f5c4ed3-2cc1-49cf-8db8-8d8d735e481b"
       Hint: MetaTitle
-      Value: Compose this landing — Showcase
+      Value: Blank Landing — Prospera
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1e854738-8a6a-4f65-bdff-94c9b5bd813a"
+      Value: "14b359a1-f64f-4ad4-bd51-27798838d484"
     - ID: "a2ffeaa0-6cba-461d-a2b1-28331f5dd95f"
       Hint: MetaDescription
-      Value: Sample blank landing. Header and footer are in place; drop components into the main Container.
+      Value: An empty landing page with header and footer in place, ready for components to be added.
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -62,4 +58,4 @@ Languages:
       Value: 0.5
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232908Z
+      Value: 20260917T163027Z

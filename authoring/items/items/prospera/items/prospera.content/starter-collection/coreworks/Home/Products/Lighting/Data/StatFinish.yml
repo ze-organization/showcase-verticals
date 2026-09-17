@@ -1,21 +1,17 @@
----
+﻿---
 ID: "6f377473-9c24-40a9-a64e-355ce37c9ac4"
 Parent: "377842b9-054c-43e1-9b8f-c00da3780cf0"
 Template: "16986568-7609-4150-be32-a56d42215bec"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Lighting/Data/StatFinish"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-category-lighting@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "22d6eec8-01f0-484b-a140-0d11d76c68da"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

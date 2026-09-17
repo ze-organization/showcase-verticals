@@ -1,21 +1,17 @@
----
+﻿---
 ID: "f4cc1292-4297-4547-919a-8098a2ce6c0f"
 Parent: "ad11e217-f605-4c2d-9b80-2e040cb13bf3"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Tagline Banner/TaglineBannerAlignY"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: top
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "tagline-banner-align-y@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "acea8cdf-ab31-4103-b068-fa8da16eba30"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

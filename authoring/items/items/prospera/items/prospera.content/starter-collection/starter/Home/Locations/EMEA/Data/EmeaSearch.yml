@@ -1,21 +1,17 @@
----
+﻿---
 ID: "712a29fc-34f8-49ee-9acc-40def519943b"
 Parent: "5a625b1a-2f03-4cd1-85cf-149fc5549b46"
 Template: "a0087a72-8274-46e4-aaf0-5e41bf9390cc"
 Path: "/sitecore/content/starter-collection/starter/Home/Locations/EMEA/Data/EmeaSearch"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-emea@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "62b2aaa2-2960-4294-bbe6-ed2e02c788ae"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

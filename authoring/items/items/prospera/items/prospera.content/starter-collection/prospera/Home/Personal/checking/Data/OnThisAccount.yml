@@ -1,21 +1,17 @@
----
+﻿---
 ID: "b35ee975-dba0-417d-9f40-c94adc1ca107"
 Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Template: "6c0b35ad-65d8-4a1b-a847-fad6c35ec3a1"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/OnThisAccount"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a1a06afc-9f83-4226-a102-41905d002d5c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

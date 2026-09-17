@@ -1,18 +1,14 @@
----
+﻿---
 ID: "06173de3-069b-469b-bf87-1e235f48937c"
 Parent: "63e85c54-5c8e-4edb-aa7f-563572575cc5"
 Template: "63e85c54-5c8e-4edb-aa7f-563572575cc5"
 Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/nav-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "nav-item@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f07630b2-b8ba-4d11-9b6f-f290610acbc6"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151912Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221334Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151912Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -184,7 +180,7 @@ Languages:
       Hint: Link
       Value: |
         <link text="Nav item" linktype="external" url="/" />
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -240,7 +236,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151912Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -296,7 +292,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151913Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -324,7 +320,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T221334Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

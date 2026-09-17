@@ -1,21 +1,17 @@
----
+﻿---
 ID: "ef2af1ff-4c56-4dec-80b6-cdeeae097d6b"
 Parent: "5280a6c0-2f92-40f3-9cc6-1adae8aa6a74"
 Template: "8cba3388-5944-43d2-8827-02704751704c"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/North-America/Data/NaLocations"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-north-america@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "65ea3f35-263b-401b-b2e4-413d1d23d965"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

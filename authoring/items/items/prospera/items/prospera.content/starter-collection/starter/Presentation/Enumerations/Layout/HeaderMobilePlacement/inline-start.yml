@@ -1,13 +1,9 @@
----
+﻿---
 ID: "8d7bbe82-b934-4bcd-b28f-9162de025730"
 Parent: "c83a481a-05bc-434f-af1e-48588b0d71f5"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/HeaderMobilePlacement/inline-start"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "mobile-placement@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "inline-start"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a389f16b-c795-47c8-b3a5-a469bee3a1ff"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f911de0b-4a08-453c-8aa0-31b7efaee509"
 Parent: "5a757ef0-05e5-43b0-b164-6a4d7fff76ef"
 Template: "f2773dc6-c534-4fe4-a907-be8f25e79a26"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Partners/ridge-labs"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -15,9 +14,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{2FFF292A-289B-472C-B0ED-DD93A50FFA31}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "partner-ridge-labs@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7e013ee6-23e8-438d-9c68-24e19b630437"
@@ -26,7 +22,7 @@ SharedFields:
   Value: |
     <image mediaid="{12ED5CF8-C347-459A-B4B5-B669F5A89B44}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

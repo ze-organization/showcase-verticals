@@ -1,16 +1,12 @@
----
+﻿---
 ID: "540eb48e-e515-4352-9b1f-31daef82413b"
 Parent: "fbf85376-7a35-4af5-a8ab-336a224e2ddc"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6c1c5879-e781-43e2-bbdf-8448dc753271"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{0354268B-CAEA-4467-8D41-BE4F2AAD2793}" alt="Advisor and customer reviewing a personal savings framework booklet in a bank lounge" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -36,21 +32,21 @@ Languages:
     - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
       Hint: PrimaryAction
       Value: |
-        <link linktype="external" url="/Personal/savings/high-yield" text="High-yield savings" />
+        <link linktype="internal" id="{3D6FB5BD-07B6-4256-9DA8-C8D6994E9359}" anchor="" querystring="" target="" class="" text="High-yield savings" title="" />
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "73233f2f-ac18-4ef0-bd3e-47a6fad5181a"
+      Value: "8abcc24a-28d8-400b-9373-7b15b11895f5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203152Z
+      Value: 20260917T162358Z
     - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
       Hint: Subtitle
       Value: "High-yield savings when you need access. A certificate of deposit when you can lock a term. IRA savings when the conversation is retirement. Everyday checking is the funding account. U.S. residents 18 or over in this demonstration."

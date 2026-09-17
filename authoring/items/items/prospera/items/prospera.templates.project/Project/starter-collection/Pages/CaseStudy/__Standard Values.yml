@@ -1,16 +1,12 @@
----
+﻿---
 ID: "ef4d7e21-4bb8-4b94-aee3-16449273cf8a"
 Parent: "700416a0-bb15-4001-9c47-233eae954352"
 Template: "700416a0-bb15-4001-9c47-233eae954352"
 Path: "/sitecore/templates/Project/starter-collection/Pages/CaseStudy/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{700416A0-BB15-4001-9C47-233EAE954352}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-study@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a21ccf8a-ab7c-4731-86e3-67fe3e8f4702"
@@ -23,7 +19,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

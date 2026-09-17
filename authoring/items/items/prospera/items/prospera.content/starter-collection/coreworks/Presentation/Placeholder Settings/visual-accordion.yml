@@ -1,13 +1,9 @@
----
+﻿---
 ID: "85e0c2f6-b122-4459-9d83-4c65f7fdff93"
 Parent: "884d33de-09ec-4b14-a760-72c8423c0c46"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Placeholder Settings/visual-accordion"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "visual-accordion-{*}"
@@ -18,7 +14,7 @@ SharedFields:
   Hint: Allowed Controls
   Value: "{E4085EBD-0178-476E-B4CA-6544D13AE050}"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

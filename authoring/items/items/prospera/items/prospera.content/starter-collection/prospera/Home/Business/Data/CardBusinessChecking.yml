@@ -1,25 +1,21 @@
----
+﻿---
 ID: "addd243d-13ba-483d-8cd9-4835d14a4cdb"
 Parent: "946cdb23-a508-4a62-bcc3-793d24af9218"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/Data/CardBusinessChecking"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: business@1
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Business owner and commercial banker on a factory floor" />
+    <image mediaid="fdf35b06-f9d1-460e-a033-0baf775d527a" alt="Owner and banker on a shop floor" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f87dbc99-75ce-47f8-9423-f67f96d85045"
+  Value: "3f03a4ad-a6b4-43ff-9712-8f7a7b68ed17"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Operating deposits, payroll, and payables for U.S. entities. Eligibility is a conversation.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cc32485f-d628-442a-86a9-e380db1f4d2f"
+      Value: "e421036f-6fd4-4f2a-b483-5c2d0e43684d"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Business checking
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180320Z
+      Value: 20260917T162656Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Business/business-account" text="Business checking" />
+        <link linktype="internal" id="{BA46588C-F3CF-4357-A9FE-3D132BC14F37}" anchor="" querystring="" target="" class="" text="Business checking" title="" />

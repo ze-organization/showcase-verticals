@@ -1,18 +1,14 @@
----
+﻿---
 ID: "6a2fecbc-5fe2-4705-b365-716ea03d2c4f"
 Parent: "3aa0fda9-fd53-496b-ba28-ee9c1eca7311"
 Template: "3aa0fda9-fd53-496b-ba28-ee9c1eca7311"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-address-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-address-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fb046d8f-2cb4-4d59-a6ed-0ed5855d9a17"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "9282adc1-772b-4560-b07a-99ec6f53b278"
 Parent: "bb47ddeb-5fc2-420f-8a11-09ba45f60a5d"
 Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Privacy/Data/Body"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: privacy@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "90f200ca-86f9-41c9-a9a6-1f08a50be6c4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
     - ID: "a141102d-2b8d-4542-a24c-ebcb7de0b798"
       Hint: Body
       Value: |
-        <p>This site stores the minimum needed to run the experience: pages you request, forms you submit, and optional analytics events. We do not sell personal data.</p><p><strong>Cookies.</strong> We use a small set of cookies to remember consent, keep a session, and measure whether a form was submitted. The cookie banner points at this page as the policy target. You can withdraw consent by clearing site data in your browser.</p><p>Contact details you send on <a href="/Contact">/Contact</a> or <a href="/Get-Started">/Get-Started</a> (Apply Now) are used only to reply. Sample people, products, and branches on this site are demonstration content for the fictional Prospera Bank, N.A., not a live customer file.</p>
+        <p>This site stores the minimum needed to run the experience: pages you request, forms you submit, and optional analytics events. We do not sell personal data.</p><p><strong>Cookies.</strong> We use a small set of cookies to remember consent, keep a session, and measure whether a form was submitted. The cookie banner points at this page as the policy target. You can withdraw consent by clearing site data in your browser.</p><p>Contact details you send on <a href="/Site/Contact">/Contact</a> or <a href="/Apply-Now">/Get-Started</a> (Apply Now) are used only to reply. Sample people, products, and branches on this site are demonstration content for the fictional Prospera Bank, N.A., not a live customer file.</p>
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

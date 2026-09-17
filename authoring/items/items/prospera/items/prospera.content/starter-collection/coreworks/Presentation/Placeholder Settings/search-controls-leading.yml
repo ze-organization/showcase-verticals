@@ -1,13 +1,9 @@
----
+﻿---
 ID: "6d6b9cad-daa0-4243-9efb-571d51e64146"
 Parent: "884d33de-09ec-4b14-a760-72c8423c0c46"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Placeholder Settings/search-controls-leading"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "search-controls-leading-{*}"
@@ -23,7 +19,7 @@ SharedFields:
     {B2B9CC82-8C4D-42E9-9773-5601B6DE539D}
     {87901DD4-6CED-4990-A688-DD928E970A72}
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

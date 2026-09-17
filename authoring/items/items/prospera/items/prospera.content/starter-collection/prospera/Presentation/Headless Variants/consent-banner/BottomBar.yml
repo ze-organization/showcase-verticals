@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ff88d4d1-1c9a-4287-b8ed-01d6d65559c9"
 Parent: "3596e184-8667-4383-ad0f-5a9ac1cc8802"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/consent-banner/BottomBar"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "consent-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0b644967-22ff-431b-951a-b9e267cad4c7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "a086af5a-300a-400a-829a-73de39102d0e"
 Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/prospera/Data/footer-link-features"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-link-features@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "89de5d0a-9507-4a4f-bea3-a3bb4a313345"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -31,11 +27,11 @@ Languages:
       Value: 20260813T223457Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "049e523b-fca6-40d6-ad74-99175076a590"
+      Value: "9f1a405d-a719-45a0-bdba-c1f2cc579f95"
     - ID: "b5d4268a-857f-42e3-aead-31acc948e95b"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/cards/rewards-visa" text="Virtual cards" />
+        <link linktype="internal" id="{1897C34F-1CD1-4545-ABEB-0EA21C6C6805}" anchor="" querystring="" target="" class="" text="Virtual cards" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -45,4 +41,4 @@ Languages:
       Value: Virtual cards
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193512Z
+      Value: 20260917T161946Z

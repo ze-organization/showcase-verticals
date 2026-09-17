@@ -1,13 +1,9 @@
----
+﻿---
 ID: "1e496a19-90a5-4308-8064-bb707683c7bc"
 Parent: "ec44463d-9ed2-4d06-9fb9-86027732543d"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/OverlapTop/none"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "overlap-top@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: none
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a749b904-971f-4d94-8e98-1ac6f0508285"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

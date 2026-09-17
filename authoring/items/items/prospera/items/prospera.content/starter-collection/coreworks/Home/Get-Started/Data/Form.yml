@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4f286167-9e4d-4831-b2f2-bdb5c28474a4"
 Parent: "3d2762db-8c18-406d-b6a4-2a7ef4b4c340"
 Template: "6068e692-98d7-4fbf-8a2c-ff1589fcb2b8"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Get-Started/Data/Form"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "get-started@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9b04cf9c-e3c2-4f7c-92d2-816f50e9deda"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

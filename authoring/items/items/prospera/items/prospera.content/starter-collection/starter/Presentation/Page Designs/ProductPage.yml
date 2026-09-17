@@ -1,9 +1,8 @@
----
+﻿---
 ID: "8cc924f0-6e10-4429-8f5c-059903180999"
 Parent: "983556dd-bbb8-482a-9fc6-8a8fb06770df"
 Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Page Designs/ProductPage"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
   Value: "{D50CD645-2D34-46C2-908D-D5C180EE69CE}|{31F076CF-CC80-493F-B36B-207BF3949E6B}|{CA3C4CFE-78D5-4B35-96DB-CC7F977AE1B6}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-page@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "98d22ee3-8a0c-4632-ab85-ed9d1e4bc24c"
@@ -26,7 +22,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

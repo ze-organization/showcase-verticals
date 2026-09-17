@@ -1,21 +1,17 @@
----
+﻿---
 ID: "50130086-41d1-441c-9deb-d13c503edc1d"
 Parent: "06a066c5-5deb-4224-8ca9-71ffe0313263"
 Template: "94b6f4ae-dded-4e5f-b144-c4a842e8eda2"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/ProductCardVariant/overlay"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "2128fc95-cfe4-4cf5-93be-f5fee9d7694d"
   Hint: Value
   Value: overlay
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-card-variant@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "32943edb-1b35-40b1-a120-00e8a19ddb12"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

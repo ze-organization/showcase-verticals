@@ -1,13 +1,9 @@
----
+﻿---
 ID: "f7a776e1-5cc2-41f8-b15e-38db07ad0dff"
 Parent: "e898a9f8-dc63-4838-b965-5190e2129e1a"
 Template: "e898a9f8-dc63-4838-b965-5190e2129e1a"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ai/ai-chat-widget/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-widget@1"
 - ID: "338ef5a7-9eda-4c6d-8a6f-2ea844a43faa"
   Hint: Avatar
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "52089b61-9444-4d7c-a967-938c6596499c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f60fda06-430e-4257-a540-925d40087920"
 Parent: "4589a7ca-fea7-4858-8f5e-0183e8d716be"
 Template: "4589a7ca-fea7-4858-8f5e-0183e8d716be"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/search-pagination-bar/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-pagination-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "946bbd6a-6ad2-43f2-882c-962235bb4a02"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -92,7 +88,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151957Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -132,7 +128,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222335Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -212,7 +208,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151957Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -252,7 +248,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222333Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -332,7 +328,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151958Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -412,7 +408,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151958Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -452,7 +448,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222335Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

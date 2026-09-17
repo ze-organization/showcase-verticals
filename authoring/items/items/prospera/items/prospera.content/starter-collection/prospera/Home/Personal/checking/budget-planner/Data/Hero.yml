@@ -1,16 +1,12 @@
----
+﻿---
 ID: "bf498894-821b-4322-b1d0-57ca27021bcb"
 Parent: "4c2e14b6-9308-42a7-bf31-236c6e868416"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/budget-planner/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking-budget-planner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "bd28752b-27f2-4520-b32f-9d44f5d0f9d9"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{CCFF64C8-40AA-4755-AECA-0DB92E8B1BD8}" alt="Monthly budget worksheet with income, bills, and leftover columns on a kitchen table" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -36,21 +32,21 @@ Languages:
     - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
       Hint: PrimaryAction
       Value: |
-        <link linktype="external" url="/Personal/checking" text="Everyday checking" />
+        <link linktype="internal" id="{8D797D5B-F575-4167-AACF-6646E40EF424}" anchor="" querystring="" target="" class="" text="Everyday checking" title="" />
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6015af8c-c4ea-48fb-8c30-587f4da2622e"
+      Value: "64d286b8-94cf-4ad4-a387-84d9f8446f08"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203115Z
+      Value: 20260917T162504Z
     - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
       Hint: Subtitle
       Value: Income, bills, and the cash you meant to save — described as a household worksheet on checking. This page does not submit numbers or run a live calculator.

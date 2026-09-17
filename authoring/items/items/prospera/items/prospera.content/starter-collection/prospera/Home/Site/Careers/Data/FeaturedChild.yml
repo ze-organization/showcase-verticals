@@ -1,16 +1,12 @@
----
+﻿---
 ID: "2b4e5bba-7e8b-4501-bd86-85edcd47a076"
 Parent: "c95ee311-56f4-4f25-9afc-4625d34e0b0a"
 Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/Data/FeaturedChild"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: careers@1
 - ID: "cef030a5-43cb-4f99-9a0a-e8d98b750e3e"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "393e23a5-9cce-4684-b6f0-cfe4c6299b26"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -42,7 +38,7 @@ Languages:
     - ID: "5476fe86-73c2-45a2-a9c8-40c681ddf8cf"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Careers/platform-engineer" text="View role" />
+        <link linktype="internal" id="{AF50FAFC-D28A-4C2A-BBB4-E760540EA354}" anchor="" querystring="" target="" class="" text="View role" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b8f15a13-c5aa-40fc-bd52-fb26997a4ce1"

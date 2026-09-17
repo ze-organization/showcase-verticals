@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c7be9e7e-a1de-431a-9277-e733b0cb7d7e"
 Parent: "1517c355-0509-48bc-ac71-9dedd06b1486"
 Template: "1517c355-0509-48bc-ac71-9dedd06b1486"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/People Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {9F5C7447-DFE9-41FD-9CC5-24678EFBE3B5}
     {DF0EAC7E-1FE2-46B7-A6A4-4CDBAC962B41}
     {FD034356-1297-4418-86C6-B57E99A17D17}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ddb65f67-f2bb-49d4-9c1b-7f5c72636a15"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

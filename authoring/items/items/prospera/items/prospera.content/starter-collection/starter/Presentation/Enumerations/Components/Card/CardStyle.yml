@@ -1,21 +1,17 @@
----
+﻿---
 ID: "aa961f83-a248-4bec-890c-058c0f6f914a"
 Parent: "3dad41d7-3abf-4d94-8a6d-0f3c485dc3c2"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Components/Card/CardStyle"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: flat
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "card-style@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1771b0c5-4117-4345-9fd7-b12c75cf242a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

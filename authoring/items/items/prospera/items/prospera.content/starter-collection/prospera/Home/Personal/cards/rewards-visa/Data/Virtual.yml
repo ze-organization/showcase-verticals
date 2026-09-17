@@ -1,25 +1,21 @@
----
+﻿---
 ID: "4c518821-3322-4911-8743-4319dcc81865"
 Parent: "57a1389e-2f54-4aa9-828e-6bcef40002d6"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/rewards-visa/Data/Virtual"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards-rewards-visa@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/pdp-01.jpg" alt="Person reviewing household finances and a virtual-card number at a desk" />
+    <image mediaid="93a8a21e-0a2a-4194-b3b3-ce11814f6311" alt="Virtual card at a desk" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "486a0c37-c1b5-414d-9294-e5ca07a1d30c"
+  Value: "9cac7c14-e9a6-4eaf-861c-0e13d54301d2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Virtual cards
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "665b520e-9105-44c0-ba7b-fa65299e191b"
+      Value: "8af99b5a-b2d7-4dd3-bfa3-6e9e3cf2a3a3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Features" text="Account tools" />
+        <link linktype="internal" id="{39AA452B-1AD2-43FC-B289-B5B81A473C1E}" anchor="" querystring="" target="" class="" text="Account tools" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: "<p>Issue a virtual card number for a subscription or a vendor without sharing the Rewards Visa in your wallet. Limits and close dates are set after approval. This page does not reproduce in-app chrome.</p><ul><li>Pay a streaming bill from a labeled savings goal by moving cash to checking first — virtual numbers spend on the card, not from a UK-style Space.</li><li>Joint owners each have their own physical card on checking; virtual numbers on the Rewards Visa follow the cardholder who applied.</li></ul>"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193216Z
+      Value: 20260917T162454Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: A number for a vendor, not the physical card.

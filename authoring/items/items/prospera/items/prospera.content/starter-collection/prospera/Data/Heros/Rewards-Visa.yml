@@ -1,0 +1,55 @@
+﻿---
+ID: "d86d72f0-a3d4-41f7-8aea-0b49d7fff506"
+Parent: "b6c27129-95a5-4859-975a-4e797119b87a"
+Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
+Path: "/sitecore/content/starter-collection/prospera/Data/Heros/Rewards-Visa"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "23a2577e-9fe0-494f-961d-47389b5792b0"
+- ID: "e19f6e46-d51b-47b3-bda8-f99b0246d84d"
+  Hint: Image
+  Value: |
+    <image mediaid="eb87433d-11e5-433b-8dcc-e4aa519ea1d8" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T175555Z
+    - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
+      Hint: PrimaryAction
+      Value: |
+        <link text="Apply Now" linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" querystring="" target="" title="" class="" />
+    - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
+      Hint: SecondaryAction
+      Value: |
+        <link text="See Rewards Visa" linktype="internal" id="{1897C34F-1CD1-4545-ABEB-0EA21C6C6805}" querystring="" target="" title="" class="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "266a868c-1645-4891-9378-5d35683a1264"
+    - ID: "b7c546d7-acc4-4fdc-953a-47c39dcf17d3"
+      Hint: Description
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T182201Z
+    - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
+      Hint: Subtitle
+      Value: |
+        <div class="ck-content"><p>Earn 1.5% cash back on eligible spend, posted as a statement credit. No annual fee in this demonstration. Pair it with everyday checking.</p></div>
+    - ID: "e804b2fe-aeec-46fd-9146-631c15c72ca1"
+      Hint: Eyebrow
+      Value: Rewards Visa
+    - ID: "fb31d0c7-b1ab-4a2a-a53d-e06e7cce2b58"
+      Hint: Title
+      Value: Everyday purchases. A published sample rate of cash back.

@@ -1,0 +1,98 @@
+﻿---
+ID: "56289178-d2d7-46d6-b312-34c27c49373b"
+Parent: "3106a0db-d24a-405c-8674-5f2791ac9a12"
+Template: "3106a0db-d24a-405c-8674-5f2791ac9a12"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/reviews-carousel Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c21b72c0-a4e7-4f03-82fb-08f871a98850"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10a27fd9-cc45-49fd-80d6-e12afe9ff808"
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: "187dd9df-1bc0-4eb9-b243-d074f7d537b5"
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: "1b1d4e8e-9921-4f09-9fa4-f28f031ebea7"
+      Hint: SlidesPerViewMd
+      Value: 2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T222105Z
+    - ID: "289a052d-4ffe-4f61-a977-161555b38e22"
+      Hint: HeadingLayout
+      Value: "{C0A0424D-04F3-458F-B709-3E3200CB325F}"
+    - ID: "341cc97a-bc24-4837-80ca-483f19f546d5"
+      Hint: PaddingY
+      Value: "{9C4BA83F-F8C1-4280-983C-92B215E0FA79}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "6a9f19e8-d9d2-4f5f-9e59-56d27bdf6b02"
+      Hint: AutoplayDelayMs
+      Value: 6000
+    - ID: "71fa684f-0e2a-4b21-9847-194c1c466df3"
+      Hint: SlidesPerViewSm
+      Value: 1
+    - ID: "8b2c6eff-c2b5-499f-88d9-d81e3d8575f5"
+      Hint: HeadingPlacement
+      Value: "{1CE6DA95-C566-4E25-B225-5A9577541FA6}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5411e2c8-6983-4983-9ec0-d13c1118540a"
+    - ID: "8ef170b1-d58a-420e-a690-c6852c3168a9"
+      Hint: NavigationButtonShape
+      Value: "{318B4C96-6BDB-48BA-8177-A89EB56E282A}"
+    - ID: "958b7ae6-de0c-46c2-a8a9-b4b26ce3b242"
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: "a517bb26-ea3b-457f-920e-c5e5e3287b4c"
+      Hint: SlideEmphasis
+      Value: "{20A825C4-9409-4B4D-A661-EBB32D464BC1}"
+    - ID: "aca97a8c-6e35-4194-8a9b-7225df2c4cc0"
+      Hint: OverlapTop
+      Value: "{1E496A19-90A5-4308-8064-BB707683C7BC}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d27b150a-69b5-497f-b7e0-42d2b8783ffe"
+      Hint: Padding
+      Value: "{C31EF12D-8559-440F-A19A-E87977B9933A}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260813T222105Z
+    - ID: "dee6b7d5-810c-4cd4-a75f-fa3e8e28edda"
+      Hint: SlidesPerViewLg
+      Value: 3
+    - ID: "e24966bf-c1b8-4fc3-882a-5d22b5d761f1"
+      Hint: NavigationLayout
+      Value: "{9077BC66-C8A0-4810-94C3-742C93343243}"
+    - ID: "eb440692-01ad-4c52-b67c-8756e4728360"
+      Hint: SpaceBetween
+      Value: 16
+    - ID: "ec8f9bfd-7ab3-4288-a21a-3ef893a919c5"
+      Hint: NavigationButtonStyle
+      Value: "{9D813387-9E06-43FC-8EC4-A5930E24A6A3}"
+    - ID: "f2faac52-5cff-4ed2-a275-fd95324db161"
+      Hint: CardVariant
+      Value: "{8797712D-047D-4E3B-A1A5-315277B979D6}"
+    - ID: "f83a0f34-62c0-4b41-949e-c53c59ad0a58"
+      Hint: HeadingSize
+      Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
+    - ID: "f9be30e4-b114-4308-af15-162519cf1b45"
+      Hint: Pagination
+      Value: "{8DB0BFE4-9AF9-404B-8D94-2CBA17214886}"
+    - ID: "fb69ff60-0f31-49b0-96f7-debc6cf449f0"
+      Hint: MaxWidth
+      Value: "{1D56C84F-0F79-4EEB-8796-37D00CFA6462}"

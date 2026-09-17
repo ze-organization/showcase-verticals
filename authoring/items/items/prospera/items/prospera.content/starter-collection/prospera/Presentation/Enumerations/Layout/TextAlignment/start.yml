@@ -1,13 +1,9 @@
----
+﻿---
 ID: "8ae85b6b-83ed-4c05-9c49-0acc26134c97"
 Parent: "e83946f9-949a-4a8c-bbc1-2c32486b64e0"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/TextAlignment/start"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "text-alignment@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: start
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "69d6b8e9-f3c0-426b-a9a4-095afcc52550"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

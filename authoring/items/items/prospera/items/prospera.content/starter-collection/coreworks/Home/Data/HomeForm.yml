@@ -1,21 +1,17 @@
----
+﻿---
 ID: "f3e781a6-848c-494e-8a67-8cd0282f4500"
 Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
 Template: "6068e692-98d7-4fbf-8a2c-ff1589fcb2b8"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/HomeForm"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "27930ca5-6c84-42c8-935e-357e7da2028d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

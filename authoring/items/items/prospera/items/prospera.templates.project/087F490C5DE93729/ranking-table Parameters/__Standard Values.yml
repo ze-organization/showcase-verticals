@@ -1,0 +1,65 @@
+﻿---
+ID: "6c4a44c4-6f60-4dd9-acc5-ecb86cd2680a"
+Parent: "816497b3-9fc4-4455-8e4f-37d9197164bb"
+Template: "816497b3-9fc4-4455-8e4f-37d9197164bb"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/ranking-table Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ad549f93-6fd6-44ad-b60f-d12dfa706eb8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03a33b49-786f-4f10-b8be-eae1c0c9a31e"
+      Hint: Density
+      Value: "{6B12E8C2-8DD7-46A0-A3E2-BC8947C6088E}"
+    - ID: "21f16f97-d68e-4415-8424-41af32129617"
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T020317Z
+    - ID: "341da52b-91da-49c7-a217-73d3e470700c"
+      Hint: HighlightBottomCount
+      Value: 0
+    - ID: "4f2873d4-73d0-4245-a067-6455f32bc878"
+      Hint: HighlightTopCount
+      Value: 0
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5c0bd991-f65a-4d23-9568-8fc60a0636b5"
+      Hint: ShowMovement
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "74bd28fb-b8df-4da4-8d72-60162161a190"
+      Hint: PanelStyle
+      Value: "{931405DC-393A-4B83-B7B9-93DE16C2905D}"
+    - ID: "76884976-e0f5-4522-810a-e601db325f01"
+      Hint: HighlightBottomTone
+      Value: "{3A937C25-7768-4062-A47D-659820B7452B}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ae5ede6-a566-4dad-bc85-6ae8f8421050"
+    - ID: "9adb55f9-70eb-44e8-9095-3626fcb89238"
+      Hint: ShowBadge
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T020317Z
+    - ID: "dd5999a9-e8af-46cb-90a4-970ef4b358bf"
+      Hint: HighlightTopTone
+      Value: "{45E6DE36-9423-42C1-BFB8-2FC1BB59E79C}"
+    - ID: "eca4b414-ecad-40eb-822b-631c1d04a037"
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"

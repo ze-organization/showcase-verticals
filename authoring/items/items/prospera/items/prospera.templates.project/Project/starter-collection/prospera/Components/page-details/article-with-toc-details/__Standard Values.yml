@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5fdaf5da-956c-4a3a-b717-13888523d56c"
 Parent: "81f94cd4-96c9-49e7-9471-d289fd86927f"
 Template: "81f94cd4-96c9-49e7-9471-d289fd86927f"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/article-with-toc-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-with-toc-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e1ff0fc7-4e22-4034-a46f-7ac892f00123"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

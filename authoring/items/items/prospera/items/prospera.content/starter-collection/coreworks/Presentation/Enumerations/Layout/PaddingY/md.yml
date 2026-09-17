@@ -1,13 +1,9 @@
----
+﻿---
 ID: "ea318c69-b318-41cd-ad3c-bab427d323b2"
 Parent: "31df14c9-9ab4-47df-8e98-3171edffe995"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/PaddingY/md"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "padding-y@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: md
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "24a358f1-3304-4b39-af6b-a6ccec89c9a2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "063d1c28-1030-4c46-8e12-13c1ad61ff69"
 Parent: "9efa9304-a6cb-4f48-9046-0cc8fc082299"
 Template: "9efa9304-a6cb-4f48-9046-0cc8fc082299"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/offer-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offer-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5b077890-a24e-435d-a233-1aec892b818c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

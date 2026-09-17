@@ -1,21 +1,17 @@
----
+﻿---
 ID: "b07d0220-9bd6-4479-8ddb-ed1122b485ca"
 Parent: "7250ab85-129a-4759-b012-e479122c2865"
 Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
 Path: "/sitecore/content/starter-collection/starter/Home/Careers/Data/Jobs"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: careers@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "84f23bca-f0e1-41fc-8f03-a3835da909cd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

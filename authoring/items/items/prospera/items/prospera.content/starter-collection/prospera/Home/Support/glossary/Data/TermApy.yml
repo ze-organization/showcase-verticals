@@ -1,21 +1,21 @@
----
+﻿---
 ID: "06fbfac8-7bd7-40ea-b970-0c1c1d221f53"
 Parent: "7ff88223-c27f-4bbc-b38a-cf396612e105"
 Template: "788427f8-da26-49da-8333-aa6204677d18"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/glossary/Data/TermApy"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-glossary@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "17a9af04-415c-4c8f-ab97-8ea359373821"
+  Value: "6a68b504-e099-4843-b6e5-100f1ea4b9a8"
+- ID: "f0a4c745-69d6-4aec-80c5-8bb1b056cdb4"
+  Hint: Image
+  Value: |
+    <image mediaid="176ed7e2-5b57-464d-b024-d42a5036db80" alt="FAQ thumbnail" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -37,11 +37,11 @@ Languages:
       Value: 20260916T180940Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d480a51d-aea9-4c06-82f1-3fa58cf4de06"
+      Value: "65eb30c5-0208-4d4a-bb91-3164f8a979d1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180944Z
+      Value: 20260917T041632Z

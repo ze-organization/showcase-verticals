@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3e31e03b-4b4c-4b99-adf3-16dcd3298c25"
 Parent: "6285b8c2-affa-4876-b3c2-89268ad854ee"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/AI Chat/AIChatLauncherIcon/chat"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-launcher-icon@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: chat
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "f7e34fc2-15b5-4d9c-9f75-548e7c75b1da"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

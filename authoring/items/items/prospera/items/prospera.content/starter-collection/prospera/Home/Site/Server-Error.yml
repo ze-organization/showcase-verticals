@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f6766922-80d9-4d67-a3ca-c3d85cf0c8f5"
 Parent: "42118861-8e23-499c-bf18-f1bbd4397bd1"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Server-Error"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "server-error@1"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 588
@@ -21,7 +17,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "1dc30044-d898-4570-b816-a6ab27486e18"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -78,7 +74,7 @@ Languages:
       Value: true
     - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
-      Value: The server could not finish this request.
+      Value: The server could not complete this request. Try again, or return to the Prospera homepage.
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: "Server-Error"
@@ -87,13 +83,13 @@ Languages:
       Value: summary
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6783f2e7-8d31-4fbd-a469-b958c2f709b1"
+      Value: "596dbebe-5d3f-4262-9d17-dcf948396230"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: false
     - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
-      Value: Something went wrong — Showcase
+      Value: Something Went Wrong — Prospera
     - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Error
@@ -103,4 +99,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195228Z
+      Value: 20260917T163002Z

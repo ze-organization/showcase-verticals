@@ -1,9 +1,8 @@
----
+﻿---
 ID: "1bd68786-b78a-42cf-945a-f1431eeb77ca"
 Parent: "a4166225-e798-42a4-ba0a-0106e546185e"
 Template: "745eb7c5-d8b0-4a77-85bf-c0c0cbb60573"
 Path: "/sitecore/content/starter-collection/starter/Home/Careers/editor-experience-lead"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,14 +10,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{707917E1-BE3A-5C81-A20F-22C0BABFDD9F}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-editor-experience@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "763fc877-fc74-457f-b62b-329a952c94aa"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

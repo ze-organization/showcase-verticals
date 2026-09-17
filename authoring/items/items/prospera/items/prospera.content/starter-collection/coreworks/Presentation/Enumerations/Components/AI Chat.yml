@@ -1,18 +1,14 @@
----
+﻿---
 ID: "32115fe0-2c93-4ced-a731-2d0cba43ca30"
 Parent: "d9eacb65-4d4f-45de-af88-7690e853a22c"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/AI Chat"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "361e52ec-4b45-4ea8-977c-db56de858d06"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

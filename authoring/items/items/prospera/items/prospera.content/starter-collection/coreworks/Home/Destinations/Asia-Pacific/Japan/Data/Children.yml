@@ -1,21 +1,17 @@
----
+﻿---
 ID: "e31b88aa-420a-4720-a7ac-756d5201bfcb"
 Parent: "b66eb93e-da18-4fa1-8a1e-52d4a6c7e9b6"
 Template: "2f665441-6541-4322-b01c-38768fe0b2dc"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Asia-Pacific/Japan/Data/Children"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-country-japan@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9aef9c6c-0174-43c1-aee7-9f314b9b159b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

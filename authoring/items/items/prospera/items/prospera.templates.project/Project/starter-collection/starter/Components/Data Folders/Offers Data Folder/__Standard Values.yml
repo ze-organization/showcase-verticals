@@ -1,9 +1,8 @@
----
+﻿---
 ID: "14f9d7c4-2473-427d-bf1e-bf40b6b4cc30"
 Parent: "97de5ae2-5b0c-4e2c-9243-2ffd6b8705f6"
 Template: "97de5ae2-5b0c-4e2c-9243-2ffd6b8705f6"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/Offers Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {D17D9468-EE1E-4D38-931D-3FAAE56FF4F1}
     {D2D88515-C316-4C41-9307-6271574B5A5D}
     {C81237AD-D2BC-4794-8BBD-6C8DDB5CE916}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "16f2a261-9bdf-4fff-b23d-d1a1f83e0d8b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

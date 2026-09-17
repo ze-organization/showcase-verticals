@@ -1,21 +1,17 @@
----
+﻿---
 ID: "ae570243-9406-43ba-b472-c040a1d6c5d5"
 Parent: "9d3de1a6-433a-4a3e-8486-1070eef97e71"
 Template: "9d3de1a6-433a-4a3e-8486-1070eef97e71"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/media-gallery-list-grid/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{0ECFC951-FA55-4E4E-9333-2642285C3733}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "media-gallery-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d344fcae-7b72-435a-9122-10e59a11f32e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

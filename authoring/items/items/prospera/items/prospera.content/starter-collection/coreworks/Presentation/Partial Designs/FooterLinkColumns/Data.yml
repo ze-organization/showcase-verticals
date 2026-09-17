@@ -1,9 +1,8 @@
----
+﻿---
 ID: "5bde8b24-511c-487b-afd9-f946d238848b"
 Parent: "0afb8d2f-1aad-44d6-9c88-c9373fc6fd94"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/FooterLinkColumns/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -15,14 +14,11 @@ SharedFields:
     {9287BAD6-E065-47D2-9EA1-12080E2679A5}
     {E206A702-C22A-5CBA-8774-B3E30DA7BBC1}
     {3D46697F-AA15-531C-B279-091B42F934F0}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-link-columns@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "34ec070d-83f5-4614-abee-113bfccedf22"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

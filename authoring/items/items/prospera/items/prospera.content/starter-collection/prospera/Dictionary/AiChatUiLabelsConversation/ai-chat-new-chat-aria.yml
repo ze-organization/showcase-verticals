@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3e30d5fc-fbf5-48dd-ac8e-0fd06322db99"
 Parent: "4d9828fe-027a-4049-9a74-3863c8265665"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
 Path: "/sitecore/content/starter-collection/prospera/Dictionary/AiChatUiLabelsConversation/ai-chat-new-chat-aria"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-ui-labels-conversation@1"
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key
   Value: "ai-chat-new-chat-aria"
@@ -559,7 +555,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T225444Z
-- Language: "da"
+- Language: da
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase
@@ -783,7 +779,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T225445Z
-- Language: "en"
+- Language: en
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase

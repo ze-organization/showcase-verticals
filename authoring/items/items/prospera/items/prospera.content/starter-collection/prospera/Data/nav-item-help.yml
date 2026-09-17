@@ -1,21 +1,17 @@
----
+﻿---
 ID: "6048e920-a0fa-4800-9cb0-7e459380226b"
 Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
 Template: "aaa75284-69a9-439d-bc0f-826479ac7049"
 Path: "/sitecore/content/starter-collection/prospera/Data/nav-item-help"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "nav-item-help@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3755c15d-b115-445f-8be4-b1467a849c06"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -26,16 +22,19 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021421Z
     - ID: "75c17990-5290-4f01-9283-ac1271717407"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Support" text="Help" />
+        <link linktype="internal" id="74370ecc-44cd-407c-a49f-816acbb99e48" anchor="" querystring="" target="" class="" text="Support" title=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9e255333-f760-4b7a-9e57-be1b08b46949"
+      Value: "7b3b9ca2-2f06-405d-8cc6-aedc37880697"
     - ID: "948c7e90-5c75-4ec9-9480-cd5e90272380"
       Hint: HasPanel
       Value: 0
@@ -45,7 +44,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T021421Z
+      Value: 20260917T154116Z
     - ID: "fa2bc719-c9a6-40be-9ccf-e73dea67e9e8"
       Hint: Title
       Value: Help

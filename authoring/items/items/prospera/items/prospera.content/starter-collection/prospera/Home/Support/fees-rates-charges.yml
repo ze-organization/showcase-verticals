@@ -1,21 +1,20 @@
----
+﻿---
 ID: "777f45e4-d179-4791-b29f-10b1b00eb44f"
 Parent: "74370ecc-44cd-407c-a49f-816acbb99e48"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/fees-rates-charges"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-fees-rates-charges@1"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "34204564-ad56-4cc3-8158-a27bf737455b"
+  Value: "7daaddec-036e-4b79-83b7-e48c741098fc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -82,7 +81,7 @@ Languages:
       Value: "fees-rates-charges"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b7341f3b-eafc-4186-b375-a7c0a0411ad9"
+      Value: "84c0f4d0-2d96-4e4e-b7d0-abbbd5b30b1e"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
@@ -98,4 +97,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180930Z
+      Value: 20260917T160807Z

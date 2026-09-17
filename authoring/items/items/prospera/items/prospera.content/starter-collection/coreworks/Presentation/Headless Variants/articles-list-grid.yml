@@ -1,18 +1,14 @@
----
+﻿---
 ID: "2704f72a-5a0f-47cf-a3da-a1f613eae12e"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/articles-list-grid"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "articles-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d555df4c-dbc7-477b-a51c-44d425d547c1"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

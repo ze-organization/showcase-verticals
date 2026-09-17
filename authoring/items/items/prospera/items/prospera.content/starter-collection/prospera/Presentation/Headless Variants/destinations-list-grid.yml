@@ -1,18 +1,14 @@
----
+﻿---
 ID: "07b647a1-42c7-4866-9944-57d4691da70b"
 Parent: "b94398fb-32ee-477f-9d05-7b69a88ca301"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/destinations-list-grid"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destinations-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4b661cbd-130f-4e60-93b8-6232a739f4f5"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

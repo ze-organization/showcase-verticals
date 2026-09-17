@@ -1,21 +1,17 @@
----
+﻿---
 ID: "b1444b41-9cef-4993-b518-7803d6f54992"
 Parent: "20bd07ab-079d-4a72-b4b2-746d00878fed"
 Template: "20bd07ab-079d-4a72-b4b2-746d00878fed"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/ranking-table/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{62CA7490-FA37-462D-B1E5-CF9F37557A37}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ranking-table@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0b0448e3-3566-46c5-a7c7-f1c3025903ce"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

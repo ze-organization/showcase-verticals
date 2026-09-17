@@ -1,9 +1,8 @@
----
+﻿---
 ID: "91a24fcb-3025-4052-b02d-70f49b4d6cd5"
 Parent: "30c33e9e-c2fc-4c5f-ad0e-eb058ff4278e"
 Template: "30c33e9e-c2fc-4c5f-ad0e-eb058ff4278e"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/Locations Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {B679D558-55BB-4E0E-BA1F-C3CF459D03A7}
     {439D8C1D-6CBE-4965-B16A-B411D1E8B3F2}
     {8CBA3388-5944-43D2-8827-02704751704C}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fdedb4bf-848a-457c-bc24-c333fb9e4128"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

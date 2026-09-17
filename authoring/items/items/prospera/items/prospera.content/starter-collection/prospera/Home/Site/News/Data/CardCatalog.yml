@@ -1,25 +1,21 @@
----
+﻿---
 ID: "facfcbf5-fd41-4340-b2c8-0269c464bd13"
 Parent: "d9d71d3e-f07f-4a4e-a7bb-11e5206b24bf"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/Data/CardCatalog"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "3b599aef-efde-466d-8a75-157587995a8d"
+  Value: "20d1bb46-c8c5-4e25-a91e-853071be5202"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-01.jpg" alt="Catalog spread on a studio table" />
+    <image mediaid="ae2b8e55-99cd-44a5-8c2b-0cb11a5d804c" alt="APY catalog" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260904T192158Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c9f0b7f9-06c2-4c59-9e77-ee2f67c36762"
+      Value: "865dbad4-a16b-4442-8974-3b4dcefc895c"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: "<p>The high-yield savings product page now shows 4.15% APY as an illustration. Not a live offer.</p>"
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/News/catalog-ships-insertable-types" text="Read story" />
+        <link linktype="internal" id="{F19E70C6-53D8-4F63-BE0C-E3FB6FEFA0D4}" anchor="" querystring="" target="" class="" text="Read story" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-08-12T09:00:00Z"
+      Value: "08/12/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: "Illustrative high-yield APY restated at 4.15%"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T013001Z
+      Value: 20260917T050337Z

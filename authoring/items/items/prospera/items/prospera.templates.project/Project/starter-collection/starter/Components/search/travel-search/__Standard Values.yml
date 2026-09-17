@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f5d1493a-100c-4ff4-81b5-a2731d563d86"
 Parent: "6efcea24-241b-4297-b65b-e09527fc2f7c"
 Template: "6efcea24-241b-4297-b65b-e09527fc2f7c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/travel-search/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "travel-search@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "162f0ea4-7ff6-424e-bf38-d06ecb47bafd"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "fbc83376-c087-4afa-b16c-bcd58ac75bcf"
       Hint: SearchLabel
       Value: بحث
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "fbc83376-c087-4afa-b16c-bcd58ac75bcf"
       Hint: SearchLabel
       Value: Søg
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "fbc83376-c087-4afa-b16c-bcd58ac75bcf"
       Hint: SearchLabel
       Value: Suchen
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -180,7 +176,7 @@ Languages:
     - ID: "fbc83376-c087-4afa-b16c-bcd58ac75bcf"
       Hint: SearchLabel
       Value: Search
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -236,7 +232,7 @@ Languages:
     - ID: "fbc83376-c087-4afa-b16c-bcd58ac75bcf"
       Hint: SearchLabel
       Value: Buscar
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -292,7 +288,7 @@ Languages:
     - ID: "fbc83376-c087-4afa-b16c-bcd58ac75bcf"
       Hint: SearchLabel
       Value: Rechercher
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -320,7 +316,7 @@ Languages:
     - ID: "fbc83376-c087-4afa-b16c-bcd58ac75bcf"
       Hint: SearchLabel
       Value: Cerca
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

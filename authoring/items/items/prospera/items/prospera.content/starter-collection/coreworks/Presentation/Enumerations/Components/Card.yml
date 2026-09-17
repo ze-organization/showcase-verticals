@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f3f8a57d-6d35-4a00-ad61-a0e11fdbd56b"
 Parent: "d9eacb65-4d4f-45de-af88-7690e853a22c"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "085cab0b-794e-4895-aaea-76d46e5e4c38"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

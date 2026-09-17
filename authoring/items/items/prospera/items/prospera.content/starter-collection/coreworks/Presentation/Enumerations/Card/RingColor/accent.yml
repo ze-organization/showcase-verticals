@@ -1,13 +1,9 @@
----
+﻿---
 ID: "51e878d8-9767-4109-9d12-1ba2d9b9bf19"
 Parent: "01ef7b82-e3be-4d0b-8f98-773f60540dc7"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/RingColor/accent"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ring-color@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: accent
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "f6c67c72-9600-4bab-8ccf-e05f501ee946"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

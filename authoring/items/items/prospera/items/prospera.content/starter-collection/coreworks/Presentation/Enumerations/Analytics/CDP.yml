@@ -1,18 +1,14 @@
----
+﻿---
 ID: "db559b3b-e093-4b18-86c2-731c4c5abdae"
 Parent: "415b905b-24d6-4815-95a7-f6b0d3c77bc0"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Analytics/CDP"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "685c83f7-1616-457f-aeaf-e1bd63982752"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

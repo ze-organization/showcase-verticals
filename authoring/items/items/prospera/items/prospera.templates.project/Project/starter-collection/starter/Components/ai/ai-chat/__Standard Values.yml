@@ -1,13 +1,9 @@
----
+﻿---
 ID: "67a6cb0c-711a-46d4-814d-be3b7b71a476"
 Parent: "6030183c-79ba-4875-8c53-4fd5532b5130"
 Template: "6030183c-79ba-4875-8c53-4fd5532b5130"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ai/ai-chat/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat@1"
 - ID: "d09618cc-d710-4467-886a-3c0cd7cbad9e"
   Hint: Avatar
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "31177be3-f70a-429d-a76e-f92fab763355"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -102,7 +98,7 @@ Languages:
     - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: اطرح سؤالاً حول هذه الصفحة...
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -145,7 +141,7 @@ Languages:
     - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Stil et spørgsmål om denne side...
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -231,7 +227,7 @@ Languages:
     - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Stellen Sie eine Frage zu dieser Seite …
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -283,7 +279,7 @@ Languages:
     - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Ask a question about this page...
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -369,7 +365,7 @@ Languages:
     - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Haz una pregunta sobre esta página...
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -452,7 +448,7 @@ Languages:
     - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Posez une question sur cette page...
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -495,7 +491,7 @@ Languages:
     - ID: "fa7259d4-7368-4daa-aa23-d4c680013957"
       Hint: PlaceholderText
       Value: Fai una domanda su questa pagina...
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

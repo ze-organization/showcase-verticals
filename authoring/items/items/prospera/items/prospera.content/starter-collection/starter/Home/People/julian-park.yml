@@ -1,9 +1,8 @@
----
+﻿---
 ID: "98808483-253a-4ab5-b320-430d5e0f7bc1"
 Parent: "2bed7c69-35c7-41ba-bb2d-098bc03dbb08"
 Template: "639262ec-f035-4047-af6c-232d8928976d"
 Path: "/sitecore/content/starter-collection/starter/Home/People/julian-park"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{5245B0CD-8873-43F2-AC6D-75DB470FDBD4}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-julian-park@1"
 - ID: "3535f1d3-534c-4170-aa4b-e49aaadfdb26"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "0807c5ad-77cc-4e24-b712-aca142eca30f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

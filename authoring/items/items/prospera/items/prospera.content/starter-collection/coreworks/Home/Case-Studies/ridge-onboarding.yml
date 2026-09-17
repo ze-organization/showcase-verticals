@@ -1,9 +1,8 @@
----
+﻿---
 ID: "9c77dfce-ad93-4232-b041-626606ee6361"
 Parent: "5e97245b-66c9-4d9f-b8bf-5b474407a851"
 Template: "700416a0-bb15-4001-9c47-233eae954352"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Case-Studies/ridge-onboarding"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{832ABB99-CB0D-422C-AF68-5CD60BCC779D}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-study-ridge-onboarding@1"
 - ID: "94cba7fa-41f1-44a2-b07d-08f4a782e6b1"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "5f7c87b5-eb66-4d53-a7f2-1e11abc46b6a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

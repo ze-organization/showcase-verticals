@@ -1,18 +1,14 @@
----
+﻿---
 ID: "3f7a78ec-131c-4fcb-8c3c-d7f26885450f"
 Parent: "1f09f695-f21e-4aac-a0b8-0694678c64c6"
 Template: "1f09f695-f21e-4aac-a0b8-0694678c64c6"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/location-search-bar/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-search-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "759a34fc-631a-40ea-aca9-3ce7718cb0c7"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -86,7 +82,7 @@ Languages:
     - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: الرمز البريدي أو المدينة
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -123,7 +119,7 @@ Languages:
     - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Postnummer eller by
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -197,7 +193,7 @@ Languages:
     - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: PLZ oder Ort
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -234,7 +230,7 @@ Languages:
     - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: ZIP or city
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -308,7 +304,7 @@ Languages:
     - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Código postal o ciudad
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -382,7 +378,7 @@ Languages:
     - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: Code postal ou ville
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -419,7 +415,7 @@ Languages:
     - ID: "dd60f7b7-dd14-4046-be87-57a9fddc3b99"
       Hint: InputPlaceholder
       Value: CAP o città
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

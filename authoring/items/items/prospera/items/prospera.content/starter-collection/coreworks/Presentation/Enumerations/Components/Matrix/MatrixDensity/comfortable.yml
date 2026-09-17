@@ -1,13 +1,9 @@
----
+﻿---
 ID: "c55b3851-9eec-4217-9f0d-e70c8744f6a4"
 Parent: "214449bb-d72e-4830-b48a-7f09d9c95dc6"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Matrix/MatrixDensity/comfortable"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "matrix-density@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: comfortable
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a745d3ae-9bb5-40fe-a4c5-1ce390ad5e75"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

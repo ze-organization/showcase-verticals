@@ -1,0 +1,41 @@
+﻿---
+ID: "b20518f6-f570-4e64-a2fa-2684ae3389b4"
+Parent: "dc5946e2-913f-4d74-bfca-370b19295619"
+Template: "dc5946e2-913f-4d74-bfca-370b19295619"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/Presentation Parameters/search-booking-bar Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "94d3d800-f266-42aa-b5a7-f0cbb1d7ab5e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e8de690-8dad-4615-a1f3-be11b392a5da"
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T020517Z
+    - ID: "34027f3e-13a1-4b98-a565-ec9308b65433"
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95df36c8-a222-4ccb-a721-a2182140aba0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T020517Z

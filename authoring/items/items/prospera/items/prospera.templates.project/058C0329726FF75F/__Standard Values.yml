@@ -1,0 +1,92 @@
+﻿---
+ID: "726c54b1-bb88-4e21-bbcb-78131319b9d6"
+Parent: "e69067e0-443c-460c-b920-c8c63050dd4b"
+Template: "e69067e0-443c-460c-b920-c8c63050dd4b"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/Presentation Parameters/offer-details Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e9b51ddd-0cf5-40df-ada3-e43e5be64bcd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0373c652-b39f-4d06-8dc6-1da94ee62c96"
+      Hint: HeadingAnimation
+      Value: "{B945973A-CB0A-4E1F-A9B9-F589F2DBD98C}"
+    - ID: "18298faa-da12-4bf5-b3b1-6d796b5bcf97"
+      Hint: HeadingSize
+      Value: "{A9590877-2FA9-4FD8-B940-7B833D5FE69D}"
+    - ID: "1a1f8f91-0558-4a8c-ae2c-14dd7764db46"
+      Hint: MediaFit
+      Value: "{5A995AAF-84E3-4E91-B1F5-BCF019928387}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260908T181922Z
+    - ID: "2b0e7dd0-e114-46a9-bf3c-7a81dcff3a81"
+      Hint: HeadingColor
+      Value: "{7B2DA977-5D35-4279-811A-E7A74EE1C5B0}"
+    - ID: "3fcb1896-d6f6-4907-9b99-f7f6cb1d4098"
+      Hint: EyebrowSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5414a5de-e57d-40ef-81d0-1e456c05c747"
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "6e725bdd-cf0e-44c5-af39-8ba60f72d375"
+      Hint: EyebrowStyle
+      Value: "{6E144A78-43C3-426D-8ADF-1357CE5D3886}"
+    - ID: "71cf980c-bb8c-471f-8b1e-218d8a6ee8f6"
+      Hint: Alignment
+      Value: "{FA719AD0-E923-41E9-9657-A161AE28317A}"
+    - ID: "7522e1a1-7a34-4150-bb9d-84f23313be4e"
+      Hint: MediaAspect
+      Value: "{44E1FEF5-5C6F-4748-97A4-4756A5475DDB}"
+    - ID: "77f4c53b-dc6c-4d39-bdca-48b43e1e6935"
+      Hint: EyebrowColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: "8bdaf659-03fb-4efc-ba89-83b4fa8fa806"
+      Hint: MaxWidth
+      Value: "{5678C06E-3BAE-4DAF-97B8-4303062ACFDF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "faf2b725-047f-44bf-be76-b10f3957170f"
+    - ID: "a905b59d-16d0-4b00-b59e-18f99ecd1c1e"
+      Hint: MediaColumn
+      Value: "{4FE1D952-1B5A-4ACF-BB63-1E08F00FF043}"
+    - ID: "af30a279-3d92-4404-939f-b1798e0fa83a"
+      Hint: TitleWeight
+      Value: "{1E73B506-F9CD-4DC3-9422-8E81D28965FD}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260908T181922Z
+    - ID: "e144eab9-b4b5-4347-845b-d0472c0ed65a"
+      Hint: ProseLeading
+      Value: "{D3FC3795-117D-4A71-9423-5049ACB68C2B}"
+    - ID: "e1d208ba-0caa-4d64-ae7b-6717125a1dc8"
+      Hint: MediaShape
+      Value: "{69885AC8-8982-4147-A74E-EE4D76D7AD7B}"
+    - ID: "e469c188-2a10-4835-b4ac-e64ceb9803c1"
+      Hint: ProseSize
+      Value: "{4C1DE664-2FCE-487C-8F67-3C9B89625344}"
+    - ID: "f415f1bb-e25f-4a3e-b24e-dff68789c304"
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: "f46b5f5d-be02-4124-9a64-cf4618b78d7e"
+      Hint: PaddingY
+      Value: "{295A5038-66A8-4D33-BDDF-B7CDA0AD0B71}"
+    - ID: "fb9a6fc3-9630-4c50-9b6a-8b5d0459f739"
+      Hint: Layout
+      Value: "{F6845E6F-B4DB-4C6F-986A-2DA411AB314C}"

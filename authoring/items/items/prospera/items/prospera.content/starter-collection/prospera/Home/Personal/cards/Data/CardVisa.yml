@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e5b0be4a-ab60-4e3e-a3be-6751d4eb9fa5"
 Parent: "75351041-749a-499a-bbe6-ebdce3e02ebe"
 Template: "590320c0-1570-423b-a9bd-7f7b414decfc"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/Data/CardVisa"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image1
   Value: |
     <image mediaid="{C778A8BB-0FDD-4A26-B1F3-6C96A83702DA}" alt="Prospera Rewards Visa on a linen table beside a grocery receipt and house keys" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d4829253-25c3-42d0-83b0-724724cb88eb"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -44,7 +40,7 @@ Languages:
       Value: Rewards Visa
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "33ad0b82-817d-4cdf-9841-ffbdeae7fd66"
+      Value: "d5633764-619f-46a2-8794-9132ce893950"
     - ID: "a0b1cbad-9910-4704-9f3f-8f15e28f711d"
       Hint: Sku
       Value: "CRD-01"
@@ -54,11 +50,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203131Z
+      Value: 20260917T162457Z
     - ID: "de8117cc-bf50-4b44-a5bf-b74f71e76249"
       Hint: ShortDescription
       Value: Everyday purchase rewards. Illustrative 1.5% cash back. $0 annual fee in this demonstration.
     - ID: "e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/cards/rewards-visa" text="View card" />
+        <link linktype="internal" id="{1897C34F-1CD1-4545-ABEB-0EA21C6C6805}" anchor="" querystring="" target="" class="" text="View card" title="" />

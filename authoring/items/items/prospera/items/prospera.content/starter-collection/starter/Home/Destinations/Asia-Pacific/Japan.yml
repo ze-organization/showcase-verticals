@@ -1,9 +1,8 @@
----
+﻿---
 ID: "295c1f41-8225-41fb-8fd1-183c4993e149"
 Parent: "62f919f1-96e0-4442-a750-d40d5559d6e3"
 Template: "eae24d74-7ee3-48fd-8180-d7f7b410a762"
 Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Asia-Pacific/Japan"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E3C873F7-E58D-4854-8C33-301E6A7661EF}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-country-japan@1"
 - ID: "7e19d2fb-6f7d-48b4-afa8-1a15b74ce7a8"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "daa524a1-c2be-43e9-b081-f4c2d292a0aa"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

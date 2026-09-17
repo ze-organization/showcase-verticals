@@ -1,18 +1,14 @@
----
+﻿---
 ID: "21803e93-1aac-4fb2-8c77-26a492468d60"
 Parent: "56cd887b-f432-41d7-9502-bd65bc4aa668"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Analytics/CDP"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "685c83f7-1616-457f-aeaf-e1bd63982752"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

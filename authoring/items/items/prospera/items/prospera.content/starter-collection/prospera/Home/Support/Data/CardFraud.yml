@@ -1,25 +1,21 @@
----
+﻿---
 ID: "d511d2e8-93c0-4d2d-b2f6-74575366cc68"
 Parent: "0547937b-c256-4e17-a8ae-e3860c84df2c"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/Data/CardFraud"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: support@1
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/pdp-01.jpg" alt="Person reviewing household finances at a desk" />
+    <image mediaid="abaab6e8-ba4b-430a-ae5e-270d01869c46" alt="Locking a debit card" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "30168fb7-4303-4750-a180-4ef86975d9eb"
+  Value: "4fb4dc72-81a3-4fc6-9d66-20844fd046e8"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Lock the card, call us, and treat unexpected payment requests as suspect.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1636def0-13f6-4289-87af-94f3dd68b8a6"
+      Value: "08b1061e-edfa-4068-b8b2-3fa788fc70ed"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Fraud and scams
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180356Z
+      Value: 20260917T162702Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Support/fraud-and-scams" text="Fraud and scams" />
+        <link linktype="internal" id="{58C7BFF4-F825-4125-83D9-6216ADAAFD31}" anchor="" querystring="" target="" class="" text="Fraud and scams" title="" />

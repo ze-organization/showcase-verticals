@@ -1,9 +1,8 @@
----
+﻿---
 ID: "b6245a3c-bb49-4e36-bfdc-44ec90f405b5"
 Parent: "62808655-d4cf-424b-b632-35c289b8b66b"
 Template: "f2773dc6-c534-4fe4-a907-be8f25e79a26"
 Path: "/sitecore/content/starter-collection/starter/Home/Partners/harbor-channel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -15,9 +14,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{060446D0-0073-41FD-A7A5-C0B391B1E35C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "partner-harbor-channel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1a909b10-9a17-4d79-8d67-d55d9875fd31"
@@ -26,7 +22,7 @@ SharedFields:
   Value: |
     <image mediaid="{1B87EE2A-C082-4D92-93F7-A1A7EBB9184B}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

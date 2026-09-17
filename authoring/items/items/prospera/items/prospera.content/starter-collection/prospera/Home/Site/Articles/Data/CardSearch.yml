@@ -1,25 +1,21 @@
----
+﻿---
 ID: "93fa374a-5b38-46b7-972f-0c5c23c2d47f"
 Parent: "1a05bacb-f7b2-4524-b24c-d0f7a462835a"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/Data/CardSearch"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "389e2d1e-6dc5-4b0c-ada4-c6bb3b58b240"
+  Value: "ae034e42-1907-4416-bf7e-767dd85d721b"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-01.jpg" alt="Reading room with afternoon light" />
+    <image mediaid="90b927e4-99a4-4025-93ab-75db22e65d03" alt="HELOC vs mortgage" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260903T211620Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "01c4572c-d28f-4d9e-aaa2-1c3992573184"
+      Value: "601b058d-c068-440e-8800-3ff32faee5e1"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: "<p>A revolving line against equity versus a 30-year first mortgage. Both subject to credit.</p>"
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Articles/search-that-belongs" text="Read article" />
+        <link linktype="internal" id="{BDFA7753-C42E-4541-B33E-CDA694D90267}" anchor="" querystring="" target="" class="" text="Read article" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-06-09T09:00:00Z"
+      Value: "06/09/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: When a HELOC is the better file
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012935Z
+      Value: 20260917T050217Z

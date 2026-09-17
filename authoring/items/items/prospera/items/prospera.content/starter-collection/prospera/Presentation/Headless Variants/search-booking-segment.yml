@@ -1,18 +1,14 @@
----
+﻿---
 ID: "9834e580-c604-44bf-8672-f8a11458a18b"
 Parent: "b94398fb-32ee-477f-9d05-7b69a88ca301"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/search-booking-segment"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-booking-segment@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c14881e6-8316-4e7d-a00d-fc7d2fdd71b7"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

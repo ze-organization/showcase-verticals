@@ -1,21 +1,17 @@
----
+﻿---
 ID: "217275e5-41b6-41ee-8495-4b28f9b6382f"
 Parent: "5280a6c0-2f92-40f3-9cc6-1adae8aa6a74"
 Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/North-America/Data/Metros"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-north-america@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fe7e09fb-0ed9-4cfd-84db-30f72c2b4dd3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

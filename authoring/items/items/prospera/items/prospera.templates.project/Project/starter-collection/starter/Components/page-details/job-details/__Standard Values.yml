@@ -1,18 +1,14 @@
----
+﻿---
 ID: "536583c7-9226-4960-9310-221d481abc91"
 Parent: "7116dcd8-7c3a-4427-954d-6712b8edc0af"
 Template: "7116dcd8-7c3a-4427-954d-6712b8edc0af"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/job-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9233118c-eb14-4cff-a6f4-cec5c2ae31db"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

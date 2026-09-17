@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4e2215c6-4fef-41e6-8b22-339d305814e3"
 Parent: "544a34e6-ba5b-4f98-b493-3269be040478"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/RingColor"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: primary
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ring-color@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1d0cd662-cb73-48a4-baab-8ab9b06f6ad4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

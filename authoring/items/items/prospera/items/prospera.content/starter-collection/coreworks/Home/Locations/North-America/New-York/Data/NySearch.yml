@@ -1,21 +1,17 @@
----
+﻿---
 ID: "dda01552-ed20-4eb4-b137-11b555fa5c20"
 Parent: "84ee7011-5847-4332-a49d-c6ba61fe9b9b"
 Template: "a0087a72-8274-46e4-aaf0-5e41bf9390cc"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/North-America/New-York/Data/NySearch"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-metro-new-york@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "84de45d2-077d-40c6-b6a6-cb60a5fd7f63"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

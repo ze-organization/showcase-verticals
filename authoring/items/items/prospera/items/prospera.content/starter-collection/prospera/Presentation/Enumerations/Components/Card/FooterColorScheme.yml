@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4c2c6931-50bb-427f-af26-4367ded5b55e"
 Parent: "9b4f2a5d-845c-43e7-a9bd-3bdcc5ce6af0"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/Card/FooterColorScheme"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: none
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-color-scheme@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "25469fa4-923d-4d1e-b7ce-d5634ead18af"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

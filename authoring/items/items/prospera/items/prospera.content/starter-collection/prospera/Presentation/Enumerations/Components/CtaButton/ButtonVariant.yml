@@ -1,21 +1,17 @@
----
+﻿---
 ID: "5b7f4467-c52b-4a12-907b-bf1fa6b675b3"
 Parent: "5aecb418-2984-4228-9f53-7e384091b1e0"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/CtaButton/ButtonVariant"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1191a2f1-7d90-48ad-ba50-71ae79f812c5"
   Hint: Value
   Value: default
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "button-variant@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d9f8f1f7-01fa-4399-8263-6ad16e4c2bfc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

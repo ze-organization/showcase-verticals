@@ -1,0 +1,42 @@
+﻿---
+ID: "a665babc-689b-48b8-a43b-de932e6ee1ef"
+Parent: "63427661-13ca-4c61-bf29-799b41a61ed7"
+Template: "3b4fea24-db8d-4eb5-8ae6-05e0cc3fe003"
+Path: "/sitecore/content/starter-collection/prospera/Home/Apply-Now/Data/form-select-field 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T172102Z
+    - ID: "607b10ca-d1bc-401e-8746-e98b595ad99d"
+      Hint: Label
+      Value: "What are you applying for?"
+    - ID: "66ee5224-b2f8-45ba-a769-292732fad7e7"
+      Hint: Options
+      Value: |
+        {97CD6E60-CAB7-48DF-8B0B-4FCA566A0AB2}
+        {01F62299-2FF7-4C65-BEF3-BC6CEDD0D1CA}
+        {8B25EA80-50ED-447C-B173-E454A81AB9BA}
+        {D2C0A936-54F6-4989-AD35-B154A3995DA1}
+    - ID: "6cd2421a-e53c-4b3e-bace-c28f385d9bc9"
+      Hint: Multiple
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "256bd268-f74d-4fa0-a463-30c25948959c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "c9c20d84-bc6a-44f9-a2e0-455e89eef495"
+      Hint: Name
+      Value: product
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T174151Z

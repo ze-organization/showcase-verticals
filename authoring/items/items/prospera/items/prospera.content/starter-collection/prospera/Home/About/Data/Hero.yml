@@ -1,16 +1,12 @@
----
+﻿---
 ID: "e9e8c175-9cf1-4871-9847-2ade8c35a0a8"
 Parent: "937e878f-6043-4fc1-b5b2-d555485a9a58"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/About/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: about@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "12005216-dac9-44aa-8ddc-ae4e12455ab6"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{CD55A160-4E39-4F5B-A40C-DFD9FF3571C5}" alt="A wide view of a modern bank lobby with customers and bankers in conversation." />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

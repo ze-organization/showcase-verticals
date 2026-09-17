@@ -1,13 +1,9 @@
----
+﻿---
 ID: "85feb66d-4199-4fd6-bb98-fded643a60ec"
 Parent: "3e81ea73-bda1-4028-9725-fed859b27f3d"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Graphics/IconName/arrow-right"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "icon-name@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "arrow-right"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "330b3f91-b1dd-4327-ac59-be7af0e1ca1e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

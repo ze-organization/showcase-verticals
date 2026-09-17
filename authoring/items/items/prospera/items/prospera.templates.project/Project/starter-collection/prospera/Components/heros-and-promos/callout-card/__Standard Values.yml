@@ -1,18 +1,14 @@
----
+﻿---
 ID: "602abfb8-af84-4893-ac0b-b5080557761f"
 Parent: "a925d14c-2a69-4c79-8685-9c8d959af4f9"
 Template: "a925d14c-2a69-4c79-8685-9c8d959af4f9"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/callout-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "callout-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d04028ba-dc83-4cdb-bc9f-69dd52381bce"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

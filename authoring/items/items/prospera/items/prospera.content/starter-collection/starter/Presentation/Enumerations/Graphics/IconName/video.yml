@@ -1,13 +1,9 @@
----
+﻿---
 ID: "0a40c4ac-b23c-4353-ab3a-06af66ddc67e"
 Parent: "f714d4a5-7a70-4777-90a2-66a2ead2abf7"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Graphics/IconName/video"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "icon-name@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: video
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "4500c9fd-9ec4-436c-bbe7-f47109017c1d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

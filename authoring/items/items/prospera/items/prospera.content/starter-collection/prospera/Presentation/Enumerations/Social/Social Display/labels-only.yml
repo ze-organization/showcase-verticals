@@ -1,13 +1,9 @@
----
+﻿---
 ID: "f8b3fda6-e589-4947-9104-7653896244c6"
 Parent: "5cf321ec-cdf7-4096-b5c3-3931cfffc63a"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Social/Social Display/labels-only"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-display@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "labels-only"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "57398172-528d-4623-8b64-aa690c615afd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

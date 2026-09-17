@@ -1,13 +1,9 @@
----
+﻿---
 ID: "2f89a215-3af8-4e12-a712-4c230a7a0c15"
 Parent: "955d1ec6-e23f-4d75-be9e-c4757b7e3407"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Feedback/AlertComposition/row"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "alert-composition@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: row
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "cd78d27b-b6df-439e-a394-68aa9a668c6b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

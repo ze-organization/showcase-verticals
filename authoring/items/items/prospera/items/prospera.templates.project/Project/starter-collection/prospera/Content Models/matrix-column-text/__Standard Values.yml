@@ -1,21 +1,17 @@
----
+﻿---
 ID: "d8ead986-ab92-4caf-9849-51aeff847a47"
 Parent: "d2e4180d-4283-4a88-afb2-bf291d73dc35"
 Template: "d2e4180d-4283-4a88-afb2-bf291d73dc35"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/matrix-column-text/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{16907D45-1B99-490E-88F0-9A459D528928}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "matrix-column-text@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a22f98b1-5d08-454e-82cd-3810f062d35c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

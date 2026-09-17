@@ -1,9 +1,8 @@
----
+﻿---
 ID: "901c06ba-2a9e-4d9a-b452-17142f56bf0d"
 Parent: "c7f33e65-29e4-4d98-b960-cc31bf80b858"
 Template: "bd6de379-30cf-4464-b015-7d8529a5571f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/North-America"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -16,14 +15,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C70D7A59-7256-4799-A961-4179E53D166B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-north-america@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d0d4a170-e4c9-40c3-a6cf-344840ad32a8"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

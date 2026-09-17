@@ -1,18 +1,14 @@
----
+﻿---
 ID: "096a7ffd-1b72-4080-a168-ccc3eca7fc4b"
 Parent: "53b661fe-6620-4717-a956-fa4880c2d965"
 Template: "53b661fe-6620-4717-a956-fa4880c2d965"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/recipe-spec/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "recipe-spec@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cd90a1de-61e2-4a12-b3d0-e9cd82327b5f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

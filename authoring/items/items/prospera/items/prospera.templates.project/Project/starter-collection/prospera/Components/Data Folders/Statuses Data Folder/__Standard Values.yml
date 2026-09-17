@@ -1,23 +1,19 @@
----
+﻿---
 ID: "e949a4e3-737e-4383-803d-856222e63feb"
 Parent: "7353b745-47e8-44a7-8bb3-fa673bf81499"
 Template: "7353b745-47e8-44a7-8bb3-fa673bf81499"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/Data Folders/Statuses Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {54ABFE21-4C1B-4FF7-B08F-724E8CEB3751}
     {7282047B-45BB-4B44-8096-65ECD9790088}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "caae1669-84b6-4ca5-af1a-b61178a6f854"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

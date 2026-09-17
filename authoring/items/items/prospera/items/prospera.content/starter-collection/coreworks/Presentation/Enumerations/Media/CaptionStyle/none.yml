@@ -1,13 +1,9 @@
----
+﻿---
 ID: "eadb8c0f-42fe-45c5-8b0d-c8f9f18bb94e"
 Parent: "887a6c83-8acc-4f0f-aff2-2d82506286ba"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Media/CaptionStyle/none"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "caption-style@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: none
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "9ed95dfc-c99f-4c80-a76e-7b4a593d5a82"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

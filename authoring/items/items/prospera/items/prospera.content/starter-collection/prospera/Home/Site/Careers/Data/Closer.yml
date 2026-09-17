@@ -1,25 +1,21 @@
----
+﻿---
 ID: "c7bed538-8bcb-4bb4-806c-c9ce3d84e79c"
 Parent: "c95ee311-56f4-4f25-9afc-4625d34e0b0a"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/Data/Closer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: careers@1
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-01.jpg" alt="Advisor and customer at a branch table" />
+    <image mediaid="e7969602-738a-41e5-9ba6-a9c05620b453" alt="Occupied house" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "ab67262b-9d57-46fe-89fd-0036b15a61f6"
+  Value: "62e4014d-0da0-4b0c-a9d7-9d66b002e71f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Next
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e5553f13-bbcb-4d6e-a6f7-20c391a60ada"
+      Value: "b164d6df-9a31-42ab-abec-abdd7f4b4cf6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Contact" text="Contact us" />
+        <link linktype="internal" id="{ED76BD75-6088-4F0E-9BA2-4AD5247F6394}" anchor="" querystring="" target="" class="" text="Contact us" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: <p>Write us. We will keep the note with the listing.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T021627Z
+      Value: 20260917T041559Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: "Do not see the role?"

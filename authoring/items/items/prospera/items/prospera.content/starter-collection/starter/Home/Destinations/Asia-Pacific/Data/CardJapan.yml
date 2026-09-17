@@ -1,16 +1,12 @@
----
+﻿---
 ID: "52edec3a-9b55-48b0-8b36-1ee57173652e"
 Parent: "4a02a7af-e3cb-4275-b6db-b0776962eb57"
 Template: "c5983974-fd79-4b87-84dc-0496923bcf42"
 Path: "/sitecore/content/starter-collection/starter/Home/Destinations/Asia-Pacific/Data/CardJapan"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-region-asia-pacific@1"
 - ID: "bc687277-431e-48bc-97d1-cd23cf8eaf06"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "28d72c63-7196-48f9-a291-7df05f76b1f3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

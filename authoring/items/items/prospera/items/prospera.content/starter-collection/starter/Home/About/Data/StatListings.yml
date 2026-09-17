@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4d252d0a-c6fd-4d58-a36a-d9ce7fd0cf0a"
 Parent: "7f06c47b-7316-4b48-b68c-70383fcfada8"
 Template: "16986568-7609-4150-be32-a56d42215bec"
 Path: "/sitecore/content/starter-collection/starter/Home/About/Data/StatListings"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: about@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "004ac8d2-ddff-4aec-98f3-b6b1823ff0d0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "c5c141d8-bbb1-4925-ae04-0f14903e11d6"
 Parent: "4326997d-9b44-4585-bce3-14e440c54ef8"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/youth-debit/Data/CtrlCard"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking-youth-debit@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "646bda8b-3184-41ca-be77-0e3e27763340"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -34,7 +30,7 @@ Languages:
       Value: <p>The teen gets a debit card. Deposits stay on the adult relationship.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8c1b0ff7-eb8d-48ad-9e34-9e2d705985e4"
+      Value: "c2db12c7-c938-46ec-94f0-81f901fbe536"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Their card, your file
@@ -44,11 +40,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193340Z
+      Value: 20260917T162543Z
     - ID: "eeafe96f-4d61-4e1d-a55f-2a28005cdeb8"
       Hint: IconName
       Value: wallet
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/checking" text="Everyday checking" />
+        <link linktype="internal" id="{8D797D5B-F575-4167-AACF-6646E40EF424}" anchor="" querystring="" target="" class="" text="Everyday checking" title="" />

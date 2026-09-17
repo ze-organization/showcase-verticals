@@ -1,9 +1,8 @@
----
+﻿---
 ID: "71129376-c493-4836-95dc-b86536d67f5d"
 Parent: "8edc4448-95a2-4287-871e-a6d89ec143eb"
 Template: "cd7c3c4c-a03a-46e8-91ed-9f13edb16eb0"
 Path: "/sitecore/content/starter-collection/starter/Home/Services/training-and-enablement"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C3CDC733-78FB-404B-8BA3-AC17EC31F178}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "service-training-and-enablement@1"
 - ID: "c03b497e-dc8d-43b9-b1bb-4113a66d99f1"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "fb00bc90-35fb-4c13-a551-d28d0e6a8edf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

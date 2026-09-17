@@ -1,18 +1,14 @@
----
+﻿---
 ID: "9eba2831-3ab7-4ba3-a0fd-895dc01d521d"
 Parent: "f2bc3018-1136-4a7a-965f-9dd2a2db170b"
 Template: "f2bc3018-1136-4a7a-965f-9dd2a2db170b"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/social-link-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-link-item@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4e819011-cfb9-44e2-ac5f-c8a792f8ab38"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

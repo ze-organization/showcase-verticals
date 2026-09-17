@@ -1,16 +1,12 @@
----
+﻿---
 ID: "65dd8d6e-3aaf-4c3b-a58a-c27bc2d29f6f"
 Parent: "3df1b8df-d893-45ef-80f2-bc6771b2c551"
 Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
 Path: "/sitecore/content/starter-collection/starter/Home/Solutions/Data/CardHealthcare"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: solutions@1
 - ID: "c4b4278a-c86c-400a-aefe-5c5bfaec9014"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "78421b1e-1ad8-468c-87f0-9318276a946f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

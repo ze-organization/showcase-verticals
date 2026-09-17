@@ -1,16 +1,12 @@
----
+﻿---
 ID: "ab6d76d1-66ec-473e-9b01-ebfa1bb6ebff"
 Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/SlideBudget"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "eb99a08e-37f8-4bf6-9c6d-886bfa3600e9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Income, bills, and leftover cash — described on a page, not calculated live on this site.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "af7e0cc3-a58b-41ff-af2c-2c16db143ad9"
+      Value: "4f9f1e16-2cbb-4570-a9a8-b8f5c40dabbb"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Budget planner
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203114Z
+      Value: 20260917T162554Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/checking/budget-planner" text="Budget planner" />
+        <link linktype="internal" id="{0AB53C8E-0009-4CC0-B69C-13C1A1F0C1CB}" anchor="" querystring="" target="" class="" text="Budget planner" title="" />

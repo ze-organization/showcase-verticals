@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ab687048-4540-4876-9cf4-f112baeee876"
 Parent: "1ecc62d9-5c9c-4bc7-a416-10b1bdb39854"
 Template: "1ecc62d9-5c9c-4bc7-a416-10b1bdb39854"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/landing-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "643ca462-9c71-467a-aa4c-926c75e7b3fd"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

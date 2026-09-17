@@ -1,13 +1,9 @@
----
+﻿---
 ID: "2474897c-573f-4316-8fab-3e5d246a50d1"
 Parent: "3f711ba4-719d-4f3c-a0e2-19f08976921d"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Search/ResultsView/grid"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "results-view@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: grid
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "15901d0e-6b2f-4bc1-a2e6-7cbd29050d4a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

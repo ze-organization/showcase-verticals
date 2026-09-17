@@ -1,18 +1,14 @@
----
+﻿---
 ID: "dad4f902-61d6-4dbb-907a-873ca9771c0a"
 Parent: "17e4a1f4-8358-4a0c-bbb7-efe69b09751c"
 Template: "17e4a1f4-8358-4a0c-bbb7-efe69b09751c"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-date-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-date-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2e5a4cc6-ea47-46bc-a450-4f0a80184dab"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

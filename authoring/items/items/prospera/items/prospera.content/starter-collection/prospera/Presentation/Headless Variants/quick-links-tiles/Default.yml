@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ca5b0081-e91f-427d-afff-a965806415b7"
 Parent: "8bb91c2d-b3e3-48cd-a1a5-600acf192058"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/quick-links-tiles/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "quick-links-tiles@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8f02d5a8-db6c-4b9b-a7db-9d76bb70dcc6"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

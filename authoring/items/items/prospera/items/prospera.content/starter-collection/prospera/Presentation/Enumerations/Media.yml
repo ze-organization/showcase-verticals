@@ -1,18 +1,14 @@
----
+﻿---
 ID: "b0972a22-92f3-429c-bddc-55a4aa70a239"
 Parent: "a4bd7801-c247-4aaa-882b-aa752c645757"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Media"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e40f5508-b2a9-4677-a2de-b627f85c8fb3"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

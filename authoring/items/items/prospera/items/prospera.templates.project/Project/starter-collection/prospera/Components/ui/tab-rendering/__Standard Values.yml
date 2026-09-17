@@ -1,13 +1,9 @@
----
+﻿---
 ID: "12ddce81-deed-4cc8-8fd2-9c9869aa9197"
 Parent: "718067b8-eda0-4d8e-a2ae-e7bd72c6720d"
 Template: "718067b8-eda0-4d8e-a2ae-e7bd72c6720d"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/tab-rendering/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "tab-rendering@1"
 - ID: "ac32a56c-13a4-4035-a8be-e7f4b8197e33"
   Hint: PanelImage
   Value: |
@@ -20,7 +16,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "63afaa53-1596-487f-8d7a-84acb336e196"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

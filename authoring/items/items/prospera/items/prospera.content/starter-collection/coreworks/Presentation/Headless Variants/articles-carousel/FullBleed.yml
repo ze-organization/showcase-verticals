@@ -1,18 +1,14 @@
----
+﻿---
 ID: "b4a13f52-5e72-4888-9e9a-d2fcc338e529"
 Parent: "4b3b22f2-95a5-48f3-a553-7eaddf8c474a"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/articles-carousel/FullBleed"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "articles-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b2db1a4c-e1e5-4e5e-9deb-15fbe5630a93"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

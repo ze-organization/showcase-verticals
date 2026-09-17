@@ -1,18 +1,14 @@
----
+﻿---
 ID: "a58592ec-dd1f-4981-95c6-97e088638034"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/lead-form-field"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "lead-form-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5c95b6b1-b527-41f3-a4b1-a37c6a966949"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

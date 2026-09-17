@@ -1,13 +1,9 @@
----
+﻿---
 ID: "675ebfa0-92e9-4c81-9470-b723d36ea717"
 Parent: "91129a62-aee7-415b-9331-cc2e29cffa27"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Analytics/CDP/CdpFormIntent/decision"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "cdp-form-intent@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: decision
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "80e4d1d5-a679-4efd-ae5b-ebae6769a57b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,0 +1,50 @@
+﻿---
+ID: "e71b7181-3a1a-466d-9288-1803ca3c6f62"
+Parent: "a2a1d640-d3c1-4297-a6e1-9f4f5df16eba"
+Template: "a2a1d640-d3c1-4297-a6e1-9f4f5df16eba"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/Presentation Parameters/footer Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f0daacd6-99f9-4059-91e6-7a463651bfee"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0049ba5e-20df-432e-bf5c-5719de42f676"
+      Hint: PaddingY
+      Value: "{295A5038-66A8-4D33-BDDF-B7CDA0AD0B71}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T215748Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "604935d6-63d9-474a-b903-ebaf24522267"
+      Hint: TierTwoBackground
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: "6676ad34-57f4-4c4d-b69a-6fde6fd017a6"
+      Hint: MaxWidth
+      Value: "{883F888C-908E-415C-B879-062E5AB0FCC6}"
+    - ID: "7412ccf6-bca1-4409-a64b-ca13c9b53b1c"
+      Hint: ColorScheme
+      Value: "{F3E5BA23-DED6-4466-96D9-C7BF24FB4C41}"
+    - ID: "8bfe4aa5-a1d7-404f-813f-a3e6836fcf09"
+      Hint: BackgroundIntensity
+      Value: "{57A11C72-9516-46F7-BC85-15B352ADDA58}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f261d59c-c399-4456-bd67-6298abc1e767"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203556Z

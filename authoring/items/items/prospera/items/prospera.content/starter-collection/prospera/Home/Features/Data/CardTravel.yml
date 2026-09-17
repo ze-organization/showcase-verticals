@@ -1,25 +1,21 @@
----
+﻿---
 ID: "796b03a1-1d94-46a2-8bc7-e18f6e1d3be7"
 Parent: "f3b56d1a-05f5-44cc-ba4f-b55bd89717ca"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/Data/CardTravel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: features@1
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediaid="3c87e7f6-925d-4f4a-a3ac-a96e747076ec" alt="Traveler paying at a cafe abroad with a U.S. passport nearby" />
+    <image mediaid="b819e5e1-5e35-4be5-8839-efaffd1578c2" alt="No foreign fees" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "2a655bb9-a201-4e37-b4ce-0a2ba81f4d96"
+  Value: "c9bd3aa1-b2be-498f-8675-ef92d67ab5b0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: "<p>Debit and Rewards Visa spend abroad without a Prospera foreign-transaction fee in this demo.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "419b0ff4-b2d2-455a-962f-d6b9f90d8384"
+      Value: "bca624f8-9034-4a8c-b2ab-eb898d441642"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: No foreign transaction fees from us
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T191242Z
+      Value: 20260917T162643Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Features/no-foreign-fees" text="Travel spend" />
+        <link linktype="internal" id="{72361283-8997-4A4C-BAAE-5857906DE504}" anchor="" querystring="" target="" class="" text="Travel spend" title="" />

@@ -1,0 +1,56 @@
+﻿---
+ID: "4645559a-3093-4535-8d90-0a9d2f4ce3bb"
+Parent: "7b9d360c-c5ec-4715-ac34-76f65b447faf"
+Template: "7b9d360c-c5ec-4715-ac34-76f65b447faf"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/Presentation Parameters/offer-card Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a4348e28-6218-4668-b06d-bc569f33855e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T221138Z
+    - ID: "2c0bdda7-4258-47ae-9660-032ceafda4a1"
+      Hint: ColorBand
+      Value: "{07FBCE74-3836-499E-A615-280CD2B4F0A8}"
+    - ID: "36d80966-f49b-48b4-beed-893e04bb95b6"
+      Hint: Style
+      Value: "{E2CB8F23-0D12-472A-9554-E4F7428B1DBD}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "898809a6-7d91-4d06-8431-2403a6236b0b"
+    - ID: "b0b4c8dd-04e7-4d6e-b8e5-f772962332a4"
+      Hint: Action
+      Value: "{1C696322-C2C0-463B-ABC6-9E702AE5D722}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "c8bc6595-8f80-456a-9489-7bba118f3d33"
+      Hint: Elevation
+      Value: "{79D38193-7D1B-4430-9F06-EF5C305539CF}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260813T221138Z
+    - ID: "ec7a3124-138e-4bda-ba2d-78c8ba874131"
+      Hint: MediaBleed
+      Value: "{4F41F715-F4B1-4F79-B81C-AE719979CA5C}"
+    - ID: "f645933e-03e1-4c59-b23d-7355c301a12e"
+      Hint: CardColorScheme
+      Value: "{28E70AA4-D820-43A8-9E0B-B35E39EB1076}"
+    - ID: "f6a64be1-8544-46a8-afe1-d66fb0e29352"
+      Hint: Padding
+      Value: "{E1682301-09FF-4D16-B15E-C148BBD326BC}"

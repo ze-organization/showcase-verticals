@@ -1,9 +1,8 @@
----
+﻿---
 ID: "55d01b20-8398-4918-830b-6a4fb23cbefc"
 Parent: "72361283-8997-4a4c-baae-5857906de504"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/no-foreign-fees/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -14,14 +13,11 @@ SharedFields:
     {5B847AA9-A675-4774-B7EF-818A69F8C5EE}
     {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-no-foreign-fees@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "299ede61-5b6b-4e7a-b14f-8a7973c731a3"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

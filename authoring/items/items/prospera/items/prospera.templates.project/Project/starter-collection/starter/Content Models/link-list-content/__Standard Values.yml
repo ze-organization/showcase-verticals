@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e80d04d3-9f07-4059-9760-c9579202d9d5"
 Parent: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
 Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
 Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/link-list-content/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "link-list-content@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "df6cc9d0-5183-4540-9bf1-212a12c897da"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: روابط سريعة
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: Hurtige links
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: Schnellzugriffe
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -180,7 +176,7 @@ Languages:
     - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: Quick links
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -236,7 +232,7 @@ Languages:
     - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: Enlaces rápidos
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -292,7 +288,7 @@ Languages:
     - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: Liens rapides
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -320,7 +316,7 @@ Languages:
     - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
       Hint: Title
       Value: Collegamenti rapidi
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

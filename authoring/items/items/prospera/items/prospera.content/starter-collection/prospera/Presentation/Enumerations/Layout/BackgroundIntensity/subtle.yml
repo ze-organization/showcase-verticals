@@ -1,13 +1,9 @@
----
+﻿---
 ID: "e60fa708-584d-4c8c-b976-059be4bb2665"
 Parent: "d3db966f-801b-4a88-a7c5-3d62451de22b"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/BackgroundIntensity/subtle"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "background-intensity@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: subtle
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "9b618e7d-60f1-4be4-8f42-bc41163ada59"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

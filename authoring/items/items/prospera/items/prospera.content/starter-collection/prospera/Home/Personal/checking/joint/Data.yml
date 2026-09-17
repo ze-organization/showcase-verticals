@@ -1,9 +1,8 @@
----
+﻿---
 ID: "4aa13a11-31d0-43cc-a0fb-4f2dfe0a4b14"
 Parent: "9cbdf70b-7f4e-4bf6-abed-382e4f8d7228"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/joint/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -18,14 +17,11 @@ SharedFields:
     {0513F0BE-18F8-46E2-8DF2-4EF7D35B088D}
     {A3B2B7CF-5E78-493F-AE57-583246702B7C}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking-joint@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c7936e29-e4a2-49a6-93d7-55bdd3d1c4c2"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

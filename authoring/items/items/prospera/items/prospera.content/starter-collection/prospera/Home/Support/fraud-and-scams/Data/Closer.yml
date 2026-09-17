@@ -1,25 +1,21 @@
----
+﻿---
 ID: "fc7ca3bb-365a-46f1-b856-d0172e4a97f7"
 Parent: "f5a0e450-4ff0-47c6-9e8b-74f5bdeb56ef"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/fraud-and-scams/Data/Closer"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-fraud-and-scams@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Advisor walking with a customer through a branch lobby" />
+    <image mediaid="3020b684-cde0-4c80-a684-db68c7b84c10" alt="Branch closer" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "12921820-cf9f-4da2-8669-3201c73078c6"
+  Value: "8bca3791-b024-4a7c-b9cb-d6c307553784"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: "Still unsure?"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fbd13254-fdde-4a2e-8408-13af812b0701"
+      Value: "1f6b686b-fc90-4ddb-b3f0-5c14186701b3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Contact" text="Contact us" />
+        <link linktype="internal" id="{ED76BD75-6088-4F0E-9BA2-4AD5247F6394}" anchor="" querystring="" target="" class="" text="Contact us" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: <p>Contact is the form. Support is the Help hub. A person can finish what this page cannot.</p>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180936Z
+      Value: 20260917T041555Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: Write us before you send the payment.

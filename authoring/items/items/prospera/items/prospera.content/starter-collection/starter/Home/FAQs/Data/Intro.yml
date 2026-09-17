@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4f596637-17b1-4cad-8792-0608c3ab63c8"
 Parent: "c05513ee-a454-4202-b86d-e7d4193507d3"
 Template: "9287bad6-e065-47d2-9ea1-12080e2679a5"
 Path: "/sitecore/content/starter-collection/starter/Home/FAQs/Data/Intro"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: faqs@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e5b15f77-b323-426f-9e74-6e8b7ca475d2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

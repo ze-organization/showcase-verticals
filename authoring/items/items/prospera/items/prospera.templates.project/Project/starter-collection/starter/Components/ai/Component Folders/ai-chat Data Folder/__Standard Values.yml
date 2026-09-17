@@ -1,21 +1,17 @@
----
+﻿---
 ID: "9f8b6385-fd70-41e8-9f47-d9e528a7d47e"
 Parent: "b9b9dd60-1ba5-41c5-b92e-230146299712"
 Template: "b9b9dd60-1ba5-41c5-b92e-230146299712"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ai/Component Folders/ai-chat Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{6030183C-79BA-4875-8C53-4FD5532B5130}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2f6c9d27-d9fe-4dad-be8c-c9ba16ed4162"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

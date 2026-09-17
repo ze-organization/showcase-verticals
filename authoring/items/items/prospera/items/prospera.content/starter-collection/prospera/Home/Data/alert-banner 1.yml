@@ -1,0 +1,30 @@
+﻿---
+ID: "619baf4b-863d-464e-8a2f-33e99f451325"
+Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
+Template: "8c5f18c2-8161-4bc4-b42e-6a8a5aacd379"
+Path: "/sitecore/content/starter-collection/prospera/Home/Data/alert-banner 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T013320Z
+    - ID: "2d51792a-3554-4326-8740-0d7b31dae10f"
+      Hint: Description
+      Value: |
+        <div class="ck-content"><p class="ui-markdown__paragraph ui-z80ra4 ui-uu7i3w ui-1nhcn8o ui-j7cesy ui-13faqbe ui-14l7nz5 ui-zboxd6 ui-1xxm6qq ui-fo6hhr" data-md-section-label=""><span data-streamdown="strong">Open a high-yield savings account by September 30 and earn 4.40% APY</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0d3ee74-e14b-4cb9-a5ac-718f55d36729"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T013650Z

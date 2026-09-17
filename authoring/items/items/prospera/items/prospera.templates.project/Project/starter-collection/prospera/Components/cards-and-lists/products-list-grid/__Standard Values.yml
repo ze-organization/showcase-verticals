@@ -1,21 +1,17 @@
----
+﻿---
 ID: "8b555e18-b468-48b3-be96-1e537a7c5186"
 Parent: "ff29e164-e5f5-4156-aa86-fa02d3f5971b"
 Template: "ff29e164-e5f5-4156-aa86-fa02d3f5971b"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/products-list-grid/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{590320C0-1570-423B-A9BD-7F7B414DECFC}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "products-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6c3b2aa3-6677-4362-9bfd-c71b0d5b3d32"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "a2b1266b-9728-4ab1-81f1-32bd7d52cfd5"
 Parent: "0b3fcecf-f46e-4b44-953d-a38d19b4b913"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/ui/avatar-block"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,9 +13,6 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{E65161E0-708F-4FBE-9DA6-661E62B887ED}|{456CD052-D43F-4EE3-B4AC-549210BBB8C4}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "avatar-block@1"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -30,7 +26,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "15551aa4-e00d-4484-a6fc-1183e940e224"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

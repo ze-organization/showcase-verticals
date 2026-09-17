@@ -1,21 +1,17 @@
----
+﻿---
 ID: "4879b3d8-0a1f-4713-a924-728c30a72541"
 Parent: "57a1389e-2f54-4aa9-828e-6bcef40002d6"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/rewards-visa/Data/WhoFraud"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards-rewards-visa@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "11982c92-8621-4f32-bf57-f7eeda7ec432"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -34,7 +30,7 @@ Languages:
       Value: <p>Lock language lives with a banker after approval. Start with Fraud and scams if you are unsure.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "743b6591-4aba-465f-9b02-d836572c6a99"
+      Value: "cfc1cc98-ae67-4bdc-8a1d-87e3ff422921"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: If something looks off
@@ -44,11 +40,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193216Z
+      Value: 20260917T162454Z
     - ID: "eeafe96f-4d61-4e1d-a55f-2a28005cdeb8"
       Hint: IconName
       Value: lock
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Support/fraud-and-scams" text="Fraud and scams" />
+        <link linktype="internal" id="{58C7BFF4-F825-4125-83D9-6216ADAAFD31}" anchor="" querystring="" target="" class="" text="Fraud and scams" title="" />

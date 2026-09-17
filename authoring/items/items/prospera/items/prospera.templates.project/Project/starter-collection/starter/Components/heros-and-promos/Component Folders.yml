@@ -1,21 +1,17 @@
----
+﻿---
 ID: "6ffc5c1f-9df5-4d12-beaa-58a3986ec5a7"
 Parent: "6cafbc3d-3746-4794-a570-da0a82d29e34"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/Component Folders"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-header@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "699f4925-2d95-49eb-9939-721dbb129832"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

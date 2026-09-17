@@ -1,18 +1,14 @@
----
+﻿---
 ID: "3fd3bf61-be1d-4821-96c6-84b59debd83b"
 Parent: "a964bca8-3b5e-4bdf-8d59-4da0d26a8d60"
 Template: "a964bca8-3b5e-4bdf-8d59-4da0d26a8d60"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/logo-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "logo-item@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f66b851d-4b9f-4a52-b1f1-a02232d6b8d3"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151841Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220731Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151841Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -180,7 +176,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220730Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -236,7 +232,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151841Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -292,7 +288,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151841Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -320,7 +316,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T220732Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

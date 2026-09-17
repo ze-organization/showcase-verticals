@@ -1,13 +1,9 @@
----
+﻿---
 ID: "e7213f30-88d9-43cc-8c37-1b824e7d6c65"
 Parent: "a9af272f-e12d-4628-8324-ae606871f4b3"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/AlertLayout/contained"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "alert-layout@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: contained
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "6e18d8b7-208b-48cd-ac83-cdb8b7bf31db"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

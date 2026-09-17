@@ -1,13 +1,9 @@
----
+﻿---
 ID: "0e084834-8452-4a5d-8846-d15e8a2e5ad2"
 Parent: "f34068fa-ddca-45fe-8731-dca67c98d2c7"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Stats/Emphasis/value"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stat-emphasis@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: value
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b55e116b-eae7-47fd-9523-c0042213c9c3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

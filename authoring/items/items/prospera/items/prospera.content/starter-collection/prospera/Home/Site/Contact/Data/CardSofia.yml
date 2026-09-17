@@ -1,9 +1,8 @@
----
+﻿---
 ID: "4db031b4-ef39-4402-9fbd-6ae5bacb9238"
 Parent: "f1b8e41b-0c16-4ae9-832e-1db5978565d5"
 Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Contact/Data/CardSofia"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,15 +10,12 @@ SharedFields:
 - ID: "1f47a59f-ca3d-4cea-b933-6780bf00fb97"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/pdp-01.jpg" alt="Portrait of Sofia Lang" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: contact@1
+    <image mediaid="b49ecfb2-198f-49b4-b587-b23c07ac89c2" alt="Sofia Lang" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d68b78fa-f6f9-47d2-858c-ce4939f5bfde"
+  Value: "9e64e73a-62e3-42c0-80ad-2b62e1c000cf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -48,7 +44,7 @@ Languages:
       Value: Wealth Advisor
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9a5876c9-fea8-4684-97fd-29f11253d9b5"
+      Value: "532043de-bb96-470d-aee8-f4f18d3e4c88"
     - ID: "9e4ff79c-581f-4123-82ac-223ccb723aa7"
       Hint: Bio
       Value: <p>Plans that sit next to checking and the operating account.</p>
@@ -58,4 +54,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012945Z
+      Value: 20260917T041616Z

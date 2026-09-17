@@ -1,13 +1,9 @@
----
+﻿---
 ID: "31f4c67d-32d3-4a14-b08d-7a8f33206845"
 Parent: "765dec3b-c61b-4ddb-96df-d64988589c46"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Hero/OverlayMobilePosition/bottom"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "overlay-mobile-position@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: bottom
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "097bbd43-1fca-4f3a-9dfa-776203a9b6ba"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

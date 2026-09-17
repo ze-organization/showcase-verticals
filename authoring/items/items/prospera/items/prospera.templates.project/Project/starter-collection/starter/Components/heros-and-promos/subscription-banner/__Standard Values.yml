@@ -1,18 +1,14 @@
----
+﻿---
 ID: "96751e6c-e150-4677-a9e1-d5aa9f010fd2"
 Parent: "819a7329-90d1-4b0a-b840-494e6f3fd424"
 Template: "819a7329-90d1-4b0a-b840-494e6f3fd424"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/subscription-banner/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "subscription-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "666f9463-7f02-4258-82cd-e8501115f8b3"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -98,7 +94,7 @@ Languages:
     - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>احصل على تحديثات شهرية حول المكوّنات والوصفات وأطقم البدء الجديدة.</p>
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -141,7 +137,7 @@ Languages:
     - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Få månedlige opdateringer om nye komponenter, opskrifter og startpakker.</p>
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -227,7 +223,7 @@ Languages:
     - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: "<p>Erhalten Sie monatliche Updates zu neuen Komponenten, Rezepten und Starter-Kits.</p>"
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -279,7 +275,7 @@ Languages:
     - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Get monthly updates on new components, recipes, and starter kits.</p>
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -365,7 +361,7 @@ Languages:
     - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Recibe actualizaciones mensuales sobre nuevos componentes, recetas y kits de inicio.</p>
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -451,7 +447,7 @@ Languages:
     - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Recevez chaque mois les nouveautés sur les composants, recettes et kits de démarrage.</p>
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -494,7 +490,7 @@ Languages:
     - ID: "fb5fc2b5-4785-4be3-bb71-f2b9b355cd04"
       Hint: Description
       Value: <p>Ricevi aggiornamenti mensili su nuovi componenti, ricette e starter kit.</p>
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

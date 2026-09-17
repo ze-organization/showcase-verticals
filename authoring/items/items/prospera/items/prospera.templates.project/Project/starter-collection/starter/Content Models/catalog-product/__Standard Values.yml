@@ -1,18 +1,14 @@
----
+﻿---
 ID: "339b2306-87ce-4e79-a83b-b8aa405b09e0"
 Parent: "e1f8b936-ff46-4434-9c39-34b91e166885"
 Template: "e1f8b936-ff46-4434-9c39-34b91e166885"
 Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/catalog-product/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "catalog-product@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "feb3832f-b1d5-445e-98d0-d91285f2d6be"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

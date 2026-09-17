@@ -1,13 +1,9 @@
----
+﻿---
 ID: "358f484c-053b-42d2-92db-a92369a329ad"
 Parent: "d989aafa-dc67-49be-9331-e9809ed95652"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Tagline Banner/TaglineBannerSize/lg"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "tagline-banner-size@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: lg
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "40e07e3e-f937-42ea-a3e0-61694938fd4f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

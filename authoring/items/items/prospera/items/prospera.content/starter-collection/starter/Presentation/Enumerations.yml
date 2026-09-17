@@ -1,21 +1,17 @@
----
+﻿---
 ID: "0f7e78ff-bf54-4f7a-ba92-b6b0afa20e71"
 Parent: "aab48d90-e84c-499b-9770-0e6fdb7e285e"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/keyboard_key_e.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__enumerations-root__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "41f1d00b-a6bf-496f-bdbb-ec116e2d4034"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

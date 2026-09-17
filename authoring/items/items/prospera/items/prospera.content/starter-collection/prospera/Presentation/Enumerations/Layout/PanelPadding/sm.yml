@@ -1,13 +1,9 @@
----
+﻿---
 ID: "967b7a2c-39da-42d9-be7c-f93628831613"
 Parent: "cd2b6b5f-475f-49a2-a297-f5b4b5db4cc2"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/PanelPadding/sm"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "panel-padding@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: sm
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "030cc9f5-cfb9-4b09-9da2-f7f6a69f8f25"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

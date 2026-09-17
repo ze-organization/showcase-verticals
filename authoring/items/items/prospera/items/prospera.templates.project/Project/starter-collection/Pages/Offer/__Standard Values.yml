@@ -1,16 +1,12 @@
----
+﻿---
 ID: "22476155-6366-447a-a807-eedd8a10ea51"
 Parent: "840dbdff-5e2c-4ed7-9003-84b801d4ed12"
 Template: "840dbdff-5e2c-4ed7-9003-84b801d4ed12"
 Path: "/sitecore/templates/Project/starter-collection/Pages/Offer/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{840DBDFF-5E2C-4ED7-9003-84B801D4ED12}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: offer@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "92d762c0-fd44-4748-ac19-5612b48c31f3"
@@ -23,7 +19,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

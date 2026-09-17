@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c2492c0e-552f-4523-bdd4-dd908d03af50"
 Parent: "fdbcb994-ac24-49c2-90ed-9486d9e5bc47"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/HeaderTransparentOverlay/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -13,14 +12,11 @@ SharedFields:
     {EB6BE187-D5F8-41D5-A283-29A32F383762}
     {CA84D280-D61B-4EE5-9289-B79AFC422E43}
     {05A20348-0147-4E2D-9D6E-12D262B8E855}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "header-transparent-overlay@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7c446c4b-46f2-4f3e-af60-745e4354b2de"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

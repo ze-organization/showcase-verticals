@@ -1,9 +1,8 @@
----
+﻿---
 ID: "ed76bd75-6088-4f0e-9ba2-4ad5247f6394"
 Parent: "42118861-8e23-499c-bf18-f1bbd4397bd1"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Contact"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,14 +10,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: contact@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "020332e1-075a-4127-9b53-bb7b89703cd5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -124,7 +120,7 @@ Languages:
       Value: 0.7
     - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
-      Value: Write the team about insertable types, listings, or a role that is not on the board yet.
+      Value: Reach Prospera Bank, N.A. by phone, email, or mail for help with accounts, applications, or branch locations.
     - ID: "4926c0f4-360a-4c27-ae1e-2353db686a6f"
       Hint: ChangeFrequency
       Value: monthly
@@ -133,13 +129,13 @@ Languages:
       Value: Contact
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c77ca85d-0cfb-443e-bc45-b0f70a417773"
+      Value: "e1fa93a4-d276-4dee-8f2f-b35d438572a5"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
     - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
-      Value: Contact — Showcase
+      Value: Contact Us — Prospera
     - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Reach us
@@ -149,4 +145,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195139Z
+      Value: 20260917T163010Z

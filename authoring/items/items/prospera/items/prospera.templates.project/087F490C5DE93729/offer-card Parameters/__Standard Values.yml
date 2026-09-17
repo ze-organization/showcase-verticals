@@ -1,0 +1,56 @@
+﻿---
+ID: "a21876b7-1272-4327-910e-0474b97d5b92"
+Parent: "6ad302f3-372e-4cf4-9ba6-9c28199b79cc"
+Template: "6ad302f3-372e-4cf4-9ba6-9c28199b79cc"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/Presentation Parameters/offer-card Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8f0047a5-db0d-4fd1-b8cf-6eae49000fa8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1a8d5b83-bc25-4226-b6e8-12a5b51b6d14"
+      Hint: Elevation
+      Value: "{0D9E8818-67AE-435D-8219-56B0A9CD53DE}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T015553Z
+    - ID: "26d2877e-7053-4f16-b823-bcb3fd3b4462"
+      Hint: CardColorScheme
+      Value: "{722C6F93-1336-48B3-9FFE-C763021CC53C}"
+    - ID: "40a24927-bb63-4d4a-b664-fd4f913e97ca"
+      Hint: ColorBand
+      Value: "{EC919147-C887-4834-B861-C8C95AFF2C48}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "71e0baf8-b344-41a5-a9fc-6ec5461da6f2"
+      Hint: MediaBleed
+      Value: "{A418C7C2-EDB1-43F7-AEAF-E1734EFFFAAF}"
+    - ID: "81c9e581-5346-4258-b80e-928431f4fde5"
+      Hint: Style
+      Value: "{27C78312-10BE-40DB-B10D-910E61BA200F}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68e07688-0efa-4a2d-a43c-1c9c827425d5"
+    - ID: "b310df98-e15f-49e4-85e0-964796791ffd"
+      Hint: Padding
+      Value: "{A2648A34-989D-48B2-878A-898C0359F063}"
+    - ID: "ba67d5be-7da5-43a9-ad3b-517f6f1b9a8f"
+      Hint: Action
+      Value: "{39716E6A-7697-4E93-BB51-8E3DFC9FD3E5}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T015553Z

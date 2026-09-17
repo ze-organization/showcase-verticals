@@ -1,25 +1,21 @@
----
+﻿---
 ID: "63e7fbbb-53ba-4b8d-99c0-7f08d4d7cd70"
 Parent: "57a1389e-2f54-4aa9-828e-6bcef40002d6"
 Template: "0513f0be-18f8-46e2-8df2-4ef7d35b088d"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/rewards-visa/Data/MarkHousing"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards-rewards-visa@1"
 - ID: "40333ae0-57fd-4e3d-9f24-a67b6dcac7b3"
   Hint: Logo
   Value: |
-    <image mediaid="{1E9ED1B8-B1DD-4A28-B524-8B8BB45F26DC}" alt="Equal Housing Lender" />
+    <image mediaid="67b6bb76-d852-42d3-b62f-dbd0b2fbef62" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "6867cf07-6afe-4c7d-a8dc-a5fdf23a44a0"
+  Value: "fa6d5033-d106-43fe-82d6-207a7eb20c67"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -30,6 +26,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T193204Z
@@ -38,11 +37,11 @@ Languages:
       Value: Equal Housing Lender
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a58f1ac5-d3dc-4a99-b2c4-88775906487e"
+      Value: "b3599705-037f-4dbb-b5d6-89d3d6116fd2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T203056Z
+      Value: 20260917T135906Z

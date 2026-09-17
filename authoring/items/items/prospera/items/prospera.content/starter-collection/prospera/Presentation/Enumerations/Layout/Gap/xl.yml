@@ -1,13 +1,9 @@
----
+﻿---
 ID: "5718ac5f-a82c-4e80-8679-735571aa1cd0"
 Parent: "40450c78-7064-47c2-8a90-88ad8c4a55c9"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/Gap/xl"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: gap@1
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: xl
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "8c4f4b60-97fc-4e02-bb13-589d80d2b1c0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

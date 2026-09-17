@@ -1,21 +1,17 @@
----
+﻿---
 ID: "61f834de-ec08-42f1-be9d-99c391669345"
 Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/prospera/Data/nav-link-about"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "nav-link-about@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a61557f0-3904-4767-a039-a17c88bc83fc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -31,11 +27,11 @@ Languages:
       Value: 20260904T193435Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6f0f5dd4-e476-4ee2-b562-565035e2aeb1"
+      Value: "7230f2b3-b3f1-4ab1-8f76-6ddad5855c2d"
     - ID: "b5d4268a-857f-42e3-aead-31acc948e95b"
       Hint: Link
       Value: |
-        <link linktype="external" url="/About" text="About" />
+        <link linktype="internal" id="{82B515F0-C58A-4E0D-B9B0-36E1574602D4}" anchor="" querystring="" target="" class="" text="About" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -45,4 +41,4 @@ Languages:
       Value: About
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260904T193435Z
+      Value: 20260917T161955Z

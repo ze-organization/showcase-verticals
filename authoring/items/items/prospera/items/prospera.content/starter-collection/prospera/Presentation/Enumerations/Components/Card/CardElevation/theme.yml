@@ -1,13 +1,9 @@
----
+﻿---
 ID: "0d9e8818-67ae-435d-8219-56b0a9cd53de"
 Parent: "45deb518-bd71-4b14-ba72-c5a2203e4353"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/Card/CardElevation/theme"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "card-elevation@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: theme
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "3a3cb3d0-4614-4bdf-9619-5792326cf4e9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "ab3464ef-86bd-4bd3-af96-795c4e07e2d3"
 Parent: "0f88b2b3-3277-4126-896e-0ae1ae015ae2"
 Template: "cd7c3c4c-a03a-46e8-91ed-9f13edb16eb0"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Services/training-and-enablement"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{803D0B21-54C0-442B-AEB9-1799E001EDDC}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "service-training-and-enablement@1"
 - ID: "c03b497e-dc8d-43b9-b1bb-4113a66d99f1"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "20650007-c63e-482d-a7c8-9ac65eb25d3e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

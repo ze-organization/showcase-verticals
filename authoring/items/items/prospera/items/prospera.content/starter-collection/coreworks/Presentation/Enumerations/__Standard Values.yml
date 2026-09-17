@@ -1,9 +1,8 @@
----
+﻿---
 ID: "4f9f552f-15c5-4ea9-a70f-06795f3f1103"
 Parent: "8f493848-5fa2-49d9-a88d-541de3db7c40"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -164,14 +163,11 @@ SharedFields:
     {0A267761-F87C-4435-B05C-58E1AA6D184D}
     {11C964A6-E19D-44BE-9182-D937A0A13306}
     {8E339812-402D-442A-ADB3-E02C9727A8FA}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__enumerations-root__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "43fe0849-4ec0-45c1-84eb-e71b84d82357"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

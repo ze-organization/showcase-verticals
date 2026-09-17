@@ -1,23 +1,19 @@
----
+﻿---
 ID: "935e3dee-7cce-4bb7-a04f-b5187d960ec3"
 Parent: "fb8ac336-7215-4ed5-b3ed-0b89dc82381c"
 Template: "fb8ac336-7215-4ed5-b3ed-0b89dc82381c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/Statuses Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {AF663A81-2143-4EB3-8BB3-0C56CF627282}
     {EFBFC9D7-C32E-4FD1-ACE2-8FA9C2F85444}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "75ff321c-3840-4c9b-9f24-7d3be1728792"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

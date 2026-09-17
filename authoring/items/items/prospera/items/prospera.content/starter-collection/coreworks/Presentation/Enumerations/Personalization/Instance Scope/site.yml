@@ -1,13 +1,9 @@
----
+﻿---
 ID: "0dbc00d2-e3ee-45a3-95c5-b30b9fd98c90"
 Parent: "43545f1d-0b60-49ef-bf4a-56ab5437e57a"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Personalization/Instance Scope/site"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "instance-scope@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: site
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "dfd226d3-3dea-40a7-af49-5458aa91e26d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,0 +1,65 @@
+﻿---
+ID: "a5624607-b025-4490-8d69-141ef2d7e054"
+Parent: "34cfaa47-4a92-4121-85be-1ef20c8463ac"
+Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
+Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/Premier-Travel-Rewards/Data/Hero"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/elements3.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "81331767-5f8f-4915-9ae5-834164ed810d"
+- ID: "e19f6e46-d51b-47b3-bda8-f99b0246d84d"
+  Hint: Image
+  Value: |
+    <image mediaid="0ec92806-195b-4be8-bc83-dda5689adb6c" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "804a5711-6b8c-41c7-b4f5-ecd608feea58"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T193158Z
+    - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
+      Hint: PrimaryAction
+      Value: |
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title=""/>
+    - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
+      Hint: SecondaryAction
+      Value: |
+        <link linktype="internal" id="{72361283-8997-4A4C-BAAE-5857906DE504}" anchor="" querystring="" target="" class="" text="Travel benefits" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "608a4394-67d9-44b2-b579-656d37434272"
+    - ID: "b7c546d7-acc4-4fdc-953a-47c39dcf17d3"
+      Hint: Description
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T184624Z
+    - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
+      Hint: Subtitle
+      Value: |
+        <div class="ck-content"><p>Earn travel rewards on eligible purchases, with points redeemable for flights, hotels, and more. Enjoy travel benefits and no foreign transaction fees in this demo.&nbsp;</p></div>
+    - ID: "e804b2fe-aeec-46fd-9146-631c15c72ca1"
+      Hint: Eyebrow
+      Value: Premier Travel Rewards
+    - ID: "fb31d0c7-b1ab-4a2a-a53d-e06e7cce2b58"
+      Hint: Title
+      Value: Go farther. Earn points on every purchase.

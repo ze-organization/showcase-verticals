@@ -1,23 +1,19 @@
----
+﻿---
 ID: "d3698a6a-a3c0-488f-9f23-55f02609664b"
 Parent: "adf540de-13fd-413d-a07d-bcec251e225f"
 Template: "adf540de-13fd-413d-a07d-bcec251e225f"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/Component Folders/accordion-block Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {0B4BB014-8912-4ACC-826E-7FF733EEF8E9}
     {B61DF1E6-1CEA-43D2-9B96-5B3FBC5F68D1}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "accordion-block@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c1b902ab-e0d9-49d1-9367-4af6acb80800"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

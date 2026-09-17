@@ -1,18 +1,14 @@
----
+﻿---
 ID: "a6b8c144-729d-4055-8e3f-bff023ea080f"
 Parent: "87ea2348-18fc-46e1-93ed-3eca1304df9d"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Components/Badge"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "83325686-60bb-413a-9992-f6657307b132"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

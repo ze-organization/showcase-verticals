@@ -1,16 +1,12 @@
----
+﻿---
 ID: "f128a9d6-10ee-4b84-ad93-38ef191588de"
 Parent: "dd585c41-1f94-4bd9-938d-2a2744123c67"
 Template: "f147ec3c-d11c-43db-b4a9-0b6a4092d5bb"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Seating/Data/CardOutdoor"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-category-seating@1"
 - ID: "75643a7e-7343-4479-b00d-f5328a9c66e1"
   Hint: Image1
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "7eb8cf5f-7c79-442a-8562-17521f5c39cd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

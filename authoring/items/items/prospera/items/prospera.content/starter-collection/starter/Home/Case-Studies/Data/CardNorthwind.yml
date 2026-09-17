@@ -1,16 +1,12 @@
----
+﻿---
 ID: "bea55cc4-95ff-419e-83f7-6eeea9450014"
 Parent: "065db1f8-4522-4454-8409-c5c5db2d23bc"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/starter/Home/Case-Studies/Data/CardNorthwind"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-studies@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "80c043fd-aa0c-41c7-b0e1-042258955f2a"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{0FECFEA6-FB36-49D0-A016-29757D8DE32D}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

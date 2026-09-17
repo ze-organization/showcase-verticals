@@ -1,16 +1,12 @@
----
+﻿---
 ID: "cf7613c9-5d69-42cc-ac15-d6f5897f1a41"
 Parent: "bd09c052-b0a9-4d75-9180-cb4cc640782c"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/goals/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-goals@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0ce07b7a-6c62-463f-86cf-e386f13530e6"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="77dc0046-1d2a-46d1-9487-58cbaa6f0635" alt="Labeled savings jars for rent, a repair, and a down payment" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -36,11 +32,11 @@ Languages:
     - ID: "34d46807-cf7b-4581-a8e2-5241f8b1a19d"
       Hint: PrimaryAction
       Value: |
-        <link linktype="external" url="/Products/Checking-and-Savings/high-yield-savings" text="High-yield savings" />
+        <link linktype="internal" id="{3D6FB5BD-07B6-4256-9DA8-C8D6994E9359}" anchor="" querystring="" target="" class="" text="High-yield savings" title="" />
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "eba14f2e-7400-4732-8047-58ebb2e571fb"

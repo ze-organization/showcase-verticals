@@ -1,9 +1,8 @@
----
+﻿---
 ID: "05623d64-bd0d-40bd-87f5-d559a0f8b6b1"
 Parent: "c6b448b4-71cb-4696-90e6-92edd7482448"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Pricing/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {2B97B80F-3E0A-4C30-BDF9-5865786BE61F}
     {A722D49A-F7AF-49E1-9DFA-F2236CE547B0}
     {FA326C91-01AD-4418-A527-133EE191394B}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: pricing@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "224e0130-e334-4bf4-b4fb-573f45f9b8f4"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

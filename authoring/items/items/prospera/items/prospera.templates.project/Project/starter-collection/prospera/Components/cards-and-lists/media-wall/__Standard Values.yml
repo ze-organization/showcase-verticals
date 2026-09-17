@@ -1,21 +1,17 @@
----
+﻿---
 ID: "6487af4d-fed2-4c81-b744-23e11803d066"
 Parent: "2e8740f2-22ef-4ba0-a307-d2a1de267ad6"
 Template: "2e8740f2-22ef-4ba0-a307-d2a1de267ad6"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/media-wall/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{0ECFC951-FA55-4E4E-9333-2642285C3733}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "media-wall@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c663a960-e696-46e0-b427-0ae4115aaf04"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

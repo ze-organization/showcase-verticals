@@ -1,25 +1,21 @@
----
+﻿---
 ID: "f1013ea3-06ad-4c9f-b6bc-76ca965b01d1"
 Parent: "eb67ecec-0e39-4b5c-8a2a-71c58c68e472"
 Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/Data/CardBlank"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-pages@1"
 - ID: "c4b4278a-c86c-400a-aefe-5c5bfaec9014"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Empty studio table ready for a layout" />
+    <image mediaid="9b2a203a-fcae-46ed-884b-a397cfb3c57b" alt="Empty studio table" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "83699f2e-4612-464e-95d5-d4b631f7f404"
+  Value: "80a3db7e-56f1-48b4-932d-237520af3e70"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -41,18 +37,18 @@ Languages:
       Value: <p>Header and footer only. Drop components into the main Container to build the campaign yourself.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "929ee73c-32cf-43d5-9076-b3eeb76cdb68"
+      Value: "04ea23f8-3418-45ac-898d-b03548a8a4f5"
     - ID: "a832315c-75e1-4920-8831-0f44c6daaaa8"
       Hint: Title
       Value: Blank landing
     - ID: "ba63fec8-8a4d-485b-86c2-4a054ae9c794"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Landing-Pages/blank" text="View blank landing" />
+        <link linktype="internal" id="{C1F725D7-FEFE-4137-86E5-9834BB8E019C}" anchor="" querystring="" target="" class="" text="View blank landing" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012955Z
+      Value: 20260917T162715Z

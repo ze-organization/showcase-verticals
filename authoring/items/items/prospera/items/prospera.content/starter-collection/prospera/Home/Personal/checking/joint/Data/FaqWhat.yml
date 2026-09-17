@@ -1,21 +1,21 @@
----
+﻿---
 ID: "4ff24034-5f54-4fbd-afdf-c48c7ab22b7f"
 Parent: "4aa13a11-31d0-43cc-a0fb-4f2dfe0a4b14"
 Template: "788427f8-da26-49da-8333-aa6204677d18"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/joint/Data/FaqWhat"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking-joint@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "45639c0a-d15c-423c-bb2d-08de4e9aa650"
+  Value: "ce0e2651-98e5-4981-9e6e-6f2fd8368831"
+- ID: "f0a4c745-69d6-4aec-80c5-8bb1b056cdb4"
+  Hint: Image
+  Value: |
+    <image mediaid="7189f1fe-866b-4a7b-8ed5-d70fbe5f0baa" alt="FAQ thumbnail" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -37,11 +37,11 @@ Languages:
       Value: 20260916T193317Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dde2624a-e757-496c-bd0e-8a5572736502"
+      Value: "349f407b-b302-477f-9a7d-2726e6751c6f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193324Z
+      Value: 20260917T041554Z

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "dcc9a968-7a1b-4e71-8e84-2f1ad5d2ea0d"
 Parent: "12e2d81b-f8e0-466f-8a87-fb232a8ee527"
 Template: "12e2d81b-f8e0-466f-8a87-fb232a8ee527"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/offers-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{03B9FD4B-3564-4310-919F-3DABD9EEEDC4}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offers-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "108ac6b4-495c-4a32-8b92-0f2f6e6604cd"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

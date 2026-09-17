@@ -1,18 +1,14 @@
----
+﻿---
 ID: "19b74cb3-5dc2-4b27-855f-8e1bab1f3b17"
 Parent: "c5631ede-3217-4fc9-891b-6714b0ffa2f3"
 Template: "c5631ede-3217-4fc9-891b-6714b0ffa2f3"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/service-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "service-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0d788194-2d89-427a-a438-d59fd7f2586b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

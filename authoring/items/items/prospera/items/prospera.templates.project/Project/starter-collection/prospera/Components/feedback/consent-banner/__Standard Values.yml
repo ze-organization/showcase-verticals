@@ -1,18 +1,14 @@
----
+﻿---
 ID: "b0158f87-7b10-4081-a80a-b1d6bf75d981"
 Parent: "fcd19ad9-7f08-4345-b2f6-301c4c3f1285"
 Template: "fcd19ad9-7f08-4345-b2f6-301c4c3f1285"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/feedback/consent-banner/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "consent-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5ec7429c-0367-49c2-a745-848b005f0b1c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e25324d0-6ccf-4464-b4e8-1a86b829e7a3"
 Parent: "4dd9e34e-61f1-4842-a73d-0ec16f85b441"
 Template: "94e866ca-eb1d-4a98-9c15-341d652c1386"
 Path: "/sitecore/content/starter-collection/starter/Home/Locations/North-America/san-francisco-embarcadero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{7CC202C5-21F2-42E6-A6D1-188BD73EBF04}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-san-francisco-embarcadero@1"
 - ID: "64043948-ed7e-4969-ada4-abef173e2e23"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "f95afc70-95b2-4ecb-84ef-979182b5df6b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

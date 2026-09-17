@@ -1,18 +1,14 @@
----
+﻿---
 ID: "631d738c-d026-4061-b2f3-3c49e6e327d4"
 Parent: "31accaf0-4d5f-4b78-a5e8-cb2feb5f1fde"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/consent-banner/GdprModal"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "consent-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e412d38e-468a-4112-80b8-280c225c4a64"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

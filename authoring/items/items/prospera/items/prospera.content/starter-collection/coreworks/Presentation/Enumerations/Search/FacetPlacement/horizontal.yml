@@ -1,13 +1,9 @@
----
+﻿---
 ID: "a5ef5b6b-d9ad-44b9-a9af-80835e154a66"
 Parent: "040d2758-741e-4224-b757-b72a4ad31aed"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Search/FacetPlacement/horizontal"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "facet-placement@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: horizontal
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "0f94cfc4-9b8b-4104-99a6-c603e6b57bd9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

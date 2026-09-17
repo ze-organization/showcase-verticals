@@ -1,13 +1,9 @@
----
+﻿---
 ID: "7269e3ab-e4b5-4626-a9ee-27d8d1bde50f"
 Parent: "9708016a-ad83-4e5d-9675-2ffd317d8d64"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Placeholder Settings/array-fields"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "array-fields-{*}"
@@ -34,7 +30,7 @@ SharedFields:
     {3F873459-B9C2-416D-B406-AC21776F5317}
     {5B283D21-8B75-4BBD-86AD-4D93F5376003}
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

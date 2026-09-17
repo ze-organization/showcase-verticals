@@ -1,18 +1,14 @@
----
+﻿---
 ID: "82444b3d-3226-49d0-92ef-4ebe9ab2c03b"
 Parent: "cf8f70d2-7e9d-4962-a3b8-51dc90b3205b"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/feature-card/MediaBanded"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "feature-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9ae84c15-0836-4a8c-8caa-19fbfa1b3a34"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

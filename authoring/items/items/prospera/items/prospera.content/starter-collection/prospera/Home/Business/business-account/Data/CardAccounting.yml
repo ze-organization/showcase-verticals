@@ -1,25 +1,21 @@
----
+﻿---
 ID: "9febcb43-7cc9-488a-a1de-fe3c815cdd3c"
 Parent: "57397e0b-2312-4755-bc10-4d4faf08d6ac"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/business-account/Data/CardAccounting"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "business-account@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Manufacturing floor viewed from a worktable" />
+    <image mediaid="47d3de1e-f4bc-4da0-82d9-4a675e128906" alt="Books next to operating deposits" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "52a4f92d-b5f3-4a98-b1b1-e96034c6d14a"
+  Value: "aa0ea2df-b940-4a04-ae09-6ab12ee7e2cc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Keep operating deposits next to the way you already close the books.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5af8a791-98ae-4bec-92df-3ef9beeeaf2d"
+      Value: "a5153d85-d9b7-4224-8cb3-ec379a2eca5d"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Books and payments
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180818Z
+      Value: 20260917T162655Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Business/accounting" text="Accounting" />
+        <link linktype="internal" id="{A91C8F88-F166-4E78-A071-355F125B45B1}" anchor="" querystring="" target="" class="" text="Accounting" title="" />

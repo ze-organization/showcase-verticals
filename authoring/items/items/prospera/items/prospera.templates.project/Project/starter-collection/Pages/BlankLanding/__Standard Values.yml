@@ -1,16 +1,12 @@
----
+﻿---
 ID: "b3980b7c-8e4a-4399-a2ca-a00ce93392b0"
 Parent: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
 Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
 Path: "/sitecore/templates/Project/starter-collection/Pages/BlankLanding/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{650BA933-EF40-40F5-BE80-3C33BBDD9C46}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "blank-landing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c447af86-860b-4b70-8e9c-c1e56520e873"
@@ -23,7 +19,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

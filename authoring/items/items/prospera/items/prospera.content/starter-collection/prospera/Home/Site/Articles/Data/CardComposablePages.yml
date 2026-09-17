@@ -1,25 +1,21 @@
----
+﻿---
 ID: "4cbf1329-94ce-4c53-af56-60c559d594d4"
 Parent: "1a05bacb-f7b2-4524-b24c-d0f7a462835a"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/Data/CardComposablePages"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9537b92e-7315-4e29-a09b-d4e8e4ea627a"
+  Value: "8037adac-71c1-4f21-8d91-bc98b7db9063"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Modular blocks on a studio bench" />
+    <image mediaid="015ea9bf-0e83-4463-8158-43e404301649" alt="Publishing APY" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260903T211617Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e343f5b4-7162-474e-9859-e789af775f5e"
+      Value: "cdb358a8-732e-404c-9c0b-5b0ad3fe1668"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: <p>Annual percentage yield stated as a fact, with compounding and a date — illustrative on this site.</p>
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Articles/composable-pages" text="Read article" />
+        <link linktype="internal" id="{13FAE353-85B3-4000-8AA7-8E7EB2327CC8}" anchor="" querystring="" target="" class="" text="Read article" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-04-02T09:00:00Z"
+      Value: "04/02/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: How Prospera publishes APY
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012934Z
+      Value: 20260917T050229Z

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "2475ec7e-153e-4b01-83a2-3994a433a91d"
 Parent: "2ef631b7-c7ce-480c-b47b-e81c7d641e57"
 Template: "2ef631b7-c7ce-480c-b47b-e81c7d641e57"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/person-list-grid/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{19CFA286-911F-49ED-B074-7013F352E174}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7aa0fcb0-3c0d-42a0-800b-7e6a1c2238a4"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "625c3db4-9df3-4d36-b21d-ad5a3b005968"
 Parent: "9801171b-4b76-40ef-a591-2ccc626989fe"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/PersonCardVariant/title-only"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "title-only"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "93fbe717-0bfa-470a-b26d-c255e3615bdb"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

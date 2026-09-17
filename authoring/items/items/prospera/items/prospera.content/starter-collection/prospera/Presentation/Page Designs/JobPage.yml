@@ -1,22 +1,18 @@
----
+﻿---
 ID: "b43efc8e-d19c-4927-8016-d34bd1cd125c"
 Parent: "1644f35a-6391-41ab-95c8-22cbf1731201"
 Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Page Designs/JobPage"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "{DB024A87-2A9A-4FDA-BFEC-09581D553C39}|{9CDF5911-251D-4AC2-8429-0B321C4FA31A}|{118F293F-0351-4C73-9D34-D6D65100C56B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-page@1"
+  Value: "{861CDFB1-4A04-4335-98F5-220C124E8E55}|{9CDF5911-251D-4AC2-8429-0B321C4FA31A}|{118F293F-0351-4C73-9D34-D6D65100C56B}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c46c8351-e78f-416b-afc2-167b9c031068"
+  Value: "75c49d2c-a38e-4282-a576-02e294576a01"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -26,7 +22,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -50,11 +46,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5adc4c07-af36-4376-81b9-0e75e440afe1"
+      Value: "3ec8e4f9-a1bb-42cd-9b3c-309891d01964"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T191232Z
+      Value: 20260917T160706Z

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "9deb706e-515c-4aa8-b767-3b22255b727a"
 Parent: "51809b31-b9c5-4554-a415-457bb2a3843c"
 Template: "51809b31-b9c5-4554-a415-457bb2a3843c"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/Forms/form-option/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-option@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "90ed6251-2fdb-4fdd-ba3a-f163558bc8d8"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

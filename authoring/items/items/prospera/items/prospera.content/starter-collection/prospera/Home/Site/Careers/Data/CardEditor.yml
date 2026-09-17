@@ -1,16 +1,12 @@
----
+﻿---
 ID: "dff0526c-5732-4fc8-9589-98025e71c9af"
 Parent: "c95ee311-56f4-4f25-9afc-4625d34e0b0a"
 Template: "10a3d647-7cda-49da-9789-c55649a9b40c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/Data/CardEditor"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: careers@1
 - ID: "c4b4278a-c86c-400a-aefe-5c5bfaec9014"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b9f31684-57c5-49b7-b9dd-84e0b74815f3"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -48,7 +44,7 @@ Languages:
     - ID: "ba63fec8-8a4d-485b-86c2-4a054ae9c794"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Careers/editor-experience-lead" text="View role" />
+        <link linktype="internal" id="{47420549-40ED-48BB-9753-DDC2D4AC3139}" anchor="" querystring="" target="" class="" text="View role" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

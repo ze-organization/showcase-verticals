@@ -1,13 +1,9 @@
----
+﻿---
 ID: "b22ef983-2168-4630-9cb9-98a05721cfd6"
 Parent: "f714d4a5-7a70-4777-90a2-66a2ead2abf7"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Graphics/IconName/heart"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "icon-name@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: heart
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "e6578011-726f-4120-95b4-aa736036f050"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

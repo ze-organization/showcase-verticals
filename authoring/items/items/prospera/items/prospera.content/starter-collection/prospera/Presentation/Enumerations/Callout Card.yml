@@ -1,18 +1,14 @@
----
+﻿---
 ID: "813dbae0-ab0a-4c7d-a17c-cf6f57233481"
 Parent: "a4bd7801-c247-4aaa-882b-aa752c645757"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Callout Card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d8706f1d-a833-46d7-99bc-1159a029c945"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e6255ff8-34be-4914-acb6-f31584abe9f0"
 Parent: "4ab60dbf-ccc8-4a28-b837-c703031405ed"
 Template: "a53efb46-fcb0-4a10-8b76-625fb560bc09"
 Path: "/sitecore/content/starter-collection/starter/Home/Articles/composable-pages"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D6899706-6A5C-4B61-8517-A38C9210664E}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-composable-pages@1"
 - ID: "4ad215e8-ffbf-48e9-934a-17b03bb8192a"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "ef9e5fed-642c-4f44-8ec5-b9068ee7f7b2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

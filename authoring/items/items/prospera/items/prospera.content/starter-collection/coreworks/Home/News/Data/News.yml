@@ -1,21 +1,17 @@
----
+﻿---
 ID: "16e0cc17-9f8f-410d-8bae-5e20bb1929db"
 Parent: "d938efe7-73fb-4501-9118-3761b24c4ec7"
 Template: "5a2378a0-30af-4b39-9326-1b3b56e3bd37"
 Path: "/sitecore/content/starter-collection/coreworks/Home/News/Data/News"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a0a9458f-40c6-4757-98ec-6ed472a3d45b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

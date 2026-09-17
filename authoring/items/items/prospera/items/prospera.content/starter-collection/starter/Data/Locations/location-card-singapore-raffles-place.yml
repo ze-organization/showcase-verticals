@@ -1,9 +1,8 @@
----
+﻿---
 ID: "824b54ff-71be-4bfd-b467-48ea446b2287"
 Parent: "6120770f-c390-48fc-a672-17b0eada6aa7"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/starter/Data/Locations/location-card-singapore-raffles-place"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{65D457A8-D5C6-4BAF-9497-87CB0973298B}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-singapore-raffles-place@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4eb2335b-35d8-41c5-995c-7f5a5ad6b361"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

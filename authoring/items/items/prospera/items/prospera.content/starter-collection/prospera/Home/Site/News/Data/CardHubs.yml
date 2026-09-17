@@ -1,25 +1,21 @@
----
+﻿---
 ID: "0ab9eb30-24ba-4959-90f5-4aac0ee486e5"
 Parent: "d9d71d3e-f07f-4a4e-a7bb-11e5206b24bf"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/Data/CardHubs"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "41a1479b-5ea0-44a3-a20f-afbe232daa74"
+  Value: "c6c9321c-1976-4408-a7eb-f6494ee473b1"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/pdp-01.jpg" alt="Stacked sections on a page proof" />
+    <image mediaid="b49353a6-ff4a-4b92-89b4-e7fd4f541c38" alt="Midtown lobby" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260904T192159Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ce01d047-6aa6-446e-9bf2-7c96419cfb0f"
+      Value: "093ef32b-c6c8-4104-84ec-fe11d8e45d09"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: "<p>Walk-in hours expand at New York Midtown.</p>"
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/News/hub-parents-read-as-a-site" text="Read story" />
+        <link linktype="internal" id="{940B92FF-ED2E-4D5D-8860-7A3613AB8A4A}" anchor="" querystring="" target="" class="" text="Read story" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-08-26T09:00:00Z"
+      Value: "08/26/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: New York Midtown extends lobby hours
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T013001Z
+      Value: 20260917T050310Z

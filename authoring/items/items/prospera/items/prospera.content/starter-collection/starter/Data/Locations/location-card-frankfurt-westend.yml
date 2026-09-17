@@ -1,9 +1,8 @@
----
+﻿---
 ID: "5a18fa33-3223-4247-a962-6425b97f108b"
 Parent: "6120770f-c390-48fc-a672-17b0eada6aa7"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/starter/Data/Locations/location-card-frankfurt-westend"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{BF2EE55B-20E6-4AFA-A896-D5433C849835}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-frankfurt-westend@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "50e1e27a-559c-43fc-b05b-23c229cfd940"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

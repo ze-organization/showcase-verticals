@@ -1,25 +1,21 @@
----
+﻿---
 ID: "99e3794b-e077-4021-af2a-19978d66a7cc"
 Parent: "1a05bacb-f7b2-4524-b24c-d0f7a462835a"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/Data/CarouselPersonalization"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "dfea6081-4b4e-4f40-9626-57ae79ea90f3"
+  Value: "e55b96c2-6d77-4980-89e2-0303aa65ea29"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/home-hero.jpg" alt="Row of related still-life variants" />
+    <image mediaid="125ef53a-1940-4ca7-a687-45fc0d680b35" alt="Spending insights" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,14 +34,14 @@ Languages:
       Value: 20260904T192955Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3ee201e4-5214-4d10-873d-c8a369cc96dc"
+      Value: "866d5d1a-9929-4c9b-867f-9e85b28dd113"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: <p>Categories on everyday checking show where the month went.</p>
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Articles/personalization-authors-can-run" text="Read article" />
+        <link linktype="internal" id="{E3588323-10BB-4996-A886-E482B79FBC07}" anchor="" querystring="" target="" class="" text="Read article" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -55,4 +51,4 @@ Languages:
       Value: Reading spending insights
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T012935Z
+      Value: 20260917T041628Z

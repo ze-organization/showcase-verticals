@@ -1,13 +1,9 @@
----
+﻿---
 ID: "34b19c34-787b-4399-a860-89a6296b75df"
 Parent: "721cae31-6426-49f5-bad4-0da0ad93c9ac"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Navigation/SeparatorGlyph/slash"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "separator-glyph@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: slash
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "734330ce-7744-4fe9-908c-d086d7e31b43"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

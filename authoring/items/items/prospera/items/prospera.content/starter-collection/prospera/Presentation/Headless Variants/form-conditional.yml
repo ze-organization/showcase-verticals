@@ -1,18 +1,14 @@
----
+﻿---
 ID: "03793206-36b3-4082-b29f-cf4ef2903d99"
 Parent: "b94398fb-32ee-477f-9d05-7b69a88ca301"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/form-conditional"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-conditional@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "40963c36-36d6-4f35-bfc2-8f1cbc50f261"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

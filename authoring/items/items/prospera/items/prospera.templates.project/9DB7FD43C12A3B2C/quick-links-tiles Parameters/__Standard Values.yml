@@ -1,0 +1,56 @@
+﻿---
+ID: "90fe36e2-d430-4ec6-8da8-f69f3d8d85cb"
+Parent: "01646ec6-2b8a-43bf-982d-79355a0d0c99"
+Template: "01646ec6-2b8a-43bf-982d-79355a0d0c99"
+Path: "/sitecore/templates/Project/starter-collection/starter/Components/navigation/Presentation Parameters/quick-links-tiles Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5fe3251f-4c72-48fd-a6d4-f5d0e0ed634d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260813T221914Z
+    - ID: "2d19ec49-9882-4583-a1f4-e7f8618d58a4"
+      Hint: MaxWidth
+      Value: "{954B3315-0EC6-4584-87F6-3AACD497E39A}"
+    - ID: "355bb47e-02db-4e47-ac48-5f82b67bd673"
+      Hint: TileAspect
+      Value: "{C03BBC85-7C0F-408D-9BF3-7EA0CBED06B1}"
+    - ID: "4d831270-96ec-4270-a2bc-0c3874ab0958"
+      Hint: Columns
+      Value: "{A442D9BE-D02A-452D-8960-8268B33889BA}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3f50b9c-ee8f-4a0a-827a-63187ae2146f"
+    - ID: "92746d98-b4b2-4047-8392-51330a1b9caa"
+      Hint: Gap
+      Value: "{03AF4E38-CA6D-427C-99E1-D5074C15253F}"
+    - ID: "958d5b1c-1ee4-429f-9221-2fdf8b27b16a"
+      Hint: PaddingY
+      Value: "{295A5038-66A8-4D33-BDDF-B7CDA0AD0B71}"
+    - ID: "b794121f-0693-41d6-af34-0b39c5f21db6"
+      Hint: TileSize
+      Value: "{AB9897B3-871C-45F6-B131-0E0588CF6CA4}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "bba22099-0a92-4a61-bbbb-5e2d379c2c33"
+      Hint: ColorScheme
+      Value: "{6AB8EC05-6217-4470-A67C-46F1770D0F89}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260814T203752Z

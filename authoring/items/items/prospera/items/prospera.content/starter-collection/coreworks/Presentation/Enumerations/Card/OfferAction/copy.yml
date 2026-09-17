@@ -1,13 +1,9 @@
----
+﻿---
 ID: "d2412d8a-48cc-4882-b120-344d6afafc5f"
 Parent: "6af4667d-ae41-4455-97b3-a7b7a627007b"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/OfferAction/copy"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offer-action@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: copy
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "bdd2af14-7beb-40bf-a810-4c2e7ab63cbb"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

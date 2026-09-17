@@ -1,18 +1,14 @@
----
+﻿---
 ID: "b4db30b0-c153-44fa-89c5-08b27583d72b"
 Parent: "881dc37e-41ec-4815-9918-d7edf22ae7ac"
 Template: "881dc37e-41ec-4815-9918-d7edf22ae7ac"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/search/filter-panel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "filter-panel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8e8f0a61-f50d-481d-93c2-c4b73f5c9f44"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -80,7 +76,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151800Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -114,7 +110,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215724Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -182,7 +178,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151800Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -216,7 +212,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215722Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -284,7 +280,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151800Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -352,7 +348,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151800Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -386,7 +382,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215724Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

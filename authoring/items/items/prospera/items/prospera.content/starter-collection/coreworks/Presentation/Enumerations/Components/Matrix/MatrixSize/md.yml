@@ -1,13 +1,9 @@
----
+﻿---
 ID: "785f76ea-5b7a-407b-90f9-3d1ad12589c3"
 Parent: "1d1cc0eb-cace-47c1-acee-adef334fa94a"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Matrix/MatrixSize/md"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "matrix-size@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: md
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "94d9250a-066f-494d-9aec-b90a5986db69"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

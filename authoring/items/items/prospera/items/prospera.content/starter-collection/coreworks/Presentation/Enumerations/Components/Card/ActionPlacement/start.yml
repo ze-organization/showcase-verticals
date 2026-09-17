@@ -1,13 +1,9 @@
----
+﻿---
 ID: "4b86c995-b3c9-4c2a-83e9-202dffed13c0"
 Parent: "08066656-c392-4d2c-a1cd-4c044ae2fd46"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Card/ActionPlacement/start"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "action-placement@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: start
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "266d6fce-0980-4fe2-8f65-32cb68bd1992"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

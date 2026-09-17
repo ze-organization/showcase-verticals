@@ -1,18 +1,14 @@
----
+﻿---
 ID: "43465793-a922-4b73-991b-c87c82e506bb"
 Parent: "2596d1b3-281f-40e6-9eed-233c8358ab6d"
 Template: "2596d1b3-281f-40e6-9eed-233c8358ab6d"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/destination-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "305a09a5-4c75-41f9-856c-4ff102110cfe"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

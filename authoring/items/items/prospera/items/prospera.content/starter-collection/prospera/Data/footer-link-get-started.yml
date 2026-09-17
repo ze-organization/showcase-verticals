@@ -1,21 +1,17 @@
----
+﻿---
 ID: "5aae5a2f-dc59-4749-8cca-2591d350abd0"
 Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
 Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
 Path: "/sitecore/content/starter-collection/prospera/Data/footer-link-get-started"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-link-get-started@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "16bbf4b4-e2ce-4c3e-b18e-4c4481e22580"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -31,11 +27,11 @@ Languages:
       Value: 20260904T193629Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7865527c-94d9-4b5d-b958-586ac030bae6"
+      Value: "ea5204e6-38af-4c8f-ab68-e36f9f17ea0e"
     - ID: "b5d4268a-857f-42e3-aead-31acc948e95b"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Apply-Now" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -45,4 +41,4 @@ Languages:
       Value: Apply Now
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195905Z
+      Value: 20260917T161949Z

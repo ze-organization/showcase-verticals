@@ -1,18 +1,14 @@
----
+﻿---
 ID: "cc4d8159-bc26-44c0-af92-1fbb37618e9d"
 Parent: "8f493848-5fa2-49d9-a88d-541de3db7c40"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8014fff7-ecf6-4857-ae5a-4323700aa6b1"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

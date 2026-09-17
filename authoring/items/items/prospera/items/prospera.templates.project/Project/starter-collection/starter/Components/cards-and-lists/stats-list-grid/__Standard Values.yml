@@ -1,21 +1,17 @@
----
+﻿---
 ID: "d2429c63-9c73-48e0-a089-24e0f07f3bc2"
 Parent: "1d0c59ec-d0c3-4c72-8199-4d713f6fe999"
 Template: "1d0c59ec-d0c3-4c72-8199-4d713f6fe999"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/stats-list-grid/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{16986568-7609-4150-BE32-A56D42215BEC}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stats-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e7ddb88d-f763-4e99-bfa1-592312761d6a"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -71,7 +67,7 @@ Languages:
     - ID: "e58a3047-09a6-4c36-ab5e-562b8974d89a"
       Hint: Title
       Value: بالأرقام
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -99,7 +95,7 @@ Languages:
     - ID: "e58a3047-09a6-4c36-ab5e-562b8974d89a"
       Hint: Title
       Value: I tal
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -155,7 +151,7 @@ Languages:
     - ID: "e58a3047-09a6-4c36-ab5e-562b8974d89a"
       Hint: Title
       Value: In Zahlen
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -183,7 +179,7 @@ Languages:
     - ID: "e58a3047-09a6-4c36-ab5e-562b8974d89a"
       Hint: Title
       Value: By the numbers
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -239,7 +235,7 @@ Languages:
     - ID: "e58a3047-09a6-4c36-ab5e-562b8974d89a"
       Hint: Title
       Value: En cifras
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -295,7 +291,7 @@ Languages:
     - ID: "e58a3047-09a6-4c36-ab5e-562b8974d89a"
       Hint: Title
       Value: En chiffres
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -323,7 +319,7 @@ Languages:
     - ID: "e58a3047-09a6-4c36-ab5e-562b8974d89a"
       Hint: Title
       Value: In numeri
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

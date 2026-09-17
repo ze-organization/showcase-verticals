@@ -1,25 +1,21 @@
----
+﻿---
 ID: "8e237bf9-55bc-4afe-bf80-1376cbcb64ef"
 Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/Travel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/feat-no-foreign-fees.jpg" alt="Traveler paying at a sunlit cafe abroad with a U.S. passport and debit card on the table" />
+    <image mediaid="f8de99ea-2289-4f26-a4cb-959e682c4a7e" alt="No foreign fees illustration" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d8b8c591-eaa7-4e3a-aa0d-614aba33587b"
+  Value: "31a68515-574b-47c1-bf62-bf47062522af"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Travel
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ffd76a49-936a-4fb7-b786-51421de998d3"
+      Value: "eab55582-ce94-4458-aaf8-8d9590515c87"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Features/no-foreign-fees" text="Why this works for trips" />
+        <link linktype="internal" id="{72361283-8997-4A4C-BAAE-5857906DE504}" anchor="" querystring="" target="" class="" text="Why this works for trips" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: "<p>Debit and Rewards Visa spend overseas has no foreign-transaction fee from us in this demonstration. ATM owners abroad may still charge their own fee. You will see the amount in U.S. dollars on the statement.</p>"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193248Z
+      Value: 20260917T162611Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: "Spend abroad without a Prospera foreign-transaction fee."

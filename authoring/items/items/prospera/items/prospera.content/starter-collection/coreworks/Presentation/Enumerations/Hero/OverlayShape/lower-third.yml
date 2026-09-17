@@ -1,13 +1,9 @@
----
+﻿---
 ID: "bef06939-8781-45d0-b17a-2b5436f22433"
 Parent: "f153760c-6024-4be7-bc81-49c7de961484"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Hero/OverlayShape/lower-third"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "overlay-shape@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "lower-third"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "57578a3c-d4b8-4c9b-9cc8-89e7dc7147a5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

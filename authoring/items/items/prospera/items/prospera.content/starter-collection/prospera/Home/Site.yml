@@ -1,18 +1,20 @@
----
+﻿---
 ID: "42118861-8e23-499c-bf18-f1bbd4397bd1"
 Parent: "69fc0a48-3e75-426e-9b2b-296d7a3bf8a4"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 600
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "0f598cf5-3af1-4dad-8c26-79916aa64acd"
+  Value: "ec262009-2467-45f4-b29d-a94be1c1bd21"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -33,7 +35,7 @@ Languages:
       Value: Site
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b75dd2a5-74f9-4c2e-bcb4-b80be0b3918b"
+      Value: "8c54694d-eb98-492b-8dce-4324b7649ba4"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: 0
@@ -49,4 +51,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T194846Z
+      Value: 20260917T160709Z

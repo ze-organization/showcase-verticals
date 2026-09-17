@@ -1,21 +1,17 @@
----
+﻿---
 ID: "a98a9194-80b8-42ef-954f-a90f83d8d12b"
 Parent: "6cbb13fc-c011-4261-a295-752ebcddc5a5"
 Template: "05a20348-0147-4e2d-9d6e-12d262b8e855"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Partial Designs/HeaderUtilityBar/Data/MenuTrigger"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "header-utility-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "91a8275a-2b42-4e7d-a9dc-e2b561a3bb44"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

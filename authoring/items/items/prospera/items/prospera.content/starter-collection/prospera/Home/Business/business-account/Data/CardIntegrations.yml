@@ -1,25 +1,21 @@
----
+﻿---
 ID: "53b3fa41-80a0-4201-a7dc-40550e7a5433"
 Parent: "57397e0b-2312-4755-bc10-4d4faf08d6ac"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/business-account/Data/CardIntegrations"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "business-account@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Business owner at a worktable" />
+    <image mediaid="d395a0b2-55c5-4d2d-8dc8-272d4373053e" alt="Ledger payroll card reader" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "2c9a58b9-32f8-48a3-90c6-c600c00baebf"
+  Value: "52305e2e-cd59-4393-baca-5f53478dfd1a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Connect the ledger, payroll, or card reader you already use.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c1c517bf-63ec-4ad7-ad7f-9d1294ba9a9d"
+      Value: "b775e827-f895-45c6-831a-4e96531189ed"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Integrations
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180818Z
+      Value: 20260917T162655Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Business/integrations" text="Integrations" />
+        <link linktype="internal" id="{BC516342-2759-418C-A52F-E26CCB8F4041}" anchor="" querystring="" target="" class="" text="Integrations" title="" />

@@ -1,16 +1,12 @@
----
+﻿---
 ID: "1c4b8221-c187-44d4-b3b2-d1e3fb99c371"
 Parent: "ea1f42ee-fe9c-4687-bfcf-aae9fa03ad12"
 Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
 Path: "/sitecore/content/starter-collection/starter/Home/Partners/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: partners@1
 - ID: "94cfbee5-7a7d-49df-b5d4-b6653f3125fb"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d51975cb-cc83-478e-8b84-a2c685cbf97b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

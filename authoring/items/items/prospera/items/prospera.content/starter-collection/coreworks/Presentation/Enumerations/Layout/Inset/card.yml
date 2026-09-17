@@ -1,13 +1,9 @@
----
+﻿---
 ID: "0d99a42c-cf6b-4b74-96c3-d27c684f0c77"
 Parent: "8d5980ae-6d5f-4594-8403-e46952507a9a"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/Inset/card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "promo-inset@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: card
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "1c55d768-5a29-4d6f-bf7e-12edf973bdb2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

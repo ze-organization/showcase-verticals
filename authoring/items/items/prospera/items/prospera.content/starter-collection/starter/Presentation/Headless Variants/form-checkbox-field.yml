@@ -1,18 +1,14 @@
----
+﻿---
 ID: "6d7ba480-5895-4c19-871b-59a7f55911bd"
 Parent: "587ae421-b052-43c4-af92-47c21ff3efa0"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/form-checkbox-field"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-checkbox-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "75e14d6c-abe1-4d15-9889-012901fc3644"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

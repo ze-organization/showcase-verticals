@@ -1,13 +1,9 @@
----
+﻿---
 ID: "a97a5b4f-1723-48fd-a30f-23900b15f1b7"
 Parent: "5af5db9b-c571-4b27-a962-f4a1f8ffca97"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/RowCount/8"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "row-count@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: 8
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a76a61be-0a3b-4849-a814-05214bd5044e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "154ec6f1-86ee-45bf-b773-9ccd5afe6203"
 Parent: "79ff18e3-7445-44a4-9969-c8fa72b7afb8"
 Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/ira"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,14 +10,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D830851D-43EC-4BCB-B960-C013BA2AE260}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-ira@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c3f95caf-a181-4660-aca8-f421104682d7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

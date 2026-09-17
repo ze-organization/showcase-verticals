@@ -1,16 +1,12 @@
----
+﻿---
 ID: "ef984fb4-bb57-4f9d-af9c-7c1a7a42a6ae"
 Parent: "0481d051-2988-4531-b47a-712b82cd287a"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/family-banking/Data/CardGoals"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-family-banking@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "88225f48-1a42-4902-bf51-9fe70eccb3f7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: "<p>Labeled balances inside high-yield savings.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0cc97477-03d5-44d1-8489-e3708a4266b7"
+      Value: "b9cf190e-425d-4e46-8336-e32f37dea9b0"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Savings goals
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T191252Z
+      Value: 20260917T162617Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Features/goals" text="Savings goals" />
+        <link linktype="internal" id="{A15027F2-B4B7-47D1-994F-EE4BE3956992}" anchor="" querystring="" target="" class="" text="Savings goals" title="" />

@@ -1,0 +1,59 @@
+﻿---
+ID: "d3f29a10-dbd3-4921-b356-500b534da587"
+Parent: "cab98a0d-ba19-4bd1-aa4f-cc61c2e00e23"
+Template: "cab98a0d-ba19-4bd1-aa4f-cc61c2e00e23"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/navigation/Presentation Parameters/link-list Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "644b0f68-8320-4e96-94ad-ac42b6404b93"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0dca0493-4034-48ae-b21c-2070d94cab6c"
+      Hint: SeparatorGlyph
+      Value: "{AD43887A-1CE0-4AC5-A179-7F8B35E8575D}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T015023Z
+    - ID: "3683ed1d-7f00-4d76-8033-cc84ca385b68"
+      Hint: RowSize
+      Value: "{A05D3897-3264-4DA7-AC11-A21C06665168}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "6d8d4398-47b2-4e2b-84a1-151fd32af1c6"
+      Hint: Columns
+      Value: "{3CD5F4D1-2432-4423-9D93-68D23F96E3AE}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edff75d5-89bd-448f-ab32-c025b608ec53"
+    - ID: "aa5ee948-33fd-40b5-8af7-49b605adfc15"
+      Hint: RowSeparators
+      Value: "{5FDCCE19-90BE-4FE7-A7AA-C67A7011CCED}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "ca4475f0-c557-4343-b8da-410e16a12a25"
+      Hint: ItemStyle
+      Value: "{A588A71C-D5B1-4ADD-A997-17A3B74C46C1}"
+    - ID: "cefd60cb-ca7c-4c42-be29-f182fe910b69"
+      Hint: ListMarker
+      Value: "{6EA60592-164D-44AE-8E95-6E1CA1D7EB1E}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T015023Z
+    - ID: "e7bd0129-9bda-4577-99b4-0b128d463a28"
+      Hint: HeadingColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: "f59ee5e2-4708-4ced-a922-0c6bd7e94f3f"
+      Hint: LinkColorScheme
+      Value: "{E92EE345-1B2F-404E-85F4-0DF9E8B9D320}"

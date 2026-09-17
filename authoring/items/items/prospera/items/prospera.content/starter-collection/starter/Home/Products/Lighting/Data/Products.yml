@@ -1,21 +1,17 @@
----
+﻿---
 ID: "f6685e6a-5308-4abb-a6bd-7b66b7e03ca3"
 Parent: "29d8fece-0493-49e6-968f-e00a8e3d55c5"
 Template: "5d03f5d4-cd26-4c9b-ad3d-226ee5db945d"
 Path: "/sitecore/content/starter-collection/starter/Home/Products/Lighting/Data/Products"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-category-lighting@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b0115f52-67a4-45c9-bef9-2ddfdf4f55a5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

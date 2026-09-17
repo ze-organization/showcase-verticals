@@ -1,13 +1,9 @@
----
+﻿---
 ID: "42f6e7f3-9a46-44fe-a58d-1f032f77006c"
 Parent: "7134110c-4ff8-4574-aed7-fde45ff8e74f"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Search/DistanceUnit/mi"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "distance-unit@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: mi
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "5b65aa67-ae9d-4393-a2a9-e7568e71fe52"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

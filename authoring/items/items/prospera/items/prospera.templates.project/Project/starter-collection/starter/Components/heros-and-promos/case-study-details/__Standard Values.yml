@@ -1,18 +1,14 @@
----
+﻿---
 ID: "d7f0c626-db1f-4f0a-87e3-16214db9c73f"
 Parent: "9223240b-8bb5-435c-a2b5-870fd76b60bd"
 Template: "9223240b-8bb5-435c-a2b5-870fd76b60bd"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/case-study-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-study-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cf43bf6d-8d4d-458b-a627-d1c3347e33f6"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

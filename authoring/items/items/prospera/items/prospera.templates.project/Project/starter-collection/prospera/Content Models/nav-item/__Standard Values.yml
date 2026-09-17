@@ -1,18 +1,14 @@
----
+﻿---
 ID: "85a7f30b-6ca5-4b43-b61e-5534851cde93"
 Parent: "aaa75284-69a9-439d-bc0f-826479ac7049"
 Template: "aaa75284-69a9-439d-bc0f-826479ac7049"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/nav-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "nav-item@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6e1106db-36b5-48d5-9ec4-dcf9d5568b64"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

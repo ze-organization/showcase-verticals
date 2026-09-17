@@ -1,9 +1,8 @@
----
+﻿---
 ID: "d1a80c7e-1d0d-4763-9ce9-a7af58c1ba67"
 Parent: "42118861-8e23-499c-bf18-f1bbd4397bd1"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -16,9 +15,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: articles@1
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 0
@@ -26,7 +22,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "03cec534-92d2-4af9-844f-8ff88469f0ec"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -160,19 +156,19 @@ Languages:
       Value: 0.8
     - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
-      Value: Sample editorial stories for the starter site — composable pages, authoring, personalization, recipes, and search.
+      Value: Sitecore authoring articles from the Prospera team on composable pages, personalization, content recipes, and search.
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Articles
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3a55c030-37e3-45bf-8cea-a34ebbeed78b"
+      Value: "b2e61e28-e364-42c9-8e19-8ceba2410800"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
     - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
-      Value: Articles — Showcase
+      Value: Articles — Prospera
     - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Editorial
@@ -182,4 +178,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195402Z
+      Value: 20260917T163046Z

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "861efb4f-d4c8-4d51-8539-90c5cdbacb7e"
 Parent: "bb2a29aa-c84c-488a-b426-429874ac5dda"
 Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
 Path: "/sitecore/content/starter-collection/coreworks/Home/About/Data/CardSofia"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{3302B124-E4EB-4F6F-8DE4-4C22C20EA219}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: about@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ad5088b3-8782-458c-a7d8-8199cce010e5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

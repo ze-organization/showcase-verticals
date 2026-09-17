@@ -1,9 +1,8 @@
----
+﻿---
 ID: "a9e8ef48-7d37-43ba-9474-6c4d632ed092"
 Parent: "d3d1652e-8ca5-48dc-8852-28bc64fa9047"
 Template: "d3d1652e-8ca5-48dc-8852-28bc64fa9047"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/Data Folders/People Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {19CFA286-911F-49ED-B074-7013F352E174}
     {989F8264-AEE1-4784-B57E-5A4447393A59}
     {2EF631B7-C7CE-480C-B47B-E81C7D641E57}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "30cc9583-408a-490b-911b-76f4b4fe7858"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

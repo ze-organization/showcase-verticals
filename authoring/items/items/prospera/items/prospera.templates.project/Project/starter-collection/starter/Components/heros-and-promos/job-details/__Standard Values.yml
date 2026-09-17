@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e22acbbe-abac-45d1-8f08-af2afd496e14"
 Parent: "26f9d024-640f-4731-9f53-cc535f2ab3d8"
 Template: "26f9d024-640f-4731-9f53-cc535f2ab3d8"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/job-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "job-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ba0aa2b4-cbb6-4d14-bc68-382afeae3e0a"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

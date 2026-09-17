@@ -1,21 +1,17 @@
----
+﻿---
 ID: "e087c90d-5801-4b6d-b5db-fa955c28ab24"
 Parent: "9b855361-0823-4556-931f-c9d859841147"
 Template: "9b855361-0823-4556-931f-c9d859841147"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/stats-list-grid/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{B0F18424-5404-472E-989E-902A437A5135}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stats-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6d3dc30d-d30d-4c30-9084-612d80f9ec4b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

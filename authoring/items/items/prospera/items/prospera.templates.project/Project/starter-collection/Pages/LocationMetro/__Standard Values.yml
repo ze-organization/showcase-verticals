@@ -1,16 +1,12 @@
----
+﻿---
 ID: "6f86f96c-a913-4580-b4a9-a5e42df660cd"
 Parent: "8476fa45-b849-4d96-b78a-46c3e346b1cf"
 Template: "8476fa45-b849-4d96-b78a-46c3e346b1cf"
 Path: "/sitecore/templates/Project/starter-collection/Pages/LocationMetro/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{94E866CA-EB1D-4A98-9C15-341D652C1386}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-metro@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fec9950e-4026-44cf-8498-15cc5d25eabf"
@@ -23,7 +19,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

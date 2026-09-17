@@ -1,13 +1,9 @@
----
+﻿---
 ID: "5137f858-804c-48a2-826e-0695ac959ae4"
 Parent: "8e883bf7-bec8-4305-be6c-69f7da42ea75"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Hero/Hero Heading Layout/display"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "hero-heading-layout@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: display
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "dbb8397b-86fb-4f29-8e2b-3595435b565b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

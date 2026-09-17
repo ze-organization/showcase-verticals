@@ -1,18 +1,14 @@
----
+﻿---
 ID: "b069c5e2-f4d8-40f4-992d-48868505168b"
 Parent: "eff10833-965c-45ab-99ec-406072632711"
 Template: "eff10833-965c-45ab-99ec-406072632711"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/matrix-cell-number/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "matrix-cell-number@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a4903021-8179-41c1-b6f5-b6d857cc792f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

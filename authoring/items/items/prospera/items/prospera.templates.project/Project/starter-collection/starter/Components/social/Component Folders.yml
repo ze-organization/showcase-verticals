@@ -1,21 +1,17 @@
----
+﻿---
 ID: "d4767402-1653-4208-aa63-fa319e42b1a3"
 Parent: "15c48629-d0f7-4a09-9ec9-871a080c25b2"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/social/Component Folders"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-links@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "494670a2-190c-41c2-ad1e-d071abfed217"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

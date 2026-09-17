@@ -1,18 +1,14 @@
----
+﻿---
 ID: "4d9828fe-027a-4049-9a74-3863c8265665"
 Parent: "dce2c58b-ed17-4aaf-9cfd-4bf47b258f45"
 Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
 Path: "/sitecore/content/starter-collection/prospera/Dictionary/AiChatUiLabelsConversation"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-ui-labels-conversation@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "63b0624f-b478-4c58-b415-e5788d214608"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

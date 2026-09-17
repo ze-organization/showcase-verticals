@@ -1,21 +1,17 @@
----
+﻿---
 ID: "9cb1f686-6cc8-4212-b31a-04fd86ddf529"
 Parent: "92f19d48-9848-4bc8-9260-a0ad4e11f9dd"
 Template: "ca84d280-d61b-4ee5-9289-b79afc422e43"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/HeaderUtilityBar/Data/PhoneCta"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "header-utility-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ad2a654f-9412-4ec8-916f-73f8c689bff6"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

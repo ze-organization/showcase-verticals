@@ -1,18 +1,14 @@
----
+﻿---
 ID: "dc6c22cf-d9d8-4a5a-8391-25a6eab2e911"
 Parent: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
 Template: "22d73582-6645-4c5a-8f0f-d87b1b08487e"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/content-block/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "content-block@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e73e7b4f-474f-4f9e-a7e9-39b4124258be"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,23 +1,19 @@
----
+﻿---
 ID: "9702618d-7e9b-4b24-aea3-d5ccbe545050"
 Parent: "0c972b3e-9457-4dc0-aa03-4ccd832a37a5"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Server-Error/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {2B97B80F-3E0A-4C30-BDF9-5865786BE61F}
     {9287BAD6-E065-47D2-9EA1-12080E2679A5}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "server-error@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "55f5de70-5816-49cf-9533-773d26cafe1c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

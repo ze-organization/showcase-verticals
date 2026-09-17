@@ -1,18 +1,14 @@
----
+﻿---
 ID: "3608dc95-166c-4d36-b670-0ee9e6d56e1e"
 Parent: "39454b04-0386-45e5-b4d2-d6c3fb9d2209"
 Template: "39454b04-0386-45e5-b4d2-d6c3fb9d2209"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/utility-trigger/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "utility-trigger@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "bb7a2bf6-1c63-417c-abb7-3e3a9c9e7492"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152045Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223130Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152045Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -184,7 +180,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223129Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -240,7 +236,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152045Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -296,7 +292,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152045Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -324,7 +320,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T223131Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

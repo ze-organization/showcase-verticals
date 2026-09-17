@@ -1,13 +1,9 @@
----
+﻿---
 ID: "d42d3386-d25f-410a-8286-46543ed358ae"
 Parent: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
 Template: "48b0b5b6-f561-4009-a5d4-3a86de6831aa"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/accordion-item-rendering/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "accordion-item-rendering@1"
 - ID: "9d229aa4-1943-4b81-9e6c-db6d4aa49006"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b704d16d-3f69-4a16-871e-ef7c7f236d99"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -84,7 +80,7 @@ Languages:
     - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>استبدل هذا بنص الإجابة الذي يريد المؤلفون عرضه في اللوحة.</p>
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -118,7 +114,7 @@ Languages:
     - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>Erstat dette med den svartekst, som forfatterne vil vise i panelet.</p>
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -186,7 +182,7 @@ Languages:
     - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>Ersetzen Sie dies durch den Antworttext, den Autoren im Panel anzeigen möchten.</p>
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -224,7 +220,7 @@ Languages:
     - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>Replace this with the answer copy authors want to surface in the panel.</p>
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -292,7 +288,7 @@ Languages:
     - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>Reemplaza esto con el texto de la respuesta que los autores quieren mostrar en el panel.</p>
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -360,7 +356,7 @@ Languages:
     - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>Remplacez ce texte par la réponse que les auteurs souhaitent afficher dans le panneau.</p>
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -394,7 +390,7 @@ Languages:
     - ID: "e7112a0e-d0b6-48c8-97a7-702bf16e51a6"
       Hint: Content
       Value: <p>Sostituisci questo testo con la risposta che gli autori vogliono mostrare nel pannello.</p>
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

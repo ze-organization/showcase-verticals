@@ -1,0 +1,53 @@
+﻿---
+ID: "d65119a0-86b0-4081-8def-6671f7d71c41"
+Parent: "1fe6ef0d-a5e2-4586-afba-bb96255e4aa9"
+Template: "1fe6ef0d-a5e2-4586-afba-bb96255e4aa9"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/layout/Presentation Parameters/mobile-menu Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "29f75cd8-13f2-41f7-a354-efc7b1b02396"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T015518Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8bc2a679-c2c2-4e31-b4ef-44bb76995942"
+      Hint: BackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "675199a2-edbc-4711-8ca0-159c91bc255c"
+    - ID: "95693416-7796-49d2-9772-24bc6108221c"
+      Hint: DrawerSide
+      Value: "{62697A76-019F-4B1E-ABEA-7B5626A11CF4}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "c73a56eb-f83a-4dcc-b756-917b88778d06"
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "ce6190b2-57c5-4e77-83d4-c47592e7645e"
+      Hint: IconName
+      Value: "{80BF7764-9E39-44FF-BD90-A25FAA5C90A2}"
+    - ID: "d1a1a380-9137-40a3-a72b-235505118a77"
+      Hint: Padding
+      Value: "{AFD031F9-BD2C-48A8-9FFD-ED5CA573F533}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T015518Z
+    - ID: "f3cc1f67-8589-45f6-af31-a8dd415412b6"
+      Hint: VisibleAt
+      Value: "{220BBD7C-18FB-449E-93F9-89622E0181DC}"

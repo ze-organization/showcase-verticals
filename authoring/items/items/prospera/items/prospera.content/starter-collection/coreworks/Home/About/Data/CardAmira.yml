@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e3f6611f-a7a7-46b7-ab86-b616a1f05c5e"
 Parent: "bb2a29aa-c84c-488a-b426-429874ac5dda"
 Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
 Path: "/sitecore/content/starter-collection/coreworks/Home/About/Data/CardAmira"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{7BB0E626-2A35-4557-A936-D413FBCDB22F}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: about@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fb66705f-8815-419c-8535-e4a0f1a4cde4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

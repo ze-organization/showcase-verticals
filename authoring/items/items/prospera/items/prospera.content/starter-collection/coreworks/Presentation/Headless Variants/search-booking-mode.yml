@@ -1,18 +1,14 @@
----
+﻿---
 ID: "4367644e-4c9d-4756-941b-5ccc65c7a59d"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/search-booking-mode"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-booking-mode@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3e82cc8b-3f13-4127-ac3a-9de1466b73a7"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

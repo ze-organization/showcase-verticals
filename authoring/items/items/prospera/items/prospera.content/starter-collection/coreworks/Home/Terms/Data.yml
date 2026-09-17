@@ -1,21 +1,17 @@
----
+﻿---
 ID: "07f48d08-9e02-4d37-991f-c9f2d1b376d4"
 Parent: "3e0feb9c-636f-41c5-9fcf-9b5019d0d35a"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Terms/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{9287BAD6-E065-47D2-9EA1-12080E2679A5}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: terms@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1fbd49ca-a9fc-4abb-86b6-1e011f0d7785"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

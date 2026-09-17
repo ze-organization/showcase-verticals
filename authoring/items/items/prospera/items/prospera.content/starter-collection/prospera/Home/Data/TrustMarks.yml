@@ -1,21 +1,17 @@
----
+﻿---
 ID: "cb8b3f57-f66d-453d-b816-93338e700a78"
 Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
 Template: "4b104d00-f5b4-474e-a869-5d2114cb9db0"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/TrustMarks"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f4e12c3a-bd4d-4ceb-9cbc-cd51e15f82bf"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

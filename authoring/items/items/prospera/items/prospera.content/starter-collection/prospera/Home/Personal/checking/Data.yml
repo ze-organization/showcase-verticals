@@ -1,9 +1,8 @@
----
+﻿---
 ID: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Parent: "8d797d5b-f575-4167-aacf-6646e40ef424"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -23,14 +22,11 @@ SharedFields:
     {A3B2B7CF-5E78-493F-AE57-583246702B7C}
     {92567043-5EF3-4184-B65E-F03F3B51628C}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "48185051-f5e9-44ee-86de-3e94ec53e911"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

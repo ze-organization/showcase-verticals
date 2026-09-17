@@ -1,13 +1,9 @@
----
+﻿---
 ID: "50d97acd-f5e8-4701-b07f-1538344c9e5f"
 Parent: "884d33de-09ec-4b14-a760-72c8423c0c46"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Placeholder Settings/cards-media-carousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "cards-media-carousel-{*}"
@@ -18,7 +14,7 @@ SharedFields:
   Hint: Allowed Controls
   Value: "{377FA812-F4E7-459A-94CE-426D1449480B}"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

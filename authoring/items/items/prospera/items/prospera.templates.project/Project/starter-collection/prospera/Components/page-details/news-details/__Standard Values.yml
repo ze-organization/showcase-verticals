@@ -1,18 +1,14 @@
----
+﻿---
 ID: "062a8042-ed32-4020-a78c-defe17ed334a"
 Parent: "db182d0f-1906-4191-b96b-09efbb66b528"
 Template: "db182d0f-1906-4191-b96b-09efbb66b528"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/news-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d82dc450-7da7-40ec-a271-cf2d46556401"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

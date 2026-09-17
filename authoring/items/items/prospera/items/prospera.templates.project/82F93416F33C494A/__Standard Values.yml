@@ -1,0 +1,47 @@
+﻿---
+ID: "96dd3dd1-db4f-4e58-86d7-693eb0659d15"
+Parent: "66df8a54-9f22-4d06-ac72-b1a9315162d2"
+Template: "66df8a54-9f22-4d06-ac72-b1a9315162d2"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/Presentation Parameters/form-checkbox-field Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "84b8a02c-5bcb-4aae-8eda-f2d4cca67438"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T014613Z
+    - ID: "4868d817-2188-41ca-bd48-aff494cb415a"
+      Hint: Width
+      Value: "{E0871748-009F-49CE-A0FE-92B39E54EE0E}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "6e5e43f0-da72-4b8b-9d63-019e5acb7220"
+      Hint: LabelOrientation
+      Value: "{1FC1AB6B-87B6-479C-8773-4A6F7FF7E162}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffb6020f-2245-4f76-85b9-453a12de590a"
+    - ID: "949bc3ae-f372-4f5c-a405-94856a486831"
+      Hint: Size
+      Value: "{A05D3897-3264-4DA7-AC11-A21C06665168}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T014613Z
+    - ID: "df13f200-88f0-4cae-b0fb-a0dfc43eb042"
+      Hint: CheckboxPosition
+      Value: "{C601B8B8-F11B-4925-98A5-7D465EF1D9C4}"

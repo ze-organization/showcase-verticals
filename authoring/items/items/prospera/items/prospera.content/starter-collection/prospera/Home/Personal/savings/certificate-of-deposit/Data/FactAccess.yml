@@ -1,21 +1,17 @@
----
+﻿---
 ID: "a4b4be92-b24c-426d-82ba-f8a69e57a68b"
 Parent: "8cfdc9c3-e00f-4aac-9ee5-3bc40406a628"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/certificate-of-deposit/Data/FactAccess"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-cd@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f648a891-6d41-4201-b5fa-7e1e5850a3f7"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -34,7 +30,7 @@ Languages:
       Value: <p>Early withdrawal reduces earnings in this demonstration. We do not quote a live penalty schedule.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fc4f1383-647e-4db4-b0fb-02dcc6430ba1"
+      Value: "99415c57-2093-4738-a39e-3850f3ed1b1b"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: No access during the term
@@ -44,11 +40,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193407Z
+      Value: 20260917T162403Z
     - ID: "eeafe96f-4d61-4e1d-a55f-2a28005cdeb8"
       Hint: IconName
       Value: lock
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Support/fees-rates-charges" text="Fees, rates and charges" />
+        <link linktype="internal" id="{777F45E4-D179-4791-B29F-10B1B00EB44F}" anchor="" querystring="" target="" class="" text="Fees, rates and charges" title="" />

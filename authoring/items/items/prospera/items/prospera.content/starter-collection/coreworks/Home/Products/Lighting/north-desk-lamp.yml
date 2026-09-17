@@ -1,9 +1,8 @@
----
+﻿---
 ID: "96410063-bfb6-4135-847e-94a5c3b5a4ab"
 Parent: "35be76f7-7645-4408-92e1-c4c78491f89e"
 Template: "c788312b-b145-4cf9-bc09-645fd52f7ec0"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Lighting/north-desk-lamp"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E4981D3C-E8ED-409B-A310-EE1230BEB46F}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-north-desk-lamp@1"
 - ID: "808e5bce-6150-4af3-a2dd-c0f5cb77d4ca"
   Hint: Image2
   Value: |
@@ -26,7 +22,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a45ff8a2-b4e1-46e3-a4fb-e3d56a6522d0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

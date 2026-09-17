@@ -1,21 +1,17 @@
----
+﻿---
 ID: "84f71e37-19ee-49dd-8935-dc790aa0d388"
 Parent: "82683f50-4258-4ca7-bc86-807086e07dcf"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/starter/Home/Privacy/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{9287BAD6-E065-47D2-9EA1-12080E2679A5}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: privacy@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6dea1847-f766-407d-af07-01d956cc0b78"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "624aa1e0-dc0c-42bf-a82c-2d9ebba67747"
 Parent: "632d97a2-cb62-4ab8-a1da-402d1f540fdc"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/starter/Home/Products/Seating/Outdoor/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {5D03F5D4-CD26-4C9B-AD3D-226EE5DB945D}
     {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
     {F147EC3C-D11C-43DB-B4A9-0B6A4092D5BB}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-subcategory-outdoor@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2194afa6-6cff-4071-8a41-63b2f4ef9711"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

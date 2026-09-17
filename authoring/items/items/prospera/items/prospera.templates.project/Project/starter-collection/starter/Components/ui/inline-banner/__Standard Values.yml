@@ -1,18 +1,14 @@
----
+﻿---
 ID: "2c5d20a2-f988-4c2a-8ac6-a8f4838502e3"
 Parent: "84b71668-c183-4ed5-af96-2e396554aee0"
 Template: "84b71668-c183-4ed5-af96-2e396554aee0"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/inline-banner/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "inline-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "26b69b11-7d5b-4fb6-af92-3f9d8d136e80"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -74,7 +70,7 @@ Languages:
     - ID: "f64f83f3-d07a-45e2-90f1-e7b8e6eaeee1"
       Hint: Title
       Value: معلومة مفيدة
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -105,7 +101,7 @@ Languages:
     - ID: "f64f83f3-d07a-45e2-90f1-e7b8e6eaeee1"
       Hint: Title
       Value: Godt at vide
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -167,7 +163,7 @@ Languages:
     - ID: "f64f83f3-d07a-45e2-90f1-e7b8e6eaeee1"
       Hint: Title
       Value: Gut zu wissen
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -202,7 +198,7 @@ Languages:
     - ID: "f64f83f3-d07a-45e2-90f1-e7b8e6eaeee1"
       Hint: Title
       Value: Good to know
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -264,7 +260,7 @@ Languages:
     - ID: "f64f83f3-d07a-45e2-90f1-e7b8e6eaeee1"
       Hint: Title
       Value: Bueno saberlo
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -326,7 +322,7 @@ Languages:
     - ID: "f64f83f3-d07a-45e2-90f1-e7b8e6eaeee1"
       Hint: Title
       Value: Bon à savoir
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -357,7 +353,7 @@ Languages:
     - ID: "f64f83f3-d07a-45e2-90f1-e7b8e6eaeee1"
       Hint: Title
       Value: Da sapere
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

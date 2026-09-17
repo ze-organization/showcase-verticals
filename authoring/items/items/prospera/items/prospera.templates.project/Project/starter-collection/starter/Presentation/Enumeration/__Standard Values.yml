@@ -1,21 +1,17 @@
----
+﻿---
 ID: "d5254aad-cbf5-4e91-860b-8fe01331e9ea"
 Parent: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Template: "d6c0ef27-aa4a-4658-9a30-618254eaf70f"
 Path: "/sitecore/templates/Project/starter-collection/starter/Presentation/Enumeration/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{7DAE6839-465B-4364-A4E6-658FF5F1DBBD}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__enumeration-templates__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1349813b-ea46-4050-ac91-e7a1d7259346"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

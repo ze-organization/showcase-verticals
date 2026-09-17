@@ -1,22 +1,18 @@
----
+﻿---
 ID: "09be8858-2aba-40f5-8e77-dfe64e1b1758"
 Parent: "1644f35a-6391-41ab-95c8-22cbf1731201"
 Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Page Designs/StandardPage"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "db024a87-2a9a-4fda-bfec-09581d553c39|118f293f-0351-4c73-9d34-d6d65100c56b"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "standard-page@1"
+  Value: "861cdfb1-4a04-4335-98f5-220c124e8e55|118f293f-0351-4c73-9d34-d6d65100c56b"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "0bf577be-8618-420e-a9b4-b4fdcc802349"
+  Value: "77f45e93-b0a5-492b-82e0-f7b153317c0e"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -32,7 +28,7 @@ SharedFields:
       </d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -71,11 +67,11 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9dfb7ab7-5a7d-461e-9da3-e6e36dc9c511"
+      Value: "12b01074-3cc6-4b2d-9e21-c234eae78717"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T025240Z
+      Value: 20260917T155846Z

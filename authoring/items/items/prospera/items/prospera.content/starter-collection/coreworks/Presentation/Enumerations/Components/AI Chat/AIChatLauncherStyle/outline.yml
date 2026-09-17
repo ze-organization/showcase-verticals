@@ -1,13 +1,9 @@
----
+﻿---
 ID: "4cf6ce57-10cf-4452-89ab-0b00dcb06077"
 Parent: "c16ef93d-7d54-4385-8829-23247dc42da9"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/AI Chat/AIChatLauncherStyle/outline"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-launcher-style@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: outline
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "86616dd7-408f-4dd5-8dad-bb3fdf00e466"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

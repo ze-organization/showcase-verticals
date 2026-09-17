@@ -1,16 +1,12 @@
----
+﻿---
 ID: "b0d29f48-0801-4c80-abe2-57423b5bba41"
 Parent: "d938efe7-73fb-4501-9118-3761b24c4ec7"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/News/Data/CardCatalog"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "da3a3f06-9051-4527-a818-dd7dfcf779da"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{047A74B6-01D3-4B73-A962-9D8B5720AA64}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -52,7 +48,7 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-08-12T09:00:00Z"
+      Value: "08/12/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: The catalog ships insertable types, not a fork per URL

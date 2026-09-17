@@ -1,16 +1,12 @@
----
+﻿---
 ID: "27f8db69-9678-49dd-89e0-68240e5a6f2e"
 Parent: "29d8fece-0493-49e6-968f-e00a8e3d55c5"
 Template: "f147ec3c-d11c-43db-b4a9-0b6a4092d5bb"
 Path: "/sitecore/content/starter-collection/starter/Home/Products/Lighting/Data/CardNorthLamp"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-category-lighting@1"
 - ID: "75643a7e-7343-4479-b00d-f5328a9c66e1"
   Hint: Image1
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "265f2d13-9889-4012-a57f-b2ea9a92a11a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

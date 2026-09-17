@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f47e8c7b-f8a7-480e-96b5-381d152c9689"
 Parent: "86076628-4b3e-4c6f-b6f4-21fa9bc5d8ca"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/FAQs/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {9287BAD6-E065-47D2-9EA1-12080E2679A5}
     {A31E56DC-9DE9-4E0D-A920-4DB9CE4CE2A9}
     {48B0B5B6-F561-4009-A5D4-3A86DE6831AA}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: faqs@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6456d1f0-57f8-4ac7-b0b2-754b10933297"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

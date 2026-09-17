@@ -1,25 +1,21 @@
----
+﻿---
 ID: "2072e297-d3fe-4a24-a36b-ebc8e911cb6e"
 Parent: "fbf85376-7a35-4af5-a8ab-336a224e2ddc"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/Data/CardChecking"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/pdp-01.jpg" alt="Person reviewing household finances at a desk" />
+    <image mediaid="98a3ef02-7c6e-42d9-8cb4-1e25a3f8ed27" alt="Teal checking debit card" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "6bfee5a5-2bc1-461f-b5ea-76f42435fc23"
+  Value: "4f3a4d97-4982-4ceb-a0bd-ea1088524c3d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: <p>Paychecks land in everyday checking. Move surplus here on a schedule you set.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2bf6b04-a338-418f-bff9-a84c914adcff"
+      Value: "63b1c0d1-282d-4cd0-8de1-04dd7ae509c6"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Fund from checking
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193353Z
+      Value: 20260917T162355Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/checking" text="Everyday checking" />
+        <link linktype="internal" id="{8D797D5B-F575-4167-AACF-6646E40EF424}" anchor="" querystring="" target="" class="" text="Everyday checking" title="" />

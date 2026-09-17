@@ -1,9 +1,8 @@
----
+﻿---
 ID: "b66eb93e-da18-4fa1-8a1e-52d4a6c7e9b6"
 Parent: "2e11e636-2dd9-4508-b16b-7f4a4483798e"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Asia-Pacific/Japan/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {2F665441-6541-4322-B01C-38768FE0B2DC}
     {BD18AE32-4F25-4CAB-BE2A-A128400BD768}
     {C5983974-FD79-4B87-84DC-0496923BCF42}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-country-japan@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "86f41615-1634-45c4-b45d-cc1f2c628295"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "73d13883-2041-49d7-9830-22b85fdafd40"
 Parent: "eb71c7b3-5740-4f22-bef3-1c8ba9047328"
 Template: "94e866ca-eb1d-4a98-9c15-341d652c1386"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/EMEA/frankfurt-westend"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D2579DCE-BFDD-4BAE-BED9-8590C8585F63}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-frankfurt-westend@1"
 - ID: "64043948-ed7e-4969-ada4-abef173e2e23"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "e1661174-0446-479e-8dab-ef2764f7a57b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f32b8d81-2bd0-4614-ac03-77ca8744df40"
 Parent: "01e51dbd-aaba-4531-ae2c-a0cc7d5cff1a"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Partial Designs/FooterBrandSocial/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -14,14 +13,11 @@ SharedFields:
     {9287BAD6-E065-47D2-9EA1-12080E2679A5}
     {210A31E8-9271-4704-9EA0-A0EA6E9EFD1B}
     {AA46C461-8E4B-43AB-BC80-A46D7361F53A}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "footer-brand-social@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4dad1a3f-adde-4804-b475-2b714bef03bd"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

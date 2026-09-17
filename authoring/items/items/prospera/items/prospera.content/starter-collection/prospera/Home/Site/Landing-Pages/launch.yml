@@ -1,9 +1,8 @@
----
+﻿---
 ID: "4a18f87c-6d3f-4839-b897-98e508979207"
 Parent: "706a31be-3ae9-4b1d-b65d-3d9c0f5ea311"
 Template: "2476972e-b68f-4589-81b0-231550d60e6f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/launch"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -15,9 +14,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{F5944F8E-8906-4B6D-98A4-30EAF5572F7C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-launch@1"
 - ID: "2a3d77af-2461-43e1-9393-48b38acf1eb1"
   Hint: PartnerLogosImage
   Value: |
@@ -30,7 +26,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "6f9b22f3-5f1f-44fe-a7c5-e51e5d3d6d14"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -90,7 +86,7 @@ Languages:
       Value: launch
     - ID: "504daf0a-4a90-47af-865f-fa863d3666bd"
       Hint: MetaDescription
-      Value: "Sample product-launch landing. Hero, features, stats, proof, FAQ, and a closing CTA on the page item."
+      Value: Product launch page for the North Desk lamp, with features, stats, customer proof, and FAQs.
     - ID: "6bccb0b8-4078-4ac7-a0b4-c01f503290c5"
       Hint: FinalCtaTitle
       Value: "Ready to light the next brief?"
@@ -111,7 +107,7 @@ Languages:
       Value: <p>We stopped rebuilding campaign layouts. Editors fill the landing fields and we personalize the values.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c06cb15e-e65e-4e60-81ba-aa67cc93fb4c"
+      Value: "06ea63b7-e487-4462-9fd8-7b2625cfad2a"
     - ID: "9a475c2c-10ef-4005-8abb-c6520326b8c8"
       Hint: Feature3Description
       Value: <p>Swap field values per account. Do not fork a template for every campaign.</p>
@@ -155,7 +151,7 @@ Languages:
       Value: Amira Hassan
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232909Z
+      Value: 20260917T163025Z
     - ID: "ed5d626a-9c45-4485-af97-e3bfea8d7ef6"
       Hint: Feature1IconName
       Value: play
@@ -170,7 +166,7 @@ Languages:
       Value: Set up in a day
     - ID: "f4ec005d-3148-4f34-9036-031edf269660"
       Hint: MetaTitle
-      Value: North Desk launch — Showcase
+      Value: North Desk Launch — Prospera
     - ID: "fa36d514-728d-4b09-b0dd-6fa6774df53d"
       Hint: ShortDescription
       Value: North Desk is a focused lamp for people who ship. One insert, six sections, every field on the page.

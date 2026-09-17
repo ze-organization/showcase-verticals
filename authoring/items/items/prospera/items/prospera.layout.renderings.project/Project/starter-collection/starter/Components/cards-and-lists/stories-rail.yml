@@ -1,9 +1,8 @@
----
+﻿---
 ID: "d93c1337-1dce-488d-aa38-3ba1ea9c7db0"
 Parent: "5da0a101-ba9d-4c60-9dcd-3256b7dc6c8e"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/starter/Components/cards-and-lists/stories-rail"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -14,9 +13,6 @@ SharedFields:
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: "{2C3A3D53-8868-4529-A4C2-4BB5D21582C7}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stories-rail@1"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -33,7 +29,7 @@ SharedFields:
   Hint: OtherProperties
   Value: IsAutoDatasourceRendering=true
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "b3a98f12-2c5e-4864-b1e5-3514905f1a30"
 Parent: "ca2ffa3f-c056-49c6-9e60-5ecbc865b9f9"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/AI Chat/AIChatLauncherSize/large"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-launcher-size@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: large
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "dfc16cf1-3cc4-4cab-bda4-f5f6d0a8785e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

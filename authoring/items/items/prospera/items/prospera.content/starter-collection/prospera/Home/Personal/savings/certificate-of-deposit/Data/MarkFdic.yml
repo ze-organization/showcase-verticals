@@ -1,16 +1,12 @@
----
+﻿---
 ID: "be6fadc4-1632-4f43-a40a-7a61a0aad01f"
 Parent: "8cfdc9c3-e00f-4aac-9ee5-3bc40406a628"
 Template: "0513f0be-18f8-46e2-8df2-4ef7d35b088d"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/savings/certificate-of-deposit/Data/MarkFdic"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-savings-cd@1"
 - ID: "40333ae0-57fd-4e3d-9f24-a67b6dcac7b3"
   Hint: Logo
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "2ebc101f-a7c0-4e16-bb19-b14238516c44"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

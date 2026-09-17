@@ -38,3 +38,7 @@ sitecoreai.cli.json
 
 # Astra theme pack (local implementation assets; do not commit)
 /theme-pack/
+
+# Local Sitecore media dumps / one-off upload helpers
+prospera-sitecore-media.zip
+/sitecore-media-upload/

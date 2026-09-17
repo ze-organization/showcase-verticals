@@ -1,9 +1,8 @@
----
+﻿---
 ID: "cc1c3986-c941-4723-8fa8-75dee633512a"
 Parent: "f0431228-afb3-4496-8951-bff1e73f8d7e"
 Template: "650ba933-ef40-40f5-be80-3c33bbdd9c46"
 Path: "/sitecore/content/starter-collection/starter/Home/Landing-Pages/blank"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,14 +10,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{08398D4B-C726-42E6-8D57-2CF5349801C2}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "blank-landing-sample@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "45f86087-e284-4a16-bac9-8fc93cbc3c9e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

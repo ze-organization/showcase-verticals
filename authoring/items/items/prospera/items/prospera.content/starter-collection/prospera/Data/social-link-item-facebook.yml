@@ -1,21 +1,17 @@
----
+﻿---
 ID: "f5963e88-8b88-4832-ba41-dd51cbda8221"
 Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
 Template: "48f614f4-4784-4631-906f-b49ae32bb1e1"
 Path: "/sitecore/content/starter-collection/prospera/Data/social-link-item-facebook"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-link-item-facebook@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "70ffc132-57ca-47fd-95d5-038b191466af"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

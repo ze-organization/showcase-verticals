@@ -1,13 +1,9 @@
----
+﻿---
 ID: "69f08fd5-a1c1-4e62-bb9f-5d2fa91ae5a9"
 Parent: "f0d370d9-dc56-461b-b920-bd3219c60074"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Forms/Subscribe Block Surface/card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "subscribe-block-surface@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: card
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d94a860e-c804-45d4-9c46-b4c983450773"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

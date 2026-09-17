@@ -1,9 +1,8 @@
----
+﻿---
 ID: "0481d051-2988-4531-b47a-712b82cd287a"
 Parent: "a584d75d-7744-4a1e-8aec-0a7d370ea1ef"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/family-banking/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -14,14 +13,11 @@ SharedFields:
     {22D73582-6645-4C5A-8F0F-D87B1B08487E}
     {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
     {A3B2B7CF-5E78-493F-AE57-583246702B7C}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-family-banking@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f4081dab-f709-4f25-8d64-90ea021de2c1"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

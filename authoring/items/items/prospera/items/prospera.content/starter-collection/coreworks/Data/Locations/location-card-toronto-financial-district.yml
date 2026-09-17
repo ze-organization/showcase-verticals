@@ -1,9 +1,8 @@
----
+﻿---
 ID: "34749886-a234-4628-8d4b-5c9a9b2cdcff"
 Parent: "415eede5-4bf8-415b-9cd5-b768ed4d95cf"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/coreworks/Data/Locations/location-card-toronto-financial-district"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{D919C806-23E9-4D5D-8438-F8E7F1C339D2}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-toronto-financial-district@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8d53d1f4-e7fd-49fe-8f9d-74d632e362ab"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

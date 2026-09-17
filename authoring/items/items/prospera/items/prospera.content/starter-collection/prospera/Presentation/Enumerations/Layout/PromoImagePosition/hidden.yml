@@ -1,13 +1,9 @@
----
+﻿---
 ID: "5a3bb05c-4528-44c7-971f-c8dc7f4d9e7b"
 Parent: "5b8be46b-65c0-410c-8c63-cd9c8b943a54"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/PromoImagePosition/hidden"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "promo-image-position@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: hidden
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "1916072c-874c-423b-864b-aa2cabcb3b74"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

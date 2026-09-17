@@ -1,25 +1,21 @@
----
+﻿---
 ID: "e8b3445d-e2b5-4cdf-be38-b9e22696cf9b"
 Parent: "d9d71d3e-f07f-4a4e-a7bb-11e5206b24bf"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/Data/CardInsert"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "6f8a6f91-91df-4877-bd52-16e1c11ded39"
+  Value: "1bb8fdeb-f1b1-4de7-bdef-9d520bcd71ec"
 - ID: "fec5206f-28dc-42b9-8bcc-4cf7e042aaaa"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Editor setting insert options" />
+    <image mediaid="8e4a43a3-3cc2-4cae-bd20-f91c843e870e" alt="HELOC occupancy" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,24 +34,24 @@ Languages:
       Value: 20260904T192159Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8e427689-54f6-49c5-9fe9-1d90c6122a99"
+      Value: "4d606e6a-e82f-4144-960d-eb2fe049d686"
     - ID: "9a110a03-2ae4-4e97-93a2-03c18f5d5e0d"
       Hint: Excerpt
       Value: "<p>A HELOC remains subject to credit, occupancy, and combined loan-to-value. Apply Now starts a conversation, not a lock.</p>"
     - ID: "b27c83d4-00e3-4942-b60b-c16e36dc08b5"
       Hint: Link
       Value: |
-        <link linktype="external" url="/News/listing-insert-options" text="Read story" />
+        <link linktype="internal" id="{98238293-752A-45AB-AF53-6272BDD6CD4F}" anchor="" querystring="" target="" class="" text="Read story" title="" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "cfa3a5d7-9bdf-4c28-979c-01fce0704894"
       Hint: Date
-      Value: "2026-08-19T09:00:00Z"
+      Value: "08/19/2026 09:00:00"
     - ID: "cfcd7906-6df1-4e9d-bcc3-eb4ef751f020"
       Hint: Title
       Value: HELOC files still need occupancy and title
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T013001Z
+      Value: 20260917T050342Z

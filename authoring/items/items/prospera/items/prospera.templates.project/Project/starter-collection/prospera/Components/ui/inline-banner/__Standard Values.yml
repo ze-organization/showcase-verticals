@@ -1,18 +1,14 @@
----
+﻿---
 ID: "0bd33cb1-d047-41b6-8295-53be4d6e824f"
 Parent: "59fa1145-e42f-42f3-ad8b-f0e30be187a1"
 Template: "59fa1145-e42f-42f3-ad8b-f0e30be187a1"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/inline-banner/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "inline-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e96f9398-1fec-4873-86c6-ed543f8de259"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

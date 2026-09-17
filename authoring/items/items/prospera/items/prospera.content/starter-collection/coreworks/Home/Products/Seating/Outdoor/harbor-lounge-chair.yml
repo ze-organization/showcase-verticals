@@ -1,9 +1,8 @@
----
+﻿---
 ID: "2ce7a320-bfe6-4539-bef1-141dd95ca38a"
 Parent: "7c795223-d7d8-49da-9c03-8475506a23b4"
 Template: "c788312b-b145-4cf9-bc09-645fd52f7ec0"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Seating/Outdoor/harbor-lounge-chair"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E4981D3C-E8ED-409B-A310-EE1230BEB46F}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-harbor-lounge-chair@1"
 - ID: "808e5bce-6150-4af3-a2dd-c0f5cb77d4ca"
   Hint: Image2
   Value: |
@@ -26,7 +22,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "3a57e291-9c01-4d45-8d10-52cfeb0bb38f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

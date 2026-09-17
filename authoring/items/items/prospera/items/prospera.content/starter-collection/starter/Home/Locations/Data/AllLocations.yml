@@ -1,21 +1,17 @@
----
+﻿---
 ID: "96426d8b-e6e9-4172-b7d4-aef9ff44329c"
 Parent: "20f75c11-8c7f-4cbd-a86c-46beb99e60be"
 Template: "8cba3388-5944-43d2-8827-02704751704c"
 Path: "/sitecore/content/starter-collection/starter/Home/Locations/Data/AllLocations"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: locations@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d70fa3af-e1bb-461c-b5ce-b50ef717c50a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

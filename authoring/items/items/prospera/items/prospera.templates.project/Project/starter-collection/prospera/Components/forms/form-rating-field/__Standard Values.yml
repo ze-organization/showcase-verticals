@@ -1,18 +1,14 @@
----
+﻿---
 ID: "df3e9c36-c5bc-4d33-9b10-813dc588e9ff"
 Parent: "f6903120-2c5c-4ef2-9611-6e4564647b5d"
 Template: "f6903120-2c5c-4ef2-9611-6e4564647b5d"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-rating-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-rating-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ef735f88-cdf3-42a2-bd31-35da800c9513"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

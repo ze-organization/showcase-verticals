@@ -1,13 +1,9 @@
----
+﻿---
 ID: "d04b47bc-a7ba-4b47-960d-dc6fad4baad0"
 Parent: "e8dd872e-0ada-432d-9750-c726858d58aa"
 Template: "e8dd872e-0ada-432d-9750-c726858d58aa"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ai/ai-chat-widget/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-widget@1"
 - ID: "b93d5fb0-257b-4f89-982a-0ee052670204"
   Hint: Avatar
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "729a9065-2e7e-457c-8cd6-2a67c5e3467a"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -102,7 +98,7 @@ Languages:
     - ID: "f7a7196d-4197-460f-bce3-218a2ebf4997"
       Hint: WelcomeMessage
       Value: مرحبًا، أنا هنا للمساعدة. اسألني عن أي شيء يتعلق بالمحتوى أو المنتجات أو التنقّل.
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -145,7 +141,7 @@ Languages:
     - ID: "f7a7196d-4197-460f-bce3-218a2ebf4997"
       Hint: WelcomeMessage
       Value: Hej, jeg er her for at hjælpe. Spørg mig om alt vedrørende indhold, produkter eller navigation.
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -231,7 +227,7 @@ Languages:
     - ID: "f7a7196d-4197-460f-bce3-218a2ebf4997"
       Hint: WelcomeMessage
       Value: Hallo, ich helfe Ihnen gerne. Fragen Sie mich alles zu Inhalten, Produkten oder Navigation.
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -283,7 +279,7 @@ Languages:
     - ID: "f7a7196d-4197-460f-bce3-218a2ebf4997"
       Hint: WelcomeMessage
       Value: Hi, I am here to help. Ask me anything about content, products, or navigation.
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -369,7 +365,7 @@ Languages:
     - ID: "f7a7196d-4197-460f-bce3-218a2ebf4997"
       Hint: WelcomeMessage
       Value: Hola, estoy aquí para ayudarte. Pregúntame lo que quieras sobre contenido, productos o navegación.
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -452,7 +448,7 @@ Languages:
     - ID: "f7a7196d-4197-460f-bce3-218a2ebf4997"
       Hint: WelcomeMessage
       Value: "Bonjour, je suis là pour vous aider. Posez-moi toutes vos questions sur le contenu, les produits ou la navigation."
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -495,7 +491,7 @@ Languages:
     - ID: "f7a7196d-4197-460f-bce3-218a2ebf4997"
       Hint: WelcomeMessage
       Value: Ciao, sono qui per aiutarti. Chiedimi qualsiasi cosa su contenuti, prodotti o navigazione.
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

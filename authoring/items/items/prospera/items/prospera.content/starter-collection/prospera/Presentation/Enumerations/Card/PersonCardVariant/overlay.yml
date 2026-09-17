@@ -1,13 +1,9 @@
----
+﻿---
 ID: "a8e3842f-d796-476e-8765-a98c81954001"
 Parent: "0a516176-52ff-4dd9-a029-97437e77ce39"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/PersonCardVariant/overlay"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: overlay
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "efb84edc-8f6f-4137-b91c-e990a85b5d8e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

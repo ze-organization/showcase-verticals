@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ccb7c016-1767-475e-aa49-4a58c1cc4cae"
 Parent: "879d8a5b-e89c-4bd3-bf88-917639eeb128"
 Template: "879d8a5b-e89c-4bd3-bf88-917639eeb128"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/form-conditional/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-conditional@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "60729769-2325-454f-ba69-cb56fa70269b"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

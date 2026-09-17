@@ -1,21 +1,20 @@
----
+﻿---
 ID: "9d78a11d-8d06-4b4b-b76b-a9b0e452eed6"
 Parent: "74370ecc-44cd-407c-a49f-816acbb99e48"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Support/glossary"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "support-glossary@1"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "a897230b-afcf-4811-8c5c-6b36581f8048"
+  Value: "cb2b8e6a-e1fe-4e3e-a383-27382b971372"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -142,7 +141,7 @@ Languages:
       Value: glossary
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "84f5144b-3c04-4d89-abdb-39b4bcf2c2be"
+      Value: "896c1861-e117-4b3d-bac0-04a49ae27276"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
@@ -158,4 +157,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T180945Z
+      Value: 20260917T160809Z

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "1e2cf7ec-1797-4555-af6e-2be3d25287fb"
 Parent: "30a61c7d-d6a5-44e7-b8df-c84afee7ee06"
 Template: "30a61c7d-d6a5-44e7-b8df-c84afee7ee06"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/ai-skill/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-skill@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "caba3923-881c-4c1b-94aa-7233a0a6569e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

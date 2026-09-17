@@ -1,18 +1,14 @@
----
+﻿---
 ID: "a59fdb5d-b0ab-4a30-907d-5e140d96fd40"
 Parent: "824578a4-80ed-4356-ae6b-6b9deae1ccf7"
 Template: "824578a4-80ed-4356-ae6b-6b9deae1ccf7"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/product-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "145f6c25-f364-4705-a40c-fc37b5cdb705"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

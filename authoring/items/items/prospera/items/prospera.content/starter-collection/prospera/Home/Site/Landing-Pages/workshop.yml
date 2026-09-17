@@ -1,9 +1,8 @@
----
+﻿---
 ID: "3c504f7c-1a1b-4bb3-b49f-d51e91647653"
 Parent: "706a31be-3ae9-4b1d-b65d-3d9c0f5ea311"
 Template: "2476972e-b68f-4589-81b0-231550d60e6f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Landing-Pages/workshop"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -15,9 +14,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{F5944F8E-8906-4B6D-98A4-30EAF5572F7C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-workshop@1"
 - ID: "6a098f09-1266-41be-a0cc-a57138e25855"
   Hint: Image
   Value: |
@@ -26,7 +22,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "5f59b912-1866-40b5-9a0e-139dbabf0a06"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -47,7 +43,7 @@ Languages:
     - ID: "08763327-6978-4fcb-a2aa-eb2b298641a8"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Articles" text="Read the stories" />
+        <link linktype="internal" id="{D1A80C7E-1D0D-4763-9CE9-A7AF58C1BA67}" anchor="" querystring="" target="" class="" text="Read the stories" title="" />
     - ID: "088a84b1-0f33-4367-a6ec-b6f952d29e14"
       Hint: Faq2Answer
       Value: <p>No. We use the starter tenant. Bring a campaign brief if you have one.</p>
@@ -86,7 +82,7 @@ Languages:
       Value: workshop
     - ID: "504daf0a-4a90-47af-865f-fa863d3666bd"
       Hint: MetaDescription
-      Value: "Sample workshop landing. Same six-section Landing type as the product launch, filled for enablement."
+      Value: "A half-day, hands-on workshop for editors on inserting page types and building landing pages without rebuilding templates."
     - ID: "6bccb0b8-4078-4ac7-a0b4-c01f503290c5"
       Hint: FinalCtaTitle
       Value: Save a seat
@@ -107,7 +103,7 @@ Languages:
       Value: <p>The workshop is the first time our editors stopped asking for a new template for every campaign.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f618dc60-c6b0-41ff-847e-511b1a88afc3"
+      Value: "343c177c-3bd9-44f7-884a-4d5468cffa02"
     - ID: "9a475c2c-10ef-4005-8abb-c6520326b8c8"
       Hint: Feature3Description
       Value: <p>We map one marketer paragraph onto the six landing field groups.</p>
@@ -151,7 +147,7 @@ Languages:
       Value: Julian Park
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232910Z
+      Value: 20260917T163020Z
     - ID: "ed5d626a-9c45-4485-af97-e3bfea8d7ef6"
       Hint: Feature1IconName
       Value: users
@@ -166,7 +162,7 @@ Languages:
       Value: Insert, don't rebuild
     - ID: "f4ec005d-3148-4f34-9036-031edf269660"
       Hint: MetaTitle
-      Value: Authoring workshop — Showcase
+      Value: Authoring Workshop — Prospera
     - ID: "fa36d514-728d-4b09-b0dd-6fa6774df53d"
       Hint: ShortDescription
       Value: A workshop for editors who insert pages every week. Same Landing template as the product launch — different brief.

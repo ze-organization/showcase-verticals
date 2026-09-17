@@ -1,16 +1,12 @@
----
+﻿---
 ID: "71791379-38a2-48e0-b14d-021847e1c8bf"
 Parent: "d938efe7-73fb-4501-9118-3761b24c4ec7"
 Template: "72b40c79-2511-4e52-b0b3-b91a3e3c7c5f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/News/Data/CarouselCatalog"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-listing@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "13cce90b-781d-4a2e-b561-2bde00b079f6"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{047A74B6-01D3-4B73-A962-9D8B5720AA64}" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

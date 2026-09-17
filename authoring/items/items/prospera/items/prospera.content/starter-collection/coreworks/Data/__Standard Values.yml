@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e0b6e430-d6a3-46d6-b016-a4ed00aee85c"
 Parent: "53eb0d8c-24a5-48cb-a3c1-763aaa9306ee"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: "/sitecore/content/starter-collection/coreworks/Data/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -96,14 +95,11 @@ SharedFields:
     {FCB9F781-F762-4FF7-9A18-2B6B93E5368C}
     {28123CEF-7AE8-4A68-B261-EE74EC98DA5A}
     {FB8AC336-7215-4ED5-B3ED-0B89DC82381C}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__site-data-root__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "71a01cb7-1801-4dcf-9414-bd3233ec76ad"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

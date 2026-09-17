@@ -1,18 +1,14 @@
----
+﻿---
 ID: "9963447a-c8be-40d5-9e97-21a7249748d4"
 Parent: "5723fb5a-fbc5-4e0a-8f4b-d3a5edfde097"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/reviews-carousel/FeatureSpotlight"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "reviews-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "53b88f27-e52f-4019-948a-ff75d5370f8a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

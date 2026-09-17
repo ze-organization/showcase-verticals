@@ -1,18 +1,14 @@
----
+﻿---
 ID: "13a45ac3-d63f-4584-bbcf-db7bf2ec9f62"
 Parent: "840bb334-b01a-4c9a-bc98-1fd1d373e369"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/section-wrapper/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "section-wrapper@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "52ad31e0-efa0-49b9-b0c1-ecb0454b6878"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

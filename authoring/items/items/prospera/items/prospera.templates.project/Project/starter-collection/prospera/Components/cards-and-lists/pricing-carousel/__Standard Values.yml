@@ -1,21 +1,17 @@
----
+﻿---
 ID: "43a207cb-94af-4537-944f-3e596b8eb99f"
 Parent: "b2278274-c094-457f-b8a9-a9ca96deab86"
 Template: "b2278274-c094-457f-b8a9-a9ca96deab86"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/pricing-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{EBEC7DD2-0F53-433C-A348-5C9FD35B9584}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "pricing-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "bad39f88-49d2-4b70-8acf-5b0776096c4f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "54852b41-e3a6-4c31-995b-1afb4c81c4e2"
 Parent: "bdb9d8f0-f1bd-4133-97c9-ff360d8cecbd"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Hero/OverlayMobilePosition/top"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "overlay-mobile-position@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: top
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "45dbf5f0-ac35-4770-ad86-ae80e5df3320"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

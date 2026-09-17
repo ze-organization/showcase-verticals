@@ -1,18 +1,14 @@
----
+﻿---
 ID: "6819633f-60f8-4313-a8cc-ab504afe377c"
 Parent: "b94398fb-32ee-477f-9d05-7b69a88ca301"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/offers-carousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offers-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a949c67c-2667-42e6-b104-c4a2072a398d"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

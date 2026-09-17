@@ -1,21 +1,17 @@
----
+﻿---
 ID: "b13a4119-35c7-464f-81ae-671543d5d9a8"
 Parent: "a2505b59-6baa-4970-b795-1305134f98cd"
 Template: "2f665441-6541-4322-b01c-38768fe0b2dc"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Asia-Pacific/Data/Children"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-region-asia-pacific@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9aef1d5a-4e20-4ee7-ab42-aa118537dfba"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

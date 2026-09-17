@@ -1,9 +1,8 @@
----
+﻿---
 ID: "5bf7c131-8238-4ac3-bd32-f42246aaa643"
 Parent: "b4a5f356-167c-4649-befb-7a792a56bb8c"
 Template: "94e866ca-eb1d-4a98-9c15-341d652c1386"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Locations/APJ/seoul-gangnam"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{D2579DCE-BFDD-4BAE-BED9-8590C8585F63}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-seoul-gangnam@1"
 - ID: "64043948-ed7e-4969-ada4-abef173e2e23"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "349951f7-fde5-4337-a940-b60964efbf32"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

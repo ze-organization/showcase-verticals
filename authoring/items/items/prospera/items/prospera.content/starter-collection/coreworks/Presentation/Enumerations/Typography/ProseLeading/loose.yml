@@ -1,13 +1,9 @@
----
+﻿---
 ID: "d49cec8a-2ceb-4742-b3cf-4f26b2667268"
 Parent: "8d71e8e5-5689-40fb-addf-3b7922aaf058"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Typography/ProseLeading/loose"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "prose-leading@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: loose
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "89d76da0-077b-4d33-8237-22e5d6b1b2f5"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

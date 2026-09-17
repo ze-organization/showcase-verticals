@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3f80a241-8729-4cee-98b4-b6948a0f3fdd"
 Parent: "125269ad-4a8a-4b7e-9d6f-eabe9139be42"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Card/TitleLinkIcon/chevron"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "title-link-icon@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: chevron
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "0cfc402f-9160-42cb-b488-89ad2e4aab58"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

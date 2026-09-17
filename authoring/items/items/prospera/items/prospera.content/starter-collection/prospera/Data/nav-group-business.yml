@@ -1,0 +1,33 @@
+﻿---
+ID: "ae264e9c-4569-417b-af0a-5c6f4a51d452"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "210a31e8-9271-4704-9ea0-a0ea6e9efd1b"
+Path: "/sitecore/content/starter-collection/prospera/Data/nav-group-business"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T161348Z
+    - ID: "7d07c454-b927-452a-860f-85a087e8b176"
+      Hint: Items
+      Value: |
+        {17973E33-866A-4619-8DE2-74F4C04E7FA0}
+        {06584563-C388-403A-A71C-18B1550EA0FF}
+        {EC48CC08-1831-43ED-A367-5A2CADDDE5B6}
+        {1CD10258-70B0-4A69-9978-531268043AB7}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc77dcb6-6c9d-4edb-9cdf-e5190083cbf3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T161348Z
+    - ID: "de709d94-2f09-4fa0-b6d8-07c91fd864a8"
+      Hint: Title
+      Value: Explore

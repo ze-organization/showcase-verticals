@@ -1,13 +1,9 @@
----
+﻿---
 ID: "8de88818-5607-4567-9396-acb90e781267"
 Parent: "3cd2b937-c6eb-44da-9b2c-1ec538b02b5e"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/FeaturedFirst/none"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "featured-first@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: none
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "929a3e92-9158-4837-8ae2-ccfd386ddcdd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

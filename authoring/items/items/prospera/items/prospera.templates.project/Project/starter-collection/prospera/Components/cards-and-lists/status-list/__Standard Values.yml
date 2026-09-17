@@ -1,21 +1,17 @@
----
+﻿---
 ID: "3a84fa02-101d-45b7-87e0-c6af9bb53d7e"
 Parent: "7282047b-45bb-4b44-8096-65ecd9790088"
 Template: "7282047b-45bb-4b44-8096-65ecd9790088"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/status-list/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{54ABFE21-4C1B-4FF7-B08F-724E8CEB3751}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "status-list@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2a1287f1-3220-4376-850a-c6b0fc40798f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

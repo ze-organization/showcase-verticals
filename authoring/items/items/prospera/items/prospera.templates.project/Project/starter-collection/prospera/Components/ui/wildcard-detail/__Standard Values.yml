@@ -1,13 +1,9 @@
----
+﻿---
 ID: "f7dd4238-c5b5-46a3-b0e4-016558b2b618"
 Parent: "f4af3167-7071-404f-95e8-59ee76d55f64"
 Template: "f4af3167-7071-404f-95e8-59ee76d55f64"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/wildcard-detail/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "wildcard-detail@1"
 - ID: "48ceda10-f3f0-4c04-aa4c-a787f74488e1"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "bc8512b3-bdcd-461c-8e56-b588c0218fed"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

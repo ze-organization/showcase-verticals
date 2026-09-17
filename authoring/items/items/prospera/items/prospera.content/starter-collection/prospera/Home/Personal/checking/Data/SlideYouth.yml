@@ -1,25 +1,21 @@
----
+﻿---
 ID: "bcb03a0d-95b1-4e18-8a6d-b562e7c42896"
 Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/SlideYouth"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/card-youth-debit.png" alt="Prospera youth debit card beside a folded allowance note" />
+    <image mediaid="d16d8f59-cd4b-436c-b8e6-48665758d8ad" alt="Youth debit card" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "82ac896b-1bb2-47ad-84f1-8370eef0034a"
+  Value: "9def9fc2-646d-4501-811d-69453bdd1600"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: "<p>A parent-managed debit card for a teen, funded from this checking relationship.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7028c2de-6f38-413b-a4e8-8274eae540aa"
+      Value: "c1d31231-db57-4a71-a5f3-469d82a52a5e"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Youth debit
@@ -48,8 +44,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193249Z
+      Value: 20260917T162609Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Personal/checking/youth-debit" text="Youth debit" />
+        <link linktype="internal" id="{A573B372-D9AF-4214-B966-33328324B311}" anchor="" querystring="" target="" class="" text="Youth debit" title="" />

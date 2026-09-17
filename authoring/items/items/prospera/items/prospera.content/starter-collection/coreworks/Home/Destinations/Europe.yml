@@ -1,9 +1,8 @@
----
+﻿---
 ID: "044e43e7-a622-4406-adc8-d3e60b42ac96"
 Parent: "73eef3b4-65ae-4b6f-9827-9315af3a5439"
 Template: "d1d3f3fb-a887-485c-a2a7-1fe0c9c2cdcb"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Europe"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -18,14 +17,11 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C70D7A59-7256-4799-A961-4179E53D166B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-region-europe@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0ee8908c-792b-4908-a317-4bf6d43cdb80"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

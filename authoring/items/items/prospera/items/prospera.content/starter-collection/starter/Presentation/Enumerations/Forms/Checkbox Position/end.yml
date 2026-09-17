@@ -1,13 +1,9 @@
----
+﻿---
 ID: "436b72f4-44fe-4dcb-95cb-002b65fdff8d"
 Parent: "b10f8c18-a65e-4392-8275-c897eacba915"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Forms/Checkbox Position/end"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "checkbox-position@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: end
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "2c8120d0-8789-4894-8d56-3f9b072bf4ea"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

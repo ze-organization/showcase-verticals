@@ -1,16 +1,12 @@
----
+﻿---
 ID: "0f8926be-a5cb-4aef-80f0-f1198bd47fe7"
 Parent: "b21f64d6-57d8-471f-95de-d737b0fab9e5"
 Template: "b21f64d6-57d8-471f-95de-d737b0fab9e5"
 Path: "/sitecore/templates/Project/starter-collection/Pages/ArticleWithToc/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{B21F64D6-57D8-471F-95DE-D737B0FAB9E5}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-with-toc@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c9bfcd8c-8052-4f28-b7ef-cc901c2b2f15"
@@ -23,7 +19,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c3775726-6960-4a12-8b8d-c5cb53ead510"
 Parent: "988ba60e-e841-4a34-a09c-ac613fa683b3"
 Template: "988ba60e-e841-4a34-a09c-ac613fa683b3"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/accordion-block/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {59A56763-271C-4D2B-9495-52FAEBE00985}
     {988BA60E-E841-4A34-A09C-AC613FA683B3}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "accordion-block@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fa82a1f7-9d88-40a3-ae96-2fa54badf3cb"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

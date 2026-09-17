@@ -1,9 +1,8 @@
----
+﻿---
 ID: "a329a5ff-009a-4811-8cf9-c4069aae1909"
 Parent: "29a044f8-bbd6-40b8-9eb6-f123483bd2cc"
 Template: "29a044f8-bbd6-40b8-9eb6-f123483bd2cc"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/Data Folders/Pricing Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {FA326C91-01AD-4418-A527-133EE191394B}
     {A61205D2-03D5-4E88-B77D-6040ABF6C984}
     {A722D49A-F7AF-49E1-9DFA-F2236CE547B0}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d84bc186-b1f0-46d6-a002-64bfd38639ad"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

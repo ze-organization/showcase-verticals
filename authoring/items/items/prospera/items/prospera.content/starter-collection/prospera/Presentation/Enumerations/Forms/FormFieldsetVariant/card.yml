@@ -1,13 +1,9 @@
----
+﻿---
 ID: "c1858737-93df-4f09-8b51-536c5c55fe0b"
 Parent: "02332a1b-f445-4970-a589-052d87a59f40"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Forms/FormFieldsetVariant/card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-fieldset-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: card
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "234a43d0-6343-40ab-ae25-ac01c7bb8bea"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

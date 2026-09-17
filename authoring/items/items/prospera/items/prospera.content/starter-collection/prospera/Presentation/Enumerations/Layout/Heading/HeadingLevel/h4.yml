@@ -1,13 +1,9 @@
----
+﻿---
 ID: "1f93022b-79ac-40f7-b604-0a80c6b73d1a"
 Parent: "bf8a2f1b-5ed5-4c57-98bc-1c41bd7c5100"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/Heading/HeadingLevel/h4"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "heading-level@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: h4
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "4a4b5b76-f194-4af6-b061-6952d47fea6a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

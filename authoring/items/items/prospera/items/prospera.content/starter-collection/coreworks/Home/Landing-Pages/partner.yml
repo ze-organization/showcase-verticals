@@ -1,9 +1,8 @@
----
+﻿---
 ID: "932aae3f-6e65-4eeb-babc-55c3c4308d72"
 Parent: "b2f5a4d3-9c40-4f4f-99da-a2d9af2c1828"
 Template: "2476972e-b68f-4589-81b0-231550d60e6f"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Landing-Pages/partner"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -15,9 +14,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{0922F88C-1421-4974-A4EA-D8DEE4749073}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-partner@1"
 - ID: "6a098f09-1266-41be-a0cc-a57138e25855"
   Hint: Image
   Value: |
@@ -26,7 +22,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "442ea968-fb96-4289-ad2c-ee54e8f130be"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

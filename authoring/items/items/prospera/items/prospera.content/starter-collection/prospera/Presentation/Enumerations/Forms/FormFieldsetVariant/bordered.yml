@@ -1,13 +1,9 @@
----
+﻿---
 ID: "f0be7a24-345b-480a-88c1-af9019b1fff1"
 Parent: "02332a1b-f445-4970-a589-052d87a59f40"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Forms/FormFieldsetVariant/bordered"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-fieldset-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: bordered
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "629e589f-e1b1-4dfb-bd32-556a0c5d8a97"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

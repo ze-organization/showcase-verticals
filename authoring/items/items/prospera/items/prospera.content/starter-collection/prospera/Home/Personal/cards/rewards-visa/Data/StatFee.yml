@@ -1,21 +1,17 @@
----
+﻿---
 ID: "039acd2e-3884-4e2c-9b28-415c2bff6649"
 Parent: "57a1389e-2f54-4aa9-828e-6bcef40002d6"
 Template: "b0f18424-5404-472e-989e-902a437a5135"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/rewards-visa/Data/StatFee"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards-rewards-visa@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "82858d96-a3ce-4828-8893-2b1b7348fe01"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

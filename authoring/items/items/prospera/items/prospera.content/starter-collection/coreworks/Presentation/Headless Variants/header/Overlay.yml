@@ -1,18 +1,14 @@
----
+﻿---
 ID: "a3837e8e-8c26-49be-ac56-7335c1fbbaa7"
 Parent: "b9dcf230-3d52-4a60-aa4c-7e2ae7aa3098"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/header/Overlay"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: header@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ab4788cc-74f2-4cd7-83a5-8671ced41d2e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

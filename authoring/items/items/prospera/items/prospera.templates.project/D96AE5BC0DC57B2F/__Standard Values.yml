@@ -1,0 +1,47 @@
+﻿---
+ID: "22d67d7a-4e5f-4955-846b-9b3878273f4f"
+Parent: "66343965-f6ae-479b-9413-1c3dfc1d82aa"
+Template: "66343965-f6ae-479b-9413-1c3dfc1d82aa"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Presentation Parameters/visual-tabs Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c135be8b-ce15-43c3-82fa-1a348e371523"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "244b0611-50d6-4e75-a965-601eb4d144b0"
+      Hint: HeadingSize
+      Value: "{2DB9F4A5-8AEF-4CAE-8775-A10407845AAD}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T021145Z
+    - ID: "33920379-4570-485e-9c47-e8902792a2a8"
+      Hint: HeadingAnimation
+      Value: "{8D2A5B10-7A18-41B0-B9E5-412DC0C92675}"
+    - ID: "3908c6a3-41da-401e-ae90-f57566c385dd"
+      Hint: HeadingLayout
+      Value: "{044F35F6-F95F-474D-9C9A-2FD35000E3BE}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "338f5fa2-cb28-4901-a1cd-0982eefb4446"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d59ef05a-2a6d-4b7d-9932-467faf449f64"
+      Hint: TabsAlignment
+      Value: "{A5F5DBAF-9EEC-41E9-B261-CC27F2906111}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T021145Z

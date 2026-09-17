@@ -1,9 +1,8 @@
----
+﻿---
 ID: "a1b6581f-c439-475c-a2d7-8f96df5f8660"
 Parent: "687deb27-b203-4232-8ef7-276ca65a5c22"
 Template: "687deb27-b203-4232-8ef7-276ca65a5c22"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/Data Folders/Destinations Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {2E7DE4DB-9677-4C2F-A338-9207D2318D10}
     {E7BB0585-74B7-4F0E-BA84-207DF7310BDA}
     {9E0AF6C1-1971-4C08-9F11-CDA92DCE0BF8}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "f051a1f8-84c4-481c-b35a-641df2896ebe"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

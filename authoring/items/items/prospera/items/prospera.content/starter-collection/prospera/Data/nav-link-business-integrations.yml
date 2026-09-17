@@ -1,0 +1,30 @@
+﻿---
+ID: "1cd10258-70b0-4a69-9978-531268043ab7"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
+Path: "/sitecore/content/starter-collection/prospera/Data/nav-link-business-integrations"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T161303Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "680eac9a-fa3b-43ec-9bc6-00050f06436c"
+    - ID: "b5d4268a-857f-42e3-aead-31acc948e95b"
+      Hint: Link
+      Value: |
+        <link linktype="internal" id="bc5163422759418ca52fe26ccb8f4041" anchor="" querystring="" target="" class="" text="Integrations" title=""/>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d23fc9d5-10d5-4a4f-b99e-aac87330a92d"
+      Hint: Title
+      Value: Integrations
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T161303Z

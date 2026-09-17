@@ -1,13 +1,9 @@
----
+﻿---
 ID: "4770ec79-75b6-426f-8529-8a362463a4f1"
 Parent: "28eecc82-8e8e-4fb3-83fa-ff67afbfdd98"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/ProductCardVariant/horizontal-essential"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "horizontal-essential"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "928af5f0-72dd-4d2f-9897-7f18a99db2c4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

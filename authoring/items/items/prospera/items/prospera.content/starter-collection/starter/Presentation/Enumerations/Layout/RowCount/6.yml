@@ -1,13 +1,9 @@
----
+﻿---
 ID: "f954ceea-d9b2-44e1-bab7-3f5faeba2a4a"
 Parent: "97a01693-c004-4c0f-b153-815d197e3caf"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/RowCount/6"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "row-count@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: 6
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "02fd301f-ef6e-4ffd-a974-8f98f32aff29"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

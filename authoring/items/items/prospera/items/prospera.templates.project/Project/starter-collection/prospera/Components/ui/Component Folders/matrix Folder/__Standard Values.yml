@@ -1,9 +1,8 @@
----
+﻿---
 ID: "d420ff55-267d-46b6-9bc0-494c9a077e54"
 Parent: "3c8838d9-bd20-4387-b4d5-2d04c112a59c"
 Template: "3c8838d9-bd20-4387-b4d5-2d04c112a59c"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/ui/Component Folders/matrix Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -12,14 +11,11 @@ SharedFields:
     {D2E4180D-4283-4A88-AFB2-BF291D73DC35}
     {03D65600-0287-4CA4-B34B-FA9BCC30CCF6}
     {1C554FCD-A3D7-4732-B9B6-8F453A49E503}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: matrix@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7f58d709-b87e-40ce-8f53-a9ed0b5c31b2"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

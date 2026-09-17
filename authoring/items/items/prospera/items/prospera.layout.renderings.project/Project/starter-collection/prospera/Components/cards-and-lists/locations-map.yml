@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e8bd0b95-2a40-4bde-a3c1-9699d5a942ca"
 Parent: "436e59e5-afa1-49c5-a34e-8b41d02dd689"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: "/sitecore/layout/Renderings/Project/starter-collection/prospera/Components/cards-and-lists/locations-map"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "/-/media/0e5d6e9228f849c7a1a7b1a6950ae6d1.ashx?thn=1&db=master&v=2"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "locations-map@1"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -24,7 +20,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "92b52f75-6105-4386-bc14-842575b9714a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "3fba450d-25da-430a-be27-31bb8f075b86"
 Parent: "f4920152-0d72-40a6-9531-1df7c02f3703"
 Template: "f4920152-0d72-40a6-9531-1df7c02f3703"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/article-header/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-header@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d68fcf06-3b60-404e-9c01-6c7c0200bf2c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

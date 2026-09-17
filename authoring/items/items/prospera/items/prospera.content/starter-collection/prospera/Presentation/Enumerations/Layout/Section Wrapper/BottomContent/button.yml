@@ -1,13 +1,9 @@
----
+﻿---
 ID: "e7d22f7b-0064-4c5c-9587-a7f6078ea421"
 Parent: "0340f73f-7164-44a9-9b05-4fd3b3f9dc0e"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/Section Wrapper/BottomContent/button"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "bottom-content@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: button
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "064c62e2-37bb-4547-8b6b-7c2432aef2a8"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,23 +1,19 @@
----
+﻿---
 ID: "f90f0c1e-4c29-4d71-88af-b70919a57c78"
 Parent: "73eef3b4-65ae-4b6f-9827-9315af3a5439"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {2F665441-6541-4322-B01C-38768FE0B2DC}
     {C5983974-FD79-4B87-84DC-0496923BCF42}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: destinations@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "83dfc4bd-6f4a-4fac-8e2f-1e39f1f0c6cf"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

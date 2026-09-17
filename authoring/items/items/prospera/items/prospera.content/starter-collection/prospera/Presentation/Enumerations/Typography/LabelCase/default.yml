@@ -1,13 +1,9 @@
----
+﻿---
 ID: "358e4920-b140-4ce0-8538-09fa86824642"
 Parent: "c6035cc4-74b8-4a5b-ad58-1551446e8612"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Typography/LabelCase/default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "label-case@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: default
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b05634fb-2632-4921-a23c-ba493e8c3dd2"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

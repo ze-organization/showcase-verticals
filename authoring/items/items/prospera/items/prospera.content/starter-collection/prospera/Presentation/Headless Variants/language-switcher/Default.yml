@@ -1,18 +1,14 @@
----
+﻿---
 ID: "64ba1f85-bfc2-4bb8-b43c-485d917a8f4e"
 Parent: "73a4f73f-7014-4f82-bb36-6c39fb1f4707"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/language-switcher/Default"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "language-switcher@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e8450b6b-beb8-4b85-9c9d-71cff0c78c78"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

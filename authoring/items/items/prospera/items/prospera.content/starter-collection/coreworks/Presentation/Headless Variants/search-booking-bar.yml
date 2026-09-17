@@ -1,18 +1,14 @@
----
+﻿---
 ID: "8dd4385a-e0a4-4f96-b532-6a822bd0ebd9"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/search-booking-bar"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-booking-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1d8ea020-89db-433b-b7bd-c2547f9422d1"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

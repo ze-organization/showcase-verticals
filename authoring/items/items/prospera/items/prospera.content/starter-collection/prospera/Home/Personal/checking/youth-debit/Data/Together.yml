@@ -1,25 +1,21 @@
----
+﻿---
 ID: "153ada55-4bb7-40e6-86ff-3572a36e8c44"
 Parent: "4326997d-9b44-4585-bce3-14e440c54ef8"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/youth-debit/Data/Together"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking-youth-debit@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/feat-family-banking.jpg" alt="Parent and teen reviewing a household checklist together at a kitchen island" />
+    <image mediaid="b26806e9-61df-4177-b4e3-51ac3de69afb" alt="Parent and teen at kitchen island" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "79ac42d2-abff-409c-812b-550ae44844ca"
+  Value: "1015402a-a805-4dd0-bb38-7b1e55c342f6"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Family
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7242aff7-444c-42ba-8b73-5f08c11be003"
+      Value: "5d74c0cb-05ca-4843-95e6-01027b5343a4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Features/family-banking" text="Family banking" />
+        <link linktype="internal" id="{A584D75D-7744-4A1E-8AEC-0A7D370EA1EF}" anchor="" querystring="" target="" class="" text="Family banking" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: <ul><li>Choose a daily spending limit.</li><li>See merchant and amount when the card is used.</li><li>Lock the card in the story if it is lost — ask a banker how that works after approval.</li><li>On a joint file, both adults can agree to add youth debit.</li></ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193340Z
+      Value: 20260917T162506Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: See how they spend. Keep the conversation going.

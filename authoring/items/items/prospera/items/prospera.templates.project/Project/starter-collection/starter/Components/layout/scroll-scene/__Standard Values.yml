@@ -1,13 +1,9 @@
----
+﻿---
 ID: "71638a36-b475-409d-a365-900ea8a0038c"
 Parent: "7f1590ca-9695-4ac4-98c1-d7ce0ff76fb8"
 Template: "7f1590ca-9695-4ac4-98c1-d7ce0ff76fb8"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/layout/scroll-scene/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "scroll-scene@1"
 - ID: "d372992f-4bc9-45bf-bddd-0d28e6c11f3e"
   Hint: BackgroundImage
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "de11ba77-491d-46ee-a1b4-69ffe88f5965"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,0 +1,38 @@
+﻿---
+ID: "fd5bd6bd-c5db-4921-b012-d0a1ca098529"
+Parent: "836b07e3-d604-46f1-8f6f-6971ce6ab3ce"
+Template: "836b07e3-d604-46f1-8f6f-6971ce6ab3ce"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/Component Folders/promo Data Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{2DD2E939-2ADF-42FF-940C-8D8F45278A52}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "fa022e94-0a41-4ebf-8146-2454911f442d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T020211Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce853a4a-4e94-44e3-aa87-cb80e8adb2e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T020211Z

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "04d2ee46-a3e8-4c4f-8955-12c14a7b4006"
 Parent: "06a066c5-5deb-4224-8ca9-71ffe0313263"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/ProductCardVariant/horizontal-essential"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "horizontal-essential"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "928af5f0-72dd-4d2f-9897-7f18a99db2c4"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

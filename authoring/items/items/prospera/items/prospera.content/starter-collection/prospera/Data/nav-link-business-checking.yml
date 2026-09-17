@@ -1,0 +1,30 @@
+﻿---
+ID: "17973e33-866a-4619-8de2-74f4c04e7fa0"
+Parent: "95b298d5-0d44-4894-9a9b-472aa7e73934"
+Template: "49b7115d-0044-44ab-8be8-96f88f2f21dc"
+Path: "/sitecore/content/starter-collection/prospera/Data/nav-link-business-checking"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T161256Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8991791f-84db-4097-a584-64b7fd24227a"
+    - ID: "b5d4268a-857f-42e3-aead-31acc948e95b"
+      Hint: Link
+      Value: |
+        <link linktype="internal" id="ba46588cf3cf4357a9fe3d132bc14f37" anchor="" querystring="" target="" class="" text="Business checking" title=""/>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d23fc9d5-10d5-4a4f-b99e-aac87330a92d"
+      Hint: Title
+      Value: Business checking
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T161256Z

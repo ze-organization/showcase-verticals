@@ -1,13 +1,9 @@
----
+﻿---
 ID: "66271681-91b2-47dc-8670-320751c3d9ab"
 Parent: "749f1df7-0d3f-4449-8bbc-e90d8287cbdf"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Forms/RangeMode/range"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "range-mode@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: range
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "546f039f-7932-440e-8b9d-57b08cbd565f"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

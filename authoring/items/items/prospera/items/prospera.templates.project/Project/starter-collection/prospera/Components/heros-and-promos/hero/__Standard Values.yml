@@ -1,13 +1,9 @@
----
+﻿---
 ID: "8fe5cf9f-4eee-4563-a07c-4e4279b8c5a5"
 Parent: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/hero/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: hero@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3c65d86f-dd4d-4b64-86b2-94ddac3e1c51"
@@ -16,7 +12,7 @@ SharedFields:
   Value: |
     <image src="/theme-photos/home-hero.jpg" alt="Hero visual" />
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

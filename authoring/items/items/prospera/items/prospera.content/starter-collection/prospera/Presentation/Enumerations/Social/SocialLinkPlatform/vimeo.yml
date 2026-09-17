@@ -1,13 +1,9 @@
----
+﻿---
 ID: "2dc6694b-f4f7-4c13-bf83-578942a9df93"
 Parent: "af056d54-eb0b-4715-a12a-98fecc363d8d"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Social/SocialLinkPlatform/vimeo"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-link-platform@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: vimeo
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "38ac6666-b559-41f5-adf3-6d2860ff2da8"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

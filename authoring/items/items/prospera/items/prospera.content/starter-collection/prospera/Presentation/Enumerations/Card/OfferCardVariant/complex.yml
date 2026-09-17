@@ -1,13 +1,9 @@
----
+﻿---
 ID: "6889e2a8-fb2a-4f69-9ecf-49e2531b9839"
 Parent: "f090a1e4-9efd-4e74-9bb3-4118bfdd5edc"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/OfferCardVariant/complex"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offer-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: complex
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "8a6f51ed-a904-42c0-b0bb-9b1d4bb7907a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

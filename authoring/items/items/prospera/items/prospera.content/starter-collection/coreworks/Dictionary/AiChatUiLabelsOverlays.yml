@@ -1,18 +1,14 @@
----
+﻿---
 ID: "bd157009-46ee-4ab9-8ccd-e1feac07289d"
 Parent: "47015f5a-51f7-4e0b-9edb-c1f76ff96eeb"
 Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
 Path: "/sitecore/content/starter-collection/coreworks/Dictionary/AiChatUiLabelsOverlays"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-ui-labels-overlays@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e68557aa-2efb-47b0-ab21-79223123e969"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

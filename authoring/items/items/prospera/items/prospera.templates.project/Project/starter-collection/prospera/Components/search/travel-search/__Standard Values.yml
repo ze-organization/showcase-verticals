@@ -1,18 +1,14 @@
----
+﻿---
 ID: "37b7cfa9-6b9a-4dd6-a9af-55a8890f5d38"
 Parent: "a7e1d23f-44c3-48b1-a74b-f17ecea52875"
 Template: "a7e1d23f-44c3-48b1-a74b-f17ecea52875"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/travel-search/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "travel-search@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a9559632-0a35-4abf-927f-da6381a91eea"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

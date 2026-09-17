@@ -1,9 +1,8 @@
----
+﻿---
 ID: "e1db2bdf-447f-4af8-9f26-48f7fdb0c3c2"
 Parent: "4dd9e34e-61f1-4842-a73d-0ec16f85b441"
 Template: "8476fa45-b849-4d96-b78a-46c3e346b1cf"
 Path: "/sitecore/content/starter-collection/starter/Home/Locations/North-America/New-York"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E3C873F7-E58D-4854-8C33-301E6A7661EF}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-metro-new-york@1"
 - ID: "9e549171-60f5-44a1-9309-c2310da12da2"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "99646a5b-9f88-4ccc-9524-917ca547c1ae"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

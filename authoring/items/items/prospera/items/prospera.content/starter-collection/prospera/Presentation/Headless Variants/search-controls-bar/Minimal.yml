@@ -1,18 +1,14 @@
----
+﻿---
 ID: "cdccf308-f5f2-4952-b2dc-719a0ddb626f"
 Parent: "2d13d23d-e426-4e85-bfc8-6a484b79b83e"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Headless Variants/search-controls-bar/Minimal"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-controls-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4f04aef7-e9cd-480b-a6de-e7f615faad75"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

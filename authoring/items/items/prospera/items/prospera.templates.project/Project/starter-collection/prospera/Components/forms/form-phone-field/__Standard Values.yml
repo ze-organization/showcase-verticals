@@ -1,18 +1,14 @@
----
+﻿---
 ID: "52d06807-7cbc-47fe-9d4f-f1d3b9289bac"
 Parent: "87f7095e-7fba-49de-857a-29bdbb7d5253"
 Template: "87f7095e-7fba-49de-857a-29bdbb7d5253"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-phone-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-phone-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "dcea921e-9209-45b5-aeb1-8a3e972361b9"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

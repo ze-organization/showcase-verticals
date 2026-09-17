@@ -1,18 +1,14 @@
----
+﻿---
 ID: "3f3047cc-8c02-4459-b635-8bc6a25da68e"
 Parent: "99ae744c-2d9e-42eb-a419-12c29a1e02be"
 Template: "99ae744c-2d9e-42eb-a419-12c29a1e02be"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/person-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "person-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e9191541-3382-4ee0-aff7-da4941672967"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

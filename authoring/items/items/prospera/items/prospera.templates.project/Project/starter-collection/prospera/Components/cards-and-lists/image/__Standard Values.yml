@@ -1,13 +1,9 @@
----
+﻿---
 ID: "678ba039-6d91-47bb-9067-ab027f3a56ae"
 Parent: "5e9b0ad9-a30c-4742-9b70-da78edfa695d"
 Template: "5e9b0ad9-a30c-4742-9b70-da78edfa695d"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/image/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: image@1
 - ID: "53f7417b-b342-47a1-86cc-0f96816f6f3a"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "7f07dd80-e650-494d-a49f-88dc1ff5428c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

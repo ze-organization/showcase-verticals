@@ -1,9 +1,8 @@
----
+﻿---
 ID: "5a97c00b-5b6e-4606-81dc-fba5d90a06c7"
 Parent: "d1a80c7e-1d0d-4763-9ce9-a7af58c1ba67"
 Template: "a53efb46-fcb0-4a10-8b76-625fb560bc09"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Articles/authoring-that-scales"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{DF3F69D6-5D66-4A32-BFBA-BD8B6D3755D3}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-authoring-that-scales@1"
 - ID: "4ad215e8-ffbf-48e9-934a-17b03bb8192a"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "f43cff27-f2ad-45e4-8b07-3f276c87155a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -58,17 +54,17 @@ Languages:
       Value: true
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "16907757-9084-4bb1-8b4f-33699a293fb8"
+      Value: "66b6143e-b2a9-40ee-a040-f50fe216cbfb"
     - ID: "978cd65a-cd85-4517-9130-711919b1a1e1"
       Hint: MetaTitle
-      Value: Authoring that scales — Showcase
+      Value: Authoring That Scales — Prospera
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260915T232900Z
+      Value: 20260917T163044Z
     - ID: "f3f3b0bd-7ff8-48cb-bf15-470c0b282d5c"
       Hint: MetaDescription
       Value: If Articles only offers Page, the sixth story is an empty marketing shell. Bind Article to a page design that already places the Article Details partial.

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3043d201-4406-44eb-8ee3-2954d25ab624"
 Parent: "493d6860-924e-45bb-8a1b-e66bf1c2987c"
 Template: "493d6860-924e-45bb-8a1b-e66bf1c2987c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/media-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "media-item@1"
 - ID: "c0b67b3f-8a66-4a47-8b91-a8629f2b2243"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "3b2ff253-e680-4a14-bb7c-a93ec8265cf7"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -75,7 +71,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151853Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -106,7 +102,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260815T160801Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -165,7 +161,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151853Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -199,7 +195,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151852Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -258,7 +254,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151853Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -317,7 +313,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151853Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -348,7 +344,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260815T160801Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

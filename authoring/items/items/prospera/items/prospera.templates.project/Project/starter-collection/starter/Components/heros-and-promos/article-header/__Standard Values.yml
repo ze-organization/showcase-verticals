@@ -1,18 +1,14 @@
----
+﻿---
 ID: "2792c908-98e9-4d6f-9b79-47eaed45f36c"
 Parent: "b7024300-d114-4bae-9c2a-cd75872a3a64"
 Template: "b7024300-d114-4bae-9c2a-cd75872a3a64"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/heros-and-promos/article-header/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-header@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "090e1c35-9887-4f60-a063-07e15b58fe29"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151723Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214827Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151723Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -186,7 +182,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214826Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -242,7 +238,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151723Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -298,7 +294,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151723Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -326,7 +322,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T214827Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

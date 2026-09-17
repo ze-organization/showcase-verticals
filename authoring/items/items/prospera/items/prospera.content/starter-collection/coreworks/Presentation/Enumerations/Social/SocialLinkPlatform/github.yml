@@ -1,13 +1,9 @@
----
+﻿---
 ID: "9acd9ed3-075f-41d0-af93-5cf4250da30d"
 Parent: "28476156-3cc0-4914-84ff-66ba35586f39"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Social/SocialLinkPlatform/github"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-link-platform@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: github
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a74c0a11-bbe3-4531-b61c-a43ce95bc1ae"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

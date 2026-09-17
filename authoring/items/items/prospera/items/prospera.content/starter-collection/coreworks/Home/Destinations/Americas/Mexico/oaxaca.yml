@@ -1,9 +1,8 @@
----
+﻿---
 ID: "99dfb63f-2903-43f7-9d70-556671b2245d"
 Parent: "9d4da011-3493-4e92-90fb-c2b84030ff63"
 Template: "7aa732ca-4cbb-4364-a252-ec3135cd3abf"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Americas/Mexico/oaxaca"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{DAF74631-16A6-4DBB-AEB4-9D524EC8236D}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-oaxaca@1"
 - ID: "7430dd5b-04c1-4108-8270-daee67f596c2"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "3d3fb4f9-4986-4041-984d-84a8db9f35f1"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

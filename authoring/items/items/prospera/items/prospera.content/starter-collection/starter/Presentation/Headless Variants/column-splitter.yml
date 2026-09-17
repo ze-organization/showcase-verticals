@@ -1,18 +1,14 @@
----
+﻿---
 ID: "01cdf78f-0e34-4ac6-91d7-f65eb87d42b4"
 Parent: "587ae421-b052-43c4-af92-47c21ff3efa0"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Headless Variants/column-splitter"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "column-splitter@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "da35be39-440e-42fb-b7f4-608ac154d386"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "691068bc-728f-4ead-9c74-8547e26a0066"
 Parent: "6a65d0a3-201b-4f07-b7fb-b5e7432236a8"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Layout/MediaFraction/half"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "media-fraction@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: half
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "63224f27-8451-40af-84d7-2ea23a48eb2b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

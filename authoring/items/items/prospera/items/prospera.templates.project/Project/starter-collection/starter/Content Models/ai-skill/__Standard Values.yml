@@ -1,18 +1,14 @@
----
+﻿---
 ID: "20a033fb-8c78-48ba-8612-cf3961d2b1dc"
 Parent: "ffe52bfa-539f-44f6-9012-cd29159cae83"
 Template: "ffe52bfa-539f-44f6-9012-cd29159cae83"
 Path: "/sitecore/templates/Project/starter-collection/starter/Content Models/ai-skill/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-skill@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e00ed534-9535-4c42-b992-bab9e012c98c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

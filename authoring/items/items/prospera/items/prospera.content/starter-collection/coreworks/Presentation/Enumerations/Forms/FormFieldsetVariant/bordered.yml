@@ -1,13 +1,9 @@
----
+﻿---
 ID: "e2e13b48-7f52-4283-8076-27ec4a91f07f"
 Parent: "87a62f23-98da-4d77-8feb-7dbe10d206ef"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Forms/FormFieldsetVariant/bordered"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-fieldset-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: bordered
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "629e589f-e1b1-4dfb-bd32-556a0c5d8a97"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,13 +1,9 @@
----
+﻿---
 ID: "6316581f-09ae-4b61-b094-542123736556"
 Parent: "42691b04-07e5-4f15-83ad-f57b8b3a5c32"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/OverlapTop/half"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "overlap-top@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: half
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "4359b00c-d9a8-43b9-86b6-33e2465c8ad6"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

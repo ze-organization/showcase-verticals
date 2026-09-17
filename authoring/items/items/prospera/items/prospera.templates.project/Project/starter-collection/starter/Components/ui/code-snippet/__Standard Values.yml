@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e25b829e-9288-4dfa-805e-956a5d8b60ec"
 Parent: "3d37358e-652a-49f8-9d64-0adc8319dabf"
 Template: "3d37358e-652a-49f8-9d64-0adc8319dabf"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/code-snippet/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "code-snippet@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "6557bae2-2939-41db-8084-05cdc202ff3d"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -76,7 +72,7 @@ Languages:
         
         // ثم استورد ما تحتاجه
         import { Hero } from "@sitecore/components";
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -108,7 +104,7 @@ Languages:
         
         // importér derefter det, du skal bruge
         import { Hero } from "@sitecore/components";
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -172,7 +168,7 @@ Languages:
         
         // dann importieren Sie, was Sie brauchen
         import { Hero } from "@sitecore/components";
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -207,7 +203,7 @@ Languages:
         
         // then import what you need
         import { Hero } from "@sitecore/components";
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -271,7 +267,7 @@ Languages:
         
         // luego importa lo que necesites
         import { Hero } from "@sitecore/components";
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -335,7 +331,7 @@ Languages:
         
         // puis importez ce dont vous avez besoin
         import { Hero } from "@sitecore/components";
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -367,7 +363,7 @@ Languages:
         
         // poi importa ciò che ti serve
         import { Hero } from "@sitecore/components";
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

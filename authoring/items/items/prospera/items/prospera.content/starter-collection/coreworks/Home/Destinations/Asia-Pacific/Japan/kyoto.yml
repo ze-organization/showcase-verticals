@@ -1,9 +1,8 @@
----
+﻿---
 ID: "aea9d9d5-3840-498c-8758-c193bad5fa6b"
 Parent: "2e11e636-2dd9-4508-b16b-7f4a4483798e"
 Template: "7aa732ca-4cbb-4364-a252-ec3135cd3abf"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Destinations/Asia-Pacific/Japan/kyoto"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{DAF74631-16A6-4DBB-AEB4-9D524EC8236D}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-kyoto@1"
 - ID: "7430dd5b-04c1-4108-8270-daee67f596c2"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "9f414630-a07d-4b36-b8f0-21332b3a44fe"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

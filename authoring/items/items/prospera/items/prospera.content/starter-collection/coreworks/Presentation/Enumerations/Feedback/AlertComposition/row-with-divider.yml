@@ -1,13 +1,9 @@
----
+﻿---
 ID: "692a26c4-c35e-4512-bcf1-9cb641bf2458"
 Parent: "955d1ec6-e23f-4d75-be9e-c4757b7e3407"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Feedback/AlertComposition/row-with-divider"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "alert-composition@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "row-with-divider"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "c6263dad-b53e-4161-bdcc-d5a1159b56c0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

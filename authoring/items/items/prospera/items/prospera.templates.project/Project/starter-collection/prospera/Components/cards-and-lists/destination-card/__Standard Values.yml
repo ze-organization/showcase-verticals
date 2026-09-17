@@ -1,18 +1,14 @@
----
+﻿---
 ID: "4555b256-cb98-4579-b74b-80972c325533"
 Parent: "2e7de4db-9677-4c2f-a338-9207d2318d10"
 Template: "2e7de4db-9677-4c2f-a338-9207d2318d10"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/destination-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8ccfd143-3112-4b4b-8167-9723595faf0c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

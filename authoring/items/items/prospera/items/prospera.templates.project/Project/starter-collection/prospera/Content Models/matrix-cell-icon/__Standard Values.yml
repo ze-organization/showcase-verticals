@@ -1,18 +1,14 @@
----
+﻿---
 ID: "cae60c6c-c9c6-4ec8-9e66-e7f2590126ac"
 Parent: "ff63be90-6e90-48f5-8172-91104ef62d6f"
 Template: "ff63be90-6e90-48f5-8172-91104ef62d6f"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/matrix-cell-icon/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "matrix-cell-icon@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1feaf2bc-d5f9-4ab7-a473-747518288706"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

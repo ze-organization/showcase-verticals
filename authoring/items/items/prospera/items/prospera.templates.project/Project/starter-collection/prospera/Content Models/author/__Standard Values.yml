@@ -1,13 +1,9 @@
----
+﻿---
 ID: "3d3be997-39f6-4c1a-b096-5f861ac80ae4"
 Parent: "456cd052-d43f-4ee3-b4ac-549210bbb8c4"
 Template: "456cd052-d43f-4ee3-b4ac-549210bbb8c4"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/author/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: author@1
 - ID: "7ed789db-8eb0-425d-ad03-94f8994bb0cc"
   Hint: Avatar
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "925241b7-6109-42d6-991b-62c41f0bd53c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

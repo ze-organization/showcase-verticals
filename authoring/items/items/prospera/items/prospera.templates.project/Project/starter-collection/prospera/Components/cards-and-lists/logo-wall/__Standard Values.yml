@@ -1,21 +1,17 @@
----
+﻿---
 ID: "061cecbf-6c9e-44b7-818b-da7d852977f5"
 Parent: "4b104d00-f5b4-474e-a869-5d2114cb9db0"
 Template: "4b104d00-f5b4-474e-a869-5d2114cb9db0"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/logo-wall/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{0513F0BE-18F8-46E2-8DF2-4EF7D35B088D}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "logo-wall@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7f9dc226-28a6-4c0b-8f19-e0bb155db516"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

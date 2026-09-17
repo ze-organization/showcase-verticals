@@ -1,0 +1,44 @@
+﻿---
+ID: "11fc1b82-f973-40a9-8edc-8f6a062cea8f"
+Parent: "51cbe009-4c16-4587-9d5d-b2e3c2d903c4"
+Template: "51cbe009-4c16-4587-9d5d-b2e3c2d903c4"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/Presentation Parameters/lead-form Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "dfb6ed04-b9cc-45e2-8412-5fdc812585f5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T015005Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "6b94e9b4-46e2-418d-809a-d8ec628d8f2d"
+      Hint: PaddingY
+      Value: "{DC74BB1B-5F9B-45F0-B91D-E8D4CC264BAE}"
+    - ID: "87382fc7-0739-46cc-962b-6b0ad5e4d40f"
+      Hint: ColorScheme
+      Value: "{5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eaa9dbc5-381c-4008-9070-9c60a0107955"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T015005Z
+    - ID: "ecda73e3-4e54-4872-91b5-88cf76ab578d"
+      Hint: PanelStyle
+      Value: "{931405DC-393A-4B83-B7B9-93DE16C2905D}"

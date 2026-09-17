@@ -1,21 +1,17 @@
----
+﻿---
 ID: "2eba1571-ffc5-482e-b998-412ee4233058"
 Parent: "3ccb398f-ec6a-488d-99f7-ed1c8e9ef99c"
 Template: "3ccb398f-ec6a-488d-99f7-ed1c8e9ef99c"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/Component Folders/tabs-block Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{4E704090-4F62-4552-8C56-DB98067F529B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "tabs-block@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ad1c5ee5-5096-478a-b332-85a864a1294e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "a91c8f88-f166-4e78-a071-355f125b45b1"
 Parent: "cc8de905-80b0-4810-8fb1-42b2e7eeca4a"
 Template: "2476972e-b68f-4589-81b0-231550d60e6f"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/accounting"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,22 +10,23 @@ SharedFields:
 - ID: "08081983-c374-4768-9d71-e8967e71f146"
   Hint: TestimonialAuthorImage
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Portrait of Julian Park" />
+    <image mediaid="9d617e9f-4ca2-4320-809b-b36e2c7cac4e" alt="Julian Park commercial banker" />
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{F5944F8E-8906-4B6D-98A4-30EAF5572F7C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "landing-partner@1"
 - ID: "6a098f09-1266-41be-a0cc-a57138e25855"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/hub-02.jpg" alt="Business owner and commercial banker on a factory floor" />
+    <image mediaid="9d617e9f-4ca2-4320-809b-b36e2c7cac4e" alt="Books next to operating account" />
+- ID: "c81b5a4c-5d74-480f-88d9-ac614c1d4341"
+  Hint: OgImage
+  Value: |
+    <image mediaid="9d617e9f-4ca2-4320-809b-b36e2c7cac4e" alt="Accounting social still" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "00a4c1a6-acf9-425a-a863-0657793fc8f6"
+  Value: "cfa833a1-c76f-40d8-b0f0-6b7c4e3d3446"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -47,7 +47,7 @@ Languages:
     - ID: "08763327-6978-4fcb-a2aa-eb2b298641a8"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "088a84b1-0f33-4367-a6ec-b6f952d29e14"
       Hint: Faq2Answer
       Value: "<p>U.S.-registered entities with an operating history. See eligibility on the Business hub. Approval is not guaranteed.</p>"
@@ -107,7 +107,7 @@ Languages:
       Value: <p>Payroll, vendors, and the operating account finally sit in one conversation — not three logins we had to screenshot.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8efc72e3-fa40-4c65-a982-64f13874e169"
+      Value: "70fdfc06-80a5-4701-b8a1-1426e1fdb044"
     - ID: "9a475c2c-10ef-4005-8abb-c6520326b8c8"
       Hint: Feature3Description
       Value: <p>Operating deposits stay at Prospera. Export or connect books the way your accountant already works.</p>
@@ -120,7 +120,7 @@ Languages:
     - ID: "a1e97135-7f26-48f1-ab28-ef95e00324f9"
       Hint: FinalCtaAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "a6c48575-24e2-4cfe-b1ab-c0def6535021"
       Hint: Feature1Description
       Value: <p>ACH, wires, and reporting a controller can reconcile — described on Treasury, linked from this landing.</p>
@@ -151,7 +151,7 @@ Languages:
       Value: Julian Park
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T021645Z
+      Value: 20260917T041555Z
     - ID: "ed5d626a-9c45-4485-af97-e3bfea8d7ef6"
       Hint: Feature1IconName
       Value: chart

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "f47d54f5-97c1-4e42-84fd-bd32a76fbd8f"
 Parent: "b8691098-34b2-4dd7-84c0-e11709231b3e"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Features/spending-insights/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -14,14 +13,11 @@ SharedFields:
     {5B847AA9-A675-4774-B7EF-818A69F8C5EE}
     {2DD2E939-2ADF-42FF-940C-8D8F45278A52}
     {788427F8-DA26-49DA-8333-AA6204677D18}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "features-spending-insights@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "209c88a1-ccdb-4e7e-ad47-d4de65a23e53"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

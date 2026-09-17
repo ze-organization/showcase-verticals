@@ -1,9 +1,8 @@
----
+﻿---
 ID: "15454108-a001-4fa4-93b6-c983cab629ce"
 Parent: "0a3ffdd7-c29e-4cd0-a7b2-e4095758bf7d"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/prospera/Data/Locations/location-card-johannesburg-sandton"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{1E7AB87A-60C0-4129-A9E9-B6A748259722}" alt="Street view of the Johannesburg Sandton branch neighborhood." />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-johannesburg-sandton@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "58ed9516-3e86-452d-b9b4-763ecf998c46"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

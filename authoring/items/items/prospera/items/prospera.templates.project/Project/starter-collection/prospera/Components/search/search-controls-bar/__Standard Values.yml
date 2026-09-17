@@ -1,18 +1,14 @@
----
+﻿---
 ID: "80f7242a-b6c0-4aad-8785-e05c082f116a"
 Parent: "9dc7acfa-b0f9-447a-a4c3-cd7ab0fd59ec"
 Template: "9dc7acfa-b0f9-447a-a4c3-cd7ab0fd59ec"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/search-controls-bar/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-controls-bar@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b262b285-e7ed-4f71-b4f0-359d2f8cbc34"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "c488448a-2245-4a68-8d40-f8341c6122b8"
 Parent: "03b9fd4b-3564-4310-919f-3dabd9eeedc4"
 Template: "03b9fd4b-3564-4310-919f-3dabd9eeedc4"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/offer-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offer-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "47426ac9-8799-4cd9-bce6-f5c4b132ec24"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

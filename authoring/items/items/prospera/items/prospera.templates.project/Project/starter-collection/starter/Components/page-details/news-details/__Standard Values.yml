@@ -1,18 +1,14 @@
----
+﻿---
 ID: "4f8b5680-8d03-46ae-96a5-a177d9e32481"
 Parent: "3953880f-bcee-46a7-b3dd-374b047123ae"
 Template: "3953880f-bcee-46a7-b3dd-374b047123ae"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/news-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "2605132d-9a53-4a0f-a241-ec1cfea16b4d"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

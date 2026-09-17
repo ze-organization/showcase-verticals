@@ -1,18 +1,14 @@
----
+﻿---
 ID: "86ed403e-55b6-4e77-977f-ab7197a35a8d"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/form-date-field"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-date-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "178adc00-613e-48dd-8f89-7a1ed82faaa7"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

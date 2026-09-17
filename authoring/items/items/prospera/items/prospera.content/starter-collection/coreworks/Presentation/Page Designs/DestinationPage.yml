@@ -1,9 +1,8 @@
----
+﻿---
 ID: "daf74631-16a6-4dbb-aeb4-9d524ec8236d"
 Parent: "f4b00048-cffc-49f1-95ef-c172d56bf5db"
 Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Page Designs/DestinationPage"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
   Value: "{C662FAA1-C630-46F6-8B78-BCDD3EC76146}|{F81C628B-3B5C-4AA9-AC7B-A44029287753}|{0AFB8D2F-1AAD-44D6-9C88-C9373FC6FD94}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destination-page@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e582e2ea-39c2-4c4c-9184-77741cd43018"
@@ -26,7 +22,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

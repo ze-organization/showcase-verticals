@@ -1,13 +1,9 @@
----
+﻿---
 ID: "86369144-10a5-4c0b-9b80-72e85a9c3429"
 Parent: "b0ddfaae-3571-4a05-b235-8ebd8cc5272b"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Card/PanelStyle/card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "panel-style@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: card
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "578e862f-77de-4f24-99e7-113abb8805bd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

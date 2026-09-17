@@ -1,18 +1,14 @@
----
+﻿---
 ID: "7ef412f8-0830-4395-88dd-ffc6fc7ade9e"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/utility-trigger"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "utility-trigger@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a1f60c55-e4b7-4708-8c70-e60003b1c9df"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

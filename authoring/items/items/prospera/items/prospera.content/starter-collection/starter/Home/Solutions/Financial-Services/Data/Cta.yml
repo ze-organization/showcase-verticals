@@ -1,16 +1,12 @@
----
+﻿---
 ID: "e306c847-707a-4a85-bcb3-b0dcd62d51ce"
 Parent: "2058556c-c8bc-4f2a-a48f-3918c739a470"
 Template: "bd18ae32-4f25-4cab-be2a-a128400bd768"
 Path: "/sitecore/content/starter-collection/starter/Home/Solutions/Financial-Services/Data/Cta"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "solutions-financial-services@1"
 - ID: "cef030a5-43cb-4f99-9a0a-e8d98b750e3e"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "d38ca60c-82d4-425a-a5cc-3c1405f0f3aa"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

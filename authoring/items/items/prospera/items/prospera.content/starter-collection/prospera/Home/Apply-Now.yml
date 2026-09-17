@@ -1,9 +1,8 @@
----
+﻿---
 ID: "151a85f9-15f9-435a-9223-5aef1e3372de"
 Parent: "69fc0a48-3e75-426e-9b2b-296d7a3bf8a4"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Apply-Now"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "get-started@1"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 800
@@ -21,7 +17,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "99dc3ea4-eb0b-4239-a740-83980a4bf678"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -76,11 +72,18 @@ Languages:
               p:after="r[@uid='{610D2CF8-9652-58CE-8627-1EBBC56A395B}']"
               s:ds="local:/Data/Hero"
               s:id="{41726C55-0876-493A-A775-79329F911700}"
-              s:par="HeadingLayout=%7BD8039FD3-6889-48D5-ABF8-0698389E43E3%7D&amp;Layout=%7B5EE6BC71-F82E-4A9E-9914-A9AE93496EED%7D&amp;PrimaryActionColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;BackgroundColor=%7B5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32%7D&amp;OverlayStyle=%7B05691757-379C-4683-B211-62846F4E78F1%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7B6D5C3AB2-570E-46B8-8158-D1097727AAF6%7D"
+              s:par="HeadingLayout=%7BD8039FD3-6889-48D5-ABF8-0698389E43E3%7D&amp;Layout=%7B5EE6BC71-F82E-4A9E-9914-A9AE93496EED%7D&amp;PrimaryActionColorScheme=%7BF5F89D4A-017F-46FB-A28E-E4CB8575FA0C%7D&amp;BackgroundColor=%7B5B2A0BBC-217B-4AF7-8A97-6B4C9B1D2E32%7D&amp;OverlayStyle=%7BBFFC7C83-E300-4AA7-97F1-FF9B38FB609C%7D&amp;DynamicPlaceholderId=3&amp;FieldNames=%7B6D5C3AB2-570E-46B8-8158-D1097727AAF6%7D&amp;PrimaryActionFontColor=%7BE82AD80B-67F1-4AAC-834F-DD12DE7E6079%7D&amp;OverlayEnabled=1&amp;SecondaryActionColorScheme=%7BEAD29A9C-CD58-414B-9FD5-1D5ADAED8A62%7D&amp;OverlayColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D"
               s:ph="/headless-main/container-1" />
             <r
-              uid="{EED0708A-8DFC-54ED-B51E-D558ABA757D8}"
+              uid="{057AD3CD-0F02-43F5-A14A-AE4CABD7E7DE}"
               p:after="r[@uid='{1D79CFEC-1D56-5B56-A35F-008656F47564}']"
+              s:ds="local:/Data/form-select-field 1"
+              s:id="{9B3AD674-5745-4C39-A3B6-70675D86C1A1}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Width=%7BE0871748-009F-49CE-A0FE-92B39E54EE0E%7D&amp;Size=%7BA05D3897-3264-4DA7-AC11-A21C06665168%7D&amp;LabelOrientation=%7BB53DF458-B065-4B36-B4E2-CEB8E813BC28%7D&amp;FieldNames=%7B6A0B87A0-3BAB-44A9-BDC8-5D846E53163B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/container-2/form-fields-5" />
+            <r
+              uid="{EED0708A-8DFC-54ED-B51E-D558ABA757D8}"
+              p:after="r[@uid='{057AD3CD-0F02-43F5-A14A-AE4CABD7E7DE}']"
               s:ds="local:/Data/Product"
               s:id="{6888D52A-98F3-426A-9C20-FB4C7E94C2E3}"
               s:par="DynamicPlaceholderId=8&amp;FieldNames=%7BD77015E6-26B8-4715-89DA-9B3260C9125D%7D"
@@ -90,7 +93,7 @@ Languages:
               p:after="r[@uid='{EED0708A-8DFC-54ED-B51E-D558ABA757D8}']"
               s:ds="local:/Data/Form"
               s:id="{FBDE45B9-8E28-4E71-8EDE-D96570DE8A89}"
-              s:par="FormColorScheme=%7B722C6F93-1336-48B3-9FFE-C763021CC53C%7D&amp;SubmitButtonColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;SubmitButtonVariant=%7B973EEE8E-BAD4-4D6F-8696-A97630198F36%7D&amp;CdpFormIntent=%7B1369EA07-09FC-4DC5-BD2E-25354CD88E83%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7BCDB4E718-2418-4E6B-AF42-AC67A55C367F%7D"
+              s:par="FormColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;SubmitButtonColorScheme=%7BF9DAC70B-0DDF-4231-856F-CFDE63708DDC%7D&amp;SubmitButtonVariant=%7B973EEE8E-BAD4-4D6F-8696-A97630198F36%7D&amp;CdpFormIntent=%7B1369EA07-09FC-4DC5-BD2E-25354CD88E83%7D&amp;DynamicPlaceholderId=5&amp;FieldNames=%7B1DF34FAC-21E7-46FB-81D0-46F54AAA8F4F%7D&amp;TrackEvents=1&amp;CdpFormCommitment=%7B5188B8EF-E179-47C3-A776-D7ACDB111A1F%7D&amp;InstanceKey=apply-now"
               s:ph="/headless-main/container-2" />
             <r
               uid="{D76A1854-0727-5456-A6DA-AFA7C2F4ECD4}"
@@ -120,7 +123,7 @@ Languages:
       Value: Apply Now
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "833aa0e4-2517-40f6-877b-15bfb9c2a524"
+      Value: "d7fd0819-f8a2-4d85-806f-6a8159892828"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
@@ -136,4 +139,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195724Z
+      Value: 20260917T185449Z

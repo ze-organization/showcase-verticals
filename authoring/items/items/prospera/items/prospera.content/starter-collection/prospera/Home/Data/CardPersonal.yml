@@ -1,25 +1,21 @@
----
+﻿---
 ID: "daea251c-9972-4c9e-8cbd-0d567d0fc45f"
 Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
 Template: "a3b2b7cf-5e78-493f-ae57-583246702b7c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/CardPersonal"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "7fe14a9a-4169-4b67-93e0-0df849873b6d"
   Hint: Image
   Value: |
-    <image mediaid="{0CE2BA13-4D4B-4D1F-AB3E-DCC854BB0F5E}" alt="Prospera Personal debit card on a cream background" />
+    <image mediaid="c778a8bb-0fdd-4a26-b1f3-6c96a83702da" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "118b29e4-ab08-436a-9ef2-0c5a1f542801"
+  Value: "cdeb9003-7059-4872-9881-0aba9d29add9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -30,6 +26,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260916T021600Z
@@ -38,7 +37,7 @@ Languages:
       Value: "<p>Everyday checking, high-yield savings, a rewards Visa, a 30-year mortgage, and a home-equity line of credit.</p>"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cd46421d-ad4c-40b6-82ff-60cf6bb35ff4"
+      Value: "2c6eb148-8a72-4fcf-8d6d-d9cc836d65ee"
     - ID: "b376f791-9d7c-43e4-8b36-51a958eb4c7a"
       Hint: Title
       Value: Personal
@@ -48,8 +47,8 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T182118Z
+      Value: 20260917T013106Z
     - ID: "f5712a6f-019b-408a-9f92-1445842c3d8e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Products" text="Browse Personal" />
+        <link linktype="internal" id="a0e5bbca-3dc8-4033-8946-451f29f67514" anchor="" querystring="" target="" class="" text="Explore Personal" title=""/>

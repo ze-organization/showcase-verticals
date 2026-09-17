@@ -1,18 +1,14 @@
----
+﻿---
 ID: "bbbfe500-0fac-4e77-8e65-058a8ed3e270"
 Parent: "484054e3-847e-4a2c-9f7a-1d361b47e9d8"
 Template: "484054e3-847e-4a2c-9f7a-1d361b47e9d8"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/page-details/event-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "event-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "95d112e4-3ad4-480a-a1a1-a499e7c5f1ed"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

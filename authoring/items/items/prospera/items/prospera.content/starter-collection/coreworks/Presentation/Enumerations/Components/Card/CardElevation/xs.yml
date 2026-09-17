@@ -1,13 +1,9 @@
----
+﻿---
 ID: "768ac854-6c56-457e-a660-2553c2ad40db"
 Parent: "6cacb9e1-c58d-4982-b56d-87c3b404afa8"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Components/Card/CardElevation/xs"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "card-elevation@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: xs
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "f79d5d60-9316-448b-b234-154f30c8f53c"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

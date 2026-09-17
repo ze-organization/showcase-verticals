@@ -1,18 +1,14 @@
----
+﻿---
 ID: "ae664dd9-7bc5-4de2-9fc6-337b6d5ce9b6"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/media-item"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "media-item@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4d820334-46cf-4047-bfbb-67e7849cc8af"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

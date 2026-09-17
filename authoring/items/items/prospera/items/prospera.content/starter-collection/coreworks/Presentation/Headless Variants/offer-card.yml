@@ -1,18 +1,14 @@
----
+﻿---
 ID: "62545d67-f676-411c-938e-54f8fd3adc49"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/offer-card"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "offer-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "14aef24a-e2e1-4dd8-a32d-db247b1b5130"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

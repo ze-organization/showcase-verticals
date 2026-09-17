@@ -1,21 +1,17 @@
----
+﻿---
 ID: "6a654418-0ee3-42fd-909f-7380ec827675"
 Parent: "cf1006e3-5cfd-4448-bdc0-90a6d34d58e0"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/*/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{F4E372C0-EBC8-4FAD-A2BE-0EFE992DD6C6}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "products-wildcard@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "5c3c5d9b-16b4-44de-a4e0-92192ad5fa58"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

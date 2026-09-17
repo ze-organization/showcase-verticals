@@ -1,21 +1,17 @@
----
+﻿---
 ID: "bbc55048-a3e2-4d1f-adcf-45534979a95f"
 Parent: "eb397654-6645-4c86-84b0-e6c7ffbed7cd"
 Template: "92567043-5ef3-4184-b65e-f03f3b51628c"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/Data/QuoteOne"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "bb266e1c-544d-4495-a115-70a8fcb5c860"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

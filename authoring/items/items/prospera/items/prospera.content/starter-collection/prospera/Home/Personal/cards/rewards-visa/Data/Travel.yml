@@ -1,25 +1,21 @@
----
+﻿---
 ID: "70e8df40-61c3-431a-99eb-59f835984fd6"
 Parent: "57a1389e-2f54-4aa9-828e-6bcef40002d6"
 Template: "2dd2e939-2adf-42ff-940c-8d8f45278a52"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/cards/rewards-visa/Data/Travel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-cards-rewards-visa@1"
 - ID: "3640dde1-90f4-4a80-bf90-a200ed994a0e"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/feat-no-foreign-fees.jpg" alt="Traveler paying at a cafe abroad with a U.S. passport and card on the table" />
+    <image mediaid="3cbcaff9-e77c-4f78-a88b-ad7bab84679d" alt="No foreign fees" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "2dd77b03-fc0a-4616-bfc0-b54f971bfa06"
+  Value: "2a276b73-f177-40a7-85df-024c3eb33b68"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -38,7 +34,7 @@ Languages:
       Value: Travel
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "77bb8653-8945-4133-9243-998f5c65ccd9"
+      Value: "47a30f12-ad0f-4d3b-ab85-7141f3015d8d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -46,13 +42,13 @@ Languages:
     - ID: "d5996290-9a0a-43be-a1f4-654341a56976"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Features/no-foreign-fees" text="Travel spend" />
+        <link linktype="internal" id="{72361283-8997-4A4C-BAAE-5857906DE504}" anchor="" querystring="" target="" class="" text="Travel spend" title="" />
     - ID: "d70f1669-c2e0-48af-9657-47efed02956f"
       Hint: Description
       Value: "<p>No foreign-transaction fee from Prospera in this demonstration. You will see the amount in U.S. dollars on the statement. ATM owners overseas may still charge their own fee.</p>"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T193215Z
+      Value: 20260917T162455Z
     - ID: "e2198777-25e9-4721-9225-15b08808d5dd"
       Hint: Title
       Value: Take it abroad.

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "a5204d29-d5cc-47f9-8e83-caf4cfce6b0d"
 Parent: "415eede5-4bf8-415b-9cd5-b768ed4d95cf"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/coreworks/Data/Locations/location-card-dubai-difc"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{1F5869D4-E4BA-492F-B0FF-E97FB4826483}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-dubai-difc@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "73b42f2f-4640-4f48-9117-28263c78189e"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

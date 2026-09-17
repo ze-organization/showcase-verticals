@@ -1,18 +1,14 @@
----
+﻿---
 ID: "34c8288b-dcbb-434b-ac35-66d4fb18b808"
 Parent: "051b4992-d823-447c-8e53-759d779c8b53"
 Template: "051b4992-d823-447c-8e53-759d779c8b53"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/search/filter-panel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "filter-panel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "02412967-8d88-42f6-9456-e3925c2fb766"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

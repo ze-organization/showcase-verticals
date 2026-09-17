@@ -1,18 +1,14 @@
----
+﻿---
 ID: "de216082-a285-4cd5-8e99-b173935dcf8d"
 Parent: "2df0511e-048f-41e6-acbc-d2c465d7ae84"
 Template: "2df0511e-048f-41e6-acbc-d2c465d7ae84"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/forms/form-date-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-date-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "7fecb02a-bead-4ac0-b64a-316ab37af38e"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -68,7 +64,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151804Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -96,7 +92,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215822Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -152,7 +148,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151804Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -189,7 +185,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215821Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -245,7 +241,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151804Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -298,7 +294,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151804Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -326,7 +322,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215822Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "a3284b9c-dc27-4af6-b2fb-9c43ea4956dd"
 Parent: "9a676c83-476d-4635-b44e-c60081b74b2d"
 Template: "ca84d280-d61b-4ee5-9289-b79afc422e43"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Partial Designs/HeaderTransparentOverlay/Data/OverlayCta"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "header-transparent-overlay@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "a020dcd6-e38d-4b3f-9997-0befe891f410"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -31,7 +27,7 @@ Languages:
       Value: 20260813T223641Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9fb70a49-04c8-4938-ab12-1a94228fd88b"
+      Value: "ad3b94bc-00db-4338-831d-b9df6e317fc8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -39,7 +35,7 @@ Languages:
     - ID: "c0d14dcc-daf6-48cf-b884-5389cba9490e"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Apply-Now" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195940Z
+      Value: 20260917T162316Z

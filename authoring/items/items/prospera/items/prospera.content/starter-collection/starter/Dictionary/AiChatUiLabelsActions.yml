@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e7858151-6feb-4eca-bf4a-09296944723a"
 Parent: "40926c68-bac9-4a8c-83da-01f5def2ba03"
 Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
 Path: "/sitecore/content/starter-collection/starter/Dictionary/AiChatUiLabelsActions"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "ai-chat-ui-labels-actions@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "890bdcd8-e31e-4140-b4b7-54d3855b24b9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "ff55d1bf-af8e-4e8f-bc28-ec25698fe6be"
 Parent: "0a3ffdd7-c29e-4cd0-a7b2-e4095758bf7d"
 Template: "b679d558-55bb-4e0e-ba1f-c3cf459d03a7"
 Path: "/sitecore/content/starter-collection/prospera/Data/Locations/location-card-singapore-raffles-place"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{58E23A25-7A03-4A90-A9D8-FB82D91556FE}" alt="Street view of the Singapore Raffles Place branch neighborhood." />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "location-card-singapore-raffles-place@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "3d5433dc-5802-4921-8bf7-2bd3b1c34a8d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

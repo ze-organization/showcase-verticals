@@ -1,13 +1,9 @@
----
+﻿---
 ID: "d403c834-ffb5-4bc5-bd3b-4bd58eac6f25"
 Parent: "0ecfc951-fa55-4e4e-9333-2642285c3733"
 Template: "0ecfc951-fa55-4e4e-9333-2642285c3733"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/media-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "media-item@1"
 - ID: "3a865cc5-de3e-4dd6-89ff-33cf1b7d9028"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "93cf2eff-fb2d-4657-b1a4-3aa1738d163f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

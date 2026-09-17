@@ -1,13 +1,9 @@
----
+﻿---
 ID: "ffd1ec88-6c80-4cf4-b063-949c64be948c"
 Parent: "c78e0e19-ba36-4bbf-9a08-5001e7de0c9a"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Forms/Form Field Width/inline"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-field-width@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: inline
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "8d1092e9-de44-42d1-97cd-18b374d13a17"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

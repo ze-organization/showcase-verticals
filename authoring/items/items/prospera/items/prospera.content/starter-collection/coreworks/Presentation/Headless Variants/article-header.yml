@@ -1,18 +1,14 @@
----
+﻿---
 ID: "20b59e01-c836-4255-8ae5-e0c01f48c7bf"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/article-header"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-header@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "fc013c3d-b54c-4b1d-86f3-ab2d24abfe40"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

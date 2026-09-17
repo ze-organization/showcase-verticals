@@ -1,21 +1,17 @@
----
+﻿---
 ID: "3d0201fc-6d29-4886-9629-154a784dc1fc"
 Parent: "e06f99be-d1f5-493e-a6d2-d77b3cd1d3d2"
 Template: "e06f99be-d1f5-493e-a6d2-d77b3cd1d3d2"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/cards-and-lists/reviews-list-grid/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{92567043-5EF3-4184-B65E-F03F3B51628C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "reviews-list-grid@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "b7d420ee-7f7e-452c-b0e9-fd97341a4109"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

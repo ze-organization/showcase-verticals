@@ -1,16 +1,12 @@
----
+﻿---
 ID: "f9be73e8-902e-4ca3-99cf-38a432df0cda"
 Parent: "49bdc58d-99ef-4218-b682-502746fd6eb4"
 Template: "e1f8b936-ff46-4434-9c39-34b91e166885"
 Path: "/sitecore/content/starter-collection/starter/Data/Catalog Products/linen-throw"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "catalog-product-linen-throw@1"
 - ID: "7ea58df8-8edc-4418-bd12-c8ef45a4a094"
   Hint: Image
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "c3877c19-a935-4e19-80d6-faf1a70b08dc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

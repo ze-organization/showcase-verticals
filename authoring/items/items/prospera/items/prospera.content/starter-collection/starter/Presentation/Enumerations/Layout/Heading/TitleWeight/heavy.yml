@@ -1,13 +1,9 @@
----
+﻿---
 ID: "aa13454a-c0ee-469d-87a3-1b5b38bef8f8"
 Parent: "8e5f1206-5f63-4074-b5c3-13b9604de221"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Layout/Heading/TitleWeight/heavy"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "title-weight@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: heavy
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "3c2c9aae-b8f5-473e-b0b6-7ccb981958c1"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "310b13f7-aa96-4c5c-aa37-f4e6a45e4c8b"
 Parent: "61cdf2c9-c6dd-47c5-80cf-f1aea26a20a9"
 Template: "da6c7443-70ad-4d4b-abd4-07e7c99cd0f2"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Products/Tableware"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -14,9 +13,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{C70D7A59-7256-4799-A961-4179E53D166B}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-category-tableware@1"
 - ID: "977856be-18c8-4db3-a2db-cccf885b8f6e"
   Hint: Image
   Value: |
@@ -25,7 +21,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "7c33b5da-b5c4-4710-8b2f-9d55219be747"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

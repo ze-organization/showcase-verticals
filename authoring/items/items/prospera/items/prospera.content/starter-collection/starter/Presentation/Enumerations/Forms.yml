@@ -1,18 +1,14 @@
----
+﻿---
 ID: "dc752391-1462-4623-8e3d-c95e63be7b3f"
 Parent: "0f7e78ff-bf54-4f7a-ba92-b6b0afa20e71"
 Template: "28ab4528-d4c8-4417-ab71-0b14f26c6bab"
 Path: "/sitecore/content/starter-collection/starter/Presentation/Enumerations/Forms"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "ccfcbfa9-258f-4947-9f73-7cd7ac119bda"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

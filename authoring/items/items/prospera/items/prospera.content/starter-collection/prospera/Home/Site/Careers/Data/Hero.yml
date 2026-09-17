@@ -1,25 +1,21 @@
----
+﻿---
 ID: "ba4242a1-0bd0-4715-9246-e71dc5fca109"
 Parent: "c95ee311-56f4-4f25-9afc-4625d34e0b0a"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Careers/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: careers@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "79803c4f-5913-4b2c-8e57-c131bcf09904"
+  Value: "062665ac-4bed-4ed3-ab66-a3e3c6640c39"
 - ID: "e19f6e46-d51b-47b3-bda8-f99b0246d84d"
   Hint: Image
   Value: |
-    <image mediapath="/theme-photos/promo-closer.jpg" alt="Advisor walking with a customer through a branch lobby" />
+    <image mediaid="c2545e57-2084-44b9-9e2f-844c049940b1" alt="Bright branch interior" />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -40,17 +36,17 @@ Languages:
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Contact" text="Contact us" />
+        <link linktype="internal" id="{ED76BD75-6088-4F0E-9BA2-4AD5247F6394}" anchor="" querystring="" target="" class="" text="Contact us" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8c7297fa-3e3c-4b91-9343-567dafdf3e44"
+      Value: "320d9632-275b-464e-ac7b-7679f2d2850f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T021627Z
+      Value: 20260917T041558Z
     - ID: "dd89508e-129e-43cc-9186-307f91173cb6"
       Hint: Subtitle
       Value: Branch, lending, and treasury. Department and location are facts on each posting.

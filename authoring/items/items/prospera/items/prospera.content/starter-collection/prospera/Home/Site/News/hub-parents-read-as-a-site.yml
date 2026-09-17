@@ -1,9 +1,8 @@
----
+﻿---
 ID: "940b92ff-ed2e-4d5d-8860-7a3613ab8a4a"
 Parent: "7cc675d3-97d8-4145-ade9-08cec6843eca"
 Template: "ba3a6fc8-f669-46e9-8a24-0789dac704b7"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/News/hub-parents-read-as-a-site"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{F0DF0297-115E-5A5B-AA25-FB1795464A6C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "news-hub-parents@1"
 - ID: "9d42e06e-fa7f-4074-a710-967a3ec57909"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "501dfca1-993e-4d0a-a0af-956056442de9"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

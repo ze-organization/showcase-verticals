@@ -1,17 +1,13 @@
----
+﻿---
 ID: "61835908-42d1-4252-b02e-a729d8b937a4"
 Parent: "577c9f0d-7f10-4f6b-81cf-74eb30484015"
 Template: "577c9f0d-7f10-4f6b-81cf-74eb30484015"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/ui/tab-rendering/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "0f90ae3a-e832-43df-af47-6e1f6c70f5f8"
   Hint: TriggerImage
   Value: |
     <image mediaid="{DD8D094E-E5AB-4F9F-A819-0EF23750B30D}" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "tab-rendering@1"
 - ID: "5ac689aa-7178-4173-bbcb-5321f4b783fc"
   Hint: PanelImage
   Value: |
@@ -20,7 +16,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "30b81dd6-e077-4608-89ee-ea0497ece489"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -82,7 +78,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152034Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -113,7 +109,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222944Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -175,7 +171,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152034Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -206,7 +202,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222942Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -268,7 +264,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152034Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -330,7 +326,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152034Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -361,7 +357,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222944Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

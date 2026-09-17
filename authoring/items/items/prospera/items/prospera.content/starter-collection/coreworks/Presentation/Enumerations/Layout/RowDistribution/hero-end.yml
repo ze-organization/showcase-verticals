@@ -1,13 +1,9 @@
----
+﻿---
 ID: "5ecfd2b9-0da4-4f5a-a617-074d19565598"
 Parent: "72b80ffe-e07a-4d7e-a7ad-dc1c724a13ad"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/RowDistribution/hero-end"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "row-distribution@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "hero-end"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "0da632ff-e60f-42f8-9fda-0f67122628a0"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

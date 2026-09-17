@@ -1,18 +1,14 @@
----
+﻿---
 ID: "53cadb75-164b-4868-8c19-adafe2099f11"
 Parent: "16986568-7609-4150-be32-a56d42215bec"
 Template: "16986568-7609-4150-be32-a56d42215bec"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/stats-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "stats-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c9b43fca-48a0-482f-9558-65c363394f98"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -74,7 +70,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152017Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -105,7 +101,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222549Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -167,7 +163,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152017Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -204,7 +200,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222548Z
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -266,7 +262,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152017Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -328,7 +324,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T152017Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -359,7 +355,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T222549Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

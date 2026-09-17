@@ -1,18 +1,14 @@
----
+﻿---
 ID: "e87c95ef-28a1-47ef-96c2-8c62d859902b"
 Parent: "421f546f-1c58-4f14-bc1f-328f9a36ef77"
 Template: "49c111d0-6867-4798-a724-1f103166e6e9"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Headless Variants/destinations-carousel"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destinations-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4b93bd4b-3b6d-47d1-b259-b4f68fd32787"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

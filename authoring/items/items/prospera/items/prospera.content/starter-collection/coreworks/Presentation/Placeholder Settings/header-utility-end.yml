@@ -1,13 +1,9 @@
----
+﻿---
 ID: "9e41090a-05c8-43a2-a43d-81efad531625"
 Parent: "884d33de-09ec-4b14-a760-72c8423c0c46"
 Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Placeholder Settings/header-utility-end"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__placeholder-settings__"
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
   Value: "header-utility-end-{*}"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "7db630a4-6fe3-478f-b1ea-995b8d279ddd"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,0 +1,32 @@
+﻿---
+ID: "25e07360-8bdf-4913-9d69-a639c6a4a2d8"
+Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
+Template: "a018feca-b92f-4b23-b6f8-9bd6a43f9617"
+Path: "/sitecore/content/starter-collection/prospera/Home/Data/TrustStrip"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c86f417-87ed-4e60-8350-d79df15c4cce"
+      Hint: Features
+      Value: |
+        {5A8A8905-1226-41B1-B69E-27C3F06CCCF8}
+        {7765418D-F308-41E0-8BA7-4430A96AA379}
+        {18E8118E-4B7A-4E1D-89E2-90C4641B3BF1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T022932Z
+    - ID: "2902f35f-46f3-497a-94bf-23b73a4d62dd"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51d9d7a7-7f73-4098-a225-8d822fc8fc5c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T023359Z

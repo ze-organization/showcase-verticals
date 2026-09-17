@@ -1,9 +1,8 @@
----
+﻿---
 ID: "d07b7513-15d7-47db-aecd-b27b0bdb5d16"
 Parent: "937e878f-6043-4fc1-b5b2-d555485a9a58"
 Template: "9f5c7447-dfe9-41fd-9cc5-24678efbe3b5"
 Path: "/sitecore/content/starter-collection/prospera/Home/About/Data/CardSofia"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image
   Value: |
     <image mediaid="{29D2562E-6893-4540-BFBF-1E0B3893B7C3}" alt="Portrait of Sofia Lang, Wealth Advisor." />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: about@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "89a5e6f7-5a11-4ac8-a94c-f4d10b144248"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

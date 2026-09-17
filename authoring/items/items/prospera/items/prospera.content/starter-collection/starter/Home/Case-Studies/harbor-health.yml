@@ -1,9 +1,8 @@
----
+﻿---
 ID: "fcf3bca0-7e40-4232-a612-11a5a7ee03eb"
 Parent: "8f6a2506-3b0b-4a95-afc8-ed273980ce56"
 Template: "700416a0-bb15-4001-9c47-233eae954352"
 Path: "/sitecore/content/starter-collection/starter/Home/Case-Studies/harbor-health"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{4D242D8D-D77D-4DCB-95D2-562356D2A2A6}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "case-study-harbor-health@1"
 - ID: "94cba7fa-41f1-44a2-b07d-08f4a782e6b1"
   Hint: Image
   Value: |
@@ -22,7 +18,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "bb060ef3-452a-41b4-a15e-79934ef72edc"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

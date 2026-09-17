@@ -1,0 +1,74 @@
+﻿---
+ID: "244e2fbb-edb5-4316-978c-6e5c5ce82c7e"
+Parent: "fa6a243a-49a7-472c-9f30-0edd3a945008"
+Template: "fa6a243a-49a7-472c-9f30-0edd3a945008"
+Path: "/sitecore/templates/Project/starter-collection/prospera/Components/heros-and-promos/Presentation Parameters/callout-card Parameters/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "daea2d20-19c6-44ba-ae34-50490aa558bc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e9bf71c-0902-4563-a5e5-0565e35740b6"
+      Hint: HeadingSize
+      Value: "{BF8DF9D7-2605-4863-BD13-43979E543EAC}"
+    - ID: "1eeee2c1-267a-406f-bcd3-81d23186030f"
+      Hint: ShowBand
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260916T013912Z
+    - ID: "3a77f068-47d9-45bd-9886-4ca6e30a5e46"
+      Hint: HeaderStyle
+      Value: "{D21A05D8-A054-4FA1-B0F4-C8DB396ED1A2}"
+    - ID: "3ce75538-ac48-4f46-9726-c9c10152f6e3"
+      Hint: ColorScheme
+      Value: "{F9DAC70B-0DDF-4231-856F-CFDE63708DDC}"
+    - ID: "4a797b3b-8fb6-4e6d-abe0-e0ccb5ca4441"
+      Hint: ButtonAlignment
+      Value: "{A5F5DBAF-9EEC-41E9-B261-CC27F2906111}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "58300103-4ada-4a37-b47b-36e2a898f52a"
+      Hint: ButtonColorScheme
+      Value: "{E92EE345-1B2F-404E-85F4-0DF9E8B9D320}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "81a9f748-bbc1-4a72-9cbc-3d61ee745546"
+      Hint: CardStyle
+      Value: "{C1526548-F2A0-4E17-871C-BF26F468CB40}"
+    - ID: "89c93c2c-b249-4623-86ef-b87b00cc51ea"
+      Hint: BackgroundIntensity
+      Value: "{E60FA708-584D-4C8C-B976-059BE4BB2665}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b312f75e-bbe3-4fa0-84be-874960d91c9f"
+    - ID: "94c3ed3a-aa5a-40d9-a370-cbfa047d3939"
+      Hint: ButtonFontColor
+      Value: "{2ED57B63-D351-4441-80A2-57727CB0EDFD}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "bec47203-50a5-4717-bbbe-a53a5657c56a"
+      Hint: Elevation
+      Value: "{0D9E8818-67AE-435D-8219-56B0A9CD53DE}"
+    - ID: "c86040de-9b25-472a-9aa7-e9919e90b913"
+      Hint: ButtonVariant
+      Value: "{973EEE8E-BAD4-4D6F-8696-A97630198F36}"
+    - ID: "d873a37c-253c-492f-8a1f-db9b5c4f9a9e"
+      Hint: InstanceScope
+      Value: "{0DFEA35D-8367-4C5C-AD6A-ABFF78EF6B20}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260916T160822Z
+    - ID: "ebe089a3-7be2-47d5-820d-c7dd8ca946bc"
+      Hint: ButtonSize
+      Value: "{A05D3897-3264-4DA7-AC11-A21C06665168}"

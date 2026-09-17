@@ -1,21 +1,17 @@
----
+﻿---
 ID: "a4604984-0514-4007-b902-2f6959fe5531"
 Parent: "3b4fea24-db8d-4eb5-8ae6-05e0cc3fe003"
 Template: "3b4fea24-db8d-4eb5-8ae6-05e0cc3fe003"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-select-field/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{51809B31-B9C5-4554-A415-457BB2A3843C}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-select-field@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "9f5a8de1-34f7-478c-8487-4efbe3f91e34"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

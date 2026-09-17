@@ -1,21 +1,17 @@
----
+﻿---
 ID: "d667052e-1f70-4ac0-a699-bb1f7d7a627b"
 Parent: "2dc1bacf-e803-4e8b-9d74-a87a2cc32ce9"
 Template: "8d140ec2-f25c-4539-9fce-101b1299c69d"
 Path: "/sitecore/content/starter-collection/starter/Home/Search/Data/Bar"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "search-page@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4021ca4d-935a-466a-b009-31d30db5af0a"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

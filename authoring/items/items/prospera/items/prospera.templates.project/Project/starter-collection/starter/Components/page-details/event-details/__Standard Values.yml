@@ -1,18 +1,14 @@
----
+﻿---
 ID: "5bd7d0d4-7842-454c-be72-fd77c28d2076"
 Parent: "5f66a993-901a-4ed1-afa1-1d17c3016d9e"
 Template: "5f66a993-901a-4ed1-afa1-1d17c3016d9e"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/page-details/event-details/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "event-details@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "4012a847-add0-4562-8d50-20b2b9b9663c"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

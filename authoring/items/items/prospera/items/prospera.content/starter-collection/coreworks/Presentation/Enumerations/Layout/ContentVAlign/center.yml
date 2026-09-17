@@ -1,13 +1,9 @@
----
+﻿---
 ID: "e564ad77-86a0-48b2-98e4-686a62400935"
 Parent: "a48f57ae-af6d-4f26-a494-1f31c206d330"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Enumerations/Layout/ContentVAlign/center"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "content-valign@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: center
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "4c95c3a5-e2f0-4b34-bcf7-588a2a2a4dda"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

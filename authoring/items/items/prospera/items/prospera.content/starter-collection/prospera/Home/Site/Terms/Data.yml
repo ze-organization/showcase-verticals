@@ -1,21 +1,17 @@
----
+﻿---
 ID: "940ff170-48e8-495c-962b-a581334ab8ce"
 Parent: "c4ddf969-3139-4358-a228-96b3dc365e3c"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Terms/Data"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{9287BAD6-E065-47D2-9EA1-12080E2679A5}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: terms@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "1fbd49ca-a9fc-4abb-86b6-1e011f0d7785"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

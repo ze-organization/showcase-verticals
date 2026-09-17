@@ -1,21 +1,17 @@
----
+﻿---
 ID: "7b7f7dca-5e47-4fa4-a20e-0cf1431aa6e3"
 Parent: "bb31c233-9d6d-4770-a51f-0480122201db"
 Template: "bb31c233-9d6d-4770-a51f-0480122201db"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/destinations-carousel/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C5983974-FD79-4B87-84DC-0496923BCF42}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "destinations-carousel@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "cc7c23d3-c87f-4c87-bdd4-e6c183f474da"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -71,7 +67,7 @@ Languages:
     - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: وجهات مميّزة
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -99,7 +95,7 @@ Languages:
     - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: Fremhævede destinationer
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -155,7 +151,7 @@ Languages:
     - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: Empfohlene Reiseziele
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -183,7 +179,7 @@ Languages:
     - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: Featured destinations
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -239,7 +235,7 @@ Languages:
     - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: Destinos destacados
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -295,7 +291,7 @@ Languages:
     - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: Destinations à la une
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -323,7 +319,7 @@ Languages:
     - ID: "f522c5c0-1754-478e-9f9a-48f4d579b259"
       Hint: Title
       Value: Destinazioni in evidenza
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

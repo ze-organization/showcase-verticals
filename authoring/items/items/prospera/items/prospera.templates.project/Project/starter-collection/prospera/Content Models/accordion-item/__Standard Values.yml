@@ -1,13 +1,9 @@
----
+﻿---
 ID: "b0b12a33-b6cd-4425-bd16-3a136747093b"
 Parent: "12610e5d-642e-40b6-8f06-4494c91d2ceb"
 Template: "12610e5d-642e-40b6-8f06-4494c91d2ceb"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Content Models/accordion-item/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "accordion-item@1"
 - ID: "b5bb560d-4267-4518-be8d-ce4a87514363"
   Hint: Image
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "a23f58fe-f10c-4f5a-9507-b9f0b9df2e58"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

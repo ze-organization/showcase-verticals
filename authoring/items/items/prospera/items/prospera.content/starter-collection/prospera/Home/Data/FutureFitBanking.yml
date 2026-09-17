@@ -1,0 +1,40 @@
+﻿---
+ID: "8061fe9f-f57c-43de-9c0a-da5ca797ca86"
+Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
+Template: "2b97b80f-3e0a-4c30-bdf9-5865786be61f"
+Path: "/sitecore/content/starter-collection/prospera/Home/Data/FutureFitBanking"
+SharedFields:
+- ID: "94cfbee5-7a7d-49df-b5d4-b6653f3125fb"
+  Hint: Image
+  Value: |
+    <image mediaid="{53FCC7A5-850F-480D-B456-DD79A2E8ADA0}" alt="Person holding a phone in warm indoor light" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2aa4b847-8b92-4685-b928-d735784c7f57"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0155a94f-7b96-46f4-a474-9e071f5345fd"
+      Hint: Description
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260917T022933Z
+    - ID: "75d2bf57-757a-4180-b4a5-d2c8d759792a"
+      Hint: Title
+      Value: "Future-fit banking."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e89e447a-0dc2-4ff7-9cee-7edaa8f9dff7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260917T023509Z
+    - ID: "ededbaae-dbeb-4f3a-b3f0-a9860801ae8d"
+      Hint: Subtitle
+      Value: "<p>Industry-leading security, including face and fingerprint recognition, and groundbreaking new tools powered by AI.</p>"

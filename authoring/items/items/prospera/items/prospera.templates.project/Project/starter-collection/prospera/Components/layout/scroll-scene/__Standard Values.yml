@@ -1,13 +1,9 @@
----
+﻿---
 ID: "10c52176-07e8-4ac1-849c-3746b5ec2600"
 Parent: "b0862ee4-de89-4080-aa78-505f745d96da"
 Template: "b0862ee4-de89-4080-aa78-505f745d96da"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/layout/scroll-scene/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "scroll-scene@1"
 - ID: "ad4a4b23-b975-4426-a432-d9b688626ea0"
   Hint: BackgroundImage
   Value: |
@@ -16,7 +12,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "56284d30-1b6a-439a-b9f0-78874541e8fc"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

@@ -1,21 +1,17 @@
----
+﻿---
 ID: "edc1123b-0a27-43ae-b7b2-c8453de2b953"
 Parent: "54647225-8cfa-4984-b5a4-c01a4bac0e4b"
 Template: "33e9b543-0c9e-4637-873e-a1ae4ffc8242"
 Path: "/sitecore/content/starter-collection/starter/Data/Features"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/16x16/folder.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "feature-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e1e5009b-eb7b-4ce7-9cf4-8a29765197f8"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

@@ -1,18 +1,14 @@
----
+﻿---
 ID: "89057488-a9b5-4079-b824-58822afe2abe"
 Parent: "aa4ce995-b1fa-4bc8-9794-364331fd86a2"
 Template: "aa4ce995-b1fa-4bc8-9794-364331fd86a2"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/feedback/consent-banner/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "consent-banner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "632e050a-ec31-4077-8ba8-e9279eae0493"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -86,7 +82,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151739Z
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -123,7 +119,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215313Z
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -197,7 +193,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151739Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -280,7 +276,7 @@ Languages:
     - ID: "ff5b6f90-df6c-41b1-84d1-7ea42c5d68d2"
       Hint: StatisticsDescription
       Value: Statistics cookies help us understand how visitors interact with the website by collecting and reporting information anonymously.
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -354,7 +350,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151739Z
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -428,7 +424,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151739Z
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -465,7 +461,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260813T215313Z
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

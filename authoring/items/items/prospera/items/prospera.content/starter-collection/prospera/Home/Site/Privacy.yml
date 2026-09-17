@@ -1,9 +1,8 @@
----
+﻿---
 ID: "b4a68eca-dbb2-4f57-a2f2-f7253ac8557a"
 Parent: "42118861-8e23-499c-bf18-f1bbd4397bd1"
 Template: "dbd7829c-5f0b-4093-8ff9-64a6594a92af"
 Path: "/sitecore/content/starter-collection/prospera/Home/Site/Privacy"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{09BE8858-2ABA-40F5-8E77-DFE64E1B1758}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: privacy@1
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 550
@@ -21,7 +17,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "143e7d29-5d54-4146-b3bf-b50b1eae0333"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -65,7 +61,7 @@ Languages:
       Value: 0.3
     - ID: "3f960792-8ea2-46b4-a3da-c2c054de00ff"
       Hint: MetaDescription
-      Value: How this showcase site handles personal data, cookies, and consent.
+      Value: How Prospera Bank, N.A. collects, uses, and protects personal information, including cookies and consent choices.
     - ID: "4926c0f4-360a-4c27-ae1e-2353db686a6f"
       Hint: ChangeFrequency
       Value: yearly
@@ -77,13 +73,13 @@ Languages:
       Value: summary
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b3115663-690d-4b79-b122-1969408447ce"
+      Value: "668d328b-b0da-4dd6-bae9-c5cc11c073cf"
     - ID: "9abe0d23-4fa0-490a-affb-6731d94314f2"
       Hint: IncludeInSitemap
       Value: true
     - ID: "a017d3ba-792b-48d6-8c77-5ff52120244e"
       Hint: MetaTitle
-      Value: Privacy — Showcase
+      Value: Privacy Policy — Prospera
     - ID: "b0f658e7-b2da-40e4-9824-75f89bf092d6"
       Hint: Eyebrow
       Value: Legal
@@ -93,4 +89,4 @@ Languages:
         sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260916T195231Z
+      Value: 20260917T163006Z

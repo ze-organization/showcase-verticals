@@ -1,13 +1,9 @@
----
+﻿---
 ID: "64504cf3-886a-43f3-b6e1-06d7788e8b4a"
 Parent: "64b244c6-d786-47af-9f03-a3625a1a9aea"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Card/ArticleCardVariant/title-only"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "article-card-variant@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: "title-only"
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "b0814ee1-4bb1-4316-894b-029177f3c44b"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

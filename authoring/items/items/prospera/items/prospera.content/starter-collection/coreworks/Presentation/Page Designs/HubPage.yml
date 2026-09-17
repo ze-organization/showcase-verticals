@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c70d7a59-7256-4799-a961-4179e53d166b"
 Parent: "f4b00048-cffc-49f1-95ef-c172d56bf5db"
 Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
 Path: "/sitecore/content/starter-collection/coreworks/Presentation/Page Designs/HubPage"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,9 +10,6 @@ SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
   Value: "{FDBCB994-AC24-49C2-90ED-9486D9E5BC47}|{0AFB8D2F-1AAD-44D6-9C88-C9373FC6FD94}"
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "hub-page@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "d79da826-c851-4c57-8441-ed8cbc8636d9"
@@ -32,7 +28,7 @@ SharedFields:
       </d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

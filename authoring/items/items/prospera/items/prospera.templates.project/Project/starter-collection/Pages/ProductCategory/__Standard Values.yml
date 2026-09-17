@@ -1,18 +1,14 @@
----
+﻿---
 ID: "4847fe20-54f2-4e27-8e5c-e3cf3ddab44b"
 Parent: "da6c7443-70ad-4d4b-abd4-07e7c99cd0f2"
 Template: "da6c7443-70ad-4d4b-abd4-07e7c99cd0f2"
 Path: "/sitecore/templates/Project/starter-collection/Pages/ProductCategory/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {1F218C4D-98ED-49B2-9EFF-486B7E539D31}
     {C788312B-B145-4CF9-BC09-645FD52F7EC0}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "product-category@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "35efbba8-4a3b-4f03-bb99-f429ea5f0df8"
@@ -25,7 +21,7 @@ SharedFields:
         l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"></d>
     </r>
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

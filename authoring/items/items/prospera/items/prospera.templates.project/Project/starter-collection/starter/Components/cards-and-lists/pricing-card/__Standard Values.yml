@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f2239697-3c59-4e2f-8052-8374bc6a507a"
 Parent: "fa326c91-01ad-4418-a527-133ee191394b"
 Template: "fa326c91-01ad-4418-a527-133ee191394b"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/cards-and-lists/pricing-card/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "pricing-card@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c8fc6fb4-06db-472f-adb3-e69ee3d09dea"
 Languages:
-- Language: "ar"
+- Language: ar
   Versions:
   - Version: 1
     Fields:
@@ -74,7 +70,7 @@ Languages:
     - ID: "f2fb3620-7eee-414a-bb8b-e2bc4e95cbc7"
       Hint: Name
       Value: الباقة الأساسية
-- Language: "da"
+- Language: da
   Versions:
   - Version: 1
     Fields:
@@ -105,7 +101,7 @@ Languages:
     - ID: "f2fb3620-7eee-414a-bb8b-e2bc4e95cbc7"
       Hint: Name
       Value: Starter
-- Language: "de"
+- Language: de
   Versions:
   - Version: 1
     Fields:
@@ -164,7 +160,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260909T151922Z
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:
@@ -207,7 +203,7 @@ Languages:
     - ID: "f9e48def-5ad7-45c2-b977-19473c35bbf1"
       Hint: PricePeriod
       Value: /month
-- Language: "es"
+- Language: es
   Versions:
   - Version: 1
     Fields:
@@ -269,7 +265,7 @@ Languages:
     - ID: "f2fb3620-7eee-414a-bb8b-e2bc4e95cbc7"
       Hint: Name
       Value: Inicial
-- Language: "fr"
+- Language: fr
   Versions:
   - Version: 1
     Fields:
@@ -331,7 +327,7 @@ Languages:
     - ID: "f2fb3620-7eee-414a-bb8b-e2bc4e95cbc7"
       Hint: Name
       Value: Essentiel
-- Language: "it"
+- Language: it
   Versions:
   - Version: 1
     Fields:
@@ -362,7 +358,7 @@ Languages:
     - ID: "f2fb3620-7eee-414a-bb8b-e2bc4e95cbc7"
       Hint: Name
       Value: Base
-- Language: "ja"
+- Language: ja
   Versions:
   - Version: 1
     Fields:

@@ -1,9 +1,8 @@
----
+﻿---
 ID: "c528b660-316a-40d3-9a9d-f849ef3a0510"
 Parent: "7c79ab32-e032-4af0-be55-e41006631c98"
 Template: "7c79ab32-e032-4af0-be55-e41006631c98"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/Data Folders/Pricing Data Folder/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -11,14 +10,11 @@ SharedFields:
     {EBEC7DD2-0F53-433C-A348-5C9FD35B9584}
     {B2278274-C094-457F-B8A9-A9CA96DEAB86}
     {78C2C3DA-F833-49E5-8F4D-9117DBC39A9B}
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "__shared-data-folders__"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "55e2599e-7d67-467f-89a5-e42ac4e656cd"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

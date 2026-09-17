@@ -1,18 +1,14 @@
----
+﻿---
 ID: "f78cbfd9-209e-437e-80cb-454e6776b1da"
 Parent: "f04b6cea-1e50-4f2c-888f-99654656b758"
 Template: "f04b6cea-1e50-4f2c-888f-99654656b758"
 Path: "/sitecore/templates/Project/starter-collection/prospera/Components/forms/form-fieldset/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "form-fieldset@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "612461f4-6481-4c3d-9487-23dbc56e747f"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

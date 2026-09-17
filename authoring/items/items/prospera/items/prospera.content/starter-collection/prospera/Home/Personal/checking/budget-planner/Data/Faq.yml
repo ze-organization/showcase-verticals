@@ -1,21 +1,17 @@
----
+﻿---
 ID: "09f09706-5e4c-45ed-a357-f0ccb2e13198"
 Parent: "4c2e14b6-9308-42a7-bf31-236c6e868416"
 Template: "5b847aa9-a675-4774-b7ef-818a69f8c5ee"
 Path: "/sitecore/content/starter-collection/prospera/Home/Personal/checking/budget-planner/Data/Faq"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "personal-checking-budget-planner@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "e7773a7f-e9e5-4054-bb1e-279aca48019d"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

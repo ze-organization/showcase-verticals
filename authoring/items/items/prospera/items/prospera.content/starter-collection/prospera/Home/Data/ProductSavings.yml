@@ -1,9 +1,8 @@
----
+﻿---
 ID: "5f3aea01-aa3d-45d0-915f-21c12ae87367"
 Parent: "10078bfb-e232-4051-b40e-eb76edb14fe8"
 Template: "590320c0-1570-423b-a9bd-7f7b414decfc"
 Path: "/sitecore/content/starter-collection/prospera/Home/Data/ProductSavings"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,14 +11,11 @@ SharedFields:
   Hint: Image1
   Value: |
     <image mediaid="{0354268B-CAEA-4467-8D41-BE4F2AAD2793}" alt="Advisor and customer reviewing a personal savings framework booklet in a bank lounge" />
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "8f099014-a762-420f-8b4d-044012cde4ad"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -61,4 +57,4 @@ Languages:
     - ID: "e3c8c4eb-3c90-45ba-92a4-13a52b2a94d8"
       Hint: Link
       Value: |
-        <link linktype="external" url="/Products/Checking-and-Savings/high-yield-savings" text="See savings" />
+        <link linktype="internal" id="{3D6FB5BD-07B6-4256-9DA8-C8D6994E9359}" anchor="" querystring="" target="" class="" text="See savings" title="" />

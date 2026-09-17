@@ -1,13 +1,9 @@
----
+﻿---
 ID: "34044d89-30f5-4052-b3cb-ae006798e541"
 Parent: "eeaf8721-2498-4fa7-be83-80122b78cd50"
 Template: "7dae6839-465b-4364-a4e6-658ff5f1dbbd"
 Path: "/sitecore/content/starter-collection/prospera/Presentation/Enumerations/Media/MediaPreload/metadata"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "media-preload@1"
 - ID: "85ade29a-4684-4471-8a2d-a0937f1e85fd"
   Hint: Value
   Value: metadata
@@ -15,7 +11,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "831c5a43-05e9-4afe-a2c2-5161e59d0f76"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision

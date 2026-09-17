@@ -1,18 +1,14 @@
----
+﻿---
 ID: "2f341418-f688-4b67-a42b-26de44d13832"
 Parent: "54b28b9f-f39c-49d6-b1e0-21686b7837a0"
 Template: "54b28b9f-f39c-49d6-b1e0-21686b7837a0"
 Path: "/sitecore/templates/Project/starter-collection/starter/Components/social/social-share/__Standard Values"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "social-share@1"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "0b00ddd7-20de-4f80-b4a2-f7e246c52f5e"
 Languages:
-- Language: "en"
+- Language: en
   Versions:
   - Version: 1
     Fields:

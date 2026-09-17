@@ -1,16 +1,12 @@
----
+﻿---
 ID: "eba95e52-b7eb-48a4-96de-01dee4e3aa70"
 Parent: "946cdb23-a508-4a62-bcc3-793d24af9218"
 Template: "5c0d5f4c-b7e7-428d-b156-016964ab8c41"
 Path: "/sitecore/content/starter-collection/prospera/Home/Business/Data/Hero"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: business@1
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "dcaef584-d45b-42a7-b798-2f02c5987c72"
@@ -19,7 +15,7 @@ SharedFields:
   Value: |
     <image mediaid="{CB7A2A06-FF77-4CA7-98CE-E40803AB70DD}" alt="A business owner and a commercial banker reviewing a plan beside a manufacturing floor." />
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
@@ -40,7 +36,7 @@ Languages:
     - ID: "5fdb5af0-6aa0-4acc-a627-8ab56e6ec49d"
       Hint: SecondaryAction
       Value: |
-        <link linktype="external" url="/Get-Started" text="Apply Now" />
+        <link linktype="internal" id="{151A85F9-15F9-435A-9223-5AEF1E3372DE}" anchor="" querystring="" target="" class="" text="Apply Now" title="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "0ff1de78-d36f-4f9d-9a2e-b1d63ac51357"

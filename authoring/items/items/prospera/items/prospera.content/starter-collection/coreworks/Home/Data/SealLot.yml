@@ -1,16 +1,12 @@
----
+﻿---
 ID: "28d0b9fd-a143-4f22-874d-35cb5f4e7e12"
 Parent: "e41c1215-8ba0-45c3-9a28-fb2823e25055"
 Template: "a964bca8-3b5e-4bdf-8d59-4da0d26a8d60"
 Path: "/sitecore/content/starter-collection/coreworks/Home/Data/SealLot"
-BranchID: "00000000-0000-0000-0000-000000000000"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/elements3.png
-- ID: "256ef004-c9b2-4087-a19d-d2649dc52f33"
-  Hint: Scai Handle
-  Value: "homepage-demo@1"
 - ID: "4b0b343d-6d8b-40a7-83ab-08a506ce63af"
   Hint: Logo
   Value: |
@@ -19,7 +15,7 @@ SharedFields:
   Hint: __Shared revision
   Value: "9669ba4d-d24b-4f27-85d6-762e5b109417"
 Languages:
-- Language: "en"
+- Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
