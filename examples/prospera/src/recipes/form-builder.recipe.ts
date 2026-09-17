@@ -23,7 +23,7 @@ export const formBuilderRecipe = {
   name: "form-builder",
   displayName: "Form Builder",
   description:
-    "Compose-your-own form. Drag field renderings into the form-fields placeholder. Fires view / submit-attempt / submit-validation-failed / submit-success / submit-error CDP events.",
+    "Compose-your-own form. Drag field renderings into the form-fields placeholder. On successful submit, fires FORM_SUBMITTED plus an IDENTITY event when the payload includes an email so SitecoreAI Profiles can resolve the visitor.",
 
   section: { handle: "forms-section@1" },
 
@@ -367,24 +367,17 @@ export const formBuilderRecipe = {
       default: "true",
       sitecore: {
         type: "checkbox",
-        hint: "Emit the form's CDP events (field-focused, submit-errored). View + submit success are captured by OOTB Sitecore CDP.",
+        hint: "Emit the form's CDP events (field-focused, submit-success, identity, submit-errored). Uncheck to suppress entirely.",
         sortOrder: 700,
       },
     },
     // Semantic dimensions stamped on the <form> element as data-cdp-*
-    // attributes so OOTB Sitecore CDP's FORM_SUBMIT auto-capture can
-    // distinguish "this is a Download form" from "this is a Subscribe
-    // form" from "this is a Contact form" without us emitting our own
-    // wrapper events. The visitor's journey-stage hint (intent) +
-    // depth-of-commitment (commitment) ride on every submission.
-    //
-    // Per-field cdpRole inference (email → top-level email,
-    // phone → top-level phone, account-id → identifiers[]) happens
-    // automatically at submit time based on each input's `type` and
-    // `name`. Authors who need to override a specific field
-    // (e.g. a hidden CRM account id field) declare it via the
-    // form-field rendering's own params — that's a separate follow-up
-    // that touches every form-<X>-field recipe.
+    // attributes for author-facing classification (Download vs Contact
+    // vs Subscribe). Identity resolution does not read these — on
+    // successful submit the React component fires Cloud SDK identity()
+    // with identifiers.provider = "email" so SitecoreAI identity rules
+    // can match the visitor. Email / phone / name are inferred from
+    // the submitted field `name` attributes (email, firstName, name).
     {
       name: "CdpFormIntent",
       shape: "enum",
@@ -426,13 +419,15 @@ export const formBuilderRecipe = {
   // Events dispatched through the Content SDK at fire time via
   // `useComponentAnalytics`. The catalog's `cdpEventType` picks the
   // SDK lane: VIEW → pageView(); FORM_VIEWED / FORM_SUBMITTED →
-  // form(formId, interactionType, instanceId); CUSTOM →
-  // event({type}).
+  // form(formId, interactionType, instanceId); IDENTITY → identity();
+  // CUSTOM → event({type}).
   //
   // `submit-attempt` and `submit-validation-failed` from the original
   // sketch are dropped — submit-attempt is the same wire event as
   // FORM_SUBMITTED at the platform layer, and validation-failed is
   // pre-submit debug telemetry too granular for marketing stories.
+  // Identity fires alongside form-submitted when the payload includes
+  // an email so SitecoreAI can resolve the anonymous browser_id.
   events: [
     {
       name: "view",
@@ -472,13 +467,25 @@ export const formBuilderRecipe = {
       name: "form-submitted",
       type: "form-builder.form-submitted",
       description:
-        "Fires after submission resolves successfully. Routed through the SDK's form(formId, 'SUBMITTED', instanceId). Semantic dimensions (intent / commitment / emitsIdentity) ride on per-form-instance recipe params and per-field cdpRole data attributes.",
+        "Fires after submission resolves successfully. Routed through the SDK's form(formId, 'SUBMITTED', instanceId).",
       action: "submit",
       intent: "decision",
       commitment: "provide-info",
       emitsIdentity: true,
       emitsAffinity: false,
       cdpEventType: "FORM_SUBMITTED",
+    },
+    {
+      name: "identity",
+      type: "form-builder.identity",
+      description:
+        "Fires when a successful submit carries an email. Routed through the SDK's identity() with identifiers.provider = email so SitecoreAI can link the anonymous browser_id to a known profile.",
+      action: "identify",
+      intent: "decision",
+      commitment: "provide-info",
+      emitsIdentity: true,
+      emitsAffinity: false,
+      cdpEventType: "IDENTITY",
     },
     {
       name: "submit-error",

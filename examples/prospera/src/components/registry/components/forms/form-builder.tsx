@@ -91,6 +91,17 @@ export interface FormBuilderAnalyticsMeta {
   /** Set on `form-viewed` / `form-submitted`. Routed to the SDK's
    *  form() function as the formId argument. */
   formId?: string;
+  /** Set on `identity`. Cloud SDK identity() email + identifiers.id. */
+  email?: string;
+  /** Set on `identity`. Cloud SDK identity() phone field. */
+  phone?: string;
+  /** Set on `identity`. Cloud SDK identity() firstName field. */
+  firstName?: string;
+  /** Set on `identity`. Cloud SDK identity() lastName field. */
+  lastName?: string;
+  /** Set on `identity`. Must include `{ id, provider: "email" }` so
+   *  SitecoreAI identity rules (Identifier = email) can match. */
+  identifiers?: Array<{ id: string; provider: string }>;
 }
 
 export type FormBuilderSubmissionPayload = Record<string, string | boolean>;
@@ -421,6 +432,7 @@ function useFormBuilderAnalytics({
   //   view         → pageView()
   //   form-viewed  → form(formId, 'VIEWED', instanceId)
   //   form-submitted → form(formId, 'SUBMITTED', instanceId)
+  //   identity     → identity({email, identifiers:[{id, provider:"email"}]})
   //   submit-error → event() (CUSTOM)
   //
   // submit-attempt + submit-validation-failed are intentionally not
@@ -486,15 +498,25 @@ function useFormBuilderAnalytics({
     [meta, onSubmitValidationFailed],
   );
 
-  const fireSuccess = useCallback(() => {
-    if (onSubmitSuccess) onSubmitSuccess(meta);
-    if (eventsEnabled) {
-      analytics.fire("form-submitted", {
-        ...meta,
-        formId: `form-builder.${meta.instanceKey ?? meta.id ?? "default"}`,
-      });
-    }
-  }, [analytics, eventsEnabled, meta, onSubmitSuccess]);
+  const fireSuccess = useCallback(
+    (payload: FormBuilderSubmissionPayload) => {
+      if (onSubmitSuccess) onSubmitSuccess(meta);
+      if (eventsEnabled) {
+        analytics.fire("form-submitted", {
+          ...meta,
+          formId: `form-builder.${meta.instanceKey ?? meta.id ?? "default"}`,
+        });
+        const identity = extractIdentityFromPayload(payload);
+        if (identity.email) {
+          analytics.fire("identity", {
+            ...meta,
+            ...identity,
+          });
+        }
+      }
+    },
+    [analytics, eventsEnabled, meta, onSubmitSuccess],
+  );
 
   const fireError = useCallback(
     (error: string) => {
@@ -564,6 +586,81 @@ function serializeFormData(
   return payload;
 }
 
+const EMAIL_VALUE_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const IDENTITY_EMAIL_KEYS = new Set(["email", "emailaddress", "mail"]);
+const IDENTITY_PHONE_KEYS = new Set([
+  "phone",
+  "tel",
+  "telephone",
+  "mobile",
+  "cellphone",
+]);
+const IDENTITY_FIRST_NAME_KEYS = new Set(["firstname", "givenname"]);
+const IDENTITY_LAST_NAME_KEYS = new Set(["lastname", "surname", "familyname"]);
+const IDENTITY_FULL_NAME_KEYS = new Set(["name", "legalname", "fullname"]);
+
+function identityKey(name: string): string {
+  return name.toLowerCase().replace(/[\s_-]/g, "");
+}
+
+function stringPayloadValue(
+  payload: FormBuilderSubmissionPayload,
+  keys: Set<string>,
+): string | undefined {
+  for (const [name, value] of Object.entries(payload)) {
+    if (typeof value !== "string") continue;
+    const trimmed = value.trim();
+    if (!trimmed) continue;
+    if (keys.has(identityKey(name))) return trimmed;
+  }
+  return undefined;
+}
+
+/**
+ * Pull SitecoreAI IDENTITY fields out of a composed form payload.
+ * Apply Now authors `email` + `name`; other placements may use
+ * firstName/lastName/phone. `identifiers.provider` is always `"email"`
+ * so it matches the tenant identity rule Identifier value `email`.
+ */
+function extractIdentityFromPayload(payload: FormBuilderSubmissionPayload): {
+  email?: string;
+  phone?: string;
+  firstName?: string;
+  lastName?: string;
+  identifiers: Array<{ id: string; provider: string }>;
+} {
+  let email = stringPayloadValue(payload, IDENTITY_EMAIL_KEYS);
+  if (!email) {
+    for (const value of Object.values(payload)) {
+      if (typeof value === "string" && EMAIL_VALUE_RE.test(value.trim())) {
+        email = value.trim();
+        break;
+      }
+    }
+  }
+  email = email?.toLowerCase();
+
+  const phone = stringPayloadValue(payload, IDENTITY_PHONE_KEYS);
+  let firstName = stringPayloadValue(payload, IDENTITY_FIRST_NAME_KEYS);
+  let lastName = stringPayloadValue(payload, IDENTITY_LAST_NAME_KEYS);
+  if (!firstName && !lastName) {
+    const fullName = stringPayloadValue(payload, IDENTITY_FULL_NAME_KEYS);
+    if (fullName) {
+      const parts = fullName.split(/\s+/).filter(Boolean);
+      firstName = parts[0];
+      if (parts.length > 1) lastName = parts.slice(1).join(" ");
+    }
+  }
+
+  return {
+    ...(email ? { email } : {}),
+    ...(phone ? { phone } : {}),
+    ...(firstName ? { firstName } : {}),
+    ...(lastName ? { lastName } : {}),
+    identifiers: email ? [{ id: email, provider: "email" }] : [],
+  };
+}
+
 /**
  * On a failed `checkValidity()`, focus the first invalid field and
  * announce its native validation message (falling back to the
@@ -623,7 +720,7 @@ async function submitFormPayload(
 interface SubmitHandlerArgs {
   fireAttempt: () => void;
   fireValidationFailed: (invalidField?: string) => void;
-  fireSuccess: () => void;
+  fireSuccess: (payload: FormBuilderSubmissionPayload) => void;
   fireError: (error: string) => void;
   onSubmit?: (payload: FormBuilderSubmissionPayload) => Promise<void>;
   submitAction?: string;
@@ -683,7 +780,7 @@ function useSubmitHandler({
         form.reset();
         setSubmitState("success");
         setStatusMessage(successText);
-        fireSuccess();
+        fireSuccess(payload);
       } catch (err) {
         setSubmitState("error");
         const errMessage = err instanceof Error ? err.message : String(err);

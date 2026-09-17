@@ -268,18 +268,63 @@ async function dispatchToSdk(
         // with top-level PII fields (email, phone, identifiers, etc)
         // and an optional `extensionData` nested inside. Callers pass
         // PII at the top level of meta; the rest goes into extensionData.
-        const { identifiers, email, phone, mobile, ...rest } = enriched as {
+        // SitecoreAI identity rules match `identifiers.provider` (this
+        // tenant uses `email`) — if a caller only sent top-level email,
+        // synthesize the identifier so the profile can resolve.
+        const {
+          identifiers,
+          email,
+          phone,
+          mobile,
+          firstName,
+          lastName,
+          title,
+          city,
+          country,
+          dob,
+          gender,
+          postalCode,
+          state,
+          street,
+          ...rest
+        } = enriched as {
           identifiers?: Array<{ id: string; provider: string }>;
           email?: string;
           phone?: string;
           mobile?: string;
+          firstName?: string;
+          lastName?: string;
+          title?: string;
+          city?: string;
+          country?: string;
+          dob?: string;
+          gender?: string;
+          postalCode?: string;
+          state?: string;
+          street?: string[];
           [key: string]: unknown;
         };
+        const resolvedIdentifiers =
+          identifiers && identifiers.length > 0
+            ? identifiers
+            : email
+              ? [{ id: email, provider: "email" }]
+              : [];
         await events.identity({
-          identifiers: identifiers ?? [],
+          identifiers: resolvedIdentifiers,
           ...(email ? { email } : {}),
           ...(phone ? { phone } : {}),
           ...(mobile ? { mobile } : {}),
+          ...(firstName ? { firstName } : {}),
+          ...(lastName ? { lastName } : {}),
+          ...(title ? { title } : {}),
+          ...(city ? { city } : {}),
+          ...(country ? { country } : {}),
+          ...(dob ? { dob } : {}),
+          ...(gender ? { gender } : {}),
+          ...(postalCode ? { postalCode } : {}),
+          ...(state ? { state } : {}),
+          ...(street ? { street } : {}),
           extensionData: rest as Parameters<
             typeof events.identity
           >[0]["extensionData"],
