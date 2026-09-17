@@ -2,7 +2,7 @@ import { wrapSitecoreClient } from "@/lib/registry/with-sitecore";
 import {
   getGroomedVariantIds,
   personalizeLayout,
-} from "@sitecore-content-sdk/content/personalize";
+} from "@sitecore-content-sdk/nextjs";
 import { SitecoreClient } from "@sitecore-content-sdk/nextjs/client";
 import scConfig from "sitecore.config";
 
