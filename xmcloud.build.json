@@ -2,6 +2,11 @@
   "buildTargets": [
     "./authoring/platform/Platform.csproj"
   ],
+  "deployItems": {
+    "modules": [
+      "Project.prospera"
+    ]
+  },
   "transforms": [
     {
       "xdtPath": "/app_data/xdts/web.config.xdt",

@@ -1,0 +1,29 @@
+{
+  "$schema": "../../../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.prospera.media",
+  "description": "Project media library items. Kept out of IAR (deployItems) so blob YAML does not OOM the CM artifact upload. Use local ser pull/push; CreateOnly so existing CM media is not overwritten.",
+  "items": {
+    "includes": [
+      {
+        "name": "prospera.media.project",
+        "path": "/sitecore/media library/Project",
+        "allowedPushOperations": "CreateOnly",
+        "scope": "itemAndDescendants",
+        "rules": [
+          {
+            "path": "/starter-collection/prospera/System",
+            "scope": "ignored"
+          },
+          {
+            "path": "/starter-collection/starter/System",
+            "scope": "ignored"
+          },
+          {
+            "path": "/starter-collection/coreworks/System",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

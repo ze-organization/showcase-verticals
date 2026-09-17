@@ -1,7 +1,7 @@
 {
   "$schema": "../../../../.sitecore/schemas/ModuleFile.schema.json",
   "namespace": "Project.prospera",
-  "description": "All Prospera (starter / starter-collection) site and org serialized items — content, templates, branches, renderings, placeholders, settings, media, datasources.",
+  "description": "Prospera (starter / starter-collection) IAR items — content, templates, branches, renderings, placeholders, settings. Media is Project.prospera.media.",
   "items": {
     "includes": [
       {
@@ -45,26 +45,6 @@
         "path": "/sitecore/system/Settings/Project",
         "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "itemAndDescendants"
-      },
-      {
-        "name": "prospera.media.project",
-        "path": "/sitecore/media library/Project",
-        "allowedPushOperations": "CreateOnly",
-        "scope": "itemAndDescendants",
-        "rules": [
-          {
-            "path": "/starter-collection/prospera/System",
-            "scope": "ignored"
-          },
-          {
-            "path": "/starter-collection/starter/System",
-            "scope": "ignored"
-          },
-          {
-            "path": "/starter-collection/coreworks/System",
-            "scope": "ignored"
-          }
-        ]
       }
     ]
   }
