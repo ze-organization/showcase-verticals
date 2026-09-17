@@ -57,6 +57,11 @@ function readContextId(): string | undefined {
   return id.length > 0 ? id : undefined;
 }
 
+function isCdpDebugEnabled(): boolean {
+  const flag = (process.env.NEXT_PUBLIC_CDP_DEBUG ?? "").trim().toLowerCase();
+  return ["1", "true", "yes", "on"].includes(flag);
+}
+
 /**
  * Read browser-side context that every event should carry — the page
  * the visitor was on when the interaction happened, plus where they
@@ -215,6 +220,13 @@ export function trackCdpEvent(
   // conflict, so a component can always override.
   const autoMeta = autoEnrichBrowserContext();
   const enriched = { ...autoMeta, ...(meta ?? {}) };
+
+  // Opt-in payload dump so local verification does not require
+  // inspecting Edge network calls. Off unless NEXT_PUBLIC_CDP_DEBUG
+  // is a truthy string (`1` / `true` / `yes` / `on`).
+  if (isCdpDebugEnabled() && typeof console !== "undefined") {
+    console.log("[cdp:debug]", entry.type, enriched);
+  }
 
   // Fire-and-forget: init failures, ad-blockers, and network blips
   // must never break the UI interaction the event was tracking.

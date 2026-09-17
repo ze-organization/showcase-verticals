@@ -618,9 +618,10 @@ export const heroRecipe = {
   //                   composed in the slot (see `description`).
   variants: [{ name: "FullBleed" }, { name: "Placeholders" }],
 
-  // CTA-click events deferred until the anchor data-cdp-* tagging
-  // pass — semantic CTA distinction rides on those attrs, not on
-  // dedicated catalog entries.
+  // Soft-engagement surface for homepage A/B narratives. `view` still
+  // routes through pageView(); CTA / dwell / scroll-past are CUSTOM
+  // events so SitecoreAI can score them independently. All four are
+  // gated at runtime by the TrackEvents checkbox.
   events: [
     {
       name: "view",
@@ -632,6 +633,52 @@ export const heroRecipe = {
       emitsIdentity: false,
       emitsAffinity: false,
       cdpEventType: "VIEW",
+    },
+    {
+      name: "primary-cta-clicked",
+      type: "hero.primary-cta-clicked",
+      description:
+        "Fires on primary CTA click. Meta carries label, href, and heroVariant (recipe shell, not an XM experiment id).",
+      action: "engage",
+      intent: "consideration",
+      commitment: "engage",
+      emitsIdentity: false,
+      emitsAffinity: false,
+      cdpEventType: "CUSTOM",
+    },
+    {
+      name: "secondary-cta-clicked",
+      type: "hero.secondary-cta-clicked",
+      description:
+        "Fires on secondary CTA click. Meta carries label, href, and heroVariant.",
+      action: "engage",
+      intent: "consideration",
+      commitment: "engage",
+      emitsIdentity: false,
+      emitsAffinity: false,
+      cdpEventType: "CUSTOM",
+    },
+    {
+      name: "scroll-past",
+      type: "hero.scrolled-past",
+      description:
+        "Fires once when the hero leaves the viewport after having been ≥ 50% visible. Meta carries msToScroll from mount.",
+      action: "engage",
+      commitment: "browse",
+      emitsIdentity: false,
+      emitsAffinity: false,
+      cdpEventType: "CUSTOM",
+    },
+    {
+      name: "dwell",
+      type: "hero.dwelled",
+      description:
+        "Fires once after 5 continuous seconds at ≥ 50% visibility. Meta carries dwellMs.",
+      action: "engage",
+      commitment: "engage",
+      emitsIdentity: false,
+      emitsAffinity: false,
+      cdpEventType: "CUSTOM",
     },
   ],
 

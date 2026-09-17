@@ -40,8 +40,10 @@ export const homepageDemoRecipe = {
       imageSeed: "home-hero",
       imageAlt:
         "A couple reviewing household finances in a city apartment",
-      primary: { href: "/Get-Started", text: "Apply Now" },
+      primary: { href: "/Apply-Now", text: "Apply Now" },
       secondary: { href: "/Products", text: "Explore Personal" },
+      trackEvents: true,
+      instanceKey: "home-hero",
     }),
     featuresListGrid({
       slot: "Highlights",

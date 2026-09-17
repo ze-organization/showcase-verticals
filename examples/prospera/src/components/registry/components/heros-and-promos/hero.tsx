@@ -17,6 +17,7 @@ import {
   getSourceText,
   isEmptySource,
 } from "@/components/registry/primitives/editables/source-normalizers";
+import { useHeroEngagement } from "@/lib/registry/analytics/use-hero-engagement";
 import { useSectionAnalytics } from "@/lib/registry/analytics/use-section-analytics";
 import { cn } from "@/lib/registry/cn";
 import { resolveEditingMode } from "@/lib/registry/editing-mode";
@@ -72,10 +73,20 @@ export interface HeroAnalyticsMeta {
   instanceKey?: string;
   instanceScope?: "site" | "page";
   variant?: string;
+  /**
+   * Recipe shell (`FullBleed` / `Placeholders`), not an XM Cloud
+   * experiment bucket. Stamp `InstanceKey` per A/B variant in Pages
+   * to distinguish treatments in SitecoreAI.
+   */
+  heroVariant?: string;
   /** Anchor text at fire-time. Set on `*-cta-clicked`. */
   label?: string;
   /** Resolved href. Set on `*-cta-clicked`. */
   href?: string;
+  /** Set on `dwell`. Continuous in-viewport milliseconds. */
+  dwellMs?: number;
+  /** Set on `scroll-past`. Milliseconds from mount until the hero left view. */
+  msToScroll?: number;
 }
 
 function useHeroAnalytics({
@@ -87,19 +98,26 @@ function useHeroAnalytics({
   params: HeroBlockProps["params"];
   fields: HeroBlockProps["fields"];
 }) {
-  const { rootRef, onClickDelegate } = useSectionAnalytics<HeroAnalyticsMeta>({
-    family: "hero",
-    variant,
-    id: params?.RenderingIdentifier,
-    instanceKey: params?.InstanceKey || params?.RenderingIdentifier,
-    instanceScope: params?.InstanceScope as "site" | "page" | undefined,
-    titleSource: fields.title,
-    eventsEnabled: isEnabled(params?.TrackEvents),
-    isEditing: resolveEditingMode({ params }),
-    // CTA clicks deferred until the anchor data-cdp-* tagging pass —
-    // an empty ctas array short-circuits CTA fires while view tracking
-    // still routes through the SDK pageView().
-    ctas: [],
+  const isEditing = resolveEditingMode({ params });
+  const eventsEnabled = isEnabled(params?.TrackEvents);
+  const { rootRef, onClickDelegate, fire, meta } =
+    useSectionAnalytics<HeroAnalyticsMeta>({
+      family: "hero",
+      variant,
+      id: params?.RenderingIdentifier,
+      instanceKey: params?.InstanceKey || params?.RenderingIdentifier,
+      instanceScope: params?.InstanceScope as "site" | "page" | undefined,
+      titleSource: fields.title,
+      eventsEnabled,
+      isEditing,
+      extraMeta: { heroVariant: variant },
+      ctas: ["primary", "secondary"],
+    });
+  useHeroEngagement({
+    rootRef,
+    enabled: eventsEnabled && !isEditing,
+    onDwell: (dwellMs) => fire("dwell", { ...meta, dwellMs }),
+    onScrollPast: (msToScroll) => fire("scroll-past", { ...meta, msToScroll }),
   });
   return { rootRef, onClickDelegate };
 }

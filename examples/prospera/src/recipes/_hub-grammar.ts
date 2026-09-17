@@ -23,6 +23,10 @@ export function hubHero(options: {
   headingLayout?: "display" | "compact";
   /** Image family = FullBleed; Help compact intro = Placeholders. */
   variant?: "FullBleed" | "Placeholders";
+  /** Opt in to hero CDP view / CTA / dwell / scroll-past events. */
+  trackEvents?: boolean;
+  /** Stable analytics handle (e.g. `home-hero`). */
+  instanceKey?: string;
 }): HubPlacement {
   const fields: Record<string, unknown> = {
     Eyebrow: options.eyebrow,
@@ -43,6 +47,8 @@ export function hubHero(options: {
     Layout: "centered",
     PrimaryActionColorScheme: "primary",
   };
+  if (options.trackEvents) params.TrackEvents = "true";
+  if (options.instanceKey) params.InstanceKey = options.instanceKey;
   if (options.imageSeed) {
     params.OverlayStyle = "solid";
     params.OverlayColorScheme = "primary";

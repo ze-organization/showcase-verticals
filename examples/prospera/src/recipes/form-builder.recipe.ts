@@ -400,6 +400,16 @@ export const formBuilderRecipe = {
         sortOrder: 810,
       },
     },
+    {
+      name: "DemoFundedConfirmation",
+      shape: "boolean",
+      sitecore: {
+        type: "checkbox",
+        hint: "After a successful submit, show a demo 'account funded' confirmation and fire form-builder.account-funded. Off by default — only check this on /Apply-Now.",
+        section: "Analytics",
+        sortOrder: 820,
+      },
+    },
   ],
 
   datasource: {
@@ -495,6 +505,30 @@ export const formBuilderRecipe = {
       action: "abandon",
       intent: "decision",
       commitment: "provide-info",
+      emitsIdentity: false,
+      emitsAffinity: false,
+      cdpEventType: "CUSTOM",
+    },
+    {
+      name: "application-completed",
+      type: "form-builder.application-completed",
+      description:
+        "Fires after a successful submit. CUSTOM companion to form-submitted so extensionData (product) reaches SitecoreAI — FORM_SUBMITTED has no extension payload.",
+      action: "submit",
+      intent: "decision",
+      commitment: "commit",
+      emitsIdentity: false,
+      emitsAffinity: false,
+      cdpEventType: "CUSTOM",
+    },
+    {
+      name: "account-funded",
+      type: "form-builder.account-funded",
+      description:
+        "Demo-only. Fires after submit when DemoFundedConfirmation is on. Meta carries product + depositAmountUsd.",
+      action: "submit",
+      intent: "decision",
+      commitment: "pay",
       emitsIdentity: false,
       emitsAffinity: false,
       cdpEventType: "CUSTOM",

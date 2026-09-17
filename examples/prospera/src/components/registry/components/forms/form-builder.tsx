@@ -102,6 +102,10 @@ export interface FormBuilderAnalyticsMeta {
   /** Set on `identity`. Must include `{ id, provider: "email" }` so
    *  SitecoreAI identity rules (Identifier = email) can match. */
   identifiers?: Array<{ id: string; provider: string }>;
+  /** Selected product from the composed form (Apply Now `product` field). */
+  product?: string;
+  /** Set on `account-funded`. Demo opening-deposit amount in USD. */
+  depositAmountUsd?: number;
 }
 
 export type FormBuilderSubmissionPayload = Record<string, string | boolean>;
@@ -222,6 +226,12 @@ export interface FormBuilderProps extends CmsProps {
    * = financial.
    */
   cdpFormCommitment?: "provide-info" | "commit" | "pay";
+  /**
+   * After a successful submit, show a demo "account funded"
+   * confirmation and fire `account-funded`. Off by default — only
+   * the /Apply-Now placement should check this.
+   */
+  demoFundedConfirmation?: string | boolean;
   /**
    * Showcase / non-Sitecore escape hatch: when provided, the form renders
    * `children` inside the `<form>` instead of resolving a Sitecore
@@ -396,6 +406,7 @@ function isEnabled(value: string | boolean | TextSource | undefined): boolean {
 interface UseFormBuilderAnalyticsArgs {
   meta: FormBuilderAnalyticsMeta;
   eventsEnabled: boolean;
+  demoFundedConfirmation: boolean;
   isEditing?: boolean;
   rootRef: RefObject<HTMLElement | null>;
   onView?: (meta: FormBuilderAnalyticsMeta) => void;
@@ -404,11 +415,16 @@ interface UseFormBuilderAnalyticsArgs {
   onSubmitValidationFailed?: (meta: FormBuilderAnalyticsMeta) => void;
   onSubmitSuccess?: (meta: FormBuilderAnalyticsMeta) => void;
   onSubmitError?: (meta: FormBuilderAnalyticsMeta) => void;
+  onFunded?: (details: {
+    product?: string;
+    depositAmountUsd: number;
+  }) => void;
 }
 
 function useFormBuilderAnalytics({
   meta,
   eventsEnabled,
+  demoFundedConfirmation,
   isEditing,
   rootRef,
   onView,
@@ -417,6 +433,7 @@ function useFormBuilderAnalytics({
   onSubmitValidationFailed,
   onSubmitSuccess,
   onSubmitError,
+  onFunded,
 }: UseFormBuilderAnalyticsArgs) {
   const analytics =
     useComponentAnalytics<FormBuilderAnalyticsMeta>("form-builder");
@@ -501,21 +518,44 @@ function useFormBuilderAnalytics({
   const fireSuccess = useCallback(
     (payload: FormBuilderSubmissionPayload) => {
       if (onSubmitSuccess) onSubmitSuccess(meta);
+      const product = extractProductFromPayload(payload);
+      const withProduct = product ? { ...meta, product } : meta;
       if (eventsEnabled) {
         analytics.fire("form-submitted", {
-          ...meta,
+          ...withProduct,
           formId: `form-builder.${meta.instanceKey ?? meta.id ?? "default"}`,
         });
+        analytics.fire("application-completed", withProduct);
         const identity = extractIdentityFromPayload(payload);
         if (identity.email) {
           analytics.fire("identity", {
-            ...meta,
+            ...withProduct,
             ...identity,
           });
         }
+        if (demoFundedConfirmation) {
+          const depositAmountUsd = DEMO_DEPOSIT_USD;
+          analytics.fire("account-funded", {
+            ...withProduct,
+            depositAmountUsd,
+          });
+          onFunded?.({ product, depositAmountUsd });
+        }
+      } else if (demoFundedConfirmation) {
+        onFunded?.({
+          product,
+          depositAmountUsd: DEMO_DEPOSIT_USD,
+        });
       }
     },
-    [analytics, eventsEnabled, meta, onSubmitSuccess],
+    [
+      analytics,
+      eventsEnabled,
+      demoFundedConfirmation,
+      meta,
+      onSubmitSuccess,
+      onFunded,
+    ],
   );
 
   const fireError = useCallback(
@@ -598,6 +638,14 @@ const IDENTITY_PHONE_KEYS = new Set([
 const IDENTITY_FIRST_NAME_KEYS = new Set(["firstname", "givenname"]);
 const IDENTITY_LAST_NAME_KEYS = new Set(["lastname", "surname", "familyname"]);
 const IDENTITY_FULL_NAME_KEYS = new Set(["name", "legalname", "fullname"]);
+const PRODUCT_KEYS = new Set([
+  "product",
+  "productname",
+  "applyingfor",
+  "whatareyouapplyingfor",
+]);
+/** Fixed demo opening deposit — not a live banking amount. */
+const DEMO_DEPOSIT_USD = 2500;
 
 function identityKey(name: string): string {
   return name.toLowerCase().replace(/[\s_-]/g, "");
@@ -659,6 +707,12 @@ function extractIdentityFromPayload(payload: FormBuilderSubmissionPayload): {
     ...(lastName ? { lastName } : {}),
     identifiers: email ? [{ id: email, provider: "email" }] : [],
   };
+}
+
+function extractProductFromPayload(
+  payload: FormBuilderSubmissionPayload,
+): string | undefined {
+  return stringPayloadValue(payload, PRODUCT_KEYS);
 }
 
 /**
@@ -984,9 +1038,11 @@ function FormFieldsRegion({
 function FormSuccessCard({
   successText,
   onReset,
+  funded,
 }: {
   successText: string;
   onReset: () => void;
+  funded?: { product?: string; depositAmountUsd: number };
 }) {
   return (
     <output
@@ -997,6 +1053,20 @@ function FormSuccessCard({
         <LibraryIcon name="check" className="size-6" aria-hidden />
       </div>
       <p className="font-medium text-base">{successText}</p>
+      {funded ? (
+        <div className="max-w-md text-muted-foreground text-sm">
+          <p className="font-medium text-foreground">
+            Account funded with $
+            {funded.depositAmountUsd.toLocaleString("en-US")}
+          </p>
+          {funded.product ? (
+            <p className="mt-1">Opening product: {funded.product}.</p>
+          ) : null}
+          <p className="mt-1">
+            This is a demonstration confirmation, not a live deposit.
+          </p>
+        </div>
+      ) : null}
       <button
         type="button"
         onClick={onReset}
@@ -1117,6 +1187,7 @@ export function Default({
   trackEvents,
   cdpFormIntent = "decision",
   cdpFormCommitment = "provide-info",
+  demoFundedConfirmation,
   children,
   styles,
   id,
@@ -1159,6 +1230,11 @@ export function Default({
   const rootRef = useRef<HTMLElement | null>(null);
 
   const eventsEnabled = isEnabled(trackEvents);
+  const fundedDemoEnabled = isEnabled(demoFundedConfirmation);
+  const [fundedDemo, setFundedDemo] = useState<{
+    product?: string;
+    depositAmountUsd: number;
+  } | null>(null);
   // SectionWrapper handles the empty-heading branch internally
   // (renders nothing when both title + lead are blank), so the
   // explicit `hasTitle` / `hasDescription` gates are gone.
@@ -1216,6 +1292,7 @@ export function Default({
   } = useFormBuilderAnalytics({
     meta,
     eventsEnabled,
+    demoFundedConfirmation: fundedDemoEnabled,
     isEditing,
     rootRef,
     onView,
@@ -1224,6 +1301,7 @@ export function Default({
     onSubmitValidationFailed,
     onSubmitSuccess,
     onSubmitError,
+    onFunded: setFundedDemo,
   });
 
   const handleFieldFocus = useCallback(
@@ -1294,8 +1372,10 @@ export function Default({
     return (
       <FormSuccessCard
         successText={successText}
+        funded={fundedDemo ?? undefined}
         onReset={() => {
           setSubmitState("idle");
+          setFundedDemo(null);
           setStatusMessage("Fill out the form to submit.");
         }}
       />
