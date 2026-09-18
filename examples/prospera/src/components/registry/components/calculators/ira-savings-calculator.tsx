@@ -59,7 +59,7 @@ export function IraSavingsCalculator() {
               <p className="mt-1 text-sm text-slate-500">Adjust the numbers to fit your plan.</p>
             </div>
             <div className="hidden rounded-2xl bg-slate-100 p-3 text-slate-700 sm:block">
-              <TrendingUp className="size-5" aria-hidden="true" />
+              <TrendingUp className="size-5" aria-hidden="true" /> 
             </div>
           </div>
 
