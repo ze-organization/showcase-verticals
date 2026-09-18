@@ -61,7 +61,7 @@ export function IraSavingsCalculator() {
             <div className="hidden rounded-2xl bg-slate-100 p-3 text-slate-700 sm:block">
               <TrendingUp className="size-5" aria-hidden="true" /> 
             </div>
-          </div>
+          </div> 
 
           <div className="grid gap-6 sm:grid-cols-2">
             <label className="flex flex-col gap-2">
