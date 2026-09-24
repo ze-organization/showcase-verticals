@@ -3,6 +3,7 @@ import { CdpHelper, useSitecore } from '@sitecore-content-sdk/nextjs';
 import { useEffect, JSX } from 'react';
 import { pageView } from '@sitecore-content-sdk/events';
 import config from 'sitecore.config';
+import { whenCdpSdkReady } from 'src/lib/registry/analytics/cdp-provider';
 
 /**
  * This is the CDP page view component.
@@ -43,14 +44,24 @@ const CdpPageView = (): JSX.Element => {
       context.variantId as string,
       scope
     );
-    // there can be cases where Events are not initialized which are expected to reject
-    pageView({
-      channel: 'WEB',
-      currency: 'USD',
-      page: route.name,
-      pageVariantId,
-      language,
-    }).catch((e) => console.debug(e));
+    let cancelled = false;
+    // Wait until Bootstrap's single init has written the visitor cookie.
+    // pageView() before that throws, or sends an empty browser_id.
+    whenCdpSdkReady()
+      .then((ready) => {
+        if (!ready || cancelled) return;
+        return pageView({
+          channel: 'WEB',
+          currency: 'USD',
+          page: route.name,
+          pageVariantId,
+          language,
+        });
+      })
+      .catch((e) => console.debug(e));
+    return () => {
+      cancelled = true;
+    };
   }, [mode, route, context.variantId, siteName]);
 
   return <></>;

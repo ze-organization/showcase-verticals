@@ -51,6 +51,23 @@ let initPromise: Promise<boolean> | null = null;
 let registeredSiteName: string | undefined;
 
 /**
+ * Resolved by Bootstrap after its single `initContentSdk` call.
+ * A second init replaces the SDK context and events then go out with
+ * an empty `browser_id`, which Edge rejects.
+ */
+let hostSdkReady: Promise<boolean> | null = null;
+let resolveHostSdk: ((ready: boolean) => void) | null = null;
+
+function hostSdkPromise(): Promise<boolean> {
+  if (!hostSdkReady) {
+    hostSdkReady = new Promise((resolve) => {
+      resolveHostSdk = resolve;
+    });
+  }
+  return hostSdkReady;
+}
+
+/**
  * Remember the site Bootstrap is initializing the SDK with. Called
  * during render, before child effects fire events, so a first-track
  * init uses the same site name as the page view.
@@ -58,6 +75,22 @@ let registeredSiteName: string | undefined;
 export function registerCdpSiteName(siteName: string | undefined): void {
   const trimmed = siteName?.trim();
   if (trimmed) registeredSiteName = trimmed;
+}
+
+/**
+ * Bootstrap finished (or skipped) SDK init. Component events and page
+ * views wait on this so they share that one initialized client.
+ */
+export function markCdpSdkReady(ready: boolean): void {
+  hostSdkPromise();
+  resolveHostSdk?.(ready);
+  resolveHostSdk = null;
+}
+
+/** Resolves once the host SDK init has settled. False when init was skipped. */
+export function whenCdpSdkReady(): Promise<boolean> {
+  if (registeredSiteName) return hostSdkPromise();
+  return ensureSdkInitialized();
 }
 
 /**
@@ -134,6 +167,13 @@ async function ensureSdkInitialized(): Promise<boolean> {
   if (initPromise) return initPromise;
   if (typeof window === "undefined") {
     initPromise = Promise.resolve(false);
+    return initPromise;
+  }
+  // Bootstrap owns init in this head app. A second initContentSdk
+  // replaces the context, and events sent through the replacement
+  // leave with an empty browser_id (Edge 400).
+  if (registeredSiteName) {
+    initPromise = hostSdkPromise();
     return initPromise;
   }
   const contextId = readContextId();
