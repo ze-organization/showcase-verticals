@@ -44,6 +44,38 @@ export type CdpTrack = (
 let initPromise: Promise<boolean> | null = null;
 
 /**
+ * Site for this visit, registered by `Bootstrap` from the `[site]`
+ * route param. That is the site the request actually resolved to, so a
+ * differently named site in another environment is used as-is.
+ */
+let registeredSiteName: string | undefined;
+
+/**
+ * Remember the site Bootstrap is initializing the SDK with. Called
+ * during render, before child effects fire events, so a first-track
+ * init uses the same site name as the page view.
+ */
+export function registerCdpSiteName(siteName: string | undefined): void {
+  const trimmed = siteName?.trim();
+  if (trimmed) registeredSiteName = trimmed;
+}
+
+/**
+ * Site id sent on every Edge event (`?siteId=`). Prefer the route site,
+ * then an explicit env override, then the deployment's default site.
+ * Never invent a name — a hardcoded fallback opens a second session
+ * under a site this environment does not have.
+ */
+function readSiteName(): string | undefined {
+  const fromRoute = registeredSiteName?.trim();
+  if (fromRoute) return fromRoute;
+  const fromEnv = (process.env.NEXT_PUBLIC_SITECORE_SITE_NAME ?? "").trim();
+  if (fromEnv) return fromEnv;
+  const fromDefault = (process.env.NEXT_PUBLIC_DEFAULT_SITE_NAME ?? "").trim();
+  return fromDefault.length > 0 ? fromDefault : undefined;
+}
+
+/**
  * Resolve the Sitecore context id. Reads the same env vars the rest of
  * the build chain uses (see `src/lib/registry/generate-enum-manifest.mjs`)
  * — the prefixed `NEXT_PUBLIC_` form is the canonical client-side name.
@@ -105,9 +137,9 @@ async function ensureSdkInitialized(): Promise<boolean> {
     return initPromise;
   }
   const contextId = readContextId();
-  if (!contextId) {
-    initPromise = Promise.resolve(false);
-    return initPromise;
+  const siteName = readSiteName();
+  if (!contextId || !siteName) {
+    return false;
   }
   initPromise = (async () => {
     try {
@@ -129,8 +161,7 @@ async function ensureSdkInitialized(): Promise<boolean> {
       await initContentSdk({
         config: {
           contextId,
-          siteName:
-            process.env.NEXT_PUBLIC_SITECORE_SITE_NAME ?? "sitecoreai-showcase",
+          siteName,
         },
         plugins: [
           analyticsPlugin({

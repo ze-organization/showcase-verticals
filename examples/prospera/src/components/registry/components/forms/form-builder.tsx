@@ -1229,7 +1229,14 @@ export function Default({
   );
   const rootRef = useRef<HTMLElement | null>(null);
 
-  const eventsEnabled = isEnabled(trackEvents);
+  // Recipe default is on. Sitecore omits TrackEvents when the parameter
+  // was never saved (Contact), so a missing value tracks. An explicit
+  // "0" or "false" still turns it off.
+  const eventsEnabled =
+    trackEvents == null ||
+    (typeof trackEvents === "string" && trackEvents.trim() === "")
+      ? true
+      : isEnabled(trackEvents);
   const fundedDemoEnabled = isEnabled(demoFundedConfirmation);
   const [fundedDemo, setFundedDemo] = useState<{
     product?: string;
